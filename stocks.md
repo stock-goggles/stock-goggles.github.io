@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Stocks"
+datatable: true
 ---
 
 <div class="datatable-begin"></div>

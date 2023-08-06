@@ -5,6 +5,7 @@ datatable: true
 ---
 
 <div class="datatable-begin"></div>
+
 Stock | Rank | RankValue | RankQuality | RankMomentum | RankLowVolatility
 ----- | ---- | --------- | ----------- | ------------ | -----------------
 XOM | 1 | 3 | 18 | 1 | 3

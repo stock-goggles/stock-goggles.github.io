@@ -1,3 +1,9 @@
+layout: page
+title: "Stocks"
+---
+
+# Not so stocks
+
 AssetExposure | NumQuality | NumValue | NumMomentum | NumLowVolatility | NumSmallCap | NumLargeCap | RankQuality | RankValue | RankMomentum | RankLowVolatility
 ------------- | ---------- | -------- | ----------- | ---------------- | ----------- | ----------- | ----------- | --------- | ------------ | -----------------
 XOM | 13 | 28 | 9 | 10 | 0 | 20 | 3 | 14 | 1 | 2

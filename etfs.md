@@ -27,7 +27,12 @@ XSVM  |  Invesco S&P SmallCap Value with Momentum ETF  |    |  yes  |  yes  |
 DVOL  |  First Trust Dorsey Wright Momentum & Low Volatility ETF  |    |    |  yes  |  yes
 QLC  |  FlexShares US Quality Large Cap Index Fund  |  yes  |    |    |  
 DIHP  |  Dimensional International High Profitability ETF  |  yes  |    |    |  
+GOAT  |  VanEck Vectors Morningstar Global Wide Moat ETF  |  yes  |    |    |  
 IQDG  |  WisdomTree International Quality Dividend Growth Fund  |  yes  |    |    |  
+MOAT  |  VanEck Morningstar Wide Moat ETF  |  yes  |    |    |  
+MOTE  |  VanEck Morningstar ESG Moat ETF  |  yes  |    |    |  
+MOTG  |  VanEck Morningstar Global Wide Moat ETF  |  yes  |    |    |  
+MOTI  |  VanEck Morningstar International Moat ETF  |  yes  |    |    |  
 OEUR  |  ALPS O'Shares Europe Quality Dividend ETF Shares  |  yes  |    |    |  
 OQAL  |  Invesco Russell 1000 Quality Factor ETF  |  yes  |    |    |  
 OUSA  |  ALPS O'Shares U.S. Quality Dividend ETF Shares  |  yes  |    |    |  
@@ -36,6 +41,7 @@ QCON  |  American Century Quality Convertible Securities ETF  |  yes  |    |    
 QPFF  |  American Century Quality Preferred ETF  |  yes  |    |    |  
 QUAL  |  iShares MSCI USA Quality Factor ETF  |  yes  |    |    |  
 SEIQ  |  SEI Large Cap Quality Factor ETF  |  yes  |    |    |  
+SMOT  |  VanEck Morningstar SMID Moat ETF  |  yes  |    |    |  
 TTAC  |  FCF US Quality ETF  |  yes  |    |    |  
 TTAI  |  FCF International Quality ETF  |  yes  |    |    |  
 VFQY  |  Vanguard U.S. Quality Factor ETF  |  yes  |    |    |  
@@ -48,6 +54,7 @@ DNL  |  WisdomTree Global ex-U.S. Quality Dividend Growth Fund  |  yes  |    |  
 QDF  |  FlexShares Quality Dividend Index Fund  |  yes  |    |    |  
 QMJ  |  Direxion S&P 500 High minus Low Quality ETF  |  yes  |    |    |  
 QSY  |  WisdomTree U.S. Quality Shareholder Yield Fund  |  yes  |    |    |  
+WMW  |  ELEMENTS Linked to the Morningstar Wide Moat Focus Total Return Index  |  yes  |    |    |  
 AQGX  |  AI Quality Growth ETF  |  yes  |    |    |  
 DEHP  |  Dimensional Emerging Markets High Profitability ETF  |  yes  |    |    |  
 DUHP  |  Dimensional US High Profitability ETF  |  yes  |    |    |  
@@ -80,7 +87,9 @@ FLV  |  American Century Focused Large Cap Value ETF  |    |  yes  |    |
 CALF  |  Pacer US Small Cap Cash Cows 100 ETF  |    |  yes  |    |  
 CFCV  |  Clearbridge Focus Value ESG ETF  |    |  yes  |    |  
 COWZ  |  Pacer US Cash Cows 100 ETF  |    |  yes  |    |  
+DFIC  |  Dimensional International Core Equity 2 ETF  |    |  yes  |    |  
 DISV  |  Dimensional International Small Cap Value ETF  |    |  yes  |    |  
+EMZA  |  Emerge EMPWR Sustainable Global Core Equity ETF  |    |  yes  |    |  
 FBCV  |  Fidelity Blue Chip Value ETF  |    |  yes  |    |  
 FTVA  |  Aptus Fortified Value ETF  |    |  yes  |    |  
 GCOW  |  Pacer Global Cash Cows Dividend ETF  |    |  yes  |    |  
@@ -138,6 +147,7 @@ PWV  |  Invesco Dynamic Large Cap Value ETF  |    |  yes  |    |
 RFV  |  Invesco S&P MidCap 400 Pure Value ETF  |    |  yes  |    |  
 RPV  |  Invesco S&P 500 Pure Value ETF  |    |  yes  |    |  
 RZV  |  Invesco S&P SmallCap 600 Pure Value ETF  |    |  yes  |    |  
+SYE  |  SPDR MFS Systematic Core Equity ETF  |    |  yes  |    |  
 SYV  |  SPDR MFS Systematic Value Equity ETF  |    |  yes  |    |  
 VBR  |  Vanguard Small Cap Value Index Fund  |    |  yes  |    |  
 VLU  |  SPDR S&P 1500 Value Tilt ETF  |    |  yes  |    |  
@@ -153,6 +163,9 @@ AVES  |  Avantis Emerging Markets Value ETF  |    |  yes  |    |
 AVIV  |  Avantis International Large Cap Value ETF  |    |  yes  |    |  
 AVLV  |  Avantis U.S. Large Cap Value ETF  |    |  yes  |    |  
 AVUV  |  Avantis U.S. Small Cap Value ETF  |    |  yes  |    |  
+BKLC  |  BNY Mellon US Large Cap Core Equity ETF  |    |  yes  |    |  
+BKMC  |  BNY Mellon US Mid Cap Core Equity ETF  |    |  yes  |    |  
+BKSE  |  BNY Mellon US Small Cap Core Equity ETF  |    |  yes  |    |  
 BLCV  |  BlackRock ETF Trust - BlackRock Large Cap Value ETF  |    |  yes  |    |  
 BVAL  |  Brand Value ETF  |    |  yes  |    |  
 CAMX  |  Cambiar Aggressive Value ETF  |    |  yes  |    |  
@@ -160,7 +173,13 @@ CGDV  |  Capital Group Dividend Value ETF  |    |  yes  |    |
 CHEP  |  AGFiQ U.S. Market Neutral Value Fund  |    |  yes  |    |  
 DBLV  |  AdvisorShares DoubleLine Value Equity ETF  |    |  yes  |    |  
 DEEP  |  Roundhill Acquirers Deep Value ETF  |    |  yes  |    |  
+DFAC  |  Dimensional U.S. Core Equity 2 ETF  |    |  yes  |    |  
+DFAE  |  Dimensional Emerging Core Equity Market ETF  |    |  yes  |    |  
+DFAI  |  Dimensional International Core Equity Market ETF  |    |  yes  |    |  
 DFAT  |  Dimensional U.S. Targeted Value ETF  |    |  yes  |    |  
+DFAU  |  Dimensional US Core Equity Market ETF  |    |  yes  |    |  
+DFAX  |  Dimensional World ex U.S. Core Equity 2 ETF  |    |  yes  |    |  
+DFEM  |  Dimensional Emerging Markets Core Equity 2 ETF  |    |  yes  |    |  
 DFEV  |  Dimensional Emerging Markets Value ETF  |    |  yes  |    |  
 DFIV  |  Dimensional International Value ETF  |    |  yes  |    |  
 DFSV  |  Dimensional US Small Cap Value ETF  |    |  yes  |    |  
@@ -170,6 +189,7 @@ DSTL  |  Distillate U.S. Fundamental Stability & Value ETF  |    |  yes  |    |
 DSTX  |  Distillate International Fundamental Stability & Value ETF  |    |  yes  |    |  
 ECML  |  EA Series Trust - Euclidean Fundamental Value ETF  |    |  yes  |    |  
 EEMD  |  AAM S&P Emerging Markets High Dividend Value ETF  |    |  yes  |    |  
+EQTY  |  Kovitz Core Equity ETF  |    |  yes  |    |  
 FIVA  |  Fidelity International Value Factor ETF  |    |  yes  |    |  
 FOVL  |  iShares Focused Value Factor ETF  |    |  yes  |    |  
 FVAL  |  Fidelity Value Factor ETF  |    |  yes  |    |  
@@ -187,18 +207,23 @@ JAVA  |  JPMorgan Active Value ETF  |    |  yes  |    |
 JPSV  |  Jpmorgan Active Small Cap Value ETF  |    |  yes  |    |  
 JVAL  |  JPMorgan U.S. Value Factor ETF  |    |  yes  |    |  
 KVLE  |  KFA Value Line Dynamic Core Equity Index ETF  |    |  yes  |    |  
+LSAF  |  LeaderSharesTM AlphaFactor US Core Equity ETF  |    |  yes  |    |  
 MDYV  |  SPDR S&P 400 Mid Cap Value ETF  |    |  yes  |    |  
+MXDE  |  Nationwide Maximum Diversification Emerging Markets Core Equity ETF  |    |  yes  |    |  
+MXDU  |  Nationwide Maximum Diversification U.S. Core Equity ETF  |    |  yes  |    |  
 PQSV  |  PGIM ETF Trust - PGIM QMA Strategic Alpha Small-Cap Value ETF  |    |  yes  |    |  
 PVAL  |  Putnam Focused Large Cap Value ETF  |    |  yes  |    |  
 REVS  |  Columbia Research Enhanced Value ETF  |    |  yes  |    |  
 RWGV  |  Direxion Russell 1000 Growth Over Value ETF  |    |  yes  |    |  
 RWVG  |  Direxion Russell 1000 Value Over Growth ETF  |    |  yes  |    |  
 SCHV  |  Schwab U.S. Large-Cap Value ETF  |    |  yes  |    |  
+SGLC  |  Rbb Fund Inc. - Sgi U.S Large Cap Core Equity Fund  |    |  yes  |    |  
 SLYV  |  SPDR S&P 600 Small Cap Value ETF  |    |  yes  |    |  
 SPDV  |  AAM S&P 500 High Dividend Value ETF  |    |  yes  |    |  
 SPVU  |  Invesco S&P 500 Enhanced Value ETF  |    |  yes  |    |  
 SPYV  |  SPDR Portfolio S&P 500 Value ETF  |    |  yes  |    |  
 TVAL  |  T. Rowe Price Exchange-Traded Funds, Inc. - T. Rowe Price Value ETF  |    |  yes  |    |  
+UGCE  |  Uncommon Portfolio Design Core Equity ETF  |    |  yes  |    |  
 UVDV  |  UVA Dividend Value ETF  |    |  yes  |    |  
 VIOV  |  Vanguard S&P Small-Cap 600 Value Index Fund  |    |  yes  |    |  
 VOOV  |  Vanguard S&P 500 Value Index Fund  |    |  yes  |    |  
@@ -276,10 +301,13 @@ EELV  |  Invesco S&P Emerging Markets Low Volatility ETF  |    |    |    |  yes
 EUMV  |  iShares Edge MSCI Min Vol Europe ETF  |    |    |    |  yes
 FDLO  |  Fidelity Low Volatility Factor ETF  |    |    |    |  yes
 FLLV  |  Franklin U.S. Low Volatility ETF  |    |    |    |  yes
+HDLB  |  ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN Series B  |    |    |    |  yes
+HDLV  |  UBS ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN  |    |    |    |  yes
 IDLV  |  Invesco S&P International Developed Low Volatility ETF  |    |    |    |  yes
 JMIN  |  JPMorgan U.S. Minimum Volatility ETF  |    |    |    |  yes
 JPMV  |  iShares Edge MSCI Min Vol Japan ETF  |    |    |    |  yes
 LGLV  |  SPDR SSGA US Large Cap Low Volatility Index ETF  |    |    |    |  yes
+LOWV  |  AB Active ETFs, Inc. AB US Low   |    |    |    |  yes
 LVOL  |  American Century Low Volatility ETF  |    |    |    |  yes
 MVIN  |  Natixis Seeyond International Minimum Volatility ETF  |    |    |    |  yes
 ONEV  |  SPDR Russell 1000 Low Volatility Focus ETF  |    |    |    |  yes
@@ -302,7 +330,6 @@ FDG  |  American Century Focused Dynamic Growth ETF  |    |    |    |
 FUT  |  ProShares Managed Futures Strategy ETF  |    |    |    |  
 GAA  |  Cambria Global Asset Allocation ETF  |    |    |    |  
 GDE  |  WisdomTree Efficient Gold Plus Equity Strategy Fund  |    |    |    |  
-GVI  |  iShares Intermediate Government/Credit Bond ETF  |    |    |    |  
 ICF  |  iShares Cohen & Steers REIT ETF  |    |    |    |  
 IDV  |  iShares International Select Dividend ETF  |    |    |    |  
 IEO  |  iShares U.S. Oil & Gas Exploration & Production ETF  |    |    |    |  
@@ -319,7 +346,6 @@ KNG  |  FT Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF  |    |    |
 KWT  |  iShares MSCI Kuwait ETF  |    |    |    |  
 LCF  |  Touchstone US Large Cap Focused ETF  |    |    |    |  
 LIV  |  Emles @Home ETF  |    |    |    |  
-MIG  |  VanEck Moody's Analytics IG Corporate Bond ETF  |    |    |    |  
 MLN  |  VanEck Long Muni ETF  |    |    |    |  
 PEX  |  ProShares Global Listed Private Equity ETF  |    |    |    |  
 PIT  |  VanEck Commodity Strategy ETF  |    |    |    |  
@@ -332,7 +358,6 @@ SMB  |  VanEck Short Muni ETF  |    |    |    |
 SMI  |  VanEck HIP Sustainable Muni ETF  |    |    |    |  
 TDV  |  ProShares S&P Technology Dividend Aristocrats ETF  |    |    |    |  
 THY  |  Toews Agility Shares Dynamic Tactical Income ETF  |    |    |    |  
-TYA  |  Simplify Risk Parity Treasury ETF  |    |    |    |  
 VNM  |  VanEck Vietnam ETF  |    |    |    |  
 VQT  |  Barclays ETN+ S&P VEQTOR ETN  |    |    |    |  
 VXX  |  iPath Series B S&P 500 VIX Short-Term Futures ETN  |    |    |    |  
@@ -370,7 +395,6 @@ BBEU  |  JPMorgan BetaBuilders Europe ETF  |    |    |    |
 BBIN  |  JPMorgan BetaBuilders International Equity ETF  |    |    |    |  
 BBJP  |  JPMorgan BetaBuilders Japan ETF  |    |    |    |  
 BBRE  |  JPMorgan BetaBuilders MSCI U.S. REIT ETF  |    |    |    |  
-BBSA  |  JPMorgan BetaBuilders 1-5 Year U.S. Aggregate Bond ETF  |    |    |    |  
 BBUS  |  JPMorgan BetaBuilders U.S. Equity ETF  |    |    |    |  
 BDEC  |  Innovator S&P 500 Buffer ETF - December  |    |    |    |  
 BERN  |  Bernstein U.S. Research Fund  |    |    |    |  
@@ -391,7 +415,6 @@ BOXX  |  Alpha Architect 1-3 Month Box ETF  |    |    |    |
 BRGL  |  Bernstein Global Research Fund  |    |    |    |  
 BRLN  |  BlackRock Floating Rate Loan ETF  |    |    |    |  
 BSEP  |  Innovator S&P 500 Buffer ETF - September  |    |    |    |  
-BTYS  |  iPath Series B US Treasury 10-year Bear ETN  |    |    |    |  
 BUFB  |  Innovator Laddered Allocation Buffer ETF  |    |    |    |  
 BUFD  |  FT Cboe Vest Fund of Deep Buffer ETFs  |    |    |    |  
 BUFF  |  Innovator Laddered Allocation Power Buffer ETF  |    |    |    |  
@@ -403,7 +426,6 @@ BUYW  |  Main Buywrite ETF  |    |    |    |
 BUYZ  |  Franklin Disruptive Commerce ETF  |    |    |    |  
 CBTG  |  Cabot Growth ETF  |    |    |    |  
 CEFS  |  Saba Closed-End Funds ETF  |    |    |    |  
-CEMB  |  iShares J.P. Morgan EM Corporate Bond ETF  |    |    |    |  
 CLSE  |  Convergence Long/Short Equity ETF  |    |    |    |  
 CNDF  |  iShares Edge MSCI Mltfct Cnsmr Discr ETF  |    |    |    |  
 CNSF  |  iShares Edge MSCI Mltfct Cnsmr Stpls ETF  |    |    |    |  
@@ -428,14 +450,11 @@ DEMS  |  Democratic Policies Fund  |    |    |    |
 DEWJ  |  iShares Adaptive Currency Hedged MSCI Japan ETF  |    |    |    |  
 DEZU  |  iShares Adaptive Currency Hedged MSCI Eurozone ETF  |    |    |    |  
 DFEB  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - February  |    |    |    |  
-DFIC  |  Dimensional International Core Equity 2 ETF  |    |    |    |  
 DFIS  |  Dimensional International Small Cap ETF  |    |    |    |  
 DFND  |  Siren DIVCON Dividend Defender ETF  |    |    |    |  
 DFNL  |  Davis Select Financial ETF  |    |    |    |  
 DFNV  |  Donoghue Forlines Risk Managed Innovation ETF  |    |    |    |  
 DFRA  |  Donoghue Forlines Yield Enhanced Real Asset ETF  |    |    |    |  
-DFVL  |  iPath US Treasury 5-year Bull ETN  |    |    |    |  
-DFVS  |  iPath US Treasury 5-year Bear ETN  |    |    |    |  
 DHDG  |  WisdomTree International ESG Fund  |    |    |    |  
 DINT  |  Davis Select International ETF  |    |    |    |  
 DIVB  |  iShares U.S. Dividend and Buyback ETF  |    |    |    |  
@@ -443,7 +462,6 @@ DJAN  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - January  |    |    |    |
 DJUL  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - July  |    |    |    |  
 DJUN  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - June  |    |    |    |  
 DKRB  |  Subversive Decarbonization ETF  |    |    |    |  
-DLBS  |  iPath US Treasury Long Bond Bear ETN  |    |    |    |  
 DMAR  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - March  |    |    |    |  
 DMAY  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - May  |    |    |    |  
 DNOV  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - November  |    |    |    |  
@@ -452,10 +470,6 @@ DRSK  |  Aptus Defined Risk ETF  |    |    |    |
 DSEP  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - September  |    |    |    |  
 DSJA  |  Innovator Double Stacker ETF - January  |    |    |    |  
 DSOC  |  Innovator Double Stacker ETF – October  |    |    |    |  
-DTUL  |  iPath US Treasury 2-year Bull ETN  |    |    |    |  
-DTUS  |  iPath US Treasury 2-year Bear ETN  |    |    |    |  
-DTYL  |  iPath US Treasury 10-year Bull ETN  |    |    |    |  
-DTYS  |  iPath US Treasury 10-year Bear ETN  |    |    |    |  
 DURA  |  VanEck Morningstar Durable Dividend ETF  |    |    |    |  
 DUSA  |  Davis Select U.S. Equity ETF  |    |    |    |  
 DVEM  |  WisdomTree Emerging Markets ESG Fund  |    |    |    |  
@@ -476,8 +490,6 @@ EMCH  |  Emerge EMPWR Sustainable Emerging Markets Equity ETF  |    |    |    |
 EMDV  |  ProShares MSCI Emerging Markets Dividend Growers ETF  |    |    |    |  
 EMGC  |  Emerge EMPWR Sustainable Select Growth Equity ETF  |    |    |    |  
 EMGF  |  iShares MSCI Emerging Markets Multifactor ETF  |    |    |    |  
-EMSH  |  ProShares Short Term USD Emerging Markets Bond ETF  |    |    |    |  
-EMZA  |  Emerge EMPWR Sustainable Global Core Equity ETF  |    |    |    |  
 ENAV  |  Collaborative Investment Series Trust - Mohr Sector Navigator ETF  |    |    |    |  
 ENOR  |  iShares MSCI Norway ETF  |    |    |    |  
 EOPS  |  Emles Alpha Opportunities ETF  |    |    |    |  
@@ -521,11 +533,8 @@ FGRO  |  Fidelity Growth Opportunities ETF  |    |    |    |
 FJAN  |  FT Cboe Vest U.S. Equity Buffer ETF - January  |    |    |    |  
 FJUL  |  FT Cboe Vest U.S. Equity Buffer ETF - July  |    |    |    |  
 FJUN  |  FT Cboe Vest U.S. Equity Buffer ETF - June  |    |    |    |  
-FLAT  |  iPath US Treasury Flattener ETN  |    |    |    |  
 FLBL  |  Franklin Senior Loan ETF  |    |    |    |  
 FLDR  |  Fidelity Low Duration Bond Factor ETF  |    |    |    |  
-FLIA  |  Franklin International Aggregate Bond ETF  |    |    |    |  
-FLOT  |  iShares Floating Rate Bond ETF  |    |    |    |  
 FLQL  |  Franklin U.S. Large Cap Multifactor Index ETF  |    |    |    |  
 FLQM  |  Franklin U.S. Mid Cap Multifactor Index ETF  |    |    |    |  
 FLQS  |  Franklin U.S. Small Cap Multifactor Index ETF  |    |    |    |  
@@ -549,21 +558,14 @@ FYLD  |  Cambria Foreign Shareholder Yield ETF  |    |    |    |
 GARD  |  Reality Shares Divcon Dividend Guard ETF  |    |    |    |  
 GCLN  |  Goldman Sachs Bloomberg Clean Energy Equity ETF  |    |    |    |  
 GDMN  |  WisdomTree Efficient Gold Plus Gold Miners Strategy Fund  |    |    |    |  
-GEMD  |  Goldman Sachs Access Emerging Markets USD Bond ETF  |    |    |    |  
 GHTA  |  Goose Hollow Tactical Allocation ETF  |    |    |    |  
-GLDB  |  Strategy Shares Gold-Hedged Bond ETF  |    |    |    |  
-GOAT  |  VanEck Vectors Morningstar Global Wide Moat ETF  |    |    |    |  
-GOVZ  |  iShares 25+ Year Treasury STRIPS Bond ETF  |    |    |    |  
 GPAL  |  Goldman Sachs ActiveBeta Paris-Aligned U.S. Large Cap Equity ETF  |    |    |    |  
 GRMY  |  Xtrackers Germany Equity ETF  |    |    |    |  
 GSEE  |  Goldman Sachs MarketBeta Emerging Markets Equity ETF  |    |    |    |  
 GSEW  |  Goldman Sachs Equal Weight U.S. Large Cap Equity ETF  |    |    |    |  
 GSID  |  Goldman Sachs MarketBeta International Equity ETF  |    |    |    |  
-GSST  |  Goldman Sachs Access Ultra Short Bond ETF  |    |    |    |  
 GSUS  |  Goldman Sachs MarketBeta US Equity ETF  |    |    |    |  
-GTIP  |  Goldman Sachs Access Inflation Protected USD Bond ETF  |    |    |    |  
 HAUS  |  Home Appreciation U.S. REIT ETF  |    |    |    |  
-HCRB  |  Hartford Core Bond ETF  |    |    |    |  
 HCRF  |  iShares Edge MSCI Multifactor HlthC ETF  |    |    |    |  
 HEEM  |  iShares Currency Hedged MSCI Emerging Markets ETF  |    |    |    |  
 HEET  |  Hartford Schroders ESG US Equity ETF  |    |    |    |  
@@ -579,17 +581,8 @@ HSUN  |  Hartford Sustainable Income ETF  |    |    |    |
 HYBL  |  SPDR Blackstone High Income ETF  |    |    |    |  
 HYIH  |  Xtrackers Bloomberg Barclays US Investment Grade Corporate ESG ETF  |    |    |    |  
 HYIN  |  WisdomTree Alternative Income Fund  |    |    |    |  
-IAGG  |  iShares Core International Aggregate Bond ETF  |    |    |    |  
 IAUF  |  iShares Gold Strategy ETF  |    |    |    |  
-IBML  |  iShares iBonds Dec 2023 Term Muni Bond ETF  |    |    |    |  
-IBMM  |  iShares iBonds Dec 2024 Term Muni Bond ETF  |    |    |    |  
-IBMN  |  iShares iBonds Dec 2025 Term Muni Bond ETF  |    |    |    |  
-IBMO  |  iShares iBonds Dec 2026 Term Muni Bond ETF  |    |    |    |  
-IBMP  |  iShares iBonds Dec 2027 Term Muni Bond ETF  |    |    |    |  
-IBMQ  |  iShares iBonds Dec 2028 Term Muni Bond ETF  |    |    |    |  
 ICLO  |  Invesco Aaa Clo Floating Rate Note ETF  |    |    |    |  
-ICSH  |  iShares Ultra Short-Term Bond ETF  |    |    |    |  
-ICVT  |  iShares Convertible Bond ETF  |    |    |    |  
 IDME  |  International Drawdown Managed Equity ETF  |    |    |    |  
 IECS  |  iShares Evolved U.S. Consumer Staples ETF  |    |    |    |  
 IEDI  |  iShares Evolved U.S. Discretionary Spending ETF  |    |    |    |  
@@ -615,7 +608,6 @@ INTL  |  Main International ETF  |    |    |    |
 IPDP  |  Dividend Performers ETF  |    |    |    |  
 IPFF  |  iShares International Preferred Stock ETF  |    |    |    |  
 IPPP  |  Preferred-Plus ETF  |    |    |    |  
-ISDB  |  Invesco Short Duration Bond ETF  |    |    |    |  
 IVDG  |  Invesco Focused Discovery Growth ETF  |    |    |    |  
 IVLC  |  Invesco US Large Cap Core ESG ETF  |    |    |    |  
 IVRA  |  Invesco Real Assets ESG ETF  |    |    |    |  
@@ -625,8 +617,6 @@ IZRL  |  ARK Israel Innovative Technology ETF  |    |    |    |
 JANZ  |  TrueShares Structured Outcome (January) ETF  |    |    |    |  
 JBBB  |  Janus Henderson B-BBB CLO ETF  |    |    |    |  
 JBRI  |  James Biblically Responsible Inv ETF  |    |    |    |  
-JCPB  |  JPMorgan Core Plus Bond ETF  |    |    |    |  
-JCPI  |  JPMorgan Inflation Managed Bond ETF  |    |    |    |  
 JEMA  |  JPMorgan ActiveBuilders Emerging Markets Equity ETF  |    |    |    |  
 JMST  |  JPMorgan Ultra-Short Municipal Income ETF  |    |    |    |  
 JMUB  |  JPMorgan Municipal ETF  |    |    |    |  
@@ -646,8 +636,6 @@ KNGS  |  Upholdings Compound Kings ETF  |    |    |    |
 KOCT  |  Innovator U.S. Small Cap Power Buffer ETF - October  |    |    |    |  
 LEAD  |  Siren DIVCON Leaders Dividend ETF  |    |    |    |  
 LKOR  |  FlexShares Credit-Scored US Long Corporate Bond Index Fund  |    |    |    |  
-LLQD  |  iShares 10+ Year Investment Grade Corporate Bond ETF  |    |    |    |  
-LQDI  |  iShares Inflation Hedged Corporate Bond ETF  |    |    |    |  
 LQDW  |  iShares Investment Grade Corporate Bond Buywrite Strategy ETF  |    |    |    |  
 LSLT  |  Pacer Salt Low truBeta US Market ETF  |    |    |    |  
 LUXE  |  Emles Luxury Goods ETF  |    |    |    |  
@@ -658,21 +646,12 @@ MAMB  |  Monarch Ambassador Income ETF  |    |    |    |
 MARZ  |  TrueShares Structured Outcome (March) ETF  |    |    |    |  
 MATF  |  iShares Edge MSCI Multifactor Matrls ETF  |    |    |    |  
 MAYZ  |  TrueShares Structured Outcome (May) ETF  |    |    |    |  
-MBBB  |  VanEck Moody's Analytics BBB Corporate Bond ETF  |    |    |    |  
 MBCC  |  Monarch Blue Chips Core ETF  |    |    |    |  
-MBND  |  SPDR Nuveen Municipal Bond ETF  |    |    |    |  
 MBNE  |  SPDR Nuveen Municipal Bond ESG ETF  |    |    |    |  
 MDEV  |  First Trust Indxx Global Medical Devices ETF  |    |    |    |  
-MEAR  |  iShares Short Maturity Municipal Bond ETF  |    |    |    |  
 MFMS  |  MFAM Small-Cap Growth ETF  |    |    |    |  
 MFUL  |  Mindful Conservative ETF  |    |    |    |  
-MINN  |  Mairs & Power Minnesota Municipal Bond ETF  |    |    |    |  
-MLQD  |  iShares 5-10 Year Investment Grade Corporate Bond ETF  |    |    |    |  
-MOAT  |  VanEck Morningstar Wide Moat ETF  |    |    |    |  
 MOHR  |  Mohr Growth ETF  |    |    |    |  
-MOTE  |  VanEck Morningstar ESG Moat ETF  |    |    |    |  
-MOTG  |  VanEck Morningstar Global Wide Moat ETF  |    |    |    |  
-MOTI  |  VanEck Morningstar International Moat ETF  |    |    |    |  
 MPRO  |  Monarch ProCap ETF  |    |    |    |  
 MRGR  |  ProShares Merger ETF  |    |    |    |  
 MRSK  |  Toews Agility Shares Managed Risk ETF  |    |    |    |  
@@ -682,7 +661,6 @@ MSTQ  |  LHA Market State Tactical Q ETF  |    |    |    |
 MSUS  |  LHA Market State Tactical U.S. Equity ETF  |    |    |    |  
 MSVX  |  LHA Market State Alpha Seeker ETF  |    |    |    |  
 NAPR  |  Innovator Nasdaq-100 Power Buffer ETF - April  |    |    |    |  
-NEAR  |  iShares Short Maturity Bond ETF  |    |    |    |  
 NETZ  |  Engine No. 1 Transform Climate ETF  |    |    |    |  
 NJAN  |  Innovator Growth-100 Power Buffer ETF - January  |    |    |    |  
 NJUL  |  Innovator Nasdaq-100 Power Buffer ETF - July  |    |    |    |  
@@ -698,7 +676,6 @@ NUMG  |  Nuveen ESG Mid-Cap Growth ETF  |    |    |    |
 NURE  |  Nuveen Short-Term REIT ETF  |    |    |    |  
 NUSC  |  Nuveen ESG Small-Cap ETF  |    |    |    |  
 NVMZ  |  TrueShares Structured Outcome (November) ETF  |    |    |    |  
-OBND  |  SPDR Loomis Sayles Opportunistic Bond ETF  |    |    |    |  
 OCTZ  |  TrueShares Structured Outcome (October) ETF  |    |    |    |  
 OGIG  |  ALPS O'Shares Global Internet Giants ETF Shares  |    |    |    |  
 OILK  |  ProShares K-1 Free Crude Oil Strategy ETF  |    |    |    |  
@@ -712,9 +689,7 @@ PAVE  |  Global X U.S. Infrastructure Development ETF  |    |    |    |
 PAWZ  |  ProShares Pet Care ETF  |    |    |    |  
 PBDM  |  Invesco PureBeta FTSE Developed ex-North America ETF  |    |    |    |  
 PBEE  |  Invesco PureBeta FTSE Emerging Markets ETF  |    |    |    |  
-PBND  |  Invesco PureBeta US Aggregate Bond ETF  |    |    |    |  
 PBSM  |  Invesco PureBeta MSCI USA Small Cap ETF  |    |    |    |  
-PBTP  |  Invesco PureBeta 0-5 Yr US TIPS ETF  |    |    |    |  
 PBUS  |  Invesco PureBeta MSCI USA ETF  |    |    |    |  
 PDEC  |  Innovator U.S. Equity Power Buffer ETF - December  |    |    |    |  
 PFEB  |  Innovator U.S. Equity Power Buffer ETF - February  |    |    |    |  
@@ -795,17 +770,14 @@ SLVP  |  iShares MSCI Global Silver and Metals Miners ETF  |    |    |    |
 SMDV  |  ProShares Russell 2000 Dividend Growers ETF  |    |    |    |  
 SMIN  |  iShares MSCI India Small-Cap ETF  |    |    |    |  
 SMMD  |  iShares Russell 2500 ETF  |    |    |    |  
-SMOT  |  VanEck Morningstar SMID Moat ETF  |    |    |    |  
 SNPD  |  Xtrackers S&P ESG Dividend Aristocrats ETF  |    |    |    |  
 SNPG  |  Xtrackers S&P 500 Growth ESG ETF  |    |    |    |  
-SOVB  |  Cambria Sovereign Bond ETF  |    |    |    |  
 SPMV  |  Invesco S&P 500 Minimum Variance ETF  |    |    |    |  
 SPYI  |  Neos S&P 500(R) High Income ETF  |    |    |    |  
 STLC  |  iShares Trust - iShares Factors US Blend Style ETF  |    |    |    |  
 STLG  |  iShares Factors US Growth Style ETF  |    |    |    |  
 STMB  |  iShares Trust - iShares Factors US Mid Blend Style ETF  |    |    |    |  
 STOT  |  SPDR DoubleLine Short Duration Total Return Tactical ETF  |    |    |    |  
-STPP  |  iPath US Treasury Steepener ETN  |    |    |    |  
 STSB  |  iShares Factors US Small Blend Style ETF  |    |    |    |  
 SULR  |  Guinness Atkinson Funds - SmartETFs Sustainable Energy II ETF  |    |    |    |  
 SVIX  |  -1x Short VIX Futures ETF  |    |    |    |  
@@ -813,7 +785,6 @@ SVXY  |  ProShares Short VIX Short-Term Futures ETF  |    |    |    |
 SYLD  |  Cambria Shareholder Yield ETF  |    |    |    |  
 TAEQ  |  Trend Aggregation U.S. ETF  |    |    |    |  
 TAIL  |  Cambria Tail Risk ETF  |    |    |    |  
-TAPR  |  Barclays Inverse US Treasury Composite ETN  |    |    |    |  
 TAXR  |  U.S. Tax Reform Fund  |    |    |    |  
 TBLU  |  Tortoise Global Water ESG Fund  |    |    |    |  
 TCHF  |  iShares Edge MSCI Multifactor Tech ETF  |    |    |    |  
@@ -850,9 +821,7 @@ USEP  |  Innovator S&P 500 Ultra Buffer ETF - September  |    |    |    |
 USEQ  |  Invesco Russell 1000 Enhanced Equal Weight ETF  |    |    |    |  
 USMF  |  WisdomTree U.S. Multifactor Fund  |    |    |    |  
 UTLF  |  iShares Edge MSCI Multifactor Utilt ETF  |    |    |    |  
-UVIX  |  2x Long VIX Futures ETF  |    |    |    |  
 UVXY  |  ProShares Ultra VIX Short-Term Futures ETF  |    |    |    |  
-VCEB  |  Vanguard ESG U.S. Corporate Bond ETF  |    |    |    |  
 VFLQ  |  Vanguard U.S. Liquidity Factor ETF  |    |    |    |  
 VFMF  |  Vanguard U.S. Multifactor ETF  |    |    |    |  
 VIRS  |  Pacer BioThreat Strategy ETF  |    |    |    |  
@@ -862,7 +831,6 @@ VMAT  |  V-Shares MSCI World ESG Materiality and Carbon Transition ETF  |    |  
 VMIN  |  REX VolMAXX Short VIX Futures Strat ETF  |    |    |    |  
 VOTE  |  Engine No. 1 Transform 500 ETF  |    |    |    |  
 VSGX  |  Vanguard ESG International Stock ETF  |    |    |    |  
-VUSB  |  Vanguard Ultra-Short Bond ETF  |    |    |    |  
 VWID  |  Virtus WMC International Dividend ETF  |    |    |    |  
 VXXB  |  iPath Series B S&P 500 VIX Short-Term Futures ETN  |    |    |    |  
 VXZB  |  iPath Series B S&P 500 VIX Mid-Term Futures ETN  |    |    |    |  
@@ -887,7 +855,6 @@ XDJL  |  Innovator U.S. Equity Accelerated ETF - July  |    |    |    |
 XDOC  |  Innovator U.S. Equity Accelerated ETF - October  |    |    |    |  
 XDQQ  |  Innovator Growth-100 Accelerated ETF – Quarterly  |    |    |    |  
 XDSQ  |  Innovator U.S. Equity Accelerated ETF – Quarterly  |    |    |    |  
-XEMD  |  BondBloxx JP Morgan USD Emerging Markets 1-10 Year Bond ETF  |    |    |    |  
 XJUN  |  FT Cboe Vest U.S. Equity Enhance & Moderate Buffer ETF - June  |    |    |    |  
 XMPT  |  VanEck CEF Municipal Income ETF  |    |    |    |  
 XSEP  |  FT Cboe Vest U.S. Equity Enhance & Moderate Buffer ETF - September  |    |    |    |  
@@ -932,7 +899,6 @@ DAM  |  VanEck Digital Assets Mining ETF  |    |    |    |
 DAX  |  Global X DAX Germany ETF  |    |    |    |  
 DVY  |  iShares Select Dividend ETF  |    |    |    |  
 EKG  |  First Trust Nasdaq Lux Digital Health Solutions ETF  |    |    |    |  
-EMB  |  iShares J.P. Morgan USD Emerging Markets Bond ETF  |    |    |    |  
 FAD  |  First Trust Multi Cap Growth AlphaDEX Fund  |    |    |    |  
 FBL  |  GraniteShares 1.5x Long META Daily ETF  |    |    |    |  
 FBZ  |  First Trust Brazil AlphaDEX Fund  |    |    |    |  
@@ -974,7 +940,6 @@ PID  |  Invesco International Dividend Achievers ETF  |    |    |    |
 PIO  |  Invesco Global Water ETF  |    |    |    |  
 PKW  |  Invesco BuyBack Achievers ETF  |    |    |    |  
 PLC  |  Principal U.S. Large-Cap Multi-Factor ETF  |    |    |    |  
-PLW  |  Invesco 1-30 Laddered Treasury ETF  |    |    |    |  
 PPH  |  VanEck Pharmaceutical ETF  |    |    |    |  
 PSC  |  Principal U.S. Small-Cap Multi-Factor ETF  |    |    |    |  
 QAT  |  iShares MSCI Qatar ETF  |    |    |    |  
@@ -987,19 +952,15 @@ SCZ  |  iShares MSCI EAFE Small-Cap ETF  |    |    |    |
 SDG  |  iShares MSCI Global Impact ETF  |    |    |    |  
 SMH  |  VanEck Semiconductor ETF  |    |    |    |  
 SPC  |  CrossingBridge Pre-Merger SPAC ETF  |    |    |    |  
-TSL  |  GraniteShares ETF Trust - GraniteShares 2x Long Tesla Daily ETF  |    |    |    |  
 TUG  |  STF Tactical Growth ETF  |    |    |    |  
 TUR  |  iShares MSCI Turkey ETF  |    |    |    |  
 UAE  |  iShares MSCI UAE ETF  |    |    |    |  
 UFO  |  Procure Space ETF  |    |    |    |  
 VBB  |  Valkyrie Balance Sheet Opportunities ETF  |    |    |    |  
 VPN  |  Global X Data Center REITs & Digital Infrastructure ETF  |    |    |    |  
-VTC  |  Vanguard Total Corporate Bond ETF  |    |    |    |  
 WIZ  |  Alpha Architect Merlyn.AI Bull-Rider Bear-Fighter ETF  |    |    |    |  
 ZIV  |  VelocityShares Daily Inverse VIX Medium-Term ETN  |    |    |    |  
 AADR  |  AdvisorShares Dorsey Wright ADR ETF  |    |    |    |  
-AAPB  |  GraniteShares ETF Trust - GraniteShares 2x Long Tilray Daily ETF  |    |    |    |  
-AAPD  |  Direxion Daily AAPL Bear 1X Shares  |    |    |    |  
 AAPU  |  Direxion Daily AAPL Bull 1.5X Shares  |    |    |    |  
 AAXJ  |  iShares MSCI All Country Asia ex Japan ETF  |    |    |    |  
 ACWI  |  iShares MSCI ACWI ETF  |    |    |    |  
@@ -1013,7 +974,6 @@ AIRR  |  First Trust RBA American Industrial RenaissanceTM ETF  |    |    |    |
 ALTY  |  Global X Alternative Income ETF  |    |    |    |  
 AMCA  |  iShares Russell 1000 Pure U.S. Revenue ETF  |    |    |    |  
 AMID  |  Argent Mid Cap ETF  |    |    |    |  
-AMZD  |  Direxion Daily AMZN Bear 1X Shares  |    |    |    |  
 AMZU  |  Direxion Daily AMZN Bull 1.5X Shares  |    |    |    |  
 AOTG  |  AOT Growth and Innovation ETF  |    |    |    |  
 AQWA  |  Global X Clean Water ETF  |    |    |    |  
@@ -1023,7 +983,6 @@ BABX  |  GraniteShares 1.75x Long BABA Daily ETF  |    |    |    |
 BCNA  |  Reality Shares Nasdaq NexGen Economy China ETF  |    |    |    |  
 BDGS  |  Bridges Capital Tactical ETF  |    |    |    |  
 BFIT  |  Global X Health & Wellness ETF  |    |    |    |  
-BGRN  |  iShares USD Green Bond ETF  |    |    |    |  
 BICK  |  First Trust BICK Index Fund  |    |    |    |  
 BIGB  |  Roundhill BIG Bank ETF  |    |    |    |  
 BIGT  |  Listed Funds Trust - Roundhill BIG Tech ETF  |    |    |    |  
@@ -1034,43 +993,17 @@ BKWO  |  BNY Mellon Women's Opportunities ETF  |    |    |    |
 BLCN  |  Siren Nasdaq NexGen Economy ETF  |    |    |    |  
 BLLD  |  JPMorgan Sustainable Infrastructure ETF  |    |    |    |  
 BMLP  |  BMO Dorsey Wright MLP Index Exchange Traded Notes  |    |    |    |  
-BNDW  |  Vanguard Total World Bond ETF  |    |    |    |  
 BNDX  |  Vanguard Total International Bond Index Fund  |    |    |    |  
 BOTZ  |  Global X Robotics & Artificial Intelligence ETF  |    |    |    |  
 BRNY  |  Burney U.S. Factor Rotation ETF  |    |    |    |  
 BSAE  |  Invesco BulletShares (R) 2021 USD Emerging Markets Debt ETF  |    |    |    |  
 BSBE  |  Invesco BulletShares (R) 2022 USD Emerging Markets Debt ETF  |    |    |    |  
 BSCE  |  Invesco BulletShares (R) 2023 USD Emerging Markets Debt ETF  |    |    |    |  
-BSCL  |  Invesco BulletShares 2021 Corporate Bond ETF  |    |    |    |  
-BSCM  |  Invesco BulletShares 2022 Corporate Bond ETF  |    |    |    |  
-BSCN  |  Invesco BulletShares 2023 Corporate Bond ETF  |    |    |    |  
-BSCO  |  Invesco BulletShares 2024 Corporate Bond ETF  |    |    |    |  
-BSCP  |  Invesco BulletShares 2025 Corporate Bond ETF  |    |    |    |  
-BSCQ  |  Invesco BulletShares 2026 Corporate Bond ETF  |    |    |    |  
-BSCR  |  Invesco BulletShares 2027 Corporate Bond ETF  |    |    |    |  
-BSCS  |  Invesco BulletShares 2028 Corporate Bond ETF  |    |    |    |  
-BSCT  |  Invesco BulletShares 2029 Corporate Bond ETF  |    |    |    |  
-BSCU  |  Invesco BulletShares 2030 Corporate Bond ETF  |    |    |    |  
-BSCV  |  Invesco BulletShares 2031 Corporate Bond ETF  |    |    |    |  
-BSCW  |  Invesco Bulletshares 2032 Corporate Bond ETF  |    |    |    |  
 BSDE  |  Invesco BulletShares (R) 2024 Emerging Markets Debt ETF  |    |    |    |  
-BSML  |  Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco BulletShares 2021 Municipal Bond ETF  |    |    |    |  
-BSMM  |  Invesco BulletShares (R) 2022 Municipal Bond ETF  |    |    |    |  
-BSMN  |  Invesco BulletShares (R) 2023 Municipal Bond ETF  |    |    |    |  
-BSMO  |  Invesco BulletShares (R) 2024 Municipal Bond ETF  |    |    |    |  
-BSMP  |  Invesco BulletShares (R) 2025 Municipal Bond ETF  |    |    |    |  
-BSMQ  |  Invesco BulletShares (R) 2026 Municipal Bond ETF  |    |    |    |  
-BSMR  |  Invesco BulletShares (R) 2027 Municipal Bond ETF  |    |    |    |  
-BSMS  |  Invesco BulletShares (R) 2028 Municipal Bond ETF  |    |    |    |  
-BSMT  |  Invesco BulletShares 2029 Municipal Bond ETF  |    |    |    |  
-BSMU  |  Invesco BulletShares 2030 Municipal Bond ETF  |    |    |    |  
-BSMV  |  Invesco BulletShares 2031 Municipal Bond ETF  |    |    |    |  
-BSMW  |  Invesco Exchange-Traded Self-Indexed Fund Trust - BulletShares 2032 Municipal Bond ETF  |    |    |    |  
 BTEC  |  Principal Healthcare Innovators ETF  |    |    |    |  
 BULD  |  Pacer BlueStar Engineering the Future ETF  |    |    |    |  
 BYOB  |  SoFi Be Your Own Boss ETF  |    |    |    |  
 CACG  |  ClearBridge All Cap Growth ESG ETF  |    |    |    |  
-CALY  |  BlackRock Short-Term California Muni Bond ETF  |    |    |    |  
 CARZ  |  First Trust S-Network Future Vehicles & Technology ETF  |    |    |    |  
 CATH  |  Global X S&P 500 Catholic Values ETF  |    |    |    |  
 CCSO  |  Carbon Collective Climate Solutions U.S. Equity ETF  |    |    |    |  
@@ -1092,13 +1025,10 @@ CXSE  |  WisdomTree China ex-State-Owned Enterprises Fund  |    |    |    |
 DALI  |  First Trust Dorsey Wright DALI 1 ETF  |    |    |    |  
 DAPP  |  VanEck Digital Transformation ETF  |    |    |    |  
 DEMZ  |  Democratic Large Cap Core ETF  |    |    |    |  
-DGLD  |  VelocityShares 3x Inverse Gold ETN Linked to the S&P GSCI Gold Index ER  |    |    |    |  
 DIVD  |  Altrius Global Dividend ETF  |    |    |    |  
-DLBL  |  iPath US Treasury Long Bond Bull ETN  |    |    |    |  
 DMAT  |  Global X Disruptive Materials ETF  |    |    |    |  
 DMXF  |  iShares ESG Advanced MSCI EAFE Index ETF  |    |    |    |  
 DRIV  |  Global X Autonomous & Electric Vehicles ETF  |    |    |    |  
-DSLV  |  VelocityShares 3x Inverse Silver ETN Linked to the S&P GSCI Silver Index ER  |    |    |    |  
 DSPC  |  AXS De-SPAC ETF  |    |    |    |  
 DWAT  |  Arrow DWA Tactical: Macro ETF  |    |    |    |  
 DWAW  |  AdvisorShares Dorsey Wright FSM All Cap World ETF  |    |    |    |  
@@ -1135,7 +1065,6 @@ EWEB  |  Global X Emerging Markets Internet & E-commerce ETF  |    |    |    |
 EWJE  |  iShares MSCI Japan Equal Weighted ETF  |    |    |    |  
 EWZS  |  iShares MSCI Brazil Small-Cap ETF  |    |    |    |  
 FAAR  |  First Trust Alternative Absolute Return Strategy ETF  |    |    |    |  
-FALN  |  iShares Fallen Angels USD Bond ETF  |    |    |    |  
 FATT  |  Fat Tail Risk ETF  |    |    |    |  
 FBOT  |  Fidelity Covington Trust - Disruptive Automation ETF  |    |    |    |  
 FCAL  |  First Trust California Municipal High Income ETF  |    |    |    |  
@@ -1151,7 +1080,6 @@ FDNI  |  First Trust Dow Jones International Internet ETF  |    |    |    |
 FDTS  |  First Trust Developed Markets ex-US Small Cap AlphaDEX Fund  |    |    |    |  
 FDTX  |  Fidelity Disruptive Technology ETF  |    |    |    |  
 FEMA  |  Procure Disaster Recovery Strategy ETF  |    |    |    |  
-FEMB  |  First Trust Emerging Markets Local Currency Bond ETF  |    |    |    |  
 FEMS  |  First Trust Emerging Markets Small Cap AlphaDEX Fund  |    |    |    |  
 FEUZ  |  First Trust Eurozone AlphaDEX ETF  |    |    |    |  
 FICS  |  First Trust International Developed Cap Strength ETF  |    |    |    |  
@@ -1184,10 +1112,8 @@ FTXR  |  First Trust Nasdaq Transportation ETF  |    |    |    |
 GENY  |  Principal Millennial Global Growth ETF  |    |    |    |  
 GFGF  |  Guru Favorite Stocks ETF  |    |    |    |  
 GGLL  |  Direxion Daily GOOGL Bull 1.5X Shares  |    |    |    |  
-GGLS  |  Direxion Daily GOOGL Bear 1X Shares  |    |    |    |  
 GIGE  |  SoFi Be Your Own Boss ETF  |    |    |    |  
 GLDI  |  Credit Suisse X-Links Gold Shares Covered Call ETN  |    |    |    |  
-GNMA  |  iShares GNMA Bond ETF  |    |    |    |  
 GNOM  |  Global X Genomics & Biotechnology ETF  |    |    |    |  
 GRID  |  First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund  |    |    |    |  
 GRNR  |  Global X Green Building ETF  |    |    |    |  
@@ -1203,25 +1129,11 @@ IBBQ  |  Invesco Nasdaq Biotechnology ETF  |    |    |    |
 IBET  |  iBET Sports Betting & Gaming ETF  |    |    |    |  
 IBIT  |  Defiance Daily Short Digitizing the Economy ETF  |    |    |    |  
 IBOT  |  VanEck ETF Trust - VanEck Robotics ETF  |    |    |    |  
-IBTA  |  iShares Trust - iShares iBonds Dec 2021 Term Treasury ETF  |    |    |    |  
-IBTB  |  iShares iBonds Dec 2022 Term Treasury ETF  |    |    |    |  
-IBTD  |  iShares iBonds Dec 2023 Term Treasury ETF  |    |    |    |  
-IBTE  |  iShares iBonds Dec 2024 Term Treasury ETF  |    |    |    |  
-IBTF  |  iShares iBonds Dec 2025 Term Treasury ETF  |    |    |    |  
-IBTG  |  iShares iBonds Dec 2026 Term Treasury ETF  |    |    |    |  
-IBTH  |  iShares iBonds Dec 2027 Term Treasury ETF  |    |    |    |  
-IBTI  |  iShares iBonds Dec 2028 Term Treasury ETF  |    |    |    |  
-IBTJ  |  iShares iBonds Dec 2029 Term Treasury ETF  |    |    |    |  
-IBTK  |  iShares iBonds Dec 2030 Term Treasury ETF  |    |    |    |  
-IBTL  |  iShares iBonds Dec 2031 Term Treasury ETF  |    |    |    |  
-IBTM  |  iShares iBonds Dec 2032 Term Treasury ETF  |    |    |    |  
 ICLN  |  iShares Global Clean Energy ETF  |    |    |    |  
 ICOP  |  iShares Copper and Metals Mining ETF  |    |    |    |  
 IDLB  |  Invesco FTSE International Low Beta Equal Weight ETF  |    |    |    |  
 IEUS  |  iShares MSCI Europe Small-Cap ETF  |    |    |    |  
 IFGL  |  iShares International Developed Real Estate ETF  |    |    |    |  
-IGIB  |  iShares 5-10 Year Investment Grade Corporate Bond ETF  |    |    |    |  
-IGSB  |  iShares 1-5 Year Investment Grade Corporate Bond ETF  |    |    |    |  
 ILIT  |  iShares Lithium Miners and Producers ETF  |    |    |    |  
 INDY  |  iShares India 50 ETF  |    |    |    |  
 INFR  |  Legg Mason Global Infrastructure ETF  |    |    |    |  
@@ -1230,7 +1142,6 @@ ISDS  |  Invesco RAFI Strategic Developed ex-US Small Company ETF  |    |    |  
 ISDX  |  Invesco RAFI Strategic Developed ex-US ETF  |    |    |    |  
 ISEM  |  Invesco RAFI Strategic Emerging Markets ETF  |    |    |    |  
 ISHP  |  First Trust S-Network Global E-Commerce ETF  |    |    |    |  
-ISTB  |  iShares Core 1-5 Year USD Bond ETF  |    |    |    |  
 IUSB  |  iShares Core Total USD Bond Market ETF  |    |    |    |  
 IUSG  |  iShares Core S&P U.S. Growth ETF  |    |    |    |  
 IUSS  |  Invesco RAFI Strategic US Small Company ETF  |    |    |    |  
@@ -1249,7 +1160,6 @@ KEJI  |  Global X China Innovation ETF  |    |    |    |
 KRMA  |  Global X Conscious Companies ETF  |    |    |    |  
 KROP  |  Global X AgTech & Food Innovation ETF  |    |    |    |  
 LDEM  |  iShares ESG MSCI EM Leaders ETF  |    |    |    |  
-LDRI  |  Invesco LadderRite 0-5 Year Corporate Bond ETF  |    |    |    |  
 LDSF  |  First Trust Low Duration Strategic Focus ETF  |    |    |    |  
 LEGR  |  First Trust Indxx Innovative Transaction & Process ETF  |    |    |    |  
 LGBT  |  LGBTQ100 ESG ETF  |    |    |    |  
@@ -1268,12 +1178,9 @@ MFLX  |  First Trust Flexible Municipal High Income ETF  |    |    |    |
 MILN  |  Global X Millennials Consumer ETF  |    |    |    |  
 MKAM  |  EA Series Trust - MKAM ETF  |    |    |    |  
 MODL  |  Victoryshares Westend U.S. Sector ETF  |    |    |    |  
-MSFD  |  Direxion Daily MSFT Bear 1X Shares  |    |    |    |  
 MSFU  |  Direxion Daily MSFT Bull 1.5X Shares  |    |    |    |  
 NFTY  |  First Trust India NIFTY 50 Equal Weight ETF  |    |    |    |  
 NIKL  |  Sprott Nickel Miners ETF  |    |    |    |  
-NKEL  |  AXS 2X NKE Bull Daily ETF  |    |    |    |  
-NKEQ  |  AXS 2X NKE Bear Daily ETF  |    |    |    |  
 NTZG  |  Nuveen Global Net Zero Transition ETF  |    |    |    |  
 NVDL  |  GraniteShares 1.5x Long NVDA Daily ETF  |    |    |    |  
 NVDS  |  AXS 1.25X NVDA Bear Daily ETF  |    |    |    |  
@@ -1281,15 +1188,12 @@ NXTG  |  First Trust IndXX NextG ETF  |    |    |    |
 NZAC  |  SPDR MSCI ACWI Climate Paris Aligned ETF  |    |    |    |  
 NZRO  |  Strategy Shares Halt Climate Change ETF  |    |    |    |  
 NZUS  |  SPDR MSCI USA Climate Paris Aligned ETF  |    |    |    |  
-OBIL  |  The RBB Fund, Inc. - US Treasury 12 Month Bill ETF  |    |    |    |  
 ODDS  |  Pacer BlueStar Digital Entertainment ETF  |    |    |    |  
 ONEQ  |  Fidelity Nasdaq Composite Index ETF  |    |    |    |  
 PABU  |  iShares Paris-Aligned Climate MSCI USA ETF  |    |    |    |  
 PDBA  |  Invesco Agriculture Commodity Strategy No K-1 ETF  |    |    |    |  
 PDBC  |  Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF  |    |    |    |  
 PDEV  |  Principal International Multi-Factor ETF  |    |    |    |  
-PFEL  |  AXS 2X PFE Bull Daily ETF  |    |    |    |  
-PFES  |  AXS 2X PFE Bear Daily ETF  |    |    |    |  
 PNQI  |  Invesco NASDAQ Internet ETF  |    |    |    |  
 POTX  |  Global X Cannabis ETF  |    |    |    |  
 PRFZ  |  Invesco FTSE RAFI US 1500 Small-Mid ETF  |    |    |    |  
@@ -1348,7 +1252,6 @@ SETM  |  Sprott Energy Transition Materials ETF  |    |    |    |
 SKOR  |  FlexShares Credit-Scored US Corporate Bond Index Fund  |    |    |    |  
 SKYU  |  ProShares Ultra Cloud Computing  |    |    |    |  
 SKYY  |  First Trust Cloud Computing ETF  |    |    |    |  
-SLQD  |  iShares 0-5 Year Investment Grade Corporate Bond ETF  |    |    |    |  
 SLVO  |  Credit Suisse X-Links Silver Shares Covered Call ETN  |    |    |    |  
 SMCP  |  AlphaMark Actively Managed Small Cap ETF  |    |    |    |  
 SNLN  |  Highland/iBoxx Senior Loan ETF  |    |    |    |  
@@ -1367,29 +1270,18 @@ SRET  |  Global X SuperDividend REIT ETF  |    |    |    |
 STXD  |  Strive 1000 Dividend Growth ETF  |    |    |    |  
 STXG  |  Strive 1000 Growth ETF  |    |    |    |  
 STXK  |  Strive 2000 ETF  |    |    |    |  
-SUSB  |  iShares ESG 1-5 Year USD Corporate Bond ETF  |    |    |    |  
-SUSC  |  iShares ESG USD Corporate Bond ETF  |    |    |    |  
 SUSL  |  iShares ESG MSCI USA Leaders ETF  |    |    |    |  
 SWEB  |  AXS Short China Internet ETF  |    |    |    |  
-TARK  |  AXS 2X Innovation ETF  |    |    |    |  
-TBIL  |  US Treasury 3 Month Bill ETF  |    |    |    |  
 TCHI  |  iShares MSCI China Multisector Tech ETF  |    |    |    |  
 TDIV  |  First Trust NASDAQ Technology Dividend Index Fund  |    |    |    |  
 TQQQ  |  ProShares UltraPro QQQ  |    |    |    |  
-TSLI  |  GraniteShares ETF Trust - GraniteShares 2x Long NIO Daily ETF  |    |    |    |  
 TSLL  |  Direxion Daily TSLA Bull 1.5X Shares  |    |    |    |  
 TSLQ  |  AXS TSLA Bear Daily ETF  |    |    |    |  
-TSLS  |  Direxion Daily TSLA Bear 1X Shares  |    |    |    |  
 TUGN  |  STF Tactical Growth & Income ETF  |    |    |    |  
 TUSA  |  First Trust Dividend Strength ETF  |    |    |    |  
-TVIX  |  VelocityShares Daily 2x VIX Short-Term ETN  |    |    |    |  
-TVIZ  |  VelocityShares Daily 2x VIX MT ETN  |    |    |    |  
 TWEB  |  SoFi Web 3 ETF  |    |    |    |  
 UBIO  |  ProShares UltraPro Nasdaq Biotechnology  |    |    |    |  
-UBND  |  VictoryShares ESG Core Plus Bond ETF  |    |    |    |  
-UCRD  |  VictoryShares ESG Corporate Bond ETF  |    |    |    |  
 UCYB  |  ProShares Ultra Nasdaq Cybersecurity  |    |    |    |  
-UFIV  |  The RBB Fund, Inc.- US Treasury 5 Year Note ETF  |    |    |    |  
 UMMA  |  Wahed Dow Jones Islamic World ETF  |    |    |    |  
 UNIY  |  WisdomTree Voya Yield Enchanced USD Universal Bond Fund  |    |    |    |  
 UPGR  |  Xtrackers US Green Infrastructure Select Equity ETF  |    |    |    |  
@@ -1397,25 +1289,14 @@ UPWD  |  JPMorgan Social Advancement ETF  |    |    |    |
 URNJ  |  Sprott Junior Uranium Miners ETF  |    |    |    |  
 USBF  |  iShares USD Bond Factor ETF  |    |    |    |  
 USCL  |  iShares Climate Conscious & Transition MSCI USA ETF  |    |    |    |  
-USIG  |  iShares Broad USD Investment Grade Corporate Bond ETF  |    |    |    |  
 USLB  |  Invesco Russell 1000 Low Beta Equal Weight ETF  |    |    |    |  
-USLV  |  VelocityShares 3x Long Silver ETN Linked to the S&P GSCI Silver Index ER  |    |    |    |  
 USMC  |  Principal U.S. Mega-Cap ETF  |    |    |    |  
 USOI  |  Credit Suisse X-Links Crude Oil Shares Covered Call ETNs  |    |    |    |  
-USVN  |  The RBB Fund, Inc. - US Treasury 7 Year Note ETF  |    |    |    |  
 USXF  |  iShares ESG Advanced MSCI USA ETF  |    |    |    |  
-UTEN  |  US Treasury 10 Year Note ETF  |    |    |    |  
-UTHY  |  The RBB Fund, Inc. - US Treasury 30 Year Bond ETF  |    |    |    |  
-UTRE  |  The RBB Fund, Inc. - US Treasury 3 Year Note ETF  |    |    |    |  
-UTWO  |  US Treasury 2 Year Note ETF  |    |    |    |  
-UTWY  |  The RBB Fund, Inc. - US Treasury 20 Year Bond ETF  |    |    |    |  
 VCIT  |  Vanguard Intermediate-Term Corporate Bond Index Fund  |    |    |    |  
 VCLT  |  Vanguard Long-Term Corporate Bond Index Fund  |    |    |    |  
 VCSH  |  Vanguard Short-Term Corporate Bond Index Fund  |    |    |    |  
 VFLO  |  VictoryShares Free Cash Flow ETF  |    |    |    |  
-VGIT  |  Vanguard Intermediate-Term Treasury Index Fund  |    |    |    |  
-VGLT  |  Vanguard Long-Term Treasury Index Fund  |    |    |    |  
-VGSH  |  Vanguard Short-Term Treasury Index Fund  |    |    |    |  
 VIGI  |  Vanguard International Dividend Appreciation Index Fund  |    |    |    |  
 VIIX  |  VelocityShares VIX Short-Term ETN  |    |    |    |  
 VIIZ  |  VelocityShares VIX MT ETN  |    |    |    |  
@@ -1440,7 +1321,6 @@ WGMI  |  Valkyrie Bitcoin Miners ETF  |    |    |    |
 WINC  |  Western Asset Short Duration Income ETF  |    |    |    |  
 WNDY  |  Global X Wind Energy ETF  |    |    |    |  
 WOOD  |  iShares Global Timber & Forestry ETF  |    |    |    |  
-XBIL  |  The RBB Fund, Inc. - US Treasury 6 Month Bill ETF  |    |    |    |  
 XDNA  |  Kelly CRISPR & Gene Editing Technology ETF  |    |    |    |  
 YLDE  |  ClearBridge Dividend Strategy ESG ETF  |    |    |    |  
 ZBIO  |  ProShares UltraPro Short Nasdaq Biotechnology  |    |    |    |  
@@ -1486,13 +1366,10 @@ VO  |  Vanguard Mid Cap Index Fund  |    |    |    |
 VT  |  Vanguard Total World Stock Index Fund  |    |    |    |  
 VV  |  Vanguard Large Cap Index Fund  |    |    |    |  
 XC  |  WisdomTree Emerging Markets ex-China Fund  |    |    |    |  
-AAA  |  AXS First Priority CLO Bond ETF  |    |    |    |  
 ADZ  |  DB Agriculture Short ETN  |    |    |    |  
 AFK  |  VanEck Africa Index ETF  |    |    |    |  
 AGF  |  DB Agriculture Long ETN  |    |    |    |  
-AGG  |  iShares Core U.S. Aggregate Bond ETF  |    |    |    |  
 AGQ  |  ProShares Ultra Silver  |    |    |    |  
-AGZ  |  iShares Agency Bond ETF  |    |    |    |  
 ALD  |  WisdomTree Asia Local Debt Fund  |    |    |    |  
 AMJ  |  JPMorgan Alerian MLP Index ETN  |    |    |    |  
 AMU  |  UBS ETRACS Alerian MLP Index ETN  |    |    |    |  
@@ -1502,7 +1379,6 @@ AOM  |  iShares Core Moderate Allocation ETF  |    |    |    |
 AOR  |  iShares Core Growth Allocation ETF  |    |    |    |  
 ARB  |  AltShares Merger Arbitrage ETF  |    |    |    |  
 ARP  |  Pmv Adaptive Risk Parity ETF  |    |    |    |  
-BAB  |  Invesco Taxable Municipal Bond ETF  |    |    |    |  
 BAD  |  B.A.D. ETF  |    |    |    |  
 BAL  |  iPath Series B Bloomberg Cotton Subindex Total Return ETN  |    |    |    |  
 BAR  |  GraniteShares Gold Trust  |    |    |    |  
@@ -1529,7 +1405,6 @@ BUY  |  USCF SummerHaven SHPEI Index Fund  |    |    |    |
 BZQ  |  ProShares UltraShort MSCI Brazil Capped  |    |    |    |  
 CEW  |  WisdomTree Emerging Currency Strategy Fund  |    |    |    |  
 CGW  |  Invesco S&P Global Water Index ETF  |    |    |    |  
-CMF  |  iShares California Muni Bond ETF  |    |    |    |  
 CNY  |  Market Vectors Chinese Renminbi/USD ETN  |    |    |    |  
 COM  |  Direxion Auspice Broad Commodity Strategy ETF  |    |    |    |  
 COW  |  iPath Series B Bloomberg Livestock Subindex Total Return ETN  |    |    |    |  
@@ -1584,10 +1459,7 @@ DOG  |  ProShares Short Dow30  |    |    |    |
 DOL  |  WisdomTree International LargeCap Dividend Fund  |    |    |    |  
 DON  |  WisdomTree U.S. MidCap Dividend Fund  |    |    |    |  
 DOO  |  WisdomTree International Dividend ex-Financials Fund  |    |    |    |  
-DPK  |  Direxion Daily MSCI Developed Markets Bear 3X Shares  |    |    |    |  
-DRN  |  Direxion Daily Real Estate Bull 3X Shares  |    |    |    |  
 DRR  |  Market Vectors Double Short Euro ETN  |    |    |    |  
-DRV  |  Direxion Daily Real Estate Bear 3X Shares  |    |    |    |  
 DRW  |  WisdomTree New Economy Real Estate ETF  |    |    |    |  
 DSI  |  iShares MSCI KLD 400 Social ETF  |    |    |    |  
 DTD  |  WisdomTree U.S. Total Dividend Fund  |    |    |    |  
@@ -1596,16 +1468,11 @@ DTN  |  WisdomTree U.S. Dividend ex-Financials Fund  |    |    |    |
 DTO  |  DB Crude Oil Double Short ETN  |    |    |    |  
 DUG  |  ProShares UltraShort Oil & Gas  |    |    |    |  
 DWM  |  WisdomTree International Equity Fund  |    |    |    |  
-DWT  |  VelocityShares 3x Inverse Crude Oil ETNs linked to the S&P GSCI Crude Oil Index ER New  |    |    |    |  
 DWX  |  SPDR S&P International Dividend ETF  |    |    |    |  
 DXD  |  ProShares UltraShort Dow30  |    |    |    |  
 DXJ  |  WisdomTree Japan Hedged Equity Fund  |    |    |    |  
 DYY  |  DB Commodity Double Long ETN  |    |    |    |  
-DZK  |  Direxion Daily MSCI Developed Markets Bull 3X Shares  |    |    |    |  
 DZZ  |  DB Gold Double Short ETN  |    |    |    |  
-EDC  |  Direxion Daily MSCI Emerging Markets Bull 3X Shares  |    |    |    |  
-EDV  |  Vanguard Extended Duration Treasury Index Fund  |    |    |    |  
-EDZ  |  Direxion Daily MSCI Emerging Markets Bear 3X Shares  |    |    |    |  
 EEB  |  Invesco BRIC ETF  |    |    |    |  
 EEM  |  iShares MSCI Emerging Markets ETF  |    |    |    |  
 EES  |  WisdomTree U.S. SmallCap Earnings Fund  |    |    |    |  
@@ -1625,8 +1492,6 @@ EPU  |  iShares MSCI Peru ETF  |    |    |    |
 EPV  |  ProShares UltraShort FTSE Europe  |    |    |    |  
 EQL  |  ALPS Equal Sector Weight ETF  |    |    |    |  
 ERM  |  EquityCompass Risk Manager ETF  |    |    |    |  
-ERX  |  Direxion Daily Energy Bull 2X Shares  |    |    |    |  
-ERY  |  Direxion Daily Energy Bear 2X Shares  |    |    |    |  
 EUM  |  ProShares Short MSCI Emerging Markets  |    |    |    |  
 EUO  |  ProShares UltraShort Euro  |    |    |    |  
 EVX  |  VanEck Environmental Services ETF  |    |    |    |  
@@ -1658,8 +1523,6 @@ EZA  |  iShares MSCI South Africa ETF  |    |    |    |
 EZJ  |  ProShares Ultra MSCI Japan  |    |    |    |  
 EZM  |  WisdomTree U.S. MidCap Earnings Fund  |    |    |    |  
 FAN  |  First Trust Global Wind Energy ETF  |    |    |    |  
-FAS  |  Direxion Daily Financial Bull 3X Shares  |    |    |    |  
-FAZ  |  Direxion Daily Financial Bear 3X Shares  |    |    |    |  
 FBT  |  First Trust NYSE Arca Biotechnology Index Fund  |    |    |    |  
 FCG  |  First Trust Natural Gas ETF  |    |    |    |  
 FDD  |  First Trust STOXX European Select Dividend Index Fund  |    |    |    |  
@@ -1704,7 +1567,6 @@ FXZ  |  First Trust Materials AlphaDEX Fund  |    |    |    |
 GAL  |  SPDR SSgA Global Allocation ETF  |    |    |    |  
 GAZ  |  iPath Series B Bloomberg Natural Gas Subindex Total ReturnSM ETN  |    |    |    |  
 GBB  |  iPath GBP/USD Exchange Rate ETN  |    |    |    |  
-GBF  |  iShares Government/Credit Bond ETF  |    |    |    |  
 GCC  |  WisdomTree Enhanced Commodity Strategy Fund  |    |    |    |  
 GCE  |  Claymore CEF GS Connect ETN  |    |    |    |  
 GDX  |  VanEck Gold Miners ETF  |    |    |    |  
@@ -1721,7 +1583,6 @@ GSC  |  GS Connect S&P GSCI Enhanced Commodity Total Return ETN  |    |    |    
 GSG  |  iShares S&P GSCI Commodity-Indexed Trust  |    |    |    |  
 GSP  |  iPath S&P GSCI Total Return Index ETN  |    |    |    |  
 GSY  |  Invesco Ultra Short Duration ETF  |    |    |    |  
-GTO  |  Invesco Total Return Bond ETF  |    |    |    |  
 GWX  |  SPDR S&P International Small Cap ETF  |    |    |    |  
 GXC  |  SPDR S&P China ETF  |    |    |    |  
 GXF  |  Global X FTSE Nordic Region ETF  |    |    |    |  
@@ -1755,7 +1616,6 @@ INC  |  VanEck Dynamic High Income ETF  |    |    |    |
 INR  |  Market Vectors Indian Rupee/USD ETN  |    |    |    |  
 ION  |  Proshares S&P Global Core Battery Metals ETF  |    |    |    |  
 IOO  |  iShares Global 100 ETF  |    |    |    |  
-IPE  |  SPDR Bloomberg Barclays TIPS ETF  |    |    |    |  
 IPO  |  Renaissance IPO ETF  |    |    |    |  
 IVV  |  iShares Core S&P 500 ETF  |    |    |    |  
 IVW  |  iShares S&P 500 Growth ETF  |    |    |    |  
@@ -1784,7 +1644,6 @@ IYM  |  iShares U.S. Basic Materials ETF  |    |    |    |
 IYR  |  iShares U.S. Real Estate ETF  |    |    |    |  
 IYW  |  iShares U.S. Technology ETF  |    |    |    |  
 IYY  |  iShares Dow Jones U.S. ETF  |    |    |    |  
-JIB  |  Janus Henderson Sustainable & Impact Core Bond ETF  |    |    |    |  
 JIG  |  JPMorgan International Growth ETF  |    |    |    |  
 JJA  |  iPath Series B Bloomberg Agriculture Subindex Total Return ETN  |    |    |    |  
 JJC  |  iPath Series B Bloomberg Copper Subindex Total Return ETN  |    |    |    |  
@@ -1814,16 +1673,13 @@ KOL  |  VanEck Vectors Coal ETF  |    |    |    |
 KRE  |  SPDR S&P Regional Banking ETF  |    |    |    |  
 KSA  |  iShares MSCI Saudi Arabia ETF  |    |    |    |  
 KXI  |  iShares Global Consumer Staples ETF  |    |    |    |  
-LBJ  |  Direxion Daily Latin America Bull 2X Shares  |    |    |    |  
 LCG  |  Sterling Capital Focus Equity ETF  |    |    |    |  
 LCR  |  Leuthold Core ETF  |    |    |    |  
 LGH  |  HCM Defender 500 Index ETF  |    |    |    |  
 LIT  |  Global X Lithium & Battery Tech ETF  |    |    |    |  
-LQD  |  iShares iBoxx $ Investment Grade Corporate Bond ETF  |    |    |    |  
 LTL  |  ProShares Ultra Telecommunications  |    |    |    |  
 LUX  |  Tema ETF Trust - Tema Luxury ETF  |    |    |    |  
 LVL  |  Invesco S&P Global Dividend Opportunities Index ETF  |    |    |    |  
-MBG  |  SPDR Bloomberg Barclays Mortgage Backed Bond ETF  |    |    |    |  
 MCH  |  Matthews China Active ETF  |    |    |    |  
 MDY  |  SPDR S&P MIDCAP 400 ETF Trust  |    |    |    |  
 MEM  |  Matthews Emerging Markets Equity Active ETF  |    |    |    |  
@@ -1832,9 +1688,7 @@ MGK  |  Vanguard Mega Cap Growth Index Fund  |    |    |    |
 MID  |  American Century Mid Cap Growth Impact ETF  |    |    |    |  
 MJJ  |  MicroSectors Cannabis ETNs  |    |    |    |  
 MNA  |  IQ Merger Arbitrage ETF  |    |    |    |  
-MNM  |  Direxion Daily Metals & Mining Bull 2X Shares  |    |    |    |  
 MOO  |  VanEck Agribusiness ETF  |    |    |    |  
-MUB  |  iShares National Muni Bond ETF  |    |    |    |  
 MVP  |  Roundhill Pro Sports Media & Apparel ETF  |    |    |    |  
 MVV  |  ProShares Ultra MidCap400  |    |    |    |  
 MXI  |  iShares Global Materials ETF  |    |    |    |  
@@ -1844,19 +1698,13 @@ NFO  |  Invesco Insider Sentiment ETF  |    |    |    |
 NGE  |  Global X MSCI Nigeria ETF  |    |    |    |  
 NIB  |  iPath Bloomberg Cocoa Subindex Total Return(SM) ETN  |    |    |    |  
 NLR  |  VanEck Uranium+Nuclear Energy ETF  |    |    |    |  
-NYF  |  iShares New York Muni Bond ETF  |    |    |    |  
 OEF  |  iShares S&P 100 ETF  |    |    |    |  
 OIH  |  VanEck Oil Services ETF  |    |    |    |  
 OIL  |  iPath Pure Beta Crude Oil ETN  |    |    |    |  
 OND  |  ProShares On-Demand ETF  |    |    |    |  
-ONG  |  Direxion Daily Oil Services Bull 2X Shares  |    |    |    |  
-OVB  |  Overlay Shares Core Bond ETF  |    |    |    |  
 OVF  |  Overlay Shares Foreign Equity ETF  |    |    |    |  
 OVL  |  Overlay Shares Large Cap Equity ETF  |    |    |    |  
-OVM  |  Overlay Shares Municipal Bond ETF  |    |    |    |  
 OVS  |  Overlay Shares Small Cap Equity ETF  |    |    |    |  
-OVT  |  Overlay Shares Short Term Bond ETF  |    |    |    |  
-PAB  |  PGIM Active Aggregate Bond ETF  |    |    |    |  
 PAK  |  Global X MSCI Pakistan ETF  |    |    |    |  
 PBD  |  Invesco Global Clean Energy ETF  |    |    |    |  
 PBE  |  Invesco Dynamic Biotechnology & Genome ETF  |    |    |    |  
@@ -1884,20 +1732,16 @@ PSK  |  SPDR ICE Preferred Securities ETF  |    |    |    |
 PSP  |  Invesco Global Listed Private Equity ETF  |    |    |    |  
 PSQ  |  ProShares Short QQQ  |    |    |    |  
 PSR  |  Invesco Active U.S. Real Estate Fund  |    |    |    |  
-PST  |  ProShares UltraShort 7-10 Year Treasury  |    |    |    |  
 PSY  |  Defiance Next Gen Altered Experience ETF  |    |    |    |  
 PVI  |  Invesco VRDO Tax-Free ETF  |    |    |    |  
 PWB  |  Invesco Dynamic Large Cap Growth ETF  |    |    |    |  
 PWC  |  Invesco Dynamic Market ETF  |    |    |    |  
-PWZ  |  Invesco California AMT-Free Municipal Bond ETF  |    |    |    |  
 PXE  |  Invesco Dynamic Energy Exploration & Production ETF  |    |    |    |  
 PXF  |  Invesco FTSE RAFI Developed Markets ex-U.S. ETF  |    |    |    |  
 PXH  |  Invesco FTSE RAFI Emerging Markets ETF  |    |    |    |  
 PXJ  |  Invesco Dynamic Oil & Gas Services ETF  |    |    |    |  
 PXQ  |  Invesco Dynamic Networking ETF  |    |    |    |  
-PZA  |  Invesco National AMT-Free Municipal Bond ETF  |    |    |    |  
 PZD  |  Invesco MSCI Sustainable Future ETF  |    |    |    |  
-PZT  |  Invesco New York AMT-Free Municipal Bond ETF  |    |    |    |  
 QAI  |  IQ Hedge Multi-Strategy Tracker ETF  |    |    |    |  
 QED  |  IQ Hedge Event-Driven Tracker ETF  |    |    |    |  
 QID  |  ProShares UltraShort QQQ  |    |    |    |  
@@ -1961,7 +1805,6 @@ SEF  |  ProShares Short Financials  |    |    |    |
 SFY  |  SoFi Select 500 ETF  |    |    |    |  
 SGG  |  iPath Series B Bloomberg Sugar Subindex Total Return ETN  |    |    |    |  
 SHE  |  SPDR SSGA Gender Diversity Index ETF  |    |    |    |  
-SHM  |  SPDR Nuveen Bloomberg Short Term Municipal Bond ETF  |    |    |    |  
 SIJ  |  ProShares UltraShort Industrials  |    |    |    |  
 SIL  |  Global X Silver Miners ETF  |    |    |    |  
 SIZ  |  AGFiQ U.S. Market Neutral Size Fund  |    |    |    |  
@@ -1975,39 +1818,23 @@ SPY  |  SPDR S&P 500 ETF Trust  |    |    |    |
 SRS  |  ProShares UltraShort Real Estate  |    |    |    |  
 SSG  |  ProShares UltraShort Semiconductors  |    |    |    |  
 SSO  |  ProShares Ultra S&P500  |    |    |    |  
-SUB  |  iShares Short-Term National Muni Bond ETF  |    |    |    |  
-SYE  |  SPDR MFS Systematic Core Equity ETF  |    |    |    |  
 SYG  |  SPDR MFS Systematic Growth Equity ETF  |    |    |    |  
 SZK  |  ProShares UltraShort Consumer Goods  |    |    |    |  
 SZO  |  DB Crude Oil Short ETN  |    |    |    |  
 TAN  |  Invesco Solar ETF  |    |    |    |  
 TAO  |  Invesco China Real Estate ETF  |    |    |    |  
-TBF  |  ProShares Short 20+ Year Treasury  |    |    |    |  
-TBT  |  ProShares UltraShort 20+ Year Treasury  |    |    |    |  
-TBX  |  ProShares Short 7-10 Year Treasury  |    |    |    |  
-TFI  |  SPDR Nuveen Bloomberg Municipal Bond ETF  |    |    |    |  
 TGN  |  AXS Brendan Wood TopGun Index ETF  |    |    |    |  
 THD  |  iShares MSCI Thailand ETF  |    |    |    |  
-TIP  |  iShares TIPS Bond ETF  |    |    |    |  
 TLO  |  SPDR Blmbg Barclays Long Term Trs ETF  |    |    |    |  
-TMF  |  Direxion Daily 20+ Year Treasury Bull 3X Shares  |    |    |    |  
-TMV  |  Direxion Daily 20+ Year Treasury Bear 3X Shares  |    |    |    |  
-TNA  |  Direxion Daily Small Cap Bull 3X Shares  |    |    |    |  
 TOK  |  iShares MSCI Kokusai ETF  |    |    |    |  
-TTT  |  ProShares UltraPro Short 20+ Year Treasury  |    |    |    |  
-TUA  |  Simplify Short Term Treasury Futures Strategy ETF  |    |    |    |  
 TWM  |  ProShares UltraShort Russell2000  |    |    |    |  
 TXS  |  Texas Capital Texas Equity Index ETF  |    |    |    |  
-TYD  |  Direxion Daily 7-10 Year Treasury Bull 3X Shares  |    |    |    |  
-TYO  |  Direxion Daily 7-10 Year Treasury Bear 3X Shares  |    |    |    |  
-TZA  |  Direxion Daily Small Cap Bear 3X Shares  |    |    |    |  
 UAG  |  UBS ETRACS CMCI Agriculture Total Return ETN  |    |    |    |  
 UAV  |  AdvisorShares Drone Technology ETF  |    |    |    |  
 UBC  |  UBS ETRACS CMCI Livestock Tot Ret ETN  |    |    |    |  
 UBG  |  UBS ETRACS CMCI Gold Total Return ETN  |    |    |    |  
 UBM  |  UBS ETRACS CMCI Indl Mtls Tot Ret ETN  |    |    |    |  
 UBR  |  ProShares Ultra MSCI Brazil Capped  |    |    |    |  
-UBT  |  ProShares Ultra 20+ Year Treasury  |    |    |    |  
 UCC  |  ProShares Ultra Consumer Services  |    |    |    |  
 UCI  |  UBS ETRACS CMCI Total Return ETN  |    |    |    |  
 UCO  |  ProShares Ultra Bloomberg Crude Oil  |    |    |    |  
@@ -2030,11 +1857,9 @@ USE  |  USCF Energy Commodity Strategy Absolute Return Fund  |    |    |    |
 USI  |  Principal Ultra-Short Active Income ETF  |    |    |    |  
 USL  |  United States 12 Month Oil Fund, LP  |    |    |    |  
 USO  |  United States Oil Fund, LP  |    |    |    |  
-UST  |  ProShares Ultra 7-10 Year Treasury  |    |    |    |  
 USV  |  UBS ETRACS CMCI Silver Total Return ETN  |    |    |    |  
 UUP  |  Invesco DB US Dollar Index Bullish Fund  |    |    |    |  
 UWM  |  ProShares Ultra Russell2000  |    |    |    |  
-UWT  |  VelocityShares 3x Long Crude Oil ETNs linked to the S&P GSCI Crude Oil Index ER New  |    |    |    |  
 UXI  |  ProShares Ultra Industrials  |    |    |    |  
 UYG  |  ProShares Ultra Financials  |    |    |    |  
 UYM  |  ProShares Ultra Basic Materials  |    |    |    |  
@@ -2067,8 +1892,6 @@ VWO  |  Vanguard Emerging Markets Stock Index Fund  |    |    |    |
 VXF  |  Vanguard Extended Market Index Fund  |    |    |    |  
 VYM  |  Vanguard High Dividend Yield Index Fund  |    |    |    |  
 WFH  |  Direxion Work From Home ETF  |    |    |    |  
-WIP  |  SPDR FTSE International Government Inflation-Protected Bond ETF  |    |    |    |  
-WMW  |  ELEMENTS Linked to the Morningstar Wide Moat Focus Total Return Index  |    |    |    |  
 WPS  |  iShares International Developed Property ETF  |    |    |    |  
 XAR  |  SPDR S&P Aerospace & Defense ETF  |    |    |    |  
 XBI  |  SPDR S&P Biotech ETF  |    |    |    |  
@@ -2114,7 +1937,6 @@ ACVF  |  American Conservative Values ETF  |    |    |    |
 ACWF  |  iShares MSCI Global Multifactor ETF  |    |    |    |  
 ADIV  |  SmartETFs Asia Pacific Dividend Builder ETF  |    |    |    |  
 ADPV  |  Adaptiv Select ETF  |    |    |    |  
-AEMB  |  American Century Emerging Markets Bond ETF  |    |    |    |  
 AFLG  |  First Trust Active Factor Large Cap ETF  |    |    |    |  
 AFMC  |  First Trust Active Factor Mid Cap ETF  |    |    |    |  
 AFSM  |  First Trust Active Factor Small Cap ETF  |    |    |    |  
@@ -2122,10 +1944,7 @@ AFTY  |  Pacer CSOP FTSE China A50 ETF  |    |    |    |
 AGGH  |  Simplify Aggregate Bond PLUS Credit Hedge ETF  |    |    |    |  
 AGGP  |  IQ Enhanced Core Plus Bond U.S. ETF  |    |    |    |  
 AGGY  |  WisdomTree Yield Enhanced U.S. Aggregate Bond Fund  |    |    |    |  
-AGIH  |  iShares Inflation Hedged U.S. Aggregate Bond ETF  |    |    |    |  
-AGOV  |  ETC Gavekal Asia Pacific Government Bond ETF  |    |    |    |  
 AGOX  |  Adaptive Alpha Opportunities ETF  |    |    |    |  
-AGRH  |  iShares Interest Rate Hedged U.S. Aggregate Bond ETF  |    |    |    |  
 AHHX  |  Adaptive High Income ETF  |    |    |    |  
 AHOY  |  Newday Ocean Health ETF  |    |    |    |  
 AIDB  |  Qraft AI-Pilot U.S. Large Cap Dynamic Beta ETF  |    |    |    |  
@@ -2134,6 +1953,7 @@ AIIQ  |  AI Powered International Equity ETF  |    |    |    |
 AILG  |  Alpha Intelligent - Large Cap Growth ETF  |    |    |    |  
 ALTL  |  Pacer Lunt Large Cap Alternator ETF  |    |    |    |  
 AMAX  |  RH Hedged Multi-Asset Income ETF  |    |    |    |  
+AMJL  |  Credit Suisse X-Links Monthly Pay 2xLeveraged Alerian MLP Index ETN  |    |    |    |  
 AMLP  |  Alerian MLP ETF  |    |    |    |  
 AMNA  |  ETRACS Alerian Midstream Energy Index ETN  |    |    |    |  
 AMND  |  ETRACS Alerian Midstream Energy High Dividend Index ETN  |    |    |    |  
@@ -2180,7 +2000,6 @@ AVUS  |  Avantis U.S. Equity ETF  |    |    |    |
 AWAY  |  ETFMG Travel Tech ETF  |    |    |    |  
 AWEG  |  Alger Weatherbie Enduring Growth ETF  |    |    |    |  
 AWTM  |  AWTM Ultra-Short Duration Enhanced Income ETF  |    |    |    |  
-AWYX  |  ETFMG 2x Daily Travel Tech ETF  |    |    |    |  
 AXJL  |  WisdomTree Asia Pacific ex-Japan Fund  |    |    |    |  
 AZAA  |  AllianzIM U.S. Large Cap Buffer10 Apr ETF  |    |    |    |  
 AZAJ  |  AllianzIM U.S. Large Cap Buffer10 Jan ETF  |    |    |    |  
@@ -2193,13 +2012,12 @@ AZBO  |  AllianzIM U.S. Large Cap Buffer20 Oct ETF  |    |    |    |
 AZTD  |  Aztlan Global Stock Selection Dm SMID ETF  |    |    |    |  
 BALB  |  iPath B Bloomberg Cotton Ttl Ret ETN  |    |    |    |  
 BATT  |  Amplify Lithium & Battery Technology ETF  |    |    |    |  
-BBAG  |  JPMorgan BetaBuilders U.S. Aggregate Bond ETF  |    |    |    |  
-BBCB  |  JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF  |    |    |    |  
 BBLU  |  Ea Bridgeway Blue Chip ETF  |    |    |    |  
 BBMC  |  JPMorgan BetaBuilders U.S. Mid Cap Equity ETF  |    |    |    |  
 BBSC  |  JPMorgan BetaBuilders U.S. Small Cap Equity ETF  |    |    |    |  
 BCDF  |  Horizon Kinetics Blockchain Development ETF  |    |    |    |  
 BCIM  |  abrdn ETFs - abrdn Bloomberg Industrial Metals Strategy K-1 Free ETF  |    |    |    |  
+BDCL  |  UBS ETRACS 2xLeveraged Long Wells Fargo Business Development Company Index ETN  |    |    |    |  
 BDCS  |  UBS ETRACS Linked to the Wells Fargo Business Development Company Index ETN  |    |    |    |  
 BDCZ  |  UBS ETRACS Wells Fargo Business Development Company Index ETN  |    |    |    |  
 BDRY  |  Breakwave Dry Bulk Shipping ETF  |    |    |    |  
@@ -2222,17 +2040,12 @@ BITO  |  ProShares Bitcoin Strategy ETF  |    |    |    |
 BITQ  |  Bitwise Crypto Industry Innovators ETF  |    |    |    |  
 BIZD  |  VanEck BDC Income ETF  |    |    |    |  
 BJJN  |  iPath B Bloomberg Nickel Ttl Ret ETN  |    |    |    |  
-BKAG  |  BNY Mellon Core Bond ETF  |    |    |    |  
 BKCI  |  BNY Mellon Concentrated International ETF  |    |    |    |  
 BKEM  |  BNY Mellon Emerging Markets Equity ETF  |    |    |    |  
 BKES  |  BNY Mellon Sustainable Global Emerging Markets ETF  |    |    |    |  
 BKIE  |  BNY Mellon International Equity ETF  |    |    |    |  
 BKIS  |  BNY Mellon Sustainable International Equity ETF  |    |    |    |  
-BKLC  |  BNY Mellon US Large Cap Core Equity ETF  |    |    |    |  
 BKLN  |  Invesco Senior Loan ETF  |    |    |    |  
-BKMC  |  BNY Mellon US Mid Cap Core Equity ETF  |    |    |    |  
-BKSB  |  BNY Mellon Short Duration Corporate Bond ETF  |    |    |    |  
-BKSE  |  BNY Mellon US Small Cap Core Equity ETF  |    |    |    |  
 BKUI  |  BNY Mellon Ultra Short Income ETF  |    |    |    |  
 BKUS  |  BNY Mellon Sustainable US Equity ETF  |    |    |    |  
 BLES  |  Inspire Global Hope ESG ETF  |    |    |    |  
@@ -2240,7 +2053,6 @@ BLOK  |  Amplify Transformational Data Sharing ETF  |    |    |    |
 BMED  |  BlackRock Future Health ETF  |    |    |    |  
 BNDC  |  FlexShares Core Select Bond Fund  |    |    |    |  
 BNDD  |  Quadratic Deflation ETF  |    |    |    |  
-BNDI  |  Neos Enhanced Income Aggregate Bond ETF  |    |    |    |  
 BNGE  |  First Trust S-Network Streaming & Gaming ETF  |    |    |    |  
 BOAT  |  SonicShares Global Shipping ETF  |    |    |    |  
 BOIL  |  ProShares Ultra Bloomberg Natural Gas  |    |    |    |  
@@ -2248,7 +2060,6 @@ BOND  |  PIMCO Active Bond Exchange-Traded Fund  |    |    |    |
 BOUT  |  Innovator IBD Breakout Opportunities ETF  |    |    |    |  
 BPAY  |  BlackRock Future Financial and Technology ETF  |    |    |    |  
 BRKY  |  Direxion Breakfast Commodities Strategy ETF  |    |    |    |  
-BRZU  |  Direxion Daily MSCI Brazil Bull 2X Shares  |    |    |    |  
 BSEA  |  ETFMG Breakwave Sea Decarbonization Tech ETF  |    |    |    |  
 BSTP  |  Innovator Buffer Step-Up Strategy ETF  |    |    |    |  
 BSWN  |  VelocityShares VIX Tail Risk ETN  |    |    |    |  
@@ -2262,19 +2073,19 @@ BUYN  |  USCF SummerHaven SHPEN Index Fund  |    |    |    |
 BUZZ  |  VanEck Social Sentiment ETF  |    |    |    |  
 BWEB  |  Bitwise Web3 ETF  |    |    |    |  
 BWET  |  ETF Managers Group Commodity Tr  |    |    |    |  
-BYLD  |  iShares Yield Optimized Bond ETF  |    |    |    |  
 BYRE  |  Principal Real Estate Active Opportunities ETF  |    |    |    |  
 BYTE  |  Roundhill IO Digital Infrastructure ETF  |    |    |    |  
 CANE  |  Teucrium Sugar Fund  |    |    |    |  
 CAPD  |  Barclays ETN+ Shiller Capet ETN  |    |    |    |  
 CARY  |  Angel Oak Income ETF  |    |    |    |  
 CBLS  |  Changebridge Capital Long/Short Equity ETF  |    |    |    |  
-CBON  |  VanEck China Bond ETF  |    |    |    |  
 CBSE  |  Changebridge Capital Sustainable Equity ETF  |    |    |    |  
 CCON  |  Direxion Connected Consumer ETF  |    |    |    |  
 CCOR  |  Core Alternative ETF  |    |    |    |  
 CCRV  |  iShares Commodity Curve Carry Strategy ETF  |    |    |    |  
 CDEI  |  Calvert US Large-Cap Diversity, Equity And Inclusion Index ETF  |    |    |    |  
+CEFL  |  UBS ETRACS Monthly Pay 2xLeveraged Closed-End Fund ETN  |    |    |    |  
+CEFZ  |  ETRACS Monthly Pay 2xLeveraged Closed-End Fund ETN Series B  |    |    |    |  
 CETF  |  DriveWealth ETF Trust - DriveWealth ICE 100 Index ETF  |    |    |    |  
 CGCP  |  Capital Group Core Plus Income ETF  |    |    |    |  
 CGGO  |  Capital Group Global Growth Equity ETF  |    |    |    |  
@@ -2283,9 +2094,7 @@ CGMS  |  Capital Group U.S. Multi-Sector Income ETF  |    |    |    |
 CGMU  |  Capital Group Municipal Income ETF  |    |    |    |  
 CGSD  |  Capital Group Short Duration Income ETF  |    |    |    |  
 CGXU  |  Capital Group International Focus Equity ETF  |    |    |    |  
-CHAD  |  Direxion Daily CSI 300 China A Share Bear 1X Shares  |    |    |    |  
 CHAT  |  Tidal Trust II - Roundhill Generative AI & Technology ETF  |    |    |    |  
-CHAU  |  Direxion Daily CSI 300 China A Share Bull 2X Shares  |    |    |    |  
 CHGX  |  AXS Change Finance ESG ETF  |    |    |    |  
 CHIC  |  Global X MSCI China Communication Services ETF  |    |    |    |  
 CHIE  |  Global X MSCI China Energy ETF  |    |    |    |  
@@ -2302,8 +2111,6 @@ CHIX  |  Global X MSCI China Financials ETF  |    |    |    |
 CHLD  |  LifeGoal Children Investment ET  |    |    |    |  
 CHOC  |  iPath® Pure Beta Cocoa ETN  |    |    |    |  
 CHRG  |  Element EV & Solar Battery Materials (Lithium, Nickel, Copper, Cobalt) Futures ETF  |    |    |    |  
-CLDL  |  Direxion Daily Cloud Computing Bull 2X Shares  |    |    |    |  
-CLDS  |  Direxion Daily Cloud Computing Bear 2X Shares  |    |    |    |  
 CLIA  |  Veridien Climate Action ETF  |    |    |    |  
 CLIP  |  Global X Funds - 1-3 Month T-Bill Etf  |    |    |    |  
 CLIX  |  ProShares Long Online/Short Stores ETF  |    |    |    |  
@@ -2314,7 +2121,6 @@ CLOZ  |  Panagram Bbb-B Clo ETF  |    |    |    |
 CLSA  |  Cabana Target Leading Sector Aggressive ETF  |    |    |    |  
 CLSC  |  Cabana Target Leading Sector Conservative ETF  |    |    |    |  
 CLSM  |  Cabana Target Leading Sector Moderate ETF  |    |    |    |  
-CLTL  |  Invesco Treasury Collateral ETF  |    |    |    |  
 CMBS  |  iShares CMBS ETF  |    |    |    |  
 CMDT  |  PIMCO ETF Trust - PIMCO Commodity Strategy Active Exchange-Traded Fund  |    |    |    |  
 CMDY  |  iShares Bloomberg Roll Select Broad Commodity ETF  |    |    |    |  
@@ -2344,14 +2150,11 @@ CTEX  |  ProShares S&P Kensho Cleantech ETF  |    |    |    |
 CTNN  |  iPath® Pure Beta Cotton ETN  |    |    |    |  
 CUBS  |  Asian Growth Cubs ETF  |    |    |    |  
 CUPM  |  iPath® Pure Beta Copper ETN  |    |    |    |  
-CURE  |  Direxion Daily Healthcare Bull 3X Shares  |    |    |    |  
 CVIE  |  Calvert International Responsible Index ETF  |    |    |    |  
 CVLC  |  Calvert US Large-Cap Core Responsible Index ETF  |    |    |    |  
 CVMC  |  Calvert US Mid-Cap Core Responsible Index ETF  |    |    |    |  
 CVSB  |  Calvert Ultra-Short Investment Grade ETF  |    |    |    |  
 CVSE  |  Calvert US Select Equity ETF  |    |    |    |  
-CWEB  |  Direxion Daily CSI China Internet Bull 2X Shares  |    |    |    |  
-DAUD  |  Citigroup ETNs linked to the VelocityShares Daily 4X Long USD vs. AUD Index  |    |    |    |  
 DBAW  |  Xtrackers MSCI All World ex U.S. Hedged Equity ETF  |    |    |    |  
 DBEF  |  Xtrackers MSCI EAFE Hedged Equity ETF  |    |    |    |  
 DBEH  |  iMGP DBi Hedge Strategy ETF  |    |    |    |  
@@ -2361,9 +2164,7 @@ DBEZ  |  Xtrackers MSCI Eurozone Hedged Equity ETF  |    |    |    |
 DBGR  |  Xtrackers MSCI Germany Hedged Equity ETF  |    |    |    |  
 DBJP  |  Xtrackers MSCI Japan Hedged Equity ETF  |    |    |    |  
 DBMF  |  iMGP DBi Managed Futures Strategy ETF  |    |    |    |  
-DBND  |  DoubleLine Opportunistic Bond ETF  |    |    |    |  
 DBRT  |  Credit Suisse AG (Nassau Branch) Ltd.  |    |    |    |  
-DCHF  |  Citigroup ETNs linked to the VelocityShares Daily 4X Long USD vs. CHF Index  |    |    |    |  
 DCMB  |  Doubleline Etf Trust - Commercial Real Estate ETF  |    |    |    |  
 DCNG  |  iPath® Seasonal Natural Gas ETN  |    |    |    |  
 DECT  |  Allianzim U.S. Large Cap Buffer10 Dec ETF  |    |    |    |  
@@ -2371,26 +2172,14 @@ DECW  |  Allianzim U.S. Large Cap Buffer20 Dec ETF  |    |    |    |
 DEED  |  First Trust TCW Securitized Plus ETF  |    |    |    |  
 DEEF  |  Xtrackers FTSE Developed ex US Multifactor ETF  |    |    |    |  
 DEFI  |  Hashdex Bitcoin Futures ETF  |    |    |    |  
-DEUR  |  Citigroup ETNs linked to the VelocityShares Daily 4X Long USD vs. EUR Index  |    |    |    |  
 DEUS  |  Xtrackers Russell US Multifactor ETF  |    |    |    |  
-DFAC  |  Dimensional U.S. Core Equity 2 ETF  |    |    |    |  
-DFAE  |  Dimensional Emerging Core Equity Market ETF  |    |    |    |  
-DFAI  |  Dimensional International Core Equity Market ETF  |    |    |    |  
 DFAR  |  Dimensional US Real Estate ETF  |    |    |    |  
 DFAS  |  Dimensional U.S. Small Cap ETF  |    |    |    |  
-DFAU  |  Dimensional US Core Equity Market ETF  |    |    |    |  
-DFAX  |  Dimensional World ex U.S. Core Equity 2 ETF  |    |    |    |  
-DFCA  |  Dimensional ETF Trust - Dimensional California Municipal Bond ETF  |    |    |    |  
-DFEM  |  Dimensional Emerging Markets Core Equity 2 ETF  |    |    |    |  
-DFEN  |  Direxion Daily Aerospace & Defense Bull 3X Shares  |    |    |    |  
 DFIP  |  Dimensional Inflation-Protected Securities ETF  |    |    |    |  
-DFNM  |  Dimensional National Municipal Bond ETF  |    |    |    |  
 DFSE  |  Dimensional Emerging Markets Sustainability Core 1 ETF  |    |    |    |  
 DFSI  |  Dimensional International Sustainability Core 1 ETF  |    |    |    |  
 DFSU  |  Dimensional US Sustainability Core 1 ETF  |    |    |    |  
 DFUS  |  Dimensional U.S. Equity ETF  |    |    |    |  
-DGAZ  |  VelocityShares 3x Inverse Natural Gas ETN Linked to the S&P GSCI Natural Gas Index ER  |    |    |    |  
-DGBP  |  Citigroup ETNs linked to the VelocityShares Daily 4X Long USD vs. GBP Index  |    |    |    |  
 DGIN  |  VanEck Digital India ETF  |    |    |    |  
 DGRO  |  iShares Core Dividend Growth ETF  |    |    |    |  
 DIEM  |  Franklin Emerging Market Core Dividend Tilt Index ETF  |    |    |    |  
@@ -2405,7 +2194,6 @@ DIVY  |  Reality Shares DIVS ETF  |    |    |    |
 DJCB  |  ETRACS Bloomberg Commodity Index Total ReturnSM ETN Series B  |    |    |    |  
 DJCI  |  UBS ETRACS Bloomberg Commodity Index Total Return ETN  |    |    |    |  
 DJIA  |  Global X Dow 30 Covered Call ETF  |    |    |    |  
-DJPY  |  Citigroup ETNs linked to the VelocityShares Daily 4X Long USD vs. JPY Index  |    |    |    |  
 DLBR  |  VelocityShares Short LIBOR ETN  |    |    |    |  
 DMBS  |  Doubleline Etf Trust - Mortgage ETF  |    |    |    |  
 DMCY  |  Democracy International Fund  |    |    |    |  
@@ -2415,9 +2203,6 @@ DMRL  |  DeltaShares S&P 500 Managed Risk ETF  |    |    |    |
 DMRM  |  DeltaShares S&P 400 Managed Risk ETF  |    |    |    |  
 DMRS  |  DeltaShares S&P 600 Managed Risk ETF  |    |    |    |  
 DOGS  |  Arrow Dogs of the World ETF  |    |    |    |  
-DOZR  |  Direxion Daily US Infrastructure Bull 2X Shares  |    |    |    |  
-DPST  |  Direxion Daily Regional Banks Bull 3X Shares  |    |    |    |  
-DRIP  |  Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares  |    |    |    |  
 DRLL  |  Strive U.S. Energy ETF  |    |    |    |  
 DSCF  |  Discipline Fund ETF  |    |    |    |  
 DSMC  |  Distillate Small/Mid Cash Flow ETF  |    |    |    |  
@@ -2426,24 +2211,22 @@ DTOX  |  Amplify Cleaner Living ETF  |    |    |    |
 DTRE  |  First Trust Alerian Disruptive Technology Real Estate ETF  |    |    |    |  
 DUAL  |  North Shore Dual Share Class ETF  |    |    |    |  
 DULL  |  Bank Of Montreal MicroSectors G  |    |    |    |  
-DUSL  |  Direxion Daily Industrials Bull 3X Shares  |    |    |    |  
-DUST  |  Direxion Daily Gold Miners Index Bear 2X Shares  |    |    |    |  
+DVHL  |  UBS ETRACS Monthly Pay 2xLeveraged Diversified High Income ETN  |    |    |    |  
 DVND  |  Touchstone Dividend Select ETF  |    |    |    |  
 DVYA  |  iShares Asia/Pacific Dividend ETF  |    |    |    |  
 DVYE  |  iShares Emerging Markets Dividend ETF  |    |    |    |  
+DVYL  |  UBS ETRACS Monthly Pay 2xLeveraged Dow Jones Select Dividend Index ETN  |    |    |    |  
 DWMF  |  WisdomTree International Multifactor Fund  |    |    |    |  
 DYHG  |  Direxion Dynamic Hedge ETF  |    |    |    |  
 DYLD  |  LeaderShares Dynamic Yield ETF  |    |    |    |  
 DYNF  |  BlackRock U.S. Equity Factor Rotation ETF  |    |    |    |  
 EAFD  |  Simplify Developed Ex-US PLUS Downside Convexity ETF  |    |    |    |  
-EAGG  |  iShares ESG U.S. Aggregate Bond ETF  |    |    |    |  
 EAPR  |  Innovator MSCI Emerging Markets Power Buffer ETF - April  |    |    |    |  
 EASG  |  Xtrackers MSCI EAFE ESG Leaders Equity ETF  |    |    |    |  
 EASI  |  Amplify EASI Tactical Growth ETF  |    |    |    |  
 EATV  |  VegTech Plant-based Innovation & Climate ETF  |    |    |    |  
 EATZ  |  AdvisorShares Restaurant ETF  |    |    |    |  
 EBLU  |  Ecofin Global Water ESG Fund  |    |    |    |  
-EBND  |  SPDR Bloomberg Emerging Markets Local Bond ETF  |    |    |    |  
 ECLN  |  First Trust EIP Carbon Impact ETF  |    |    |    |  
 ECNS  |  iShares MSCI China Small-Cap ETF  |    |    |    |  
 ECON  |  Columbia Emerging Markets Consumer ETF  |    |    |    |  
@@ -2465,18 +2248,12 @@ EIRL  |  iShares MSCI Ireland ETF  |    |    |    |
 EJAN  |  Innovator Emerging Markets Power Buffer ETF - January  |    |    |    |  
 EJUL  |  Innovator MSCI Emerging Markets Power Buffer ETF - July  |    |    |    |  
 EKAR  |  Capital Link Global Green Energy Transport & Technology Leaders ETF  |    |    |    |  
-ELQD  |  iShares ESG Advanced Investment Grade Corporate Bond ETF  |    |    |    |  
-EMAG  |  VanEck Vectors Emerging Markets Aggregate Bond ETF  |    |    |    |  
-EMBD  |  Global X Emerging Markets Bond ETF  |    |    |    |  
-EMBH  |  iShares Interest Rate Hedged Emerging Markets Bond ETF  |    |    |    |  
 EMCR  |  Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF  |    |    |    |  
 EMDM  |  First Trust Exchange-Traded Fun  |    |    |    |  
 EMFM  |  Global X Next Emerging & Frontier ETF  |    |    |    |  
 EMFQ  |  Amplify Emerging Markets FinTech ETF  |    |    |    |  
 EMGD  |  Simplify Emerging Markets Equity PLUS Downside Convexity ETF  |    |    |    |  
-EMHC  |  SPDR Bloomberg Emerging Markets USD Bond ETF  |    |    |    |  
 EMLB  |  iPath Long Enhanced MSCI Emerg Mkts ETN  |    |    |    |  
-EMLC  |  VanEck J.P. Morgan EM Local Currency Bond ETF  |    |    |    |  
 EMLP  |  First Trust North American Energy Infrastructure Fund  |    |    |    |  
 EMMF  |  WisdomTree Emerging Markets Multifactor Fund  |    |    |    |  
 EMNT  |  PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund  |    |    |    |  
@@ -2493,14 +2270,12 @@ EQAL  |  Invesco Russell 1000 Equal Weight ETF  |    |    |    |
 EQLS  |  Simplify Market Neutral Equity Long/Short ETF  |    |    |    |  
 EQLT  |  Workplace Equality Portfolio  |    |    |    |  
 EQOP  |  Natixis U.S. Equity Opportunities ETF  |    |    |    |  
-EQTY  |  Kovitz Core Equity ETF  |    |    |    |  
 EQUL  |  IQ Engender Equality ETF  |    |    |    |  
 EQWL  |  Invesco S&P 100 Equal Weight ETF  |    |    |    |  
 ERSX  |  ERShares NextGen Entrepreneurs ETF  |    |    |    |  
 ERTH  |  Invesco MSCI Sustainable Future ETF  |    |    |    |  
 ERUS  |  iShares MSCI Russia ETF  |    |    |    |  
 ESGA  |  American Century Sustainable Equity ETF  |    |    |    |  
-ESGB  |  IQ MacKay ESG Core Plus Bond ETF  |    |    |    |  
 ESGF  |  Invesco Global ESG Revenue ETF  |    |    |    |  
 ESGL  |  Invesco ESG Revenue ETF  |    |    |    |  
 ESGN  |  Columbia Sustainable International Equity Income ETF  |    |    |    |  
@@ -2512,14 +2287,10 @@ ESNG  |  Direxion MSCI USA ESG - Leaders vs. Laggards ETF  |    |    |    |
 ESUS  |  UBS AG, London Branch  |    |    |    |  
 ETHO  |  Etho Climate Leadership U.S. ETF  |    |    |    |  
 ETPA  |  Ecofin Digital Payments Infrastructure Fund  |    |    |    |  
-EUFL  |  Direxion Daily MSCI European Financials Bull 2X Shares  |    |    |    |  
 EUFX  |  ProShares Short Euro  |    |    |    |  
-EURL  |  Direxion Daily FTSE Europe Bull 3X Shares  |    |    |    |  
 EUSA  |  iShares MSCI USA Equal Weighted ETF  |    |    |    |  
 EUSB  |  iShares ESG Advanced Total USD Bond Market ETF  |    |    |    |  
 EUSC  |  WisdomTree Europe Hedged SmallCap Equity Fund  |    |    |    |  
-EVAV  |  Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares  |    |    |    |  
-EVEN  |  Direxion Daily S&P 500 Equal Weight Bull 2X Shares  |    |    |    |  
 EVNT  |  AltShares Event-Driven ETF  |    |    |    |  
 EVXX  |  Defiance Pure Electric Vehicle ETF  |    |    |    |  
 EWCO  |  Invesco S&P 500 Equal Weight Communication Services ETF  |    |    |    |  
@@ -2529,9 +2300,7 @@ EWRE  |  Invesco S&P 500 Equal Weight Real Estate ETF  |    |    |    |
 EWSC  |  Invesco S&P SmallCap 600 Equal Weight ETF  |    |    |    |  
 FAUS  |  First Trust Australia AlphaDEX Fund  |    |    |    |  
 FBGX  |  UBS AG FI Enhanced Large Cap Growth ETN  |    |    |    |  
-FBND  |  Fidelity Total Bond ETF  |    |    |    |  
 FCOM  |  Fidelity MSCI Communication Services Index ETF  |    |    |    |  
-FCOR  |  Fidelity Corporate Bond ETF  |    |    |    |  
 FCSH  |  Federated Hermes Short Duration Corporate ETF  |    |    |    |  
 FCUS  |  Pinnacle Focused Opportunities ETF  |    |    |    |  
 FDAT  |  Tidal Trust II - Tactical Advantage ETF  |    |    |    |  
@@ -2561,7 +2330,6 @@ FIDI  |  Fidelity International High Dividend ETF  |    |    |    |
 FIDU  |  Fidelity MSCI Industrials Index ETF  |    |    |    |  
 FIEE  |  UBS AG FI Enhanced Europe 50 ETN  |    |    |    |  
 FIEU  |  Credit Suisse FI Enhanced Europe50 ETN  |    |    |    |  
-FIGB  |  Fidelity Investment Grade Bond ETF  |    |    |    |  
 FIGY  |  Barclays ETN+ FI Enhanced Glb Hi Yld  |    |    |    |  
 FILL  |  iShares MSCI Global Energy Producers ETF  |    |    |    |  
 FINU  |  ProShares UltraPro Financial Select Sector  |    |    |    |  
@@ -2572,7 +2340,6 @@ FLAU  |  Franklin FTSE Australia ETF  |    |    |    |
 FLAX  |  Franklin FTSE Asia ex Japan ETF  |    |    |    |  
 FLBR  |  Franklin FTSE Brazil ETF  |    |    |    |  
 FLCA  |  Franklin FTSE Canada ETF  |    |    |    |  
-FLCB  |  Franklin U.S. Core Bond ETF  |    |    |    |  
 FLCH  |  Franklin FTSE China ETF  |    |    |    |  
 FLCO  |  Franklin Investment Grade Corporate ETF  |    |    |    |  
 FLDZ  |  RiverNorth Patriot ETF  |    |    |    |  
@@ -2590,8 +2357,6 @@ FLJH  |  Franklin FTSE Japan Hedged ETF  |    |    |    |
 FLJP  |  Franklin FTSE Japan ETF  |    |    |    |  
 FLKR  |  Franklin FTSE South Korea ETF  |    |    |    |  
 FLLA  |  Franklin FTSE Latin America ETF  |    |    |    |  
-FLMB  |  Franklin Municipal Green Bond ETF  |    |    |    |  
-FLMI  |  Franklin Dynamic Municipal Bond ETF  |    |    |    |  
 FLMX  |  Franklin FTSE Mexico ETF  |    |    |    |  
 FLQD  |  Franklin U.S. Core Dividend Tilt Index ETF  |    |    |    |  
 FLQE  |  Franklin LibertyQ Emerging Markets ETF  |    |    |    |  
@@ -2604,10 +2369,8 @@ FLRU  |  Franklin FTSE Russia ETF  |    |    |    |
 FLSA  |  Franklin FTSE Saudi Arabia ETF  |    |    |    |  
 FLSP  |  Franklin Systematic Style Premia ETF  |    |    |    |  
 FLSW  |  Franklin FTSE Switzerland ETF  |    |    |    |  
-FLTB  |  Fidelity Limited Term Bond ETF  |    |    |    |  
 FLTR  |  VanEck Investment Grade Floating Rate ETF  |    |    |    |  
 FLTW  |  Franklin FTSE Taiwan ETF  |    |    |    |  
-FLUD  |  Franklin Ultra Short Bond ETF  |    |    |    |  
 FLYT  |  Direxion Flight to Safety Strategy ETF  |    |    |    |  
 FLZA  |  Franklin FTSE South Africa ETF  |    |    |    |  
 FMAT  |  Fidelity MSCI Materials Index ETF  |    |    |    |  
@@ -2621,9 +2384,7 @@ FNDC  |  Schwab Fundamental International Small Company Index ETF  |    |    |  
 FNDE  |  Schwab Fundamental Emerging Markets Large Company Index ETF  |    |    |    |  
 FNDF  |  Schwab Fundamental International Large Company Index ETF  |    |    |    |  
 FNDX  |  Schwab Fundamental U.S. Large Company Index ETF  |    |    |    |  
-FNGG  |  Direxion Daily Select Large Caps & FANGs Bull 2X Shares  |    |    |    |  
 FNGS  |  MicroSectors FANG+ ETN  |    |    |    |  
-FNTC  |  Direxion Daily Fintech Bull 2X Shares  |    |    |    |  
 FOIL  |  iPath® Pure Beta Aluminum ETN  |    |    |    |  
 FORH  |  Formidable ETF  |    |    |    |  
 FPEI  |  First Trust Institutional Preferred Securities and Income ETF  |    |    |    |  
@@ -2631,15 +2392,12 @@ FRAK  |  VanEck Vectors Unconventional Oil & Gas ETF  |    |    |    |
 FREL  |  Fidelity MSCI Real Estate Index ETF  |    |    |    |  
 FRLG  |  Large Cap Growth Index-Linked ETN due 2028  |    |    |    |  
 FRTY  |  Alger Mid Cap 40 ETF  |    |    |    |  
-FSBD  |  Fidelity Sustainable Core Plus Bond ETF  |    |    |    |  
 FSEC  |  Fidelity Investment Grade Securitized ETF  |    |    |    |  
 FSIG  |  First Trust Limited Duration Investment Grade Corporate ETF  |    |    |    |  
-FSLD  |  Fidelity Sustainable Low Duration Bond ETF  |    |    |    |  
 FSMB  |  First Trust Short Duration Managed Municipal ETF  |    |    |    |  
 FSMD  |  Fidelity Small-Mid Factor ETF  |    |    |    |  
 FSST  |  Fidelity Sustainable U.S. Equity ETF  |    |    |    |  
 FSTA  |  Fidelity MSCI Consumer Staples Index ETF  |    |    |    |  
-FTBD  |  Fidelity Tactical Bond ETF  |    |    |    |  
 FTEC  |  Fidelity MSCI Information Technology Index ETF  |    |    |    |  
 FTIF  |  First Trust Bloomberg Inflation Sensitive Equity ETF  |    |    |    |  
 FTLS  |  First Trust Long/Short Equity ETF  |    |    |    |  
@@ -2647,25 +2405,20 @@ FTSD  |  Franklin Short Duration U.S. Government ETF  |    |    |    |
 FUMB  |  First Trust Ultra Short Duration Municipal ETF  |    |    |    |  
 FUSI  |  American Century ETF Trust - American Century Multisector Floating Income ETF  |    |    |    |  
 FUTY  |  Fidelity MSCI Utilities Index ETF  |    |    |    |  
-FWDB  |  AdvisorShares FolioBeyond Smart Core Bond ETF  |    |    |    |  
 FXCH  |  Invesco CurrencyShares Chinese Renminbi Trust  |    |    |    |  
 FXSG  |  Invesco CurrencyShares Singapore Dollar Trust  |    |    |    |  
 FYLG  |  Global X Financials Covered Call & Growth ETF  |    |    |    |  
 GABF  |  Gabelli Financial Services Opportunities ETF  |    |    |    |  
 GAMR  |  Wedbush ETFMG Video Game Tech ETF  |    |    |    |  
-GASL  |  Direxion Daily Natural Gas Related Bull 3X Shares  |    |    |    |  
 GAST  |  Gabelli Automation ETF  |    |    |    |  
-GASX  |  Direxion Daily Natural Gas Related Bear 3X Shares  |    |    |    |  
 GAZB  |  iPath Bloomberg Natural Gas SubTR ETN B  |    |    |    |  
 GBDV  |  Global Beta Smart Income ETF  |    |    |    |  
 GBGR  |  Global Beta Rising Stars ETF  |    |    |    |  
-GBIL  |  Goldman Sachs Access Treasury 0-1 Year ETF  |    |    |    |  
 GBLD  |  Invesco MSCI Green Building ETF  |    |    |    |  
 GBLO  |  Global Beta Low Beta ETF  |    |    |    |  
 GBUG  |  iPath Gold ETN  |    |    |    |  
 GBUY  |  Goldman Sachs Future Consumer Equity ETF  |    |    |    |  
 GCIG  |  Genuine Investors ETF  |    |    |    |  
-GCOR  |  Goldman Sachs Access U.S. Aggregate Bond ETF  |    |    |    |  
 GDAT  |  Goldman Sachs Data-Driven World ETF  |    |    |    |  
 GDEF  |  Goldman Sachs Defensive Equity ETF  |    |    |    |  
 GDIV  |  Harbor Dividend Growth Leaders ETF  |    |    |    |  
@@ -2680,7 +2433,6 @@ GFIN  |  Goldman Sachs Finance Reimagined ETF  |    |    |    |
 GFOF  |  Grayscale Future of Finance ETF  |    |    |    |  
 GGRW  |  Gabelli Growth Innovators ETF  |    |    |    |  
 GHII  |  Invesco S&P High Income Infrastructure ETF  |    |    |    |  
-GIGB  |  Goldman Sachs Access Investment Grade Corporate Bond ETF  |    |    |    |  
 GINN  |  Goldman Sachs Innovate Equity ETF  |    |    |    |  
 GLBY  |  WisdomTree Yield Enhanced Global Aggregate Bond Fund  |    |    |    |  
 GLCN  |  VanEck China Growth Leaders ETF  |    |    |    |  
@@ -2699,13 +2451,11 @@ GOEX  |  Global X Gold Explorers ETF  |    |    |    |
 GREI  |  Goldman Sachs Future Real Estate and Infrastructure Equity ETF  |    |    |    |  
 GREK  |  Global X MSCI Greece ETF  |    |    |    |  
 GRES  |  IQ Global Resources ETF  |    |    |    |  
-GRNB  |  VanEck Green Bond ETF  |    |    |    |  
 GRWN  |  iPath® Pure Beta Softs ETN  |    |    |    |  
 GRZZ  |  Grizzle Growth ETF  |    |    |    |  
 GSEU  |  Goldman Sachs ActiveBeta Europe Equity ETF  |    |    |    |  
 GSFP  |  Goldman Sachs Future Planet Equity ETF  |    |    |    |  
 GSIE  |  Goldman Sachs ActiveBeta International Equity ETF  |    |    |    |  
-GSIG  |  Goldman Sachs Access Investment Grade Corporate 1-5 Year Bond ETF  |    |    |    |  
 GSJY  |  Goldman Sachs ActiveBeta Japan Equity ETF  |    |    |    |  
 GSLC  |  Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF  |    |    |    |  
 GSPY  |  Gotham Enhanced 500 ETF  |    |    |    |  
@@ -2715,7 +2465,6 @@ GUDB  |  Sage ESG Intermediate Credit ETF  |    |    |    |
 GUNR  |  FlexShares Morningstar Global Upstream Natural Resources Index Fund  |    |    |    |  
 GURU  |  Global X Guru Index ETF  |    |    |    |  
 GUSA  |  Goldman Sachs MarketBeta U.S. 1000 Equity ETF  |    |    |    |  
-GUSH  |  Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares  |    |    |    |  
 GVIP  |  Goldman Sachs Hedge Industry VIP ETF  |    |    |    |  
 GYLD  |  Arrow Dow Jones Global Yield ETF  |    |    |    |  
 HACK  |  ETFMG Prime Cyber Security ETF  |    |    |    |  
@@ -2754,8 +2503,6 @@ HFXE  |  IQ 50 Percent Hedged FTSE Europe ETF  |    |    |    |
 HFXI  |  IQ 50 Percent Hedged FTSE International ETF  |    |    |    |  
 HFXJ  |  IQ 50 Percent Hedged FTSE Japan ETF  |    |    |    |  
 HGER  |  Harbor All-Weather Inflation Focus ETF  |    |    |    |  
-HIBL  |  Direxion Daily S&P 500 High Beta Bull 3X Shares  |    |    |    |  
-HIBS  |  Direxion Daily S&P 500 High Beta Bear 3X Shares  |    |    |    |  
 HIDV  |  AB Active ETFs, Inc. AB US High  |    |    |    |  
 HIGH  |  Simplify Enhanced Income ETF  |    |    |    |  
 HIPR  |  Direxion High Growth ETF  |    |    |    |  
@@ -2766,18 +2513,16 @@ HKND  |  Humankind US Stock ETF  |    |    |    |
 HLGE  |  Hartford Longevity Economy ETF  |    |    |    |  
 HMOP  |  Hartford Municipal Opportunities ETF  |    |    |    |  
 HOLD  |  AdvisorShares North Square McKee Core Reserves ETF  |    |    |    |  
+HOML  |  UBS ETRACS Monthly Reset 2xLeveraged ISE Exclusively Homebuilders ETN  |    |    |    |  
 HOMZ  |  The Hoya Capital Housing ETF  |    |    |    |  
 HOTL  |  Kelly Hotel & Lodging Sector ETF  |    |    |    |  
 HSCZ  |  iShares Currency Hedged MSCI EAFE Small-Cap ETF  |    |    |    |  
 HSMV  |  First Trust Horizon Managed Volatility Small/Mid ETF  |    |    |    |  
 HSPX  |  Global X S&P 500 Covered Call ETF  |    |    |    |  
-HTAB  |  Hartford Schroders Tax-Aware Bond ETF  |    |    |    |  
 HTEC  |  Robo Global Healthcare Technology and Innovation ETF  |    |    |    |  
-HTRB  |  Hartford Total Return Bond ETF  |    |    |    |  
 HTUS  |  Hull Tactical US ETF  |    |    |    |  
 HUSE  |  Strategy Shares US Market Rotation Strategy ETF  |    |    |    |  
 HUSV  |  First Trust Horizon Managed Volatility Domestic ETF  |    |    |    |  
-HYBB  |  iShares BB Rated Corporate Bond ETF  |    |    |    |  
 HYLG  |  Global X Health Care Covered Call & Growth ETF  |    |    |    |  
 IAPR  |  Innovator MSCI EAFE Power Buffer ETF - April  |    |    |    |  
 IAUM  |  iShares Gold Trust Micro  |    |    |    |  
@@ -2800,11 +2545,6 @@ IBDW  |  iShares iBonds Dec 2031 Term Corporate ETF  |    |    |    |
 IBDX  |  iShares iBonds Dec 2032 Term Corporate ETF  |    |    |    |  
 IBDY  |  iShares Trust iShares iBonds De  |    |    |    |  
 IBLC  |  iShares Blockchain and Tech ETF  |    |    |    |  
-IBMH  |  iShares iBonds Sep 2019 Term Muni Bond ETF  |    |    |    |  
-IBMI  |  iShares iBonds Sep 2020 Term Muni Bond ETF  |    |    |    |  
-IBMJ  |  iShares iBonds Dec 2021 Term Muni Bond ETF  |    |    |    |  
-IBMK  |  iShares iBonds Dec 2022 Term Muni Bond ETF  |    |    |    |  
-IBND  |  SPDR Bloomberg International Corporate Bond ETF  |    |    |    |  
 IBRN  |  iShares Neuroscience and Healthcare ETF  |    |    |    |  
 IBUY  |  Amplify Online Retail ETF  |    |    |    |  
 ICAP  |  InfraCap Equity Income Fund ETF  |    |    |    |  
@@ -2821,8 +2561,6 @@ IEMG  |  iShares Core MSCI Emerging Markets ETF  |    |    |    |
 IEUR  |  iShares Core MSCI Europe ETF  |    |    |    |  
 IFED  |  ETRACS IFED Invest with the Fed TR Index ETN  |    |    |    |  
 IFLY  |  Wedbush ETFMG Global Cloud Technology ETF  |    |    |    |  
-IGBH  |  iShares Interest Rate Hedged Long-Term Corporate Bond ETF  |    |    |    |  
-IGLB  |  iShares 10+ Year Investment Grade Corporate Bond ETF  |    |    |    |  
 IGTR  |  Innovator Gradient Tactical Rotation Strategy ETF  |    |    |    |  
 IHAK  |  iShares Cybersecurity and Tech ETF  |    |    |    |  
 IHYD  |  Invesco Corporate Income Defensive ETF  |    |    |    |  
@@ -2832,19 +2570,15 @@ IJUL  |  Innovator MSCI EAFE Power Buffer ETF - July  |    |    |    |
 ILCB  |  iShares Morningstar U.S. Equity ETF  |    |    |    |  
 ILCG  |  iShares Morningstar Growth ETF  |    |    |    |  
 ILDR  |  First Trust Innovation Leaders ETF  |    |    |    |  
-ILTB  |  iShares Core 10+ Year USD Bond ETF  |    |    |    |  
 IMCB  |  iShares Morningstar Mid-Cap ETF  |    |    |    |  
 IMCG  |  iShares Morningstar Mid-Cap Growth ETF  |    |    |    |  
 IMFP  |  Invesco Multi-Factor Core Plus fixed Income ETF  |    |    |    |  
-IMTB  |  iShares Core 5-10 Year USD Bond ETF  |    |    |    |  
 INCM  |  Franklin Templeton ETF Trust - Income Focus ETF  |    |    |    |  
 INCO  |  Columbia India Consumer ETF  |    |    |    |  
 INDF  |  Nifty India Financials ETF  |    |    |    |  
-INDL  |  Direxion Daily MSCI India Bull 2X Shares  |    |    |    |  
 INDS  |  Pacer Benchmark Industrial Real Estate SCTR ETF  |    |    |    |  
 INFL  |  Horizon Kinetics Inflation Beneficiaries ETF  |    |    |    |  
 INKM  |  SPDR SSgA Income Allocation ETF  |    |    |    |  
-INMU  |  BlackRock Intermediate Muni Income Bond ETF  |    |    |    |  
 INNO  |  Harbor Disruptive Innovation ETF  |    |    |    |  
 INQQ  |  India Internet & Ecommerce ETF  |    |    |    |  
 INTF  |  iShares International Equity Factor ETF  |    |    |    |  
@@ -2883,19 +2617,16 @@ IWIN  |  Amplify Inflation Fighter ETF  |    |    |    |
 IWLG  |  IQ Winslow Large Cap Growth ETF  |    |    |    |  
 IXSE  |  WisdomTree India ex-State-Owned Enterprises Fund  |    |    |    |  
 JAAA  |  Janus Henderson AAA CLO ETF  |    |    |    |  
-JAGG  |  JPMorgan U.S. Aggregate Bond ETF  |    |    |    |  
 JANT  |  AllianzIM U.S. Large Cap Buffer10 Jan ETF  |    |    |    |  
 JANW  |  AllianzIM U.S. Large Cap Buffer20 Jan ETF  |    |    |    |  
 JCHI  |  J.P. Morgan Exchange-Traded Fund Trust - JPMorgan Active China ETF  |    |    |    |  
 JCTR  |  JPMorgan Carbon Transition U.S. Equity ETF  |    |    |    |  
 JDIV  |  JPMorgan U.S. Dividend ETF  |    |    |    |  
-JDST  |  Direxion Daily Junior Gold Miners Index Bear 2X Shares  |    |    |    |  
 JEPI  |  JPMorgan Equity Premium Income ETF  |    |    |    |  
 JETS  |  U.S. Global Jets ETF  |    |    |    |  
 JFWD  |  Jacob Forward ETF  |    |    |    |  
 JGLD  |  Amplify Pure Junior Gold Miners ETF  |    |    |    |  
 JGRO  |  Jpmorgan Active Growth ETF  |    |    |    |  
-JHCB  |  John Hancock Corporate Bond ETF  |    |    |    |  
 JHCS  |  John Hancock Multifactor Media and Communications ETF  |    |    |    |  
 JHDV  |  John Hancock U.S. High Dividend ETF  |    |    |    |  
 JHEM  |  John Hancock Multifactor Emerging Markets ETF  |    |    |    |  
@@ -2929,7 +2660,6 @@ JJTB  |  iPath B Bloomberg Tin Ttl Ret ETN  |    |    |    |
 JJUB  |  iPath B Bloomberg Aluminum Ttl Ret ETN  |    |    |    |  
 JMBS  |  Janus Henderson Mortgage-Backed Securities ETF  |    |    |    |  
 JMEE  |  JPMorgan Market Expansion Enhanced Equity ETF  |    |    |    |  
-JNUG  |  Direxion Daily Junior Gold Miners Index Bull 2X Shares  |    |    |    |  
 JOJO  |  ATAC Credit Rotation ETF  |    |    |    |  
 JOYY  |  Infusive Compounding Global Equities ETF  |    |    |    |  
 JPED  |  JPMorgan Event Driven ETF  |    |    |    |  
@@ -2940,7 +2670,6 @@ JPHF  |  JPMorgan Diversified Alternative ETF  |    |    |    |
 JPIE  |  JPMorgan Income ETF  |    |    |    |  
 JPIN  |  JPMorgan Diversified Return International Equity ETF  |    |    |    |  
 JPLS  |  JPMorgan Long/Short ETF  |    |    |    |  
-JPMB  |  JPMorgan USD Emerging Markets Sovereign Bond ETF  |    |    |    |  
 JPME  |  JPMorgan Diversified Return U.S. Mid Cap Equity ETF  |    |    |    |  
 JPMF  |  JPMorgan Managed Futures Strategy ETF  |    |    |    |  
 JPRE  |  JPMorgan Realty Income ETF  |    |    |    |  
@@ -2966,7 +2695,6 @@ KBUY  |  KraneShares CICC China Consumer Leaders Index ETF  |    |    |    |
 KCCA  |  KraneShares California Carbon Allowance ETF  |    |    |    |  
 KCNY  |  KraneShares Trust - KraneShares E Fund China Commercial Paper ETF  |    |    |    |  
 KDIV  |  Kraneshares S&P Pan Asia Dividend Aristocrats Index ETF  |    |    |    |  
-KDRN  |  Kingsbarn Tactical Bond ETF  |    |    |    |  
 KEMQ  |  KraneShares Emerging Markets Consumer Technology Index ETF  |    |    |    |  
 KEMX  |  KraneShares MSCI Emerging Markets ex China Index ETF  |    |    |    |  
 KESG  |  KraneShares MSCI China ESG Leaders Index ETF  |    |    |    |  
@@ -2976,10 +2704,8 @@ KFYP  |  KraneShares CICC China Leaders 100 Index ETF  |    |    |    |
 KGHG  |  KraneShares Global Carbon Transformation ETF  |    |    |    |  
 KGRN  |  KraneShares MSCI China Clean Technology ETF  |    |    |    |  
 KGRO  |  KraneShares China Innovation ETF  |    |    |    |  
-KHYB  |  KraneShares Asia Pacific High Income Bond ETF  |    |    |    |  
 KLDW  |  Knowledge Leaders Developed World ETF  |    |    |    |  
 KLIP  |  KraneShares Trust - KraneShares China Internet and Covered Call Strategy ETF  |    |    |    |  
-KLNE  |  Direxion Daily Global Clean Energy Bull 2X Shares  |    |    |    |  
 KMED  |  KraneShares Emerging Markets Healthcare Index ETF  |    |    |    |  
 KMET  |  KraneShares Electrification Metals Strategy ETF  |    |    |    |  
 KMLM  |  KFA Mount Lucas Index Strategy ETF  |    |    |    |  
@@ -2991,8 +2717,6 @@ KOKU  |  Xtrackers MSCI Kokusai Equity ETF  |    |    |    |
 KOLD  |  ProShares UltraShort Bloomberg Natural Gas  |    |    |    |  
 KOMP  |  SPDR S&P Kensho New Economies Composite ETF  |    |    |    |  
 KONG  |  Formidable Fortress ETF  |    |    |    |  
-KORP  |  American Century Diversified Corporate Bond ETF  |    |    |    |  
-KORU  |  Direxion Daily South Korea Bull 3X Shares  |    |    |    |  
 KPOP  |  KPOP and Korean Entertainment ETF  |    |    |    |  
 KRBN  |  KraneShares Global Carbon ETF  |    |    |    |  
 KSET  |  KraneShares Global Carbon Offset Strategy ETF  |    |    |    |  
@@ -3000,8 +2724,6 @@ KSTR  |  KraneShares SSE STAR Market 50 Index ETF  |    |    |    |
 KTEC  |  KraneShares Hang Seng TECH Index ETF  |    |    |    |  
 KURE  |  KraneShares MSCI All China Health Care Index ETF  |    |    |    |  
 KWEB  |  KraneShares CSI China Internet ETF  |    |    |    |  
-LABD  |  Direxion Daily S&P Biotech Bear 3X Shares  |    |    |    |  
-LABU  |  Direxion Daily S&P Biotech Bull 3X Shares  |    |    |    |  
 LACK  |  Direxion Daily Cnsmr Staples Bear 3XShrs  |    |    |    |  
 LALT  |  First Trust Multi-Strategy Alternative ETF  |    |    |    |  
 LBAY  |  Leatherback Long/Short Alternative Yield ETF  |    |    |    |  
@@ -3011,30 +2733,26 @@ LCTU  |  BlackRock U.S. Carbon Transition Readiness ETF  |    |    |    |
 LDRS  |  Innovator IBD ETF Leaders ETF  |    |    |    |  
 LDUR  |  PIMCO Enhanced Low Duration Active Exchange-Traded Fund  |    |    |    |  
 LEDD  |  iPath® Pure Beta Lead ETN  |    |    |    |  
-LEMB  |  iShares J.P. Morgan EM Local Currency Bond ETF  |    |    |    |  
 LEND  |  Amplify CrowdBureau(R) Online Lending & Digital Banking ETF  |    |    |    |  
 LEXI  |  Alexis Practical Tactical ETF  |    |    |    |  
 LFEQ  |  VanEck Long/FlatTrend ETF  |    |    |    |  
 LGOV  |  First Trust Long Duration Opportunities ETF  |    |    |    |  
+LMLB  |  ETRACS Monthly Pay 2xLeveraged Wells Fargo MLP Ex-Energy ETN Series B  |    |    |    |  
+LMLP  |  UBS ETRACS Monthly Pay 2xLeveraged Wells Fargo MLP Ex-Energy ETN  |    |    |    |  
 LONZ  |  PIMCO Senior Loan Active Exchange-Traded Fund  |    |    |    |  
 LOPP  |  Gabelli Love Our Planet & People ETF  |    |    |    |  
 LOPX  |  Direxion Low Priced Stock ETF  |    |    |    |  
 LOUP  |  Innovator Loup Frontier Tech ETF  |    |    |    |  
 LOWC  |  SPDR MSCI ACWI Climate Paris Aligned ETF  |    |    |    |  
-LOWV  |  AB Active ETFs, Inc. AB US Low   |    |    |    |  
-LQDB  |  iShares BBB Rated Corporate Bond ETF  |    |    |    |  
-LQDH  |  iShares Interest Rate Hedged Corporate Bond ETF  |    |    |    |  
-LQIG  |  SPDR MarketAxess Investment Grade 400 Corporate Bond ETF  |    |    |    |  
+LRET  |  UBS ETRACS Monthly Pay 2xLeveraged MSCI US REIT Index ETN  |    |    |    |  
 LRGF  |  iShares U.S. Equity Factor ETF  |    |    |    |  
 LRND  |  IQ U.S. Large Cap R&D Leaders ETF  |    |    |    |  
 LRNZ  |  TrueShares Technology, AI and Deep Learning ETF  |    |    |    |  
-LSAF  |  LeaderSharesTM AlphaFactor US Core Equity ETF  |    |    |    |  
 LSAT  |  LeaderShares AlphaFactor Tactical Focused ETF  |    |    |    |  
 LSGR  |  Natixis ETF Trust II Natixis Lo  |    |    |    |  
 LSST  |  Natixis Loomis Sayles Short Duration Income ETF  |    |    |    |  
 LSTK  |  iPath® Pure Beta Livestock ETN  |    |    |    |  
 LSVX  |  VelocityShares VIX Variable L/S ETN  |    |    |    |  
-LTPZ  |  PIMCO 15+ Year U.S. TIPS Index Exchange-Traded Fund  |    |    |    |  
 MAKX  |  ProShares S&P Kensho Smart Factories ETF  |    |    |    |  
 MARB  |  First Trust Vivaldi Merger Arbitrage ETF  |    |    |    |  
 MAYT  |  AIM ETF Products Trust - AllianzIM U.S. Large Cap Buffer10 May ETF  |    |    |    |  
@@ -3046,9 +2764,7 @@ MDYG  |  SPDR S&P 400 Mid Cap Growth ETF  |    |    |    |
 MEDI  |  Harbor Health Care ETF  |    |    |    |  
 MEME  |  Roundhill MEME ETF  |    |    |    |  
 MEMX  |  Matthews Emerging Markets Ex China Active ETF  |    |    |    |  
-MENV  |  AdvisorShares North Square McKee ESG Core Bond ETF  |    |    |    |  
 METV  |  Roundhill Ball Metaverse ETF  |    |    |    |  
-MEXX  |  Direxion Daily MSCI Mexico Bull 3X Shares  |    |    |    |  
 MFDX  |  PIMCO RAFI Dynamic Multi-Factor International Equity ETF  |    |    |    |  
 MFEM  |  PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF  |    |    |    |  
 MFLA  |  iPath Long Enhanced MSCI EAFE ETN  |    |    |    |  
@@ -3056,16 +2772,12 @@ MFUS  |  PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF  |    |    |    |
 MGMT  |  Ballast Small/Mid Cap ETF  |    |    |    |  
 MIDE  |  Xtrackers S&P MidCap 400 ESG ETF  |    |    |    |  
 MIDF  |  iShares MSCI USA Mid-Cap Multifactor ETF  |    |    |    |  
-MIDU  |  Direxion Daily Mid Cap Bull 3X Shares  |    |    |    |  
-MIDZ  |  Direxion Daily Mid Cap Bear 3X Shares  |    |    |    |  
 MINC  |  AdvisorShares Newfleet Multi-Sector Income ETF  |    |    |    |  
 MINO  |  PIMCO Municipal Income Opportunities Active Exchange-Traded Fund  |    |    |    |  
 MINT  |  PIMCO Enhanced Short Maturity Active Exchange-Traded Fund  |    |    |    |  
 MINV  |  Matthews Asia Innovators Active ETF  |    |    |    |  
 MISL  |  First Trust Indxx Aerospace & Defense ETF  |    |    |    |  
-MJIN  |  ETFMG 2X Daily Inverse Alternative Harvest ETF  |    |    |    |  
 MJUS  |  ETFMG U.S. Alternative Harvest ETF  |    |    |    |  
-MJXL  |  ETFMG 2X Daily Alternative Harvest ETF  |    |    |    |  
 MLPA  |  Global X MLP ETF  |    |    |    |  
 MLPB  |  UBS ETRACS Alerian MLP Infrastructure Index ETN Series B  |    |    |    |  
 MLPC  |  C-Tracks Exchange-Traded Notes Based on the Performance of the Miller/Howard MLP Fundamental Index  |    |    |    |  
@@ -3083,30 +2795,26 @@ MMIT  |  IQ MacKay Municipal Intermediate ETF  |    |    |    |
 MMLG  |  First Trust Multi-Manager Large Growth ETF  |    |    |    |  
 MMSB  |  IQ MacKay Multi-Sector Income ETF  |    |    |    |  
 MMSC  |  First Trust Multi-Manager Small Cap Opportunities ETF  |    |    |    |  
-MNBD  |  ALPS Intermediate Municipal Bond ETF  |    |    |    |  
 MOOD  |  Relative Sentiment Tactical Allocation ETF  |    |    |    |  
 MOON  |  Direxion Moonshot Innovators ETF  |    |    |    |  
 MORE  |  ASYMmetric Smart Income ETF  |    |    |    |  
+MORL  |  UBS ETRACS Monthly Pay 2xLeveraged Mortgage REIT ETN  |    |    |    |  
 MORT  |  VanEck Mortgage REIT Income ETF  |    |    |    |  
 MOTO  |  SmartETFs Smart Transportation & Technology ETF  |    |    |    |  
 MPAY  |  Akros Monthly Payout ETF  |    |    |    |  
 MRAD  |  Guinness Atkinson SmartETFs Marketing Technology ETF  |    |    |    |  
 MRND  |  IQ U.S. Mid Cap R&D Leaders ETF  |    |    |    |  
+MRRL  |  UBS ETRACS Monthly Pay 2xLeveraged Mortgage REIT ETN Series B  |    |    |    |  
 MSGR  |  Direxion mRNA ETF  |    |    |    |  
 MSOS  |  AdvisorShares Pure US Cannabis ETF  |    |    |    |  
-MSOX  |  Advisorshares Msos 2x Daily ETF  |    |    |    |  
 MTGP  |  WisdomTree Mortgage Plus Bond Fund  |    |    |    |  
 MTVR  |  Fount Metaverse ETF  |    |    |    |  
 MUNI  |  PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund  |    |    |    |  
 MUSI  |  American Century Multisector Income ETF  |    |    |    |  
 MUSQ  |  Exchange Traded Concepts Trust - MUSQ Global Music Industry ETF  |    |    |    |  
 MUST  |  Columbia Multi-Sector Municipal Income ETF  |    |    |    |  
-MUTE  |  Direxion Daily Communication Services Index Bear 3X Shares  |    |    |    |  
 MVPS  |  Amplify Thematic All-Stars ETF  |    |    |    |  
-MXDE  |  Nationwide Maximum Diversification Emerging Markets Core Equity ETF  |    |    |    |  
-MXDU  |  Nationwide Maximum Diversification U.S. Core Equity ETF  |    |    |    |  
 NACP  |  Impact Shares NAACP Minority Empowerment ETF  |    |    |    |  
-NAIL  |  Direxion Daily Homebuilders & Supplies Bull 3X Shares  |    |    |    |  
 NANR  |  SPDR S&P North American Natural Resources ETF  |    |    |    |  
 NBCC  |  Neuberger Berman Next Generation Connected Consumer ETF  |    |    |    |  
 NBCM  |  Neuberger Berman Commodity Strategy ETF  |    |    |    |  
@@ -3118,7 +2826,6 @@ NDVG  |  Nuveen Dividend Growth ETF  |    |    |    |
 NEED  |  Direxion Daily Cnsmr Staples Bull 3XShrs  |    |    |    |  
 NERD  |  Roundhill BITKRAFT Esports & Digital Entertainment ETF  |    |    |    |  
 NETL  |  Fundamental Income Net Lease Real Estate ETF  |    |    |    |  
-NFLT  |  Virtus Newfleet Multi-Sector Bond ETF  |    |    |    |  
 NFRA  |  FlexShares STOXX Global Broad Infrastructure Index Fund  |    |    |    |  
 NFTZ  |  Defiance Digital Revolution ETF  |    |    |    |  
 NIFE  |  Direxion Fallen Knives ETF  |    |    |    |  
@@ -3136,11 +2843,7 @@ NTSE  |  WisdomTree Emerging Markets Efficient Core Fund  |    |    |    |
 NTSI  |  WisdomTree International Efficient Core Fund  |    |    |    |  
 NTSX  |  WisdomTree U.S. Efficient Core Fund  |    |    |    |  
 NTZO  |  Impact Shares MSCI Global Climate Select ETF  |    |    |    |  
-NUAG  |  Nuveen Enhanced Yield U.S. Aggregate Bond ETF  |    |    |    |  
-NUBD  |  Nuveen ESG U.S. Aggregate Bond ETF  |    |    |    |  
 NUGO  |  Nuveen Growth Opportunities ETF  |    |    |    |  
-NUGT  |  Direxion Daily Gold Miners Index Bull 2X Shares  |    |    |    |  
-NUSA  |  Nuveen Enhanced Yield 1-5 Year U.S. Aggregate Bond ETF  |    |    |    |  
 NUSI  |  Nationwide Nasdaq-100 Risk-Managed Income ETF  |    |    |    |  
 NVBT  |  Allianzim U.S. Large Cap Buffer10 Nov ETF  |    |    |    |  
 NVBW  |  Allianzim U.S. Large Cap Buffer20 Nov ETF  |    |    |    |  
@@ -3148,7 +2851,6 @@ NVDY  |  Tidal ETF Trust II YieldMax NVD  |    |    |    |
 NVIR  |  Horizon Kinetics Energy Remediation ETF  |    |    |    |  
 NWLG  |  Nuveen Winslow Large-Cap Growth ESG ETF  |    |    |    |  
 NXTE  |  Axs Green Alpha ETF  |    |    |    |  
-OACP  |  OneAscent Core Plus Bond ETF  |    |    |    |  
 OAEM  |  OneAscent Emerging Markets ETF  |    |    |    |  
 OAIA  |  Teucrium Aila Long-Short Agriculture Strategy ETF  |    |    |    |  
 OAIB  |  Teucrium Aila Long-Short Base Metals Strategy ETF  |    |    |    |  
@@ -3167,7 +2869,6 @@ OLEM  |  iPath Pure Beta Crude Oil ETN  |    |    |    |
 ONEY  |  SPDR Russell 1000 Yield Focus ETF  |    |    |    |  
 ONLN  |  ProShares Online Retail ETF  |    |    |    |  
 ONOF  |  Global X Adaptive U.S. Risk Management ETF  |    |    |    |  
-OOTO  |  Direxion Daily Travel & Vacation Bull 2X Shares  |    |    |    |  
 OPER  |  ClearShares Ultra-Short Maturity ETF  |    |    |    |  
 OPPX  |  Corbett Road Tactical Opportunity ETFNew  |    |    |    |  
 ORFN  |  Constrained Capital ESG Orphans ETF  |    |    |    |  
@@ -3183,14 +2884,12 @@ PASS  |  Direxion Daily Cnsmr Discret Bear 3XShrs  |    |    |    |
 PBDC  |  Putnam BDC Income ETF  |    |    |    |  
 PBUG  |  Pacer iPath Gold Trendpilot ETNs  |    |    |    |  
 PCEF  |  Invesco CEF Income Composite ETF  |    |    |    |  
-PCRB  |  Putnam ESG Core Bond ETF  |    |    |    |  
 PEMX  |  Putnam Emerging Markets Ex-China ETF  |    |    |    |  
 PEXL  |  Pacer US Export Leaders ETF  |    |    |    |  
 PFFA  |  Virtus InfraCap U.S. Preferred Stock ETF  |    |    |    |  
 PFFD  |  Global X U.S. Preferred ETF  |    |    |    |  
 PFFR  |  InfraCap REIT Preferred ETF  |    |    |    |  
 PFFV  |  Global X Variable Rate Preferred ETF  |    |    |    |  
-PFIG  |  Invesco Fundamental Investment Grade Corporate Bond ETF  |    |    |    |  
 PFIX  |  Simplify Interest Rate Hedge ETF  |    |    |    |  
 PFLD  |  AAM Low Duration Preferred and Income Securities ETF  |    |    |    |  
 PFRL  |  PGIM Floating Rate Income ETF  |    |    |    |  
@@ -3200,8 +2899,6 @@ PGAL  |  Global X MSCI Portugal ETF  |    |    |    |
 PGMB  |  iPath B Bloomberg Platinum Ttl Ret ETN  |    |    |    |  
 PGRO  |  Putnam Focused Large Cap Growth ETF  |    |    |    |  
 PHDG  |  Invesco S&P 500 Downside Hedged ETF  |    |    |    |  
-PICB  |  Invesco International Corporate Bond ETF  |    |    |    |  
-PILL  |  Direxion Daily Pharmaceutical & Medical Bull 3X Shares ETF  |    |    |    |  
 PINK  |  Simplify Health Care ETF  |    |    |    |  
 PLAT  |  WisdomTree Growth Leaders Fund  |    |    |    |  
 PLDR  |  Putnam Sustainable Leaders ETF  |    |    |    |  
@@ -3226,10 +2923,7 @@ PSDN  |  AdvisorShares Poseidon Dynamic Cannabis ETF  |    |    |    |
 PSIL  |  AdvisorShares Psychedelics ETF  |    |    |    |  
 PSTP  |  Innovator Power Buffer Step-Up Strategy ETF  |    |    |    |  
 PSYK  |  PSYK ETF  |    |    |    |  
-PTBD  |  Pacer Trendpilot US Bond ETF  |    |    |    |  
 PTIN  |  Pacer Trendpilot International ETF  |    |    |    |  
-PTRB  |  PGIM Total Return Bond ETF  |    |    |    |  
-PULS  |  PGIM Ultra Short Bond ETF  |    |    |    |  
 PULT  |  Putnam ESG Ultra Short ETF  |    |    |    |  
 PUTW  |  WisdomTree CBOE S&P 500 PutWrite Strategy Fund  |    |    |    |  
 PYLD  |  PIMCO ETF Trust - PIMCO Multisector Bond Active Exchange-Traded Fund  |    |    |    |  
@@ -3238,10 +2932,8 @@ QDPL  |  Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF  |    |    |   
 QEFA  |  SPDR MSCI EAFE StrategicFactors ETF  |    |    |    |  
 QEMM  |  SPDR MSCI Emerging Markets StrategicFactors ETF  |    |    |    |  
 QGTA  |  IQ Leaders GTAA Tracker ETF  |    |    |    |  
-QLTA  |  iShares Aaa - A Rated Corporate Bond ETF  |    |    |    |  
 QQQE  |  Direxion NASDAQ-100 Equal Weighted Index Shares  |    |    |    |  
 QRFT  |  QRAFT AI-Enhanced U.S. Large Cap ETF  |    |    |    |  
-QSWN  |  Amplify BlackSwan Tech & Treasury ETF  |    |    |    |  
 QTUM  |  Defiance Quantum ETF  |    |    |    |  
 QVML  |  Invesco S&P 500 QVM Multi-factor ETF  |    |    |    |  
 QVMM  |  Invesco S&P MidCap 400 QVM Multi-factor ETF  |    |    |    |  
@@ -3267,16 +2959,15 @@ RECS  |  Columbia Research Enhanced Core ETF  |    |    |    |
 REDV  |  Invesco Emerging Markets Ultra Dividend Revenue ETF  |    |    |    |  
 REET  |  iShares Global REIT ETF  |    |    |    |  
 REMG  |  SPDR Bloomberg SASB Emerging Markets ESG Select ETF  |    |    |    |  
+REML  |  Credit Suisse X-Links Monthly Pay 2xLeveraged Mortgage REIT ETN  |    |    |    |  
 REMX  |  VanEck Rare Earth/Strategic Metals ETF  |    |    |    |  
 RENW  |  Pickens Morningstar Renewable Energy Response ETF  |    |    |    |  
 RESI  |  Kelly Residential & Apartment Real Estate ETF  |    |    |    |  
 RESP  |  WisdomTree U.S. ESG Fund  |    |    |    |  
-RETL  |  Direxion Daily Retail Bull 3X Shares  |    |    |    |  
 RFCI  |  RiverFront Dynamic Core Income ETF  |    |    |    |  
 RFDA  |  RiverFront Dynamic US Dividend Advantage ETF  |    |    |    |  
 RFFC  |  RiverFront Dynamic US Flex-Cap ETF  |    |    |    |  
 RFUN  |  ALPS ETF Trust - Riverfront Dynamic Unconstrained Income ETF  |    |    |    |  
-RHCB  |  BNY Mellon Responsible Horizons Corporate Bond ETF  |    |    |    |  
 RHRX  |  RH Tactical Rotation ETF  |    |    |    |  
 RHTX  |  RH Tactical Outlook ETF  |    |    |    |  
 RIDV  |  Invesco International Ultra Dividend Revenue ETF  |    |    |    |  
@@ -3306,9 +2997,6 @@ RSPY  |  Revere Sector Opportunity ETF  |    |    |    |
 RTLA  |  iPath Long Extended Russell 2000TR ETN  |    |    |    |  
 RTYD  |  Simplify US Small Cap PLUS Downside Convexity ETF  |    |    |    |  
 RUFF  |  Alpha Dog ETF  |    |    |    |  
-RUSL  |  Direxion Daily Russia Bull 2X Shares  |    |    |    |  
-RUSS  |  Direxion Daily Russia Bear 3X Shares  |    |    |    |  
-RVNU  |  Xtrackers Municipal Infrastructure Revenue Bond ETF  |    |    |    |  
 RWCD  |  Direxion MSCI Cyclicals Over Defensives ETF  |    |    |    |  
 RWDC  |  Direxion MSCI Defensives Over Cyclicals ETF  |    |    |    |  
 RWDE  |  Direxion MSCI Developed Over Emerging Markets ETF  |    |    |    |  
@@ -3321,12 +3009,10 @@ RYLD  |  Global X Russell 2000 Covered Call ETF  |    |    |    |
 RYLG  |  Global X Russell 2000 Covered Call & Growth ETF  |    |    |    |  
 RYZZ  |  RYZZ Managed Futures Strategy Plus ETF  |    |    |    |  
 SAEF  |  Schwab Ariel ESG ETF  |    |    |    |  
-SAGG  |  Direxion Daily Total Bond Market Bear 1X Shares  |    |    |    |  
 SAGP  |  Strategas Global Policy Opportunities ETF  |    |    |    |  
 SAMT  |  Strategas Macro Thematic Opportunities ETF  |    |    |    |  
 SAVN  |  LifeGoal Conservative Wealth Builder ETF  |    |    |    |  
 SBIO  |  ALPS Medical Breakthroughs ETF  |    |    |    |  
-SBND  |  Columbia Short Duration Bond ETF  |    |    |    |  
 SBUG  |  iPath Silver ETN  |    |    |    |  
 SCAP  |  AdvisorShares Cornerstone Small Cap ETF  |    |    |    |  
 SCHA  |  Schwab U.S. Small-Cap ETF  |    |    |    |  
@@ -3337,26 +3023,17 @@ SCHE  |  Schwab Emerging Markets Equity ETF  |    |    |    |
 SCHF  |  Schwab International Equity ETF  |    |    |    |  
 SCHG  |  Schwab U.S. Large-Cap Growth ETF  |    |    |    |  
 SCHH  |  Schwab U.S. REIT ETF  |    |    |    |  
-SCHI  |  Schwab 5-10 Year Corporate Bond ETF  |    |    |    |  
-SCHJ  |  Schwab 1-5 Year Corporate Bond ETF  |    |    |    |  
 SCHK  |  Schwab 1000 Index ETF  |    |    |    |  
 SCHM  |  Schwab U.S. Mid-Cap ETF  |    |    |    |  
-SCHO  |  Schwab Short-Term U.S. Treasury ETF  |    |    |    |  
-SCHP  |  Schwab U.S. TIPS ETF  |    |    |    |  
-SCHQ  |  Schwab Long-Term U.S. Treasury ETF  |    |    |    |  
-SCHR  |  Schwab Intermediate-Term U.S. Treasury ETF  |    |    |    |  
 SCHX  |  Schwab U.S. Large-Cap ETF  |    |    |    |  
 SCHY  |  Schwab International Dividend Equity ETF  |    |    |    |  
-SCHZ  |  Schwab U.S. Aggregate Bond ETF  |    |    |    |  
 SCID  |  Global X Scientific Beta Europe ETF  |    |    |    |  
 SCIF  |  VanEck Vectors India Small-Cap Index ETF  |    |    |    |  
 SCIJ  |  Global X Scientific Beta Japan ETF  |    |    |    |  
 SCIN  |  Columbia India Small Cap ETF  |    |    |    |  
 SCIU  |  Global X Scientific Beta US ETF  |    |    |    |  
 SCIX  |  Global X Scientific Beta Asia ex-Japan ETF  |    |    |    |  
-SCMB  |  Schwab Municipal Bond ETF  |    |    |    |  
 SCOM  |  ProShares UltraPro Short Communication Services Select Sector  |    |    |    |  
-SCRD  |  Janus Henderson Sustainable Corporate Bond ETF  |    |    |    |  
 SDAG  |  IQ Short Duration Enhanced Core Bond U.S. ETF  |    |    |    |  
 SDCI  |  USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund  |    |    |    |  
 SDEI  |  Sound Equity Income ETF  |    |    |    |  
@@ -3366,6 +3043,7 @@ SDGS  |  Newday Sustainable Development Equity ETF  |    |    |    |
 SDIV  |  Global X SuperDividend ETF  |    |    |    |  
 SDOG  |  ALPS Sector Dividend Dogs ETF  |    |    |    |  
 SDOW  |  ProShares UltraPro Short Dow30  |    |    |    |  
+SDYL  |  UBS ETRACS Monthly Pay 2xLeveraged S&P Dividend ETN  |    |    |    |  
 SEIX  |  Virtus Seix Senior Loan ETF  |    |    |    |  
 SEMI  |  Columbia Seligman Semiconductor & Technology ETF  |    |    |    |  
 SENT  |  AdvisorShares Alpha DNA Equity Sentiment ETF  |    |    |    |  
@@ -3378,19 +3056,15 @@ SGAR  |  iPath® Pure Beta Sugar ETN  |    |    |    |
 SGDJ  |  Sprott Junior Gold Miners ETF  |    |    |    |  
 SGDM  |  Sprott Gold Miners ETF  |    |    |    |  
 SGGB  |  iPath B Bloomberg Sugar Ttl Ret ETN  |    |    |    |  
-SGLC  |  Rbb Fund Inc. - Sgi U.S Large Cap Core Equity Fund  |    |    |    |  
 SGOL  |  abrdn Physical Gold Shares ETF  |    |    |    |  
 SHFT  |  SoFi Smart Energy ETF  |    |    |    |  
-SHNY  |  Direxion Daily Silver Mnrs Bull 2X ETF  |    |    |    |  
 SHOC  |  Strive U.S. Semiconductor ETF  |    |    |    |  
 SHPP  |  Pacer Industrials and Logistics ETF  |    |    |    |  
 SHUS  |  Syntax Stratified U.S. Total Market Hedged ETF  |    |    |    |  
 SIFI  |  Harbor Scientific Alpha Income ETF  |    |    |    |  
 SIHY  |  Harbor Scientific Alpha High-Yield ETF  |    |    |    |  
 SILJ  |  ETFMG Prime Junior Silver Miners ETF  |    |    |    |  
-SILX  |  ETFMG Prime 2x Daily Junior Silver Miners ETF  |    |    |    |  
 SIMS  |  SPDR S&P Kensho Intelligent Structures ETF  |    |    |    |  
-SINV  |  ETFMG Prime 2x Daily Inverse Junior Silver Miners ETF  |    |    |    |  
 SIVR  |  abrdn Physical Silver Shares ETF  |    |    |    |  
 SIXA  |  ETC 6 Meridian Mega Cap Equity ETF  |    |    |    |  
 SIXH  |  ETC 6 Meridian Hedged Equity-Index Option Strategy ETF  |    |    |    |  
@@ -3403,24 +3077,19 @@ SLYG  |  SPDR S&P 600 Small Cap Growth ETF  |    |    |    |
 SMDD  |  ProShares UltraPro Short MidCap400  |    |    |    |  
 SMDY  |  Syntax Stratified MidCap  |    |    |    |  
 SMEZ  |  SPDR EURO STOXX Small Cap ETF  |    |    |    |  
+SMHD  |  UBS ETRACS Monthly Pay 2xLeveraged US Small Cap High Dividend ETN  |    |    |    |  
 SMIG  |  AAM Bahl & Gaynor Small/Mid Cap Income Growth ETF  |    |    |    |  
 SMLE  |  Xtrackers S&P SmallCap 600 ESG ETF  |    |    |    |  
 SMLF  |  iShares MSCI USA Small-Cap Multifactor ETF  |    |    |    |  
-SMLL  |  Direxion Daily Small Cap Bull 2X Shares  |    |    |    |  
 SMMU  |  PIMCO Short Term Municipal Bond Active Exchange-Traded Fund  |    |    |    |  
 SMOG  |  VanEck Low Carbon Energy ETF  |    |    |    |  
 SNPE  |  Xtrackers S&P 500 ESG ETF  |    |    |    |  
 SOIL  |  Global X Fertilizers/Potash ETF  |    |    |    |  
 SOLR  |  SmartETFs Sustainable Energy II ETF  |    |    |    |  
-SOXL  |  Direxion Daily Semiconductor Bull 3X Shares  |    |    |    |  
-SOXS  |  Direxion Daily Semiconductor Bear 3X Shares  |    |    |    |  
 SOYB  |  Teucrium Soybean Fund  |    |    |    |  
-SPAB  |  SPDR Portfolio Aggregate Bond ETF  |    |    |    |  
 SPAK  |  Defiance Next Gen SPAC Derived ETF  |    |    |    |  
 SPAX  |  Robinson Alternative Yield Pre-Merger SPAC ETF  |    |    |    |  
-SPBO  |  SPDR Portfolio Corporate Bond ETF  |    |    |    |  
 SPCZ  |  RiverNorth Enhanced Pre-Merger SPAC ETF  |    |    |    |  
-SPDN  |  Direxion Daily S&P 500 Bear 1X Shares  |    |    |    |  
 SPDW  |  SPDR Portfolio Developed World ex-US ETF  |    |    |    |  
 SPEM  |  SPDR Portfolio Emerging Markets ETF  |    |    |    |  
 SPEU  |  SPDR Portfolio Europe ETF  |    |    |    |  
@@ -3428,30 +3097,18 @@ SPFF  |  Global X SuperIncome Preferred ETF  |    |    |    |
 SPGM  |  SPDR Portfolio MSCI Global Stock Market ETF  |    |    |    |  
 SPGP  |  Invesco S&P 500 GARP ETF  |    |    |    |  
 SPHB  |  Invesco S&P 500 High Beta ETF  |    |    |    |  
-SPIB  |  SPDR Portfolio Intermediate Term Corporate Bond ETF  |    |    |    |  
-SPIP  |  SPDR Portfolio TIPS ETF  |    |    |    |  
 SPKX  |  ConvexityShares 1x SPIKES Futures ETF  |    |    |    |  
 SPKY  |  ConvexityShares Daily 1.5x SPIKES Futures ETF  |    |    |    |  
-SPLB  |  SPDR Portfolio Long Term Corporate Bond ETF  |    |    |    |  
 SPLG  |  SPDR Portfolio S&P 500 ETF  |    |    |    |  
-SPMB  |  SPDR Portfolio Mortgage Backed Bond ETF  |    |    |    |  
 SPMD  |  SPDR Portfolio S&P 400 Mid Cap ETF  |    |    |    |  
 SPRE  |  SP Funds S&P Global REIT Sharia ETF  |    |    |    |  
-SPSB  |  SPDR Portfolio Short Term Corporate Bond ETF  |    |    |    |  
 SPSK  |  SP Funds Dow Jones Global Sukuk ETF  |    |    |    |  
 SPSM  |  SPDR Portfolio S&P 600 Small Cap ETF  |    |    |    |  
-SPTI  |  SPDR Portfolio Intermediate Term Treasury ETF  |    |    |    |  
-SPTL  |  SPDR Portfolio Long Term Treasury ETF  |    |    |    |  
 SPTM  |  SPDR Portfolio S&P 1500 Composite Stock Market ETF  |    |    |    |  
-SPTS  |  SPDR Portfolio Short Term Treasury ETF  |    |    |    |  
 SPUC  |  Simplify US Equity PLUS Upside Convexity ETF  |    |    |    |  
 SPUS  |  SP Funds S&P 500 Sharia Industry Exclusions ETF  |    |    |    |  
-SPUU  |  Direxion Daily S&P 500 Bull 2X Shares  |    |    |    |  
-SPXB  |  ProShares S&P 500 Bond ETF  |    |    |    |  
 SPXE  |  ProShares S&P 500 ex-Energy ETF  |    |    |    |  
-SPXL  |  Direxion Daily S&P500 Bull 3X Shares  |    |    |    |  
 SPXN  |  ProShares S&P 500 ex-Financials ETF  |    |    |    |  
-SPXS  |  Direxion Daily S&P 500 Bear 3X Shares  |    |    |    |  
 SPXT  |  ProShares S&P 500 ex-Technology ETF  |    |    |    |  
 SPXU  |  ProShares UltraPro Short S&P500  |    |    |    |  
 SPXV  |  ProShares S&P 500 ex-Health Care ETF  |    |    |    |  
@@ -3474,9 +3131,7 @@ SSXU  |  Day Hagan/Ned Davis Research Smart Sector International ETF  |    |    
 STBL  |  DriveWealth Steady Saver ETF  |    |    |    |  
 STCE  |  Schwab Crypto Thematic ETF  |    |    |    |  
 STGF  |  Merk Stagflation ETF  |    |    |    |  
-STIP  |  iShares 0-5 Year TIPS Bond ETF  |    |    |    |  
 STNC  |  Stance Equity ESG Large Cap Core ETF  |    |    |    |  
-STPZ  |  PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund  |    |    |    |  
 STRV  |  Strive 500 ETF  |    |    |    |  
 STXE  |  Strive Emerging Markets Ex-China ETF  |    |    |    |  
 SUBS  |  Fount Subscription Economy ETF  |    |    |    |  
@@ -3487,8 +3142,6 @@ SURE  |  AdvisorShares Insider Advantage ETF  |    |    |    |
 SURI  |  Simplify Propel Opportunities ETF  |    |    |    |  
 SUSA  |  iShares MSCI USA ESG Select ETF  |    |    |    |  
 SVOL  |  Simplify Volatility Premium ETF  |    |    |    |  
-SWAN  |  Amplify BlackSwan Growth & Treasury Core ETF  |    |    |    |  
-SWAR  |  Direxion Daily S&P Expanded Tech Software Sector Bull 2X Shares  |    |    |    |  
 SXUS  |  Janus Henderson International Sustainable Equity ETF  |    |    |    |  
 SYII  |  Syntax Stratified Total Market II ETF  |    |    |    |  
 SYNB  |  Putnam BioRevolution ETF  |    |    |    |  
@@ -3499,12 +3152,8 @@ TACE  |  Trend Aggregation Conservative ETF  |    |    |    |
 TACK  |  Fairlead Tactical Sector Fund  |    |    |    |  
 TADS  |  The Active Dividend Stock ETF  |    |    |    |  
 TAFI  |  Ab Tax-Aware Short Duration ETF  |    |    |    |  
-TAGG  |  T. Rowe Price QM U.S. Bond ETF  |    |    |    |  
 TAGS  |  Teucrium Agricultural Fund  |    |    |    |  
-TAWK  |  Direxion Daily Communication Services Index Bull 3X Shares  |    |    |    |  
-TAXF  |  American Century Diversified Municipal Bond ETF  |    |    |    |  
 TBND  |  Tactical Income ETF  |    |    |    |  
-TBUX  |  T. Rowe Price Ultra Short-Term Bond ETF  |    |    |    |  
 TCAF  |  T. Rowe Price Exchange-Traded Funds, Inc. - T. Rowe Price Capital Appreciation Equity ETF  |    |    |    |  
 TCHP  |  T. Rowe Price Blue Chip Growth ETF  |    |    |    |  
 TDSA  |  Cabana Target Drawdown 5 ETF  |    |    |    |  
@@ -3512,17 +3161,11 @@ TDSB  |  Cabana Target Drawdown 7 ETF  |    |    |    |
 TDSC  |  Cabana Target Drawdown 10 ETF  |    |    |    |  
 TDSD  |  Cabana Target Drawdown 13 ETF  |    |    |    |  
 TDSE  |  Cabana Target Drawdown 16 ETF  |    |    |    |  
-TDTF  |  FlexShares iBoxx 5-Year Target Duration TIPS Index Fund  |    |    |    |  
-TDTT  |  FlexShares iBoxx 3-Year Target Duration TIPS Index Fund  |    |    |    |  
 TDVG  |  T. Rowe Price Dividend Growth ETF  |    |    |    |  
 TECB  |  iShares U.S. Tech Breakthrough Multisector ETF  |    |    |    |  
-TECL  |  Direxion Daily Technology Bull 3X Shares  |    |    |    |  
-TECS  |  Direxion Daily Technology Bear 3X Shares  |    |    |    |  
 TEMP  |  JPMorgan Climate Change Solutions ETF  |    |    |    |  
-TENG  |  Direxion Daily 5G Communications Bull 2X Shares  |    |    |    |  
 TEQI  |  T. Rowe Price Equity Income ETF  |    |    |    |  
 TERM  |  EquityCompass Tactical Risk Manager ETF  |    |    |    |  
-TFLO  |  iShares Treasury Floating Rate Bond ETF  |    |    |    |  
 TFLR  |  T. Rowe Price Floating Rate ETF  |    |    |    |  
 TGIF  |  SoFi Weekly Income ETF  |    |    |    |  
 TGRT  |  T. Rowe Price Exchange-Traded Funds, Inc. - T. Rowe Price Growth ETF  |    |    |    |  
@@ -3533,10 +3176,6 @@ TILL  |  Teucrium Agricultural Strategy No K-1 ETF  |    |    |    |
 TIME  |  Clockwise Capital Innovation ETF  |    |    |    |  
 TINT  |  ProShares Smart Materials ETF  |    |    |    |  
 TINY  |  ProShares Nanotechnology ETF  |    |    |    |  
-TIPD  |  Direxion Daily TIPS Bear 2X Shares  |    |    |    |  
-TIPL  |  Direxion Daily TIPS Bull 2X Shares  |    |    |    |  
-TIPX  |  SPDR Bloomberg 1-10 Year TIPS ETF  |    |    |    |  
-TIPZ  |  PIMCO Broad U.S. TIPS Index Exchange-Traded Fund  |    |    |    |  
 TLDH  |  FlexShares Currency Hedged Morningstar DM ex-US Factor Tilt Index Fund  |    |    |    |  
 TLEH  |  FlexShares Currency Hedged Morningstar EM Factor Tilt Index Fund  |    |    |    |  
 TLTD  |  FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund  |    |    |    |  
@@ -3554,7 +3193,6 @@ TPIF  |  Timothy Plan International ETF  |    |    |    |
 TPLC  |  Timothy Plan US Large/Mid Cap Core ETF  |    |    |    |  
 TPLE  |  Timothy Plan US Large/Mid Cap Core Enhanced ETF  |    |    |    |  
 TPMN  |  Timothy Plan Market Neutral ETF  |    |    |    |  
-TPOR  |  Direxion Daily Transportation Bull 3X Shares  |    |    |    |  
 TPSC  |  Timothy Plan US Small Cap Core ETF  |    |    |    |  
 TPYP  |  Tortoise North American Pipeline Fund  |    |    |    |  
 TRFK  |  Pacer Data and Digital Revolution ETF  |    |    |    |  
@@ -3567,27 +3205,15 @@ TSME  |  Thrivent Small-Mid Cap ESG ETF  |    |    |    |
 TSPA  |  T. Rowe Price US Equity Research ETF  |    |    |    |  
 TUNE  |  Tidal Trust II - Clouty Tune ETF  |    |    |    |  
 TWIO  |  Trajan Wealth Income Opportunities ETF  |    |    |    |  
-TYBS  |  Direxion Daily 20+ Year Treasury Bear 1X Shares  |    |    |    |  
 TYLG  |  Global X Information Technology Covered Call & Growth ETF  |    |    |    |  
 TYNE  |  Direxion Nanotechnology ETF  |    |    |    |  
-UAUD  |  Citigroup ETNs linked to the VelocityShares Daily 4X Long AUD vs. USD Index  |    |    |    |  
 UBCB  |  UBC Algorithmic Fundamentals ETF  |    |    |    |  
-UBOT  |  Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares  |    |    |    |  
 UBRT  |  Credit Suisse AG (Nassau Branch) Ltd.  |    |    |    |  
-UCHF  |  Citigroup ETNs linked to the VelocityShares Daily 4X Long CHF vs. USD Index  |    |    |    |  
 UCIB  |  UBS ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B  |    |    |    |  
 UCOM  |  ProShares UltraPro Communication Services Select Sector  |    |    |    |  
-UCON  |  First Trust TCW Unconstrained Plus Bond ETF  |    |    |    |  
 UDIV  |  Franklin U.S. Core Dividend Tilt Index ETF  |    |    |    |  
 UDOW  |  ProShares UltraPro Dow30  |    |    |    |  
-UEUR  |  Citigroup ETNs linked to the VelocityShares Daily 4X Long EUR vs. USD Index  |    |    |    |  
-UGAZ  |  VelocityShares 3x Long Natural Gas ETN Linked to the S&P GSCI Natural Gas Index ER  |    |    |    |  
-UGBP  |  Citigroup ETNs linked to the VelocityShares Daily 4X Long GBP vs. USD Index  |    |    |    |  
-UGCE  |  Uncommon Portfolio Design Core Equity ETF  |    |    |    |  
-UITB  |  VictoryShares USAA Core Intermediate-Term Bond ETF  |    |    |    |  
-UJPY  |  Citigroup ETNs linked to the VelocityShares Daily 4X Long JPY vs. USD Index  |    |    |    |  
 ULBR  |  VelocityShares Long LIBOR ETN  |    |    |    |  
-ULST  |  SPDR SSgA Ultra Short Term Bond ETF  |    |    |    |  
 ULTR  |  IQ Ultra Short Duration ETF  |    |    |    |  
 UMDD  |  ProShares UltraPro MidCap400  |    |    |    |  
 UPAR  |  UPAR Ultra Risk Parity ETF  |    |    |    |  
@@ -3601,19 +3227,14 @@ USCA  |  Xtrackers MSCI USA Climate Action Equity ETF  |    |    |    |
 USCI  |  United States Commodity Index Fund, LP  |    |    |    |  
 USDU  |  WisdomTree Bloomberg U.S. Dollar Bullish Fund  |    |    |    |  
 USDY  |  Pacific Global US Equity Income ETF  |    |    |    |  
-USFR  |  WisdomTree Floating Rate Treasury Fund  |    |    |    |  
 USHG  |  AGFiQ Dynamic Hedged U.S. Equity ETF  |    |    |    |  
 USNZ  |  Xtrackers Net Zero Pathway Paris Aligned US Equity ETF  |    |    |    |  
-USOD  |  United States 3x Short Oil Fund  |    |    |    |  
-USOU  |  United States 3x Oil Fund  |    |    |    |  
 USPX  |  Franklin U.S. Equity Index ETF  |    |    |    |  
 USRT  |  iShares Core U.S. REIT ETF  |    |    |    |  
 USSG  |  Xtrackers MSCI USA ESG Leaders Equity ETF  |    |    |    |  
-USTB  |  VictoryShares USAA Core Short-Term Bond ETF  |    |    |    |  
 USVT  |  Lyrical US VALUE ETF  |    |    |    |  
 UTES  |  Virtus Reaves Utilities ETF  |    |    |    |  
 UTRN  |  Vesper U.S. Large Cap Short-Term Reversal Strategy ETF  |    |    |    |  
-UTSL  |  Direxion Daily Utilities Bull 3X Shares  |    |    |    |  
 UYLD  |  Angel Oak Ultrashort Income ETF  |    |    |    |  
 VABS  |  Virtus Newfleet ABS/MBS ETF  |    |    |    |  
 VALT  |  ETFMG Sit Ultra Short ETF  |    |    |    |  
@@ -3641,7 +3262,6 @@ VPOP  |  Simplify Volt Pop Culture Disruption ETF  |    |    |    |
 VRAI  |  Virtus Real Asset Income ETF  |    |    |    |  
 VSLU  |  Applied Finance Valuation Large Cap US ETF  |    |    |    |  
 VTEB  |  Vanguard Tax-Exempt Bond Index Fund  |    |    |    |  
-VTES  |  Vanguard Short-Term Tax-Exempt Bond ETF Shares  |    |    |    |  
 VUSE  |  Vident Core U.S. Equity Fund  |    |    |    |  
 WANT  |  Direxion Daily Cnsmr Discret Bull 3XShrs  |    |    |    |  
 WBIE  |  WBI BullBear Rising Income 3000 ETF  |    |    |    |  
@@ -3652,10 +3272,7 @@ WBIT  |  WBI BullBear Trend Switch US 3000 Total Return ETF  |    |    |    |
 WBIY  |  WBI Power Factor High Dividend ETF  |    |    |    |  
 WCHN  |  WisdomTree ICBCCS S&P China 500 Fund  |    |    |    |  
 WDIV  |  SPDR S&P Global Dividend ETF  |    |    |    |  
-WDRW  |  Direxion Daily Regional Banks Bear 3X Shares  |    |    |    |  
 WEAT  |  Teucrium Wheat Fund  |    |    |    |  
-WEBL  |  Direxion Daily Dow Jones Internet Bull 3X Shares  |    |    |    |  
-WEBS  |  Direxion Daily Dow Jones Internet Bear 3X Shares  |    |    |    |  
 WEET  |  iPath® Pure Beta Grains ETN  |    |    |    |  
 WEIX  |  Dynamic Short Short-Term Volatility Futures ETF  |    |    |    |  
 WGLD  |  wShares Enhanced Gold ETF  |    |    |    |  
@@ -3664,8 +3281,6 @@ WKLY  |  SoFi Weekly Dividend ETF  |    |    |    |
 WLTG  |  WealthTrust DBS Long Term Growth ETF  |    |    |    |  
 WOMN  |  Impact Shares YWCA Women's Empowerment ETF  |    |    |    |  
 WRND  |  IQ Global Equity R&D Leaders ETF  |    |    |    |  
-WTID  |  UBS ETRACS - ProShares Daily 3x Inverse Crude ETN  |    |    |    |  
-WTIU  |  UBS ETRACS - ProShares Daily 3x Long Crude ETN  |    |    |    |  
 WTMF  |  WisdomTree Managed Futures Strategy Fund  |    |    |    |  
 WTRE  |  WisdomTree New Economy Real Estate ETF  |    |    |    |  
 WUCT  |  UBS AG ETRACS Whitney U.S. Crit  |    |    |    |  
@@ -3676,32 +3291,23 @@ XCEM  |  Columbia EM Core ex-China ETF  |    |    |    |
 XCLR  |  Global X S&P 500 Collar 95-110 ETF  |    |    |    |  
 XCOM  |  ProShares Ultra Communication Services Select Sector  |    |    |    |  
 XDIV  |  Metaurus U.S. Equity Ex-Dividend Fund-Series 2027  |    |    |    |  
-XFIV  |  Bondbloxx Bloomberg Five Year Target Duration US Treasury ETF  |    |    |    |  
-XHLF  |  Bondbloxx Bloomberg Six Month Target Duration US Treasury ETF  |    |    |    |  
 XITK  |  SPDR FactSet Innovative Technology ETF  |    |    |    |  
 XIVH  |  VelocityShares VIX Shrt Volatil Hdg ETN  |    |    |    |  
 XLRE  |  The Real Estate Select Sector SPDR Fund  |    |    |    |  
 XLSR  |  SPDR SSGA U.S. Sector Rotation ETF  |    |    |    |  
 XNTK  |  SPDR NYSE Technology ETF  |    |    |    |  
-XONE  |  Bondbloxx Bloomberg One Year Target Duration US Treasury ETF  |    |    |    |  
 XOUT  |  GraniteShares XOUT U.S. Large Cap ETF  |    |    |    |  
 XPND  |  First Trust Expanded Technology ETF  |    |    |    |  
 XRMI  |  Global X S&P 500 Risk Managed Income ETF  |    |    |    |  
 XSOE  |  WisdomTree Emerging Markets ex-State-Owned Enterprises Fund  |    |    |    |  
-XSVN  |  Bondbloxx Bloomberg Seven Year Target Duration US Treasury ETF  |    |    |    |  
-XTRE  |  Bondbloxx Bloomberg Three Year Target Duration US Treasury ETF  |    |    |    |  
-XTWO  |  Bondbloxx Bloomberg Two Year Target Duration US Treasury ETF  |    |    |    |  
-XTWY  |  Bondbloxx Bloomberg Twenty Year Target Duration US Treasury ETF  |    |    |    |  
 XWEB  |  SPDR S&P Internet ETF  |    |    |    |  
 XYLD  |  Global X S&P 500 Covered Call ETF  |    |    |    |  
 XYLE  |  Global X Funds - Global X S&P 500 ESG Covered Call ETF  |    |    |    |  
 XYLG  |  Global X S&P 500 Covered Call & Growth ETF  |    |    |    |  
 YALL  |  God Bless America ETF  |    |    |    |  
-YANG  |  Direxion Daily FTSE China Bear 3X Shares  |    |    |    |  
 YCOM  |  ProShares UltraShort Communication Services Select Sector  |    |    |    |  
 YEAR  |  Ab Ultra Short Income ETF  |    |    |    |  
 YGRN  |  MicroSectors U.S. Big Oil Index Inverse ETNs  |    |    |    |  
-YINN  |  Direxion Daily FTSE China Bull 3X Shares  |    |    |    |  
 YOLO  |  AdvisorShares Pure Cannabis ETF  |    |    |    |  
 YUMY  |  VanEck Future of Food ETF  |    |    |    |  
 ZCAN  |  SPDR Solactive Canada ETF  |    |    |    |  
@@ -3711,7 +3317,6 @@ ZHDG  |  ZEGA Buy and Hedge ETF  |    |    |    |
 ZHOK  |  SPDR Solactive Hong Kong ETF  |    |    |    |  
 ZJPN  |  SPDR Solactive Japan ETF  |    |    |    |  
 ZMLP  |  Direxion Zacks MLP High Income Index Shares  |    |    |    |  
-ZROZ  |  PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund  |    |    |    |  
 ZSPY  |  ASYMmetric Smart Alpha S&P 500 ETF  |    |    |    |  
 ZTAX  |  X-Square Series Trust - X-Square Municipal Income Tax Free ETF  |    |    |    |  
 {: .datatable}

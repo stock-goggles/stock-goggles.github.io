@@ -1,5 +1,9 @@
 title: Stunning Octo Goggles
-domain: stunning-octo-goggles.github.io  
-url: https://stunning-octo-goggles.github.io  
-description: Some website.
+email: your-email@example.com
+description: >-
+  All data shown on this website is for informational purposes only
+  and should not be relied upon to make trading or investing decisions.
+baseurl: ""
+url: "https://stunning-octo-goggles.github.io"
+
 theme: minima

@@ -1,10 +1,11 @@
+---
 layout: page
 title: "Stocks"
 ---
 
-# Not so stocks
+<div class="datatable-begin"></div>
 
-AssetExposure | NumQuality | NumValue | NumMomentum | NumLowVolatility | NumSmallCap | NumLargeCap | RankQuality | RankValue | RankMomentum | RankLowVolatility
+AssetExposure | Quality | Value | Momentum | LowVolatility | SmallCap | LargeCap | RankQuality | RankValue | RankMomentum | RankLowVolatility
 ------------- | ---------- | -------- | ----------- | ---------------- | ----------- | ----------- | ----------- | --------- | ------------ | -----------------
 XOM | 13 | 28 | 9 | 10 | 0 | 20 | 3 | 14 | 1 | 2
 MSFT | 17 | 21 | 7 | 10 | 0 | 37 | 1 | 37 | 4 | 3
@@ -474,3 +475,6 @@ ICAD | 0 | 0 | 0 | 0 | 1 | 0 | 465 | 465 | 465 | 465
 FZT | 0 | 0 | 0 | 0 | 0 | 0 | 466 | 466 | 466 | 466
 SHFS | 0 | 0 | 0 | 0 | 1 | 0 | 467 | 467 | 467 | 467
 JUN | 0 | 0 | 0 | 0 | 0 | 0 | 468 | 468 | 468 | 468
+
+<div class="datatable-end"></div>
+

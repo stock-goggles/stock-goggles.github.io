@@ -3,7 +3,7 @@ layout: page
 title: "Stocks"
 datatable: true
 ---
-## Ranking List
+## Ranking
 
 <div class="datatable-begin"></div>
 

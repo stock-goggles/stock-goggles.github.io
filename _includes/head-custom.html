@@ -6,8 +6,10 @@
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script> <!--add dataTables-->
     <script>
         $(document).ready( function () {
-        $('table.datatable').DataTable();
-        } );
+		$('table.datatable').DataTable({
+			"order": []
+		});
+        });
     </script>
     {% endif %}
 </head>

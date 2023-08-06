@@ -24,6 +24,9 @@ ULVM  |  VictoryShares USAA MSCI USA Value Momentum ETF  |    |  yes  |  yes  |
 USVM  |  VictoryShares USAA MSCI USA Small Cap Value Momentum ETF  |    |  yes  |  yes  |  
 XMVM  |  Invesco S&P MidCap Value with Momentum ETF  |    |  yes  |  yes  |  
 XSVM  |  Invesco S&P SmallCap Value with Momentum ETF  |    |  yes  |  yes  |  
+LVIN  |  Hartford Multifactor Low Volatility International Equity ETF  |    |  yes  |    |  yes
+LVUS  |  Hartford Multifactor Low Volatility US Equity ETF  |    |  yes  |    |  yes
+VSMV  |  VictoryShares US Multi-Factor Minimum Volatility ETF  |    |  yes  |    |  yes
 DVOL  |  First Trust Dorsey Wright Momentum & Low Volatility ETF  |    |    |  yes  |  yes
 QLC  |  FlexShares US Quality Large Cap Index Fund  |  yes  |    |    |  
 DIHP  |  Dimensional International High Profitability ETF  |  yes  |    |    |  
@@ -89,31 +92,58 @@ CFCV  |  Clearbridge Focus Value ESG ETF  |    |  yes  |    |
 COWZ  |  Pacer US Cash Cows 100 ETF  |    |  yes  |    |  
 DFIC  |  Dimensional International Core Equity 2 ETF  |    |  yes  |    |  
 DISV  |  Dimensional International Small Cap Value ETF  |    |  yes  |    |  
+EMGF  |  iShares MSCI Emerging Markets Multifactor ETF  |    |  yes  |    |  
 EMZA  |  Emerge EMPWR Sustainable Global Core Equity ETF  |    |  yes  |    |  
+ERGF  |  iShares Edge MSCI Multifactor Energy ETF  |    |  yes  |    |  
+EUMF  |  WisdomTree Europe Multifactor Fund  |    |  yes  |    |  
 FBCV  |  Fidelity Blue Chip Value ETF  |    |  yes  |    |  
+FDEM  |  Fidelity Emerging Markets Multifactor ETF  |    |  yes  |    |  
+FDEV  |  Fidelity International Multifactor ETF  |    |  yes  |    |  
+FLQL  |  Franklin U.S. Large Cap Multifactor Index ETF  |    |  yes  |    |  
+FLQM  |  Franklin U.S. Mid Cap Multifactor Index ETF  |    |  yes  |    |  
+FLQS  |  Franklin U.S. Small Cap Multifactor Index ETF  |    |  yes  |    |  
 FTVA  |  Aptus Fortified Value ETF  |    |  yes  |    |  
 GCOW  |  Pacer Global Cash Cows Dividend ETF  |    |  yes  |    |  
 GVAL  |  Cambria Global Value ETF  |    |  yes  |    |  
+HCRF  |  iShares Edge MSCI Multifactor HlthC ETF  |    |  yes  |    |  
 ICOW  |  Pacer Developed Markets International Cash Cows 100 ETF  |    |  yes  |    |  
+IMFI  |  Invesco Multi-Factor Income ETF  |    |  yes  |    |  
+IMFL  |  Invesco International Developed Dynamic Multifactor ETF  |    |  yes  |    |  
 ISVL  |  iShares International Developed Small Cap Value Factor ETF  |    |  yes  |    |  
 IVAL  |  Alpha Architect International Quantitative Value ETF  |    |  yes  |    |  
+JNMF  |  WisdomTree Japan Multifactor Fund  |    |  yes  |    |  
+MATF  |  iShares Edge MSCI Multifactor Matrls ETF  |    |  yes  |    |  
 NULV  |  Nuveen ESG Large-Cap Value ETF  |    |  yes  |    |  
 NUMV  |  Nuveen ESG Mid-Cap Value ETF  |    |  yes  |    |  
+OMFL  |  Invesco Russell 1000 Dynamic Multifactor ETF  |    |  yes  |    |  
+OMFS  |  Invesco Russell 2000 Dynamic Multifactor ETF  |    |  yes  |    |  
 OSCV  |  Opus Small Cap Value Plus ETF  |    |  yes  |    |  
 OVLU  |  Invesco Russell 1000 Value Factor ETF  |    |  yes  |    |  
+PLRG  |  Principal US Large-Cap Adaptive Multi-Factor ETF  |    |  yes  |    |  
+PLTL  |  Principal US Small-Cap Adaptive Multi-Factor ETF  |    |  yes  |    |  
+PXUS  |  Principal International Adaptive Multi-Factor ETF  |    |  yes  |    |  
 QVAL  |  Alpha Architect U.S. Quantitative Value ETF  |    |  yes  |    |  
+RODE  |  Hartford Multifactor Diversified International ETF  |    |  yes  |    |  
 SEIV  |  SEI Large Cap Value Factor ETF  |    |  yes  |    |  
 SNPV  |  Xtrackers S&P ESG Value ETF  |    |  yes  |    |  
 STLV  |  iShares Factors US Value Style ETF  |    |  yes  |    |  
 SVAL  |  iShares US Small Cap Value Factor ETF  |    |  yes  |    |  
+TCHF  |  iShares Edge MSCI Multifactor Tech ETF  |    |  yes  |    |  
+USMF  |  WisdomTree U.S. Multifactor Fund  |    |  yes  |    |  
+UTLF  |  iShares Edge MSCI Multifactor Utilt ETF  |    |  yes  |    |  
+VFMF  |  Vanguard U.S. Multifactor ETF  |    |  yes  |    |  
 VFVA  |  Vanguard U.S. Value Factor ETF  |    |  yes  |    |  
 VLUE  |  iShares MSCI USA Value Factor ETF  |    |  yes  |    |  
 WBAT  |  WisdomTree Battery Value Chain and Innovation Fund  |    |  yes  |    |  
+EVUS  |  Ishares ESG Aware MSCI USA Value ETF  |    |  yes  |    |  
+MDLV  |  EA Series Trust - Morgan Dempsey Large Cap Value ETF  |    |  yes  |    |  
 PY  |  Principal Value ETF  |    |  yes  |    |  
 FAB  |  First Trust Multi Cap Value AlphaDEX Fund  |    |  yes  |    |  
 FNK  |  First Trust Mid Cap Value AlphaDEX Fund  |    |  yes  |    |  
 FTA  |  First Trust Large Cap Value AlphaDEX Fund  |    |  yes  |    |  
 FYT  |  First Trust Small Cap Value AlphaDEX Fund  |    |  yes  |    |  
+PLC  |  Principal U.S. Large-Cap Multi-Factor ETF  |    |  yes  |    |  
+PSC  |  Principal U.S. Small-Cap Multi-Factor ETF  |    |  yes  |    |  
 BSVO  |  Ea Series Trust - Ea Bridgeway Omni Small Cap Value Etf Fund  |    |  yes  |    |  
 CAFG  |  Pacer US Small Cap Cash Cows Growth Leaders ETF  |    |  yes  |    |  
 COWG  |  Pacer US Large Cap Cash Cows Growth Leaders ETF  |    |  yes  |    |  
@@ -123,10 +153,13 @@ EWJV  |  iShares MSCI Japan Value ETF  |    |  yes  |    |
 HERD  |  Pacer Cash Cows Fund of Funds ETF  |    |  yes  |    |  
 IMCV  |  iShares Morningstar Mid-Cap Value ETF  |    |  yes  |    |  
 IUSV  |  iShares Core S&P U.S. Value ETF  |    |  yes  |    |  
+PDEV  |  Principal International Multi-Factor ETF  |    |  yes  |    |  
 STXV  |  Strive 1000 Value ETF  |    |  yes  |    |  
 VONV  |  Vanguard Russell 1000 Value Index Fund  |    |  yes  |    |  
 VTWV  |  Vanguard Russell 2000 Value Index Fund  |    |  yes  |    |  
 JKI  |  iShares Morningstar Mid-Cap Value ETF  |    |  yes  |    |  
+PSM  |  Principal U.S. Small-MidCap Multi-Factor ETF  |    |  yes  |    |  
+FNCF  |  iShares Edge MSCI Multifactor Fincls ETF  |    |  yes  |    |  
 BUL  |  Pacer US Cash Cows Growth ETF  |    |  yes  |    |  
 CGV  |  Conductor Global Equity Value ETF  |    |  yes  |    |  
 DVP  |  Roundhill Acquirers Deep Value ETF  |    |  yes  |    |  
@@ -155,6 +188,7 @@ VOE  |  Vanguard Mid-Cap Value Index Fund  |    |  yes  |    |
 VTV  |  Vanguard Value Index Fund  |    |  yes  |    |  
 WTV  |  WisdomTree U.S. Value Fund  |    |  yes  |    |  
 ABEQ  |  Absolute Select Value ETF  |    |  yes  |    |  
+ACWF  |  iShares MSCI Global Multifactor ETF  |    |  yes  |    |  
 AILV  |  Alpha Intelligent - Large Cap Value ETF  |    |  yes  |    |  
 AIVI  |  WisdomTree International Al Enhanced Value Fund  |    |  yes  |    |  
 AIVL  |  WisdomTree U.S. Al Enhanced Value Fund  |    |  yes  |    |  
@@ -172,7 +206,9 @@ CAMX  |  Cambiar Aggressive Value ETF  |    |  yes  |    |
 CGDV  |  Capital Group Dividend Value ETF  |    |  yes  |    |  
 CHEP  |  AGFiQ U.S. Market Neutral Value Fund  |    |  yes  |    |  
 DBLV  |  AdvisorShares DoubleLine Value Equity ETF  |    |  yes  |    |  
+DEEF  |  Xtrackers FTSE Developed ex US Multifactor ETF  |    |  yes  |    |  
 DEEP  |  Roundhill Acquirers Deep Value ETF  |    |  yes  |    |  
+DEUS  |  Xtrackers Russell US Multifactor ETF  |    |  yes  |    |  
 DFAC  |  Dimensional U.S. Core Equity 2 ETF  |    |  yes  |    |  
 DFAE  |  Dimensional Emerging Core Equity Market ETF  |    |  yes  |    |  
 DFAI  |  Dimensional International Core Equity Market ETF  |    |  yes  |    |  
@@ -187,10 +223,14 @@ DFUV  |  Dimensional US Marketwide Value ETF  |    |  yes  |    |
 DMDV  |  AAM S&P Developed Markets High Dividend Value ETF  |    |  yes  |    |  
 DSTL  |  Distillate U.S. Fundamental Stability & Value ETF  |    |  yes  |    |  
 DSTX  |  Distillate International Fundamental Stability & Value ETF  |    |  yes  |    |  
+DWMF  |  WisdomTree International Multifactor Fund  |    |  yes  |    |  
 ECML  |  EA Series Trust - Euclidean Fundamental Value ETF  |    |  yes  |    |  
 EEMD  |  AAM S&P Emerging Markets High Dividend Value ETF  |    |  yes  |    |  
+EMMF  |  WisdomTree Emerging Markets Multifactor Fund  |    |  yes  |    |  
 EQTY  |  Kovitz Core Equity ETF  |    |  yes  |    |  
+FDLS  |  Inspire Fidelis Multi Factor ETF  |    |  yes  |    |  
 FIVA  |  Fidelity International Value Factor ETF  |    |  yes  |    |  
+FLRG  |  Fidelity U.S. Multifactor ETF  |    |  yes  |    |  
 FOVL  |  iShares Focused Value Factor ETF  |    |  yes  |    |  
 FVAL  |  Fidelity Value Factor ETF  |    |  yes  |    |  
 GVLU  |  Gotham 1000 Value ETF  |    |  yes  |    |  
@@ -199,26 +239,58 @@ IEMV  |  Invesco Emerging Markets Debt Value ETF  |    |  yes  |    |
 IHYV  |  Invesco Corporate Income Value ETF  |    |  yes  |    |  
 IIGV  |  Invesco Investment Grade Value ETF  |    |  yes  |    |  
 ILCV  |  iShares Morningstar Value ETF  |    |  yes  |    |  
+IMFP  |  Invesco Multi-Factor Core Plus fixed Income ETF  |    |  yes  |    |  
+ISCF  |  iShares MSCI Intl Small-Cap Multifactor ETF  |    |  yes  |    |  
 ISCV  |  iShares Morningstar Small-Cap Value ETF  |    |  yes  |    |  
 ITAN  |  Sparkline Intangible Value ETF  |    |  yes  |    |  
 IVLU  |  iShares Edge MSCI Intl Value Factor ETF  |    |  yes  |    |  
 IVOV  |  Vanguard S&P Mid-Cap 400 Value Index Fund  |    |  yes  |    |  
 JAVA  |  JPMorgan Active Value ETF  |    |  yes  |    |  
+JHCS  |  John Hancock Multifactor Media and Communications ETF  |    |  yes  |    |  
+JHEM  |  John Hancock Multifactor Emerging Markets ETF  |    |  yes  |    |  
+JHMA  |  John Hancock Multifactor Materials ETF  |    |  yes  |    |  
+JHMC  |  John Hancock Multifactor Consumer Discretionary ETF  |    |  yes  |    |  
+JHMD  |  John Hancock Multifactor Developed International ETF  |    |  yes  |    |  
+JHME  |  John Hancock Multifactor Energy ETF  |    |  yes  |    |  
+JHMF  |  John Hancock Multifactor Financials ETF  |    |  yes  |    |  
+JHMH  |  John Hancock Multifactor Health Care ETF  |    |  yes  |    |  
+JHMI  |  John Hancock Multifactor Industrials ETF  |    |  yes  |    |  
+JHML  |  John Hancock Multifactor Large Cap ETF  |    |  yes  |    |  
+JHMM  |  John Hancock Multifactor Mid Cap ETF  |    |  yes  |    |  
+JHMS  |  John Hancock Multifactor Consumer Staples ETF  |    |  yes  |    |  
+JHMT  |  John Hancock Multifactor Technology ETF  |    |  yes  |    |  
+JHMU  |  John Hancock Multifactor Utilities ETF  |    |  yes  |    |  
+JHSC  |  John Hancock Multifactor Small Cap ETF  |    |  yes  |    |  
 JPSV  |  Jpmorgan Active Small Cap Value ETF  |    |  yes  |    |  
 JVAL  |  JPMorgan U.S. Value Factor ETF  |    |  yes  |    |  
 KVLE  |  KFA Value Line Dynamic Core Equity Index ETF  |    |  yes  |    |  
 LSAF  |  LeaderSharesTM AlphaFactor US Core Equity ETF  |    |  yes  |    |  
 MDYV  |  SPDR S&P 400 Mid Cap Value ETF  |    |  yes  |    |  
+MFDX  |  PIMCO RAFI Dynamic Multi-Factor International Equity ETF  |    |  yes  |    |  
+MFEM  |  PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF  |    |  yes  |    |  
+MFUS  |  PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF  |    |  yes  |    |  
+MIDF  |  iShares MSCI USA Mid-Cap Multifactor ETF  |    |  yes  |    |  
 MXDE  |  Nationwide Maximum Diversification Emerging Markets Core Equity ETF  |    |  yes  |    |  
 MXDU  |  Nationwide Maximum Diversification U.S. Core Equity ETF  |    |  yes  |    |  
+PALC  |  Pacer Lunt Large Cap Multi-Factor Alternator ETF  |    |  yes  |    |  
+PAMC  |  Pacer Lunt MidCap Multi-Factor Alternator ETF  |    |  yes  |    |  
 PQSV  |  PGIM ETF Trust - PGIM QMA Strategic Alpha Small-Cap Value ETF  |    |  yes  |    |  
 PVAL  |  Putnam Focused Large Cap Value ETF  |    |  yes  |    |  
+QVML  |  Invesco S&P 500 QVM Multi-factor ETF  |    |  yes  |    |  
+QVMM  |  Invesco S&P MidCap 400 QVM Multi-factor ETF  |    |  yes  |    |  
+QVMS  |  Invesco S&P SmallCap 600 QVM Multi-factor ETF  |    |  yes  |    |  
 REVS  |  Columbia Research Enhanced Value ETF  |    |  yes  |    |  
+ROAM  |  Hartford Multifactor Emerging Markets ETF  |    |  yes  |    |  
+RODM  |  Hartford Multifactor Developed Markets (ex-US) ETF  |    |  yes  |    |  
+RORE  |  Hartford Multifactor REIT ETF  |    |  yes  |    |  
+ROSC  |  Hartford Multifactor Small Cap ETF  |    |  yes  |    |  
+ROUS  |  Hartford Multifactor US Equity ETF  |    |  yes  |    |  
 RWGV  |  Direxion Russell 1000 Growth Over Value ETF  |    |  yes  |    |  
 RWVG  |  Direxion Russell 1000 Value Over Growth ETF  |    |  yes  |    |  
 SCHV  |  Schwab U.S. Large-Cap Value ETF  |    |  yes  |    |  
 SGLC  |  Rbb Fund Inc. - Sgi U.S Large Cap Core Equity Fund  |    |  yes  |    |  
 SLYV  |  SPDR S&P 600 Small Cap Value ETF  |    |  yes  |    |  
+SMLF  |  iShares MSCI USA Small-Cap Multifactor ETF  |    |  yes  |    |  
 SPDV  |  AAM S&P 500 High Dividend Value ETF  |    |  yes  |    |  
 SPVU  |  Invesco S&P 500 Enhanced Value ETF  |    |  yes  |    |  
 SPYV  |  SPDR Portfolio S&P 500 Value ETF  |    |  yes  |    |  
@@ -285,8 +357,6 @@ IDHD  |  Invesco S&P International Developed High Dividend Low Volatility ETF  |
 LVHB  |  Innovator Lunt Low Vol/High Beta Tactical ETF  |    |    |    |  yes
 LVHE  |  Legg Mason Emerging Markets Low Volatility High Dividend ETF  |    |    |    |  yes
 LVHI  |  Franklin International Low Volatility High Dividend Index ETF  |    |    |    |  yes
-LVIN  |  Hartford Multifactor Low Volatility International Equity ETF  |    |    |    |  yes
-LVUS  |  Hartford Multifactor Low Volatility US Equity ETF  |    |    |    |  yes
 OVOL  |  Invesco Russell 1000 Low Volatility Factor ETF  |    |    |    |  yes
 SELV  |  SEI Large Cap Low Volatility Factor ETF  |    |    |    |  yes
 SMMV  |  iShares MSCI USA Small-Cap Min Vol Factor ETF  |    |    |    |  yes
@@ -295,7 +365,6 @@ VFMV  |  Vanguard U.S. Minimum Volatility ETF  |    |    |    |  yes
 XSHD  |  Invesco S&P SmallCap High Dividend Low Volatility ETF  |    |    |    |  yes
 ESMV  |  iShares ESG MSCI USA Min Vol Factor ETF  |    |    |    |  yes
 LVHD  |  Franklin U.S. Low Volatility High Dividend Index ETF  |    |    |    |  yes
-VSMV  |  VictoryShares US Multi-Factor Minimum Volatility ETF  |    |    |    |  yes
 DIVZ  |  TrueShares Low Volatility Equity Income ETF  |    |    |    |  yes
 EELV  |  Invesco S&P Emerging Markets Low Volatility ETF  |    |    |    |  yes
 EUMV  |  iShares Edge MSCI Min Vol Europe ETF  |    |    |    |  yes
@@ -489,12 +558,10 @@ EMCA  |  Emerge EMPWR Sustainable Dividend Equity ETF  |    |    |    |
 EMCH  |  Emerge EMPWR Sustainable Emerging Markets Equity ETF  |    |    |    |  
 EMDV  |  ProShares MSCI Emerging Markets Dividend Growers ETF  |    |    |    |  
 EMGC  |  Emerge EMPWR Sustainable Select Growth Equity ETF  |    |    |    |  
-EMGF  |  iShares MSCI Emerging Markets Multifactor ETF  |    |    |    |  
 ENAV  |  Collaborative Investment Series Trust - Mohr Sector Navigator ETF  |    |    |    |  
 ENOR  |  iShares MSCI Norway ETF  |    |    |    |  
 EOPS  |  Emles Alpha Opportunities ETF  |    |    |    |  
 EPRF  |  Innovator S&P Investment Grade Preferred ETF  |    |    |    |  
-ERGF  |  iShares Edge MSCI Multifactor Energy ETF  |    |    |    |  
 ESCR  |  Xtrackers Bloomberg US Investment Grade Corporate ESG ETF  |    |    |    |  
 ESEB  |  Xtrackers J.P. Morgan ESG Emerging Markets Sovereign ETF  |    |    |    |  
 ESGG  |  FlexShares STOXX Global ESG Select Index Fund  |    |    |    |  
@@ -502,7 +569,6 @@ ESGV  |  Vanguard ESG U.S. Stock ETF  |    |    |    |
 ESML  |  iShares ESG Aware MSCI USA Small-Cap ETF  |    |    |    |  
 EUCG  |  Euclid Capital Growth ETF  |    |    |    |  
 EUDV  |  ProShares MSCI Europe Dividend Growers ETF  |    |    |    |  
-EUMF  |  WisdomTree Europe Multifactor Fund  |    |    |    |  
 EURZ  |  Xtrackers Eurozone Equity ETF  |    |    |    |  
 EVIX  |  VelocityShares 1x Long VSTOXX Futures ETN  |    |    |    |  
 EWGS  |  iShares MSCI Germany Small-Cap ETF  |    |    |    |  
@@ -518,8 +584,6 @@ FCLD  |  Fidelity Cloud Computing ETF  |    |    |    |
 FCPI  |  Fidelity Stocks for Inflation ETF  |    |    |    |  
 FCTR  |  First Trust Lunt U.S. Factor Rotation ETF  |    |    |    |  
 FDEC  |  FT Cboe Vest U.S. Equity Buffer ETF - December  |    |    |    |  
-FDEM  |  Fidelity Emerging Markets Multifactor ETF  |    |    |    |  
-FDEV  |  Fidelity International Multifactor ETF  |    |    |    |  
 FDHT  |  Fidelity Digital Health ETF  |    |    |    |  
 FDRV  |  Fidelity Electric Vehicles and Future Transportation ETF  |    |    |    |  
 FEBZ  |  TrueShares Structured Outcome (February) ETF  |    |    |    |  
@@ -535,9 +599,6 @@ FJUL  |  FT Cboe Vest U.S. Equity Buffer ETF - July  |    |    |    |
 FJUN  |  FT Cboe Vest U.S. Equity Buffer ETF - June  |    |    |    |  
 FLBL  |  Franklin Senior Loan ETF  |    |    |    |  
 FLDR  |  Fidelity Low Duration Bond Factor ETF  |    |    |    |  
-FLQL  |  Franklin U.S. Large Cap Multifactor Index ETF  |    |    |    |  
-FLQM  |  Franklin U.S. Mid Cap Multifactor Index ETF  |    |    |    |  
-FLQS  |  Franklin U.S. Small Cap Multifactor Index ETF  |    |    |    |  
 FLTN  |  Rareview Inflation/Deflation ETF  |    |    |    |  
 FMAG  |  Fidelity Magellan ETF  |    |    |    |  
 FMAR  |  FT Cboe Vest U.S. Equity Buffer ETF - March  |    |    |    |  
@@ -566,7 +627,6 @@ GSEW  |  Goldman Sachs Equal Weight U.S. Large Cap Equity ETF  |    |    |    |
 GSID  |  Goldman Sachs MarketBeta International Equity ETF  |    |    |    |  
 GSUS  |  Goldman Sachs MarketBeta US Equity ETF  |    |    |    |  
 HAUS  |  Home Appreciation U.S. REIT ETF  |    |    |    |  
-HCRF  |  iShares Edge MSCI Multifactor HlthC ETF  |    |    |    |  
 HEEM  |  iShares Currency Hedged MSCI Emerging Markets ETF  |    |    |    |  
 HEET  |  Hartford Schroders ESG US Equity ETF  |    |    |    |  
 HEFA  |  iShares Currency Hedged MSCI EAFE ETF  |    |    |    |  
@@ -599,8 +659,6 @@ IGHG  |  ProShares Investment Grade—Interest Rate Hedged  |    |    |    |
 IGIH  |  Xtrackers Bloomberg Barclays US Investment Grade Corporate ESG ETF  |    |    |    |  
 IGLD  |  FT Cboe Vest Gold Target Income ETF  |    |    |    |  
 IGRO  |  iShares International Dividend Growth ETF  |    |    |    |  
-IMFI  |  Invesco Multi-Factor Income ETF  |    |    |    |  
-IMFL  |  Invesco International Developed Dynamic Multifactor ETF  |    |    |    |  
 IMLP  |  iPath S&P MLP ETN  |    |    |    |  
 IMSI  |  Invesco Municipal Strategic Income ETF  |    |    |    |  
 INDA  |  iShares MSCI India ETF  |    |    |    |  
@@ -620,7 +678,6 @@ JBRI  |  James Biblically Responsible Inv ETF  |    |    |    |
 JEMA  |  JPMorgan ActiveBuilders Emerging Markets Equity ETF  |    |    |    |  
 JMST  |  JPMorgan Ultra-Short Municipal Income ETF  |    |    |    |  
 JMUB  |  JPMorgan Municipal ETF  |    |    |    |  
-JNMF  |  WisdomTree Japan Multifactor Fund  |    |    |    |  
 JPGB  |  JPMorgan Global Bond Opportunities ETF  |    |    |    |  
 JPIB  |  JPMorgan International Bond Opportunities ETF  |    |    |    |  
 JPST  |  JPMorgan Ultra-Short Income ETF  |    |    |    |  
@@ -644,7 +701,6 @@ MAAX  |  VanEck Muni Allocation ETF  |    |    |    |
 MAGA  |  Point Bridge America First ETF  |    |    |    |  
 MAMB  |  Monarch Ambassador Income ETF  |    |    |    |  
 MARZ  |  TrueShares Structured Outcome (March) ETF  |    |    |    |  
-MATF  |  iShares Edge MSCI Multifactor Matrls ETF  |    |    |    |  
 MAYZ  |  TrueShares Structured Outcome (May) ETF  |    |    |    |  
 MBCC  |  Monarch Blue Chips Core ETF  |    |    |    |  
 MBNE  |  SPDR Nuveen Municipal Bond ESG ETF  |    |    |    |  
@@ -679,8 +735,6 @@ NVMZ  |  TrueShares Structured Outcome (November) ETF  |    |    |    |
 OCTZ  |  TrueShares Structured Outcome (October) ETF  |    |    |    |  
 OGIG  |  ALPS O'Shares Global Internet Giants ETF Shares  |    |    |    |  
 OILK  |  ProShares K-1 Free Crude Oil Strategy ETF  |    |    |    |  
-OMFL  |  Invesco Russell 1000 Dynamic Multifactor ETF  |    |    |    |  
-OMFS  |  Invesco Russell 2000 Dynamic Multifactor ETF  |    |    |    |  
 OSIZ  |  Invesco Russell 1000 Size Factor ETF  |    |    |    |  
 OYLD  |  Invesco Russell 1000 Yield Factor ETF  |    |    |    |  
 PAPR  |  Innovator S&P 500 Power Buffer ETF - April New  |    |    |    |  
@@ -698,8 +752,6 @@ PJAN  |  Innovator U.S. Equity Power Buffer ETF - January  |    |    |    |
 PJUL  |  Innovator S&P 500 Power Buffer ETF — July  |    |    |    |  
 PJUN  |  Innovator S&P 500 Power Buffer ETF - New  |    |    |    |  
 PLCY  |  EventShares U.S. Legislative Opportunities ETF  |    |    |    |  
-PLRG  |  Principal US Large-Cap Adaptive Multi-Factor ETF  |    |    |    |  
-PLTL  |  Principal US Small-Cap Adaptive Multi-Factor ETF  |    |    |    |  
 PMAR  |  Innovator S&P 500 Power Buffer ETF - March  |    |    |    |  
 PMAY  |  Innovator S&P 500 Power Buffer ETF - May  |    |    |    |  
 PNOV  |  Innovator U.S. Equity Power Buffer ETF - November  |    |    |    |  
@@ -728,7 +780,6 @@ PTLC  |  Pacer Trendpilot US Large Cap ETF  |    |    |    |
 PTMC  |  Pacer Trendpilot US Mid Cap ETF  |    |    |    |  
 PTNQ  |  Pacer Trendpilot 100 ETF  |    |    |    |  
 PUNK  |  Subversive Metaverse ETF  |    |    |    |  
-PXUS  |  Principal International Adaptive Multi-Factor ETF  |    |    |    |  
 QDEC  |  FT Cboe Vest Nasdaq-100 Buffer ETF – December  |    |    |    |  
 QJUN  |  FT Cboe Vest Nasdaq-100 Buffer ETF - June  |    |    |    |  
 QMAR  |  FT Cboe Vest Nasdaq-100 Buffer ETF – March  |    |    |    |  
@@ -749,7 +800,6 @@ RESD  |  WisdomTree International ESG Fund  |    |    |    |
 RESE  |  WisdomTree Emerging Markets ESG Fund  |    |    |    |  
 RGLB  |  Invesco Global Revenue ETF  |    |    |    |  
 ROCI  |  ROC ETF  |    |    |    |  
-RODE  |  Hartford Multifactor Diversified International ETF  |    |    |    |  
 RODI  |  Barclays Return on Disability ETN  |    |    |    |  
 RPHS  |  Regents Park Hedged Market Strategy ETF  |    |    |    |  
 RPUT  |  WisdomTree CBOE Russell 2000 PutWrite Strategy Fund  |    |    |    |  
@@ -787,7 +837,6 @@ TAEQ  |  Trend Aggregation U.S. ETF  |    |    |    |
 TAIL  |  Cambria Tail Risk ETF  |    |    |    |  
 TAXR  |  U.S. Tax Reform Fund  |    |    |    |  
 TBLU  |  Tortoise Global Water ESG Fund  |    |    |    |  
-TCHF  |  iShares Edge MSCI Multifactor Tech ETF  |    |    |    |  
 TCTL  |  Premise Capital Diversified Tactical ETF  |    |    |    |  
 TEGS  |  Trend Aggregation ESG ETF  |    |    |    |  
 TFIV  |  Global X TargetIncome 5 ETF  |    |    |    |  
@@ -819,11 +868,8 @@ UNOV  |  Innovator U.S. Equity Ultra Buffer ETF - November  |    |    |    |
 UOCT  |  Innovator S&P 500 Ultra Buffer ETF - October  |    |    |    |  
 USEP  |  Innovator S&P 500 Ultra Buffer ETF - September  |    |    |    |  
 USEQ  |  Invesco Russell 1000 Enhanced Equal Weight ETF  |    |    |    |  
-USMF  |  WisdomTree U.S. Multifactor Fund  |    |    |    |  
-UTLF  |  iShares Edge MSCI Multifactor Utilt ETF  |    |    |    |  
 UVXY  |  ProShares Ultra VIX Short-Term Futures ETF  |    |    |    |  
 VFLQ  |  Vanguard U.S. Liquidity Factor ETF  |    |    |    |  
-VFMF  |  Vanguard U.S. Multifactor ETF  |    |    |    |  
 VIRS  |  Pacer BioThreat Strategy ETF  |    |    |    |  
 VIXM  |  ProShares VIX Mid-Term Futures ETF  |    |    |    |  
 VIXY  |  ProShares VIX Short-Term Futures ETF  |    |    |    |  
@@ -870,6 +916,35 @@ YJUN  |  FT Cboe Vest International Equity Buffer ETF – June  |    |    |    |
 YMAR  |  FT Cboe Vest International Equity Buffer ETF - March  |    |    |    |  
 YSEP  |  FT Cboe Vest International Equity Buffer ETF - September  |    |    |    |  
 ZECP  |  Zacks Earnings Consistent Portfolio ETF  |    |    |    |  
+APRD  |  Innovator Etfs Trust - Premium Income 10 Barrier Etf - April  |    |    |    |  
+APRH  |  Innovator Premium Income 20 Barrier ETF - April  |    |    |    |  
+APRJ  |  Innovator Premium Income 30 Barrier ETF - April  |    |    |    |  
+APRQ  |  Innovator Premium Income 40 Barrier ETF - April  |    |    |    |  
+BBEM  |  J.P. Morgan Exchange-Traded Fund Trust - JPMorgan BetaBuilders Emerging Markets Equity ETF  |    |    |    |  
+BBIP  |  J.P. Morgan Exchange-Traded Fun  |    |    |    |  
+CAOS  |  EA Series Trust - Alpha Architect Tail Risk ETF  |    |    |    |  
+DOGG  |  First Trust Exchange-Traded Fund IV - FT Cboe Vest DJIA Dogs 10 Target Income ETF  |    |    |    |  
+EGUS  |  Ishares ESG Aware MSCI USA Growth ETF  |    |    |    |  
+GAPR  |  First Trust Exchange-Traded Fund VIII - FT Cboe Vest U.S. Equity Moderate Buffer ETF - April  |    |    |    |  
+GFEB  |  First Trust Exchange-Traded Fund VIII - FT Cboe Vest U.S. Equity Moderate Buffer ETF - February  |    |    |    |  
+GJUN  |  First Trust Exchange-Traded Fund VIII - FT Cboe Vest U.S. Equity Moderate Buffer ETF - June  |    |    |    |  
+GMAR  |  First Trust Exchange-Traded Fund VIII - FT Cboe Vest U.S. Equity Moderate Buffer ETF - March  |    |    |    |  
+GMAY  |  First Trust Exchange-Traded Fund VIII - FT Cboe Vest U.S. Equity Moderate Buffer ETF - May  |    |    |    |  
+HEAT  |  Touchstone ETF Trust - Touchstone Climate Transition ETF  |    |    |    |  
+IBHJ  |    |    |    |    |  
+IDUB  |  ETF Series Solutions - Aptus International Enhanced Yield ETF  |    |    |    |  
+IVVB  |  BlackRock ETF Trust II iShares   |    |    |    |  
+IVVM  |    |    |    |    |  
+KRUZ  |  Unusual Whales Subversive Republican Trading ETF  |    |    |    |  
+NANC  |  Unusual Whales Subversive Democratic Trading ETF  |    |    |    |  
+RMIF  |  ETF Series Solutions - LHA Risk-Managed Income ETF  |    |    |    |  
+RSBT  |  Return Stacked Bonds & Managed Futures ETF  |    |    |    |  
+SMAY  |  FT Cboe Vest U.S. Small Cap Moderate Buffer ETF - May  |    |    |    |  
+SNAV  |  Collaborative Investment Series Trust - Mohr Sector Nav ETF  |    |    |    |  
+SUPP  |  Engine No. 1 Transform Supply Chain ETF  |    |    |    |  
+TOLL  |  Tema ETF Trust - Tema Monopolies and Oligopolies ETF  |    |    |    |  
+XMAR  |  First Trust Exchange Traded Fund VIII - Cboe Vest US Equity Enhance and Moderate Buffer ETF  |    |    |    |  
+ZIVB  |  Volatility Shares Trust - -1x Short VIX Mid-Term Futures Strategy ETF  |    |    |    |  
 FV  |  First Trust Dorsey Wright Focus 5 ETF  |    |    |    |  
 VR  |  Global X Metaverse ETF  |    |    |    |  
 XT  |  iShares Exponential Technologies ETF  |    |    |    |  
@@ -939,9 +1014,7 @@ PHO  |  Invesco Water Resources ETF  |    |    |    |
 PID  |  Invesco International Dividend Achievers ETF  |    |    |    |  
 PIO  |  Invesco Global Water ETF  |    |    |    |  
 PKW  |  Invesco BuyBack Achievers ETF  |    |    |    |  
-PLC  |  Principal U.S. Large-Cap Multi-Factor ETF  |    |    |    |  
 PPH  |  VanEck Pharmaceutical ETF  |    |    |    |  
-PSC  |  Principal U.S. Small-Cap Multi-Factor ETF  |    |    |    |  
 QAT  |  iShares MSCI Qatar ETF  |    |    |    |  
 QQC  |  Simplify Nasdaq 100 plus convexity ETF  |    |    |    |  
 QQD  |  Simplify Nasdaq 100 plus Downside  convexity ETF  |    |    |    |  
@@ -1193,7 +1266,6 @@ ONEQ  |  Fidelity Nasdaq Composite Index ETF  |    |    |    |
 PABU  |  iShares Paris-Aligned Climate MSCI USA ETF  |    |    |    |  
 PDBA  |  Invesco Agriculture Commodity Strategy No K-1 ETF  |    |    |    |  
 PDBC  |  Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF  |    |    |    |  
-PDEV  |  Principal International Multi-Factor ETF  |    |    |    |  
 PNQI  |  Invesco NASDAQ Internet ETF  |    |    |    |  
 POTX  |  Global X Cannabis ETF  |    |    |    |  
 PRFZ  |  Invesco FTSE RAFI US 1500 Small-Mid ETF  |    |    |    |  
@@ -1331,7 +1403,6 @@ EVSTC  |  Eaton Vance Stock NextShares  |    |    |    |
 JMPNL  |  JMP Group LLC - 7.25% Senior No  |    |    |    |  
 RILYI  |  B. Riley Financial, Inc. - 6.87  |    |    |    |  
 FMK  |  First Trust Mega Cap AlphaDEX Fund  |    |    |    |  
-PSM  |  Principal U.S. Small-MidCap Multi-Factor ETF  |    |    |    |  
 AGND  |  WisdomTree Negative Duration U.S. Aggregate Bond Fund  |    |    |    |  
 DWTR  |  Invesco DWA Tactical Sector Rotation ETF  |    |    |    |  
 GULF  |  WisdomTree Middle East Dividend Fund  |    |    |    |  
@@ -1347,11 +1418,14 @@ OFSSZ  |  OFS Capital Corporation - 6.50%  |    |    |    |
 WHFBZ  |  WhiteHorse Finance, Inc. - 6.50  |    |    |    |  
 SHLD  |  Victory Portfolios II - VictoryShares Protect America ETF  |    |    |    |  
 KOR  |  Corvus Gold Inc.  |    |    |    |  
+GOP  |  Republican Policies Fund  |    |    |    |  
+ALFI  |  AlphaClone International ETF  |    |    |    |  
 SACC  |  Sachem Capital Corp. 6.875% Not  |    |    |    |  
 SCCB  |  378  |    |    |    |  
 SCCC  |  Sachem Capital Corp. 7.75% Note  |    |    |    |  
 SCCD  |  Sachem Capital Corp. 6.00% Note  |    |    |    |  
 SCCE  |  Sachem Capital Corp. 6.00% Note  |    |    |    |  
+YESR  |  Amplify YieldShares Senior Loan Inc ETF  |    |    |    |  
 CN  |  Xtrackers MSCI All China Equity ETF  |    |    |    |  
 FM  |  iShares MSCI Frontier and Select EM ETF  |    |    |    |  
 GK  |  AdvisorShares Gerber Kawasaki ETF  |    |    |    |  
@@ -1934,7 +2008,6 @@ ACIM  |  SPDR MSCI ACWI IMI ETF  |    |    |    |
 ACSG  |  Xtrackers MSCI ACWI ex USA ESG Leaders Equity ETF  |    |    |    |  
 ACTV  |  LeaderShares Activist Leaders ETF  |    |    |    |  
 ACVF  |  American Conservative Values ETF  |    |    |    |  
-ACWF  |  iShares MSCI Global Multifactor ETF  |    |    |    |  
 ADIV  |  SmartETFs Asia Pacific Dividend Builder ETF  |    |    |    |  
 ADPV  |  Adaptiv Select ETF  |    |    |    |  
 AFLG  |  First Trust Active Factor Large Cap ETF  |    |    |    |  
@@ -2170,9 +2243,7 @@ DCNG  |  iPath® Seasonal Natural Gas ETN  |    |    |    |
 DECT  |  Allianzim U.S. Large Cap Buffer10 Dec ETF  |    |    |    |  
 DECW  |  Allianzim U.S. Large Cap Buffer20 Dec ETF  |    |    |    |  
 DEED  |  First Trust TCW Securitized Plus ETF  |    |    |    |  
-DEEF  |  Xtrackers FTSE Developed ex US Multifactor ETF  |    |    |    |  
 DEFI  |  Hashdex Bitcoin Futures ETF  |    |    |    |  
-DEUS  |  Xtrackers Russell US Multifactor ETF  |    |    |    |  
 DFAR  |  Dimensional US Real Estate ETF  |    |    |    |  
 DFAS  |  Dimensional U.S. Small Cap ETF  |    |    |    |  
 DFIP  |  Dimensional Inflation-Protected Securities ETF  |    |    |    |  
@@ -2216,7 +2287,6 @@ DVND  |  Touchstone Dividend Select ETF  |    |    |    |
 DVYA  |  iShares Asia/Pacific Dividend ETF  |    |    |    |  
 DVYE  |  iShares Emerging Markets Dividend ETF  |    |    |    |  
 DVYL  |  UBS ETRACS Monthly Pay 2xLeveraged Dow Jones Select Dividend Index ETN  |    |    |    |  
-DWMF  |  WisdomTree International Multifactor Fund  |    |    |    |  
 DYHG  |  Direxion Dynamic Hedge ETF  |    |    |    |  
 DYLD  |  LeaderShares Dynamic Yield ETF  |    |    |    |  
 DYNF  |  BlackRock U.S. Equity Factor Rotation ETF  |    |    |    |  
@@ -2255,7 +2325,6 @@ EMFQ  |  Amplify Emerging Markets FinTech ETF  |    |    |    |
 EMGD  |  Simplify Emerging Markets Equity PLUS Downside Convexity ETF  |    |    |    |  
 EMLB  |  iPath Long Enhanced MSCI Emerg Mkts ETN  |    |    |    |  
 EMLP  |  First Trust North American Energy Infrastructure Fund  |    |    |    |  
-EMMF  |  WisdomTree Emerging Markets Multifactor Fund  |    |    |    |  
 EMNT  |  PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund  |    |    |    |  
 EMQQ  |  EMQQ The Emerging Markets Internet & Ecommerce ETF  |    |    |    |  
 EMSG  |  Xtrackers MSCI Emerging Markets ESG Leaders Equity ETF  |    |    |    |  
@@ -2305,7 +2374,6 @@ FCSH  |  Federated Hermes Short Duration Corporate ETF  |    |    |    |
 FCUS  |  Pinnacle Focused Opportunities ETF  |    |    |    |  
 FDAT  |  Tidal Trust II - Tactical Advantage ETF  |    |    |    |  
 FDIS  |  Fidelity MSCI Consumer Discretionary Index ETF  |    |    |    |  
-FDLS  |  Inspire Fidelis Multi Factor ETF  |    |    |    |  
 FDRR  |  Fidelity Dividend ETF for Rising Rates  |    |    |    |  
 FDVV  |  Fidelity High Dividend ETF  |    |    |    |  
 FDWM  |  Fidelity Women's Leadership ETF  |    |    |    |  
@@ -2362,7 +2430,6 @@ FLQD  |  Franklin U.S. Core Dividend Tilt Index ETF  |    |    |    |
 FLQE  |  Franklin LibertyQ Emerging Markets ETF  |    |    |    |  
 FLQG  |  Franklin U.S. Equity Index ETF  |    |    |    |  
 FLQH  |  Franklin LibertyQ International Equity Hedged ETF  |    |    |    |  
-FLRG  |  Fidelity U.S. Multifactor ETF  |    |    |    |  
 FLRN  |  SPDR Bloomberg Investment Grade Floating Rate ETF  |    |    |    |  
 FLRT  |  Pacer Pacific Asset Floating Rate High Income ETF  |    |    |    |  
 FLRU  |  Franklin FTSE Russia ETF  |    |    |    |  
@@ -2572,7 +2639,6 @@ ILCG  |  iShares Morningstar Growth ETF  |    |    |    |
 ILDR  |  First Trust Innovation Leaders ETF  |    |    |    |  
 IMCB  |  iShares Morningstar Mid-Cap ETF  |    |    |    |  
 IMCG  |  iShares Morningstar Mid-Cap Growth ETF  |    |    |    |  
-IMFP  |  Invesco Multi-Factor Core Plus fixed Income ETF  |    |    |    |  
 INCM  |  Franklin Templeton ETF Trust - Income Focus ETF  |    |    |    |  
 INCO  |  Columbia India Consumer ETF  |    |    |    |  
 INDF  |  Nifty India Financials ETF  |    |    |    |  
@@ -2596,7 +2662,6 @@ IRBO  |  iShares Robotics and Artificial Intelligence Multisector ETF  |    |   
 IRHG  |  Global X Interest Rate Hedge ETF  |    |    |    |  
 IRVH  |  Global X Interest Rate Volatility & Inflation Hedge ETF  |    |    |    |  
 ISCB  |  iShares Morningstar Small-Cap ETF  |    |    |    |  
-ISCF  |  iShares MSCI Intl Small-Cap Multifactor ETF  |    |    |    |  
 ISCG  |  iShares Morningstar Small-Cap Growth ETF  |    |    |    |  
 ISMD  |  Inspire Small/Mid Cap Impact ESG ETF  |    |    |    |  
 ISRA  |  VanEck Israel ETF  |    |    |    |  
@@ -2627,25 +2692,10 @@ JETS  |  U.S. Global Jets ETF  |    |    |    |
 JFWD  |  Jacob Forward ETF  |    |    |    |  
 JGLD  |  Amplify Pure Junior Gold Miners ETF  |    |    |    |  
 JGRO  |  Jpmorgan Active Growth ETF  |    |    |    |  
-JHCS  |  John Hancock Multifactor Media and Communications ETF  |    |    |    |  
 JHDV  |  John Hancock U.S. High Dividend ETF  |    |    |    |  
-JHEM  |  John Hancock Multifactor Emerging Markets ETF  |    |    |    |  
 JHID  |  John Hancock International High Dividend ETF  |    |    |    |  
-JHMA  |  John Hancock Multifactor Materials ETF  |    |    |    |  
 JHMB  |  John Hancock Mortgage Backed Securities ETF  |    |    |    |  
-JHMC  |  John Hancock Multifactor Consumer Discretionary ETF  |    |    |    |  
-JHMD  |  John Hancock Multifactor Developed International ETF  |    |    |    |  
-JHME  |  John Hancock Multifactor Energy ETF  |    |    |    |  
-JHMF  |  John Hancock Multifactor Financials ETF  |    |    |    |  
-JHMH  |  John Hancock Multifactor Health Care ETF  |    |    |    |  
-JHMI  |  John Hancock Multifactor Industrials ETF  |    |    |    |  
-JHML  |  John Hancock Multifactor Large Cap ETF  |    |    |    |  
-JHMM  |  John Hancock Multifactor Mid Cap ETF  |    |    |    |  
-JHMS  |  John Hancock Multifactor Consumer Staples ETF  |    |    |    |  
-JHMT  |  John Hancock Multifactor Technology ETF  |    |    |    |  
-JHMU  |  John Hancock Multifactor Utilities ETF  |    |    |    |  
 JHPI  |  John Hancock Preferred Income ETF  |    |    |    |  
-JHSC  |  John Hancock Multifactor Small Cap ETF  |    |    |    |  
 JIDA  |  JPMorgan ActiveBuilders International Equity ETF  |    |    |    |  
 JIGB  |  JPMorgan Corporate Bond Research Enhanced ETF  |    |    |    |  
 JIRE  |  JPMorgan International Research Enhanced Equity ETF  |    |    |    |  
@@ -2765,13 +2815,9 @@ MEDI  |  Harbor Health Care ETF  |    |    |    |
 MEME  |  Roundhill MEME ETF  |    |    |    |  
 MEMX  |  Matthews Emerging Markets Ex China Active ETF  |    |    |    |  
 METV  |  Roundhill Ball Metaverse ETF  |    |    |    |  
-MFDX  |  PIMCO RAFI Dynamic Multi-Factor International Equity ETF  |    |    |    |  
-MFEM  |  PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF  |    |    |    |  
 MFLA  |  iPath Long Enhanced MSCI EAFE ETN  |    |    |    |  
-MFUS  |  PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF  |    |    |    |  
 MGMT  |  Ballast Small/Mid Cap ETF  |    |    |    |  
 MIDE  |  Xtrackers S&P MidCap 400 ESG ETF  |    |    |    |  
-MIDF  |  iShares MSCI USA Mid-Cap Multifactor ETF  |    |    |    |  
 MINC  |  AdvisorShares Newfleet Multi-Sector Income ETF  |    |    |    |  
 MINO  |  PIMCO Municipal Income Opportunities Active Exchange-Traded Fund  |    |    |    |  
 MINT  |  PIMCO Enhanced Short Maturity Active Exchange-Traded Fund  |    |    |    |  
@@ -2877,9 +2923,7 @@ OUNZ  |  VanEck Merk Gold Trust  |    |    |    |
 OVLH  |  Overlay Shares Hedged Large Cap Equity ETF  |    |    |    |  
 OWNS  |  Impact Shares Affordable Housing MBS ETF  |    |    |    |  
 PACA  |  Xtrackers MSCI [Latin America Pacific Alliance] ETF  |    |    |    |  
-PALC  |  Pacer Lunt Large Cap Multi-Factor Alternator ETF  |    |    |    |  
 PALL  |  abrdn Physical Palladium Shares ETF  |    |    |    |  
-PAMC  |  Pacer Lunt MidCap Multi-Factor Alternator ETF  |    |    |    |  
 PASS  |  Direxion Daily Cnsmr Discret Bear 3XShrs  |    |    |    |  
 PBDC  |  Putnam BDC Income ETF  |    |    |    |  
 PBUG  |  Pacer iPath Gold Trendpilot ETNs  |    |    |    |  
@@ -2935,9 +2979,6 @@ QGTA  |  IQ Leaders GTAA Tracker ETF  |    |    |    |
 QQQE  |  Direxion NASDAQ-100 Equal Weighted Index Shares  |    |    |    |  
 QRFT  |  QRAFT AI-Enhanced U.S. Large Cap ETF  |    |    |    |  
 QTUM  |  Defiance Quantum ETF  |    |    |    |  
-QVML  |  Invesco S&P 500 QVM Multi-factor ETF  |    |    |    |  
-QVMM  |  Invesco S&P MidCap 400 QVM Multi-factor ETF  |    |    |    |  
-QVMS  |  Invesco S&P SmallCap 600 QVM Multi-factor ETF  |    |    |    |  
 QWLD  |  SPDR MSCI World StrategicFactors ETF  |    |    |    |  
 QWST  |  Harbor ETF Trust - Harbor Small Cap Explorer ETF  |    |    |    |  
 RAAX  |  VanEck Inflation Allocation ETF  |    |    |    |  
@@ -2980,16 +3021,11 @@ RISN  |  Inspire Tactical Large Cap ESG ETF  |    |    |    |
 RISR  |  FolioBeyond Rising Rates ETF  |    |    |    |  
 RITA  |  ETFB Green SRI REITs ETF  |    |    |    |  
 RNWZ  |  TrueShares Eagle Global Renewable Energy Income ETF  |    |    |    |  
-ROAM  |  Hartford Multifactor Emerging Markets ETF  |    |    |    |  
 ROBO  |  Robo Global Robotics and Automation Index ETF  |    |    |    |  
-RODM  |  Hartford Multifactor Developed Markets (ex-US) ETF  |    |    |    |  
 ROKT  |  SPDR Kensho Final Frontiers ETF  |    |    |    |  
 ROLA  |  iPath Long Extended Russell 1000TR ETN  |    |    |    |  
 ROOF  |  IQ U.S. Real Estate Small Cap ETF  |    |    |    |  
-RORE  |  Hartford Multifactor REIT ETF  |    |    |    |  
 RORO  |  ATAC US Rotation ETF  |    |    |    |  
-ROSC  |  Hartford Multifactor Small Cap ETF  |    |    |    |  
-ROUS  |  Hartford Multifactor US Equity ETF  |    |    |    |  
 RPAR  |  RPAR Risk Parity ETF  |    |    |    |  
 RSHO  |  Tema ETF Trust  - Tema American Industrial Revolution ETF  |    |    |    |  
 RSPE  |  Invesco ESG S&P 500 Equal Weight ETF  |    |    |    |  
@@ -3080,7 +3116,6 @@ SMEZ  |  SPDR EURO STOXX Small Cap ETF  |    |    |    |
 SMHD  |  UBS ETRACS Monthly Pay 2xLeveraged US Small Cap High Dividend ETN  |    |    |    |  
 SMIG  |  AAM Bahl & Gaynor Small/Mid Cap Income Growth ETF  |    |    |    |  
 SMLE  |  Xtrackers S&P SmallCap 600 ESG ETF  |    |    |    |  
-SMLF  |  iShares MSCI USA Small-Cap Multifactor ETF  |    |    |    |  
 SMMU  |  PIMCO Short Term Municipal Bond Active Exchange-Traded Fund  |    |    |    |  
 SMOG  |  VanEck Low Carbon Energy ETF  |    |    |    |  
 SNPE  |  Xtrackers S&P 500 ESG ETF  |    |    |    |  

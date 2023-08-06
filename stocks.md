@@ -7,1242 +7,1051 @@ datatable: true
 
 <div class="datatable-begin"></div>
 
-Stock | Rank | RankQuality | RankValue | RankMomentum | RankLowVolatility
------ | ---- | ----------- | --------- | ------------ | -----------------
-MRK <sup>[↗](https://www.tradingview.com/chart/?symbol=MRK){:target='_blank' rel='noopener'}</sup> | 1 | 2 | 101 | 6 | 1
-CSCO <sup>[↗](https://www.tradingview.com/chart/?symbol=CSCO){:target='_blank' rel='noopener'}</sup> | 2 | 3 | 6 | 186 | 20
-CMCSA <sup>[↗](https://www.tradingview.com/chart/?symbol=CMCSA){:target='_blank' rel='noopener'}</sup> | 3 | 15 | 1 | 138 | 39
-BMY <sup>[↗](https://www.tradingview.com/chart/?symbol=BMY){:target='_blank' rel='noopener'}</sup> | 4 | 16 | 19 | 257 | 4
-JNJ <sup>[↗](https://www.tradingview.com/chart/?symbol=JNJ){:target='_blank' rel='noopener'}</sup> | 5 | 6 | 49 | 374 | 2
-MSFT <sup>[↗](https://www.tradingview.com/chart/?symbol=MSFT){:target='_blank' rel='noopener'}</sup> | 6 | 1 | 216 | 24 | 10
-CVX <sup>[↗](https://www.tradingview.com/chart/?symbol=CVX){:target='_blank' rel='noopener'}</sup> | 7 | 39 | 50 | 15 | 7
-GILD <sup>[↗](https://www.tradingview.com/chart/?symbol=GILD){:target='_blank' rel='noopener'}</sup> | 8 | 7 | 35 | 60 | 40
-MMM <sup>[↗](https://www.tradingview.com/chart/?symbol=MMM){:target='_blank' rel='noopener'}</sup> | 9 | 4 | 51 | 375 | 51
-MCD <sup>[↗](https://www.tradingview.com/chart/?symbol=MCD){:target='_blank' rel='noopener'}</sup> | 10 | 28 | 132 | 25 | 8
-AMGN <sup>[↗](https://www.tradingview.com/chart/?symbol=AMGN){:target='_blank' rel='noopener'}</sup> | 11 | 9 | 88 | 187 | 11
-VZ <sup>[↗](https://www.tradingview.com/chart/?symbol=VZ){:target='_blank' rel='noopener'}</sup> | 12 | 76 | 20 | 376 | 5
-XOM <sup>[↗](https://www.tradingview.com/chart/?symbol=XOM){:target='_blank' rel='noopener'}</sup> | 13 | 25 | 89 | 16 | 29
-CAH <sup>[↗](https://www.tradingview.com/chart/?symbol=CAH){:target='_blank' rel='noopener'}</sup> | 14 | 49 | 20 | 3 | 72
-WMT <sup>[↗](https://www.tradingview.com/chart/?symbol=WMT){:target='_blank' rel='noopener'}</sup> | 15 | 29 | 60 | 188 | 12
-MO <sup>[↗](https://www.tradingview.com/chart/?symbol=MO){:target='_blank' rel='noopener'}</sup> | 15 | 17 | 27 | 377 | 41
-PFE <sup>[↗](https://www.tradingview.com/chart/?symbol=PFE){:target='_blank' rel='noopener'}</sup> | 17 | 40 | 61 | 189 | 13
-MCK <sup>[↗](https://www.tradingview.com/chart/?symbol=MCK){:target='_blank' rel='noopener'}</sup> | 17 | 60 | 61 | 61 | 21
-KR <sup>[↗](https://www.tradingview.com/chart/?symbol=KR){:target='_blank' rel='noopener'}</sup> | 19 | 118 | 7 | 91 | 52
-VLO <sup>[↗](https://www.tradingview.com/chart/?symbol=VLO){:target='_blank' rel='noopener'}</sup> | 20 | 61 | 14 | 62 | 119
-PHM <sup>[↗](https://www.tradingview.com/chart/?symbol=PHM){:target='_blank' rel='noopener'}</sup> | 21 | 119 | 2 | 17 | 241
-DGX <sup>[↗](https://www.tradingview.com/chart/?symbol=DGX){:target='_blank' rel='noopener'}</sup> | 22 | 120 | 16 | 139 | 30
-JPM <sup>[↗](https://www.tradingview.com/chart/?symbol=JPM){:target='_blank' rel='noopener'}</sup> | 22 | 120 | 8 | 63 | 91
-RS <sup>[↗](https://www.tradingview.com/chart/?symbol=RS){:target='_blank' rel='noopener'}</sup> | 24 | 41 | 63 | 1 | 145
-BBY <sup>[↗](https://www.tradingview.com/chart/?symbol=BBY){:target='_blank' rel='noopener'}</sup> | 25 | 11 | 36 | 140 | 182
-SNA <sup>[↗](https://www.tradingview.com/chart/?symbol=SNA){:target='_blank' rel='noopener'}</sup> | 26 | 62 | 36 | 26 | 73
-ED <sup>[↗](https://www.tradingview.com/chart/?symbol=ED){:target='_blank' rel='noopener'}</sup> | 26 | 150 | 75 | 39 | 9
-KO <sup>[↗](https://www.tradingview.com/chart/?symbol=KO){:target='_blank' rel='noopener'}</sup> | 28 | 12 | 160 | 190 | 42
-UPS <sup>[↗](https://www.tradingview.com/chart/?symbol=UPS){:target='_blank' rel='noopener'}</sup> | 29 | 18 | 113 | 378 | 31
-ITW <sup>[↗](https://www.tradingview.com/chart/?symbol=ITW){:target='_blank' rel='noopener'}</sup> | 29 | 10 | 228 | 27 | 53
-TRV <sup>[↗](https://www.tradingview.com/chart/?symbol=TRV){:target='_blank' rel='noopener'}</sup> | 31 | 122 | 52 | 141 | 22
-EXPD <sup>[↗](https://www.tradingview.com/chart/?symbol=EXPD){:target='_blank' rel='noopener'}</sup> | 32 | 18 | 90 | 141 | 53
-SJM <sup>[↗](https://www.tradingview.com/chart/?symbol=SJM){:target='_blank' rel='noopener'}</sup> | 32 | 215 | 22 | 92 | 14
-LEN <sup>[↗](https://www.tradingview.com/chart/?symbol=LEN){:target='_blank' rel='noopener'}</sup> | 32 | 122 | 4 | 27 | 242
-MMC <sup>[↗](https://www.tradingview.com/chart/?symbol=MMC){:target='_blank' rel='noopener'}</sup> | 35 | 93 | 192 | 7 | 15
-LOW <sup>[↗](https://www.tradingview.com/chart/?symbol=LOW){:target='_blank' rel='noopener'}</sup> | 35 | 13 | 91 | 143 | 146
-COP <sup>[↗](https://www.tradingview.com/chart/?symbol=COP){:target='_blank' rel='noopener'}</sup> | 35 | 50 | 76 | 29 | 146
-NUE <sup>[↗](https://www.tradingview.com/chart/?symbol=NUE){:target='_blank' rel='noopener'}</sup> | 38 | 42 | 38 | 29 | 243
-ORCL <sup>[↗](https://www.tradingview.com/chart/?symbol=ORCL){:target='_blank' rel='noopener'}</sup> | 38 | 93 | 114 | 7 | 43
-CL <sup>[↗](https://www.tradingview.com/chart/?symbol=CL){:target='_blank' rel='noopener'}</sup> | 40 | 43 | 115 | 379 | 23
-KMB <sup>[↗](https://www.tradingview.com/chart/?symbol=KMB){:target='_blank' rel='noopener'}</sup> | 40 | 43 | 115 | 379 | 23
-PEP <sup>[↗](https://www.tradingview.com/chart/?symbol=PEP){:target='_blank' rel='noopener'}</sup> | 42 | 30 | 193 | 93 | 16
-AFL <sup>[↗](https://www.tradingview.com/chart/?symbol=AFL){:target='_blank' rel='noopener'}</sup> | 43 | 77 | 39 | 64 | 92
-STLD <sup>[↗](https://www.tradingview.com/chart/?symbol=STLD){:target='_blank' rel='noopener'}</sup> | 44 | 63 | 64 | 18 | 244
-TSN <sup>[↗](https://www.tradingview.com/chart/?symbol=TSN){:target='_blank' rel='noopener'}</sup> | 44 | 180 | 9 | 258 | 74
-INTC <sup>[↗](https://www.tradingview.com/chart/?symbol=INTC){:target='_blank' rel='noopener'}</sup> | 44 | 95 | 9 | 258 | 148
-LKQ <sup>[↗](https://www.tradingview.com/chart/?symbol=LKQ){:target='_blank' rel='noopener'}</sup> | 47 | 78 | 23 | 40 | 148
-AIG <sup>[↗](https://www.tradingview.com/chart/?symbol=AIG){:target='_blank' rel='noopener'}</sup> | 48 | 151 | 5 | 191 | 346
-K <sup>[↗](https://www.tradingview.com/chart/?symbol=K){:target='_blank' rel='noopener'}</sup> | 48 | 124 | 117 | 144 | 25
-CF <sup>[↗](https://www.tradingview.com/chart/?symbol=CF){:target='_blank' rel='noopener'}</sup> | 48 | 31 | 92 | 191 | 120
-MDT <sup>[↗](https://www.tradingview.com/chart/?symbol=MDT){:target='_blank' rel='noopener'}</sup> | 48 | 96 | 28 | 381 | 75
-MPC <sup>[↗](https://www.tradingview.com/chart/?symbol=MPC){:target='_blank' rel='noopener'}</sup> | 52 | 79 | 102 | 19 | 120
-GPC <sup>[↗](https://www.tradingview.com/chart/?symbol=GPC){:target='_blank' rel='noopener'}</sup> | 53 | 79 | 146 | 41 | 32
-CB <sup>[↗](https://www.tradingview.com/chart/?symbol=CB){:target='_blank' rel='noopener'}</sup> | 53 | 216 | 53 | 41 | 55
-DHI <sup>[↗](https://www.tradingview.com/chart/?symbol=DHI){:target='_blank' rel='noopener'}</sup> | 55 | 96 | 40 | 4 | 346
-JNPR <sup>[↗](https://www.tradingview.com/chart/?symbol=JNPR){:target='_blank' rel='noopener'}</sup> | 56 | 181 | 54 | 193 | 56
-UNP <sup>[↗](https://www.tradingview.com/chart/?symbol=UNP){:target='_blank' rel='noopener'}</sup> | 56 | 32 | 65 | 382 | 150
-NTAP <sup>[↗](https://www.tradingview.com/chart/?symbol=NTAP){:target='_blank' rel='noopener'}</sup> | 56 | 51 | 93 | 193 | 93
-CAG <sup>[↗](https://www.tradingview.com/chart/?symbol=CAG){:target='_blank' rel='noopener'}</sup> | 56 | 570 | 15 | 193 | 63
-LYB <sup>[↗](https://www.tradingview.com/chart/?symbol=LYB){:target='_blank' rel='noopener'}</sup> | 60 | 81 | 29 | 145 | 183
-MOS <sup>[↗](https://www.tradingview.com/chart/?symbol=MOS){:target='_blank' rel='noopener'}</sup> | 60 | 64 | 29 | 94 | 348
-COF <sup>[↗](https://www.tradingview.com/chart/?symbol=COF){:target='_blank' rel='noopener'}</sup> | 60 | 277 | 3 | 94 | 348
-HOLX <sup>[↗](https://www.tradingview.com/chart/?symbol=HOLX){:target='_blank' rel='noopener'}</sup> | 60 | 81 | 133 | 94 | 44
-ABC <sup>[↗](https://www.tradingview.com/chart/?symbol=ABC){:target='_blank' rel='noopener'}</sup> | 60 | 125 | 133 | 65 | 33
-BLDR <sup>[↗](https://www.tradingview.com/chart/?symbol=BLDR){:target='_blank' rel='noopener'}</sup> | 65 | 81 | 93 | 2 | 348
-BIIB <sup>[↗](https://www.tradingview.com/chart/?symbol=BIIB){:target='_blank' rel='noopener'}</sup> | 65 | 81 | 41 | 43 | 245
-OC <sup>[↗](https://www.tradingview.com/chart/?symbol=OC){:target='_blank' rel='noopener'}</sup> | 67 | 125 | 11 | 65 | 348
-ADM <sup>[↗](https://www.tradingview.com/chart/?symbol=ADM){:target='_blank' rel='noopener'}</sup> | 68 | 127 | 55 | 260 | 94
-TROW <sup>[↗](https://www.tradingview.com/chart/?symbol=TROW){:target='_blank' rel='noopener'}</sup> | 68 | 26 | 77 | 383 | 246
-RHI <sup>[↗](https://www.tradingview.com/chart/?symbol=RHI){:target='_blank' rel='noopener'}</sup> | 70 | 33 | 77 | 260 | 184
-PRU <sup>[↗](https://www.tradingview.com/chart/?symbol=PRU){:target='_blank' rel='noopener'}</sup> | 70 | 127 | 17 | 196 | 246
-AAPL <sup>[↗](https://www.tradingview.com/chart/?symbol=AAPL){:target='_blank' rel='noopener'}</sup> | 72 | 5 | 365 | 67 | 45
-PFG <sup>[↗](https://www.tradingview.com/chart/?symbol=PFG){:target='_blank' rel='noopener'}</sup> | 72 | 52 | 77 | 67 | 246
-HUM <sup>[↗](https://www.tradingview.com/chart/?symbol=HUM){:target='_blank' rel='noopener'}</sup> | 74 | 127 | 66 | 67 | 94
-WFC <sup>[↗](https://www.tradingview.com/chart/?symbol=WFC){:target='_blank' rel='noopener'}</sup> | 75 | 98 | 18 | 262 | 352
-GOOGL <sup>[↗](https://www.tradingview.com/chart/?symbol=GOOGL){:target='_blank' rel='noopener'}</sup> | 76 | 14 | 229 | 146 | 64
-RSG <sup>[↗](https://www.tradingview.com/chart/?symbol=RSG){:target='_blank' rel='noopener'}</sup> | 77 | 182 | 161 | 197 | 3
-EA <sup>[↗](https://www.tradingview.com/chart/?symbol=EA){:target='_blank' rel='noopener'}</sup> | 78 | 53 | 172 | 384 | 34
-GD <sup>[↗](https://www.tradingview.com/chart/?symbol=GD){:target='_blank' rel='noopener'}</sup> | 79 | 152 | 118 | 147 | 46
-FOXA <sup>[↗](https://www.tradingview.com/chart/?symbol=FOXA){:target='_blank' rel='noopener'}</sup> | 79 | 217 | 12 | 263 | 185
-WM <sup>[↗](https://www.tradingview.com/chart/?symbol=WM){:target='_blank' rel='noopener'}</sup> | 79 | 130 | 230 | 147 | 6
-CMI <sup>[↗](https://www.tradingview.com/chart/?symbol=CMI){:target='_blank' rel='noopener'}</sup> | 82 | 152 | 42 | 70 | 185
-HCA <sup>[↗](https://www.tradingview.com/chart/?symbol=HCA){:target='_blank' rel='noopener'}</sup> | 82 | 99 | 80 | 20 | 353
-TAP <sup>[↗](https://www.tradingview.com/chart/?symbol=TAP){:target='_blank' rel='noopener'}</sup> | 84 | 278 | 42 | 20 | 151
-EMR <sup>[↗](https://www.tradingview.com/chart/?symbol=EMR){:target='_blank' rel='noopener'}</sup> | 85 | 45 | 81 | 385 | 249
-EVRG <sup>[↗](https://www.tradingview.com/chart/?symbol=EVRG){:target='_blank' rel='noopener'}</sup> | 85 | 183 | 95 | 198 | 65
-PSA <sup>[↗](https://www.tradingview.com/chart/?symbol=PSA){:target='_blank' rel='noopener'}</sup> | 87 | 20 | 243 | 198 | 57
-HPQ <sup>[↗](https://www.tradingview.com/chart/?symbol=HPQ){:target='_blank' rel='noopener'}</sup> | 87 | 154 | 31 | 198 | 187
-WEC <sup>[↗](https://www.tradingview.com/chart/?symbol=WEC){:target='_blank' rel='noopener'}</sup> | 87 | 154 | 162 | 149 | 26
-HIG <sup>[↗](https://www.tradingview.com/chart/?symbol=HIG){:target='_blank' rel='noopener'}</sup> | 87 | 183 | 24 | 264 | 152
-BK <sup>[↗](https://www.tradingview.com/chart/?symbol=BK){:target='_blank' rel='noopener'}</sup> | 87 | 65 | 44 | 264 | 354
-MET <sup>[↗](https://www.tradingview.com/chart/?symbol=MET){:target='_blank' rel='noopener'}</sup> | 92 | 100 | 31 | 198 | 249
-WSM <sup>[↗](https://www.tradingview.com/chart/?symbol=WSM){:target='_blank' rel='noopener'}</sup> | 93 | 54 | 96 | 266 | 251
-EXC <sup>[↗](https://www.tradingview.com/chart/?symbol=EXC){:target='_blank' rel='noopener'}</sup> | 94 | 185 | 67 | 150 | 122
-REGN <sup>[↗](https://www.tradingview.com/chart/?symbol=REGN){:target='_blank' rel='noopener'}</sup> | 94 | 54 | 217 | 71 | 76
-C <sup>[↗](https://www.tradingview.com/chart/?symbol=C){:target='_blank' rel='noopener'}</sup> | 94 | 365 | 13 | 202 | 251
-MRO <sup>[↗](https://www.tradingview.com/chart/?symbol=MRO){:target='_blank' rel='noopener'}</sup> | 97 | 156 | 67 | 31 | 355
-LH <sup>[↗](https://www.tradingview.com/chart/?symbol=LH){:target='_blank' rel='noopener'}</sup> | 97 | 156 | 45 | 266 | 122
-CAT <sup>[↗](https://www.tradingview.com/chart/?symbol=CAT){:target='_blank' rel='noopener'}</sup> | 99 | 66 | 135 | 72 | 356
-RTX <sup>[↗](https://www.tradingview.com/chart/?symbol=RTX){:target='_blank' rel='noopener'}</sup> | 99 | 366 | 82 | 151 | 77
-EMN <sup>[↗](https://www.tradingview.com/chart/?symbol=EMN){:target='_blank' rel='noopener'}</sup> | 99 | 186 | 33 | 386 | 188
-HON <sup>[↗](https://www.tradingview.com/chart/?symbol=HON){:target='_blank' rel='noopener'}</sup> | 99 | 56 | 194 | 386 | 58
-PSX <sup>[↗](https://www.tradingview.com/chart/?symbol=PSX){:target='_blank' rel='noopener'}</sup> | 99 | 366 | 97 | 97 | 77
-ADI <sup>[↗](https://www.tradingview.com/chart/?symbol=ADI){:target='_blank' rel='noopener'}</sup> | 99 | 158 | 173 | 32 | 96
-CMS <sup>[↗](https://www.tradingview.com/chart/?symbol=CMS){:target='_blank' rel='noopener'}</sup> | 99 | 279 | 147 | 268 | 17
-SO <sup>[↗](https://www.tradingview.com/chart/?symbol=SO){:target='_blank' rel='noopener'}</sup> | 106 | 218 | 147 | 97 | 47
-STT <sup>[↗](https://www.tradingview.com/chart/?symbol=STT){:target='_blank' rel='noopener'}</sup> | 106 | 66 | 69 | 268 | 356
-NOC <sup>[↗](https://www.tradingview.com/chart/?symbol=NOC){:target='_blank' rel='noopener'}</sup> | 108 | 218 | 119 | 97 | 58
-UHS <sup>[↗](https://www.tradingview.com/chart/?symbol=UHS){:target='_blank' rel='noopener'}</sup> | 108 | 218 | 25 | 151 | 253
-URI <sup>[↗](https://www.tradingview.com/chart/?symbol=URI){:target='_blank' rel='noopener'}</sup> | 110 | 186 | 56 | 44 | 253
-PNW <sup>[↗](https://www.tradingview.com/chart/?symbol=PNW){:target='_blank' rel='noopener'}</sup> | 110 | 218 | 69 | 151 | 77
-BAC <sup>[↗](https://www.tradingview.com/chart/?symbol=BAC){:target='_blank' rel='noopener'}</sup> | 112 | 188 | 46 | 517 | 189
-FAST <sup>[↗](https://www.tradingview.com/chart/?symbol=FAST){:target='_blank' rel='noopener'}</sup> | 112 | 27 | 244 | 203 | 124
-GS <sup>[↗](https://www.tradingview.com/chart/?symbol=GS){:target='_blank' rel='noopener'}</sup> | 114 | 222 | 34 | 203 | 358
-GL <sup>[↗](https://www.tradingview.com/chart/?symbol=GL){:target='_blank' rel='noopener'}</sup> | 114 | 188 | 120 | 100 | 124
-SWKS <sup>[↗](https://www.tradingview.com/chart/?symbol=SWKS){:target='_blank' rel='noopener'}</sup> | 114 | 131 | 71 | 270 | 255
-EOG <sup>[↗](https://www.tradingview.com/chart/?symbol=EOG){:target='_blank' rel='noopener'}</sup> | 117 | 85 | 136 | 73 | 255
-CTRA <sup>[↗](https://www.tradingview.com/chart/?symbol=CTRA){:target='_blank' rel='noopener'}</sup> | 117 | 68 | 163 | 154 | 124
-VRTX <sup>[↗](https://www.tradingview.com/chart/?symbol=VRTX){:target='_blank' rel='noopener'}</sup> | 117 | 34 | 311 | 73 | 66
-LLY <sup>[↗](https://www.tradingview.com/chart/?symbol=LLY){:target='_blank' rel='noopener'}</sup> | 120 | 34 | 451 | 9 | 48
-HII <sup>[↗](https://www.tradingview.com/chart/?symbol=HII){:target='_blank' rel='noopener'}</sup> | 120 | 222 | 98 | 100 | 97
-TER <sup>[↗](https://www.tradingview.com/chart/?symbol=TER){:target='_blank' rel='noopener'}</sup> | 122 | 21 | 218 | 205 | 359
-BDX <sup>[↗](https://www.tradingview.com/chart/?symbol=BDX){:target='_blank' rel='noopener'}</sup> | 123 | 368 | 121 | 388 | 35
-GLW <sup>[↗](https://www.tradingview.com/chart/?symbol=GLW){:target='_blank' rel='noopener'}</sup> | 123 | 190 | 83 | 271 | 153
-AKAM <sup>[↗](https://www.tradingview.com/chart/?symbol=AKAM){:target='_blank' rel='noopener'}</sup> | 123 | 280 | 103 | 388 | 60
-HRL <sup>[↗](https://www.tradingview.com/chart/?symbol=HRL){:target='_blank' rel='noopener'}</sup> | 123 | 280 | 137 | 388 | 35
-ATVI <sup>[↗](https://www.tradingview.com/chart/?symbol=ATVI){:target='_blank' rel='noopener'}</sup> | 123 | 132 | 149 | 271 | 80
-WY <sup>[↗](https://www.tradingview.com/chart/?symbol=WY){:target='_blank' rel='noopener'}</sup> | 128 | 69 | 149 | 205 | 153
-MS <sup>[↗](https://www.tradingview.com/chart/?symbol=MS){:target='_blank' rel='noopener'}</sup> | 128 | 159 | 83 | 102 | 359
-META <sup>[↗](https://www.tradingview.com/chart/?symbol=META){:target='_blank' rel='noopener'}</sup> | 128 | 132 | 164 | 33 | 190
-KNX <sup>[↗](https://www.tradingview.com/chart/?symbol=KNX){:target='_blank' rel='noopener'}</sup> | 128 | 368 | 57 | 75 | 257
-ARW <sup>[↗](https://www.tradingview.com/chart/?symbol=ARW){:target='_blank' rel='noopener'}</sup> | 132 | 280 | 72 | 155 | 127
-VICI <sup>[↗](https://www.tradingview.com/chart/?symbol=VICI){:target='_blank' rel='noopener'}</sup> | 133 | 368 | 137 | 10 | 98
-WMB <sup>[↗](https://www.tradingview.com/chart/?symbol=WMB){:target='_blank' rel='noopener'}</sup> | 134 | 371 | 104 | 273 | 81
-KDP <sup>[↗](https://www.tradingview.com/chart/?symbol=KDP){:target='_blank' rel='noopener'}</sup> | 134 | 371 | 104 | 391 | 67
-AMAT <sup>[↗](https://www.tradingview.com/chart/?symbol=AMAT){:target='_blank' rel='noopener'}</sup> | 136 | 22 | 245 | 103 | 361
-PXD <sup>[↗](https://www.tradingview.com/chart/?symbol=PXD){:target='_blank' rel='noopener'}</sup> | 136 | 70 | 174 | 207 | 155
-TGT <sup>[↗](https://www.tradingview.com/chart/?symbol=TGT){:target='_blank' rel='noopener'}</sup> | 136 | 86 | 151 | 273 | 155
-DUK <sup>[↗](https://www.tradingview.com/chart/?symbol=DUK){:target='_blank' rel='noopener'}</sup> | 136 | 371 | 174 | 273 | 18
-GM <sup>[↗](https://www.tradingview.com/chart/?symbol=GM){:target='_blank' rel='noopener'}</sup> | 136 | 371 | 26 | 273 | 361
-TEL <sup>[↗](https://www.tradingview.com/chart/?symbol=TEL){:target='_blank' rel='noopener'}</sup> | 136 | 86 | 151 | 391 | 128
-DVN <sup>[↗](https://www.tradingview.com/chart/?symbol=DVN){:target='_blank' rel='noopener'}</sup> | 136 | 134 | 151 | 103 | 191
-NEM <sup>[↗](https://www.tradingview.com/chart/?symbol=NEM){:target='_blank' rel='noopener'}</sup> | 136 | 160 | 151 | 273 | 81
-LDOS <sup>[↗](https://www.tradingview.com/chart/?symbol=LDOS){:target='_blank' rel='noopener'}</sup> | 136 | 224 | 104 | 273 | 99
-TMUS <sup>[↗](https://www.tradingview.com/chart/?symbol=TMUS){:target='_blank' rel='noopener'}</sup> | 136 | 371 | 219 | 103 | 27
-BEN <sup>[↗](https://www.tradingview.com/chart/?symbol=BEN){:target='_blank' rel='noopener'}</sup> | 136 | 283 | 47 | 273 | 258
-CLX <sup>[↗](https://www.tradingview.com/chart/?symbol=CLX){:target='_blank' rel='noopener'}</sup> | 147 | 70 | 174 | 273 | 99
-CSX <sup>[↗](https://www.tradingview.com/chart/?symbol=CSX){:target='_blank' rel='noopener'}</sup> | 147 | 101 | 122 | 273 | 155
-XEL <sup>[↗](https://www.tradingview.com/chart/?symbol=XEL){:target='_blank' rel='noopener'}</sup> | 149 | 283 | 139 | 207 | 49
-AEP <sup>[↗](https://www.tradingview.com/chart/?symbol=AEP){:target='_blank' rel='noopener'}</sup> | 149 | 283 | 174 | 207 | 18
-TXT <sup>[↗](https://www.tradingview.com/chart/?symbol=TXT){:target='_blank' rel='noopener'}</sup> | 149 | 224 | 58 | 156 | 258
-BLK <sup>[↗](https://www.tradingview.com/chart/?symbol=BLK){:target='_blank' rel='noopener'}</sup> | 152 | 57 | 195 | 282 | 192
-ES <sup>[↗](https://www.tradingview.com/chart/?symbol=ES){:target='_blank' rel='noopener'}</sup> | 153 | 376 | 165 | 282 | 37
-LIN <sup>[↗](https://www.tradingview.com/chart/?symbol=LIN){:target='_blank' rel='noopener'}</sup> | 153 | 161 | 246 | 106 | 61
-ATO <sup>[↗](https://www.tradingview.com/chart/?symbol=ATO){:target='_blank' rel='noopener'}</sup> | 155 | 376 | 123 | 106 | 101
-SRE <sup>[↗](https://www.tradingview.com/chart/?symbol=SRE){:target='_blank' rel='noopener'}</sup> | 155 | 571 | 123 | 45 | 129
-RF <sup>[↗](https://www.tradingview.com/chart/?symbol=RF){:target='_blank' rel='noopener'}</sup> | 155 | 286 | 48 | 210 | 363
-ACGL <sup>[↗](https://www.tradingview.com/chart/?symbol=ACGL){:target='_blank' rel='noopener'}</sup> | 158 | 286 | 195 | 11 | 101
-NEE <sup>[↗](https://www.tradingview.com/chart/?symbol=NEE){:target='_blank' rel='noopener'}</sup> | 159 | 288 | 178 | 157 | 83
-NWSA <sup>[↗](https://www.tradingview.com/chart/?symbol=NWSA){:target='_blank' rel='noopener'}</sup> | 159 | 226 | 85 | 393 | 260
-KEYS <sup>[↗](https://www.tradingview.com/chart/?symbol=KEYS){:target='_blank' rel='noopener'}</sup> | 159 | 102 | 247 | 211 | 83
-TT <sup>[↗](https://www.tradingview.com/chart/?symbol=TT){:target='_blank' rel='noopener'}</sup> | 159 | 162 | 220 | 46 | 193
-WHR <sup>[↗](https://www.tradingview.com/chart/?symbol=WHR){:target='_blank' rel='noopener'}</sup> | 163 | 191 | 99 | 393 | 193
-SPG <sup>[↗](https://www.tradingview.com/chart/?symbol=SPG){:target='_blank' rel='noopener'}</sup> | 163 | 135 | 125 | 284 | 260
-CARR <sup>[↗](https://www.tradingview.com/chart/?symbol=CARR){:target='_blank' rel='noopener'}</sup> | 163 | 191 | 107 | 211 | 260
-FNF <sup>[↗](https://www.tradingview.com/chart/?symbol=FNF){:target='_blank' rel='noopener'}</sup> | 163 | 102 | 107 | 518 | 260
-NSC <sup>[↗](https://www.tradingview.com/chart/?symbol=NSC){:target='_blank' rel='noopener'}</sup> | 163 | 102 | 125 | 393 | 260
-TJX <sup>[↗](https://www.tradingview.com/chart/?symbol=TJX){:target='_blank' rel='noopener'}</sup> | 163 | 88 | 339 | 34 | 103
-CTVA <sup>[↗](https://www.tradingview.com/chart/?symbol=CTVA){:target='_blank' rel='noopener'}</sup> | 169 | 288 | 178 | 34 | 130
-MU <sup>[↗](https://www.tradingview.com/chart/?symbol=MU){:target='_blank' rel='noopener'}</sup> | 169 | 226 | 59 | 284 | 364
-AIZ <sup>[↗](https://www.tradingview.com/chart/?symbol=AIZ){:target='_blank' rel='noopener'}</sup> | 171 | 228 | 140 | 396 | 104
-ROP <sup>[↗](https://www.tradingview.com/chart/?symbol=ROP){:target='_blank' rel='noopener'}</sup> | 171 | 136 | 312 | 286 | 28
-AAP <sup>[↗](https://www.tradingview.com/chart/?symbol=AAP){:target='_blank' rel='noopener'}</sup> | 171 | 228 | 86 | 396 | 265
-PGR <sup>[↗](https://www.tradingview.com/chart/?symbol=PGR){:target='_blank' rel='noopener'}</sup> | 171 | 136 | 396 | 47 | 50
-FANG <sup>[↗](https://www.tradingview.com/chart/?symbol=FANG){:target='_blank' rel='noopener'}</sup> | 171 | 290 | 140 | 76 | 265
-DKS <sup>[↗](https://www.tradingview.com/chart/?symbol=DKS){:target='_blank' rel='noopener'}</sup> | 171 | 228 | 155 | 76 | 265
-DRI <sup>[↗](https://www.tradingview.com/chart/?symbol=DRI){:target='_blank' rel='noopener'}</sup> | 177 | 136 | 166 | 108 | 265
-IVZ <sup>[↗](https://www.tradingview.com/chart/?symbol=IVZ){:target='_blank' rel='noopener'}</sup> | 177 | 290 | 73 | 286 | 265
-TSCO <sup>[↗](https://www.tradingview.com/chart/?symbol=TSCO){:target='_blank' rel='noopener'}</sup> | 179 | 89 | 366 | 158 | 68
-MTB <sup>[↗](https://www.tradingview.com/chart/?symbol=MTB){:target='_blank' rel='noopener'}</sup> | 179 | 378 | 87 | 398 | 270
-SBUX <sup>[↗](https://www.tradingview.com/chart/?symbol=SBUX){:target='_blank' rel='noopener'}</sup> | 181 | 72 | 313 | 109 | 131
-VRSN <sup>[↗](https://www.tradingview.com/chart/?symbol=VRSN){:target='_blank' rel='noopener'}</sup> | 181 | 231 | 293 | 78 | 62
-UGI <sup>[↗](https://www.tradingview.com/chart/?symbol=UGI){:target='_blank' rel='noopener'}</sup> | 183 | 163 | 156 | 288 | 158
-COST <sup>[↗](https://www.tradingview.com/chart/?symbol=COST){:target='_blank' rel='noopener'}</sup> | 183 | 36 | 452 | 109 | 68
-F <sup>[↗](https://www.tradingview.com/chart/?symbol=F){:target='_blank' rel='noopener'}</sup> | 183 | 378 | 74 | 213 | 365
-IRM <sup>[↗](https://www.tradingview.com/chart/?symbol=IRM){:target='_blank' rel='noopener'}</sup> | 186 | 164 | 221 | 111 | 195
-MA <sup>[↗](https://www.tradingview.com/chart/?symbol=MA){:target='_blank' rel='noopener'}</sup> | 186 | 8 | 721 | 111 | 70
-QCOM <sup>[↗](https://www.tradingview.com/chart/?symbol=QCOM){:target='_blank' rel='noopener'}</sup> | 186 | 46 | 231 | 399 | 271
-BAX <sup>[↗](https://www.tradingview.com/chart/?symbol=BAX){:target='_blank' rel='noopener'}</sup> | 189 | 380 | 142 | 400 | 159
-CRM <sup>[↗](https://www.tradingview.com/chart/?symbol=CRM){:target='_blank' rel='noopener'}</sup> | 189 | 105 | 267 | 159 | 196
-AES <sup>[↗](https://www.tradingview.com/chart/?symbol=AES){:target='_blank' rel='noopener'}</sup> | 189 | 292 | 180 | 159 | 196
-JKHY <sup>[↗](https://www.tradingview.com/chart/?symbol=JKHY){:target='_blank' rel='noopener'}</sup> | 189 | 73 | 453 | 400 | 38
-AOS <sup>[↗](https://www.tradingview.com/chart/?symbol=AOS){:target='_blank' rel='noopener'}</sup> | 189 | 165 | 222 | 159 | 272
-JCI <sup>[↗](https://www.tradingview.com/chart/?symbol=JCI){:target='_blank' rel='noopener'}</sup> | 189 | 572 | 109 | 400 | 196
-APD <sup>[↗](https://www.tradingview.com/chart/?symbol=APD){:target='_blank' rel='noopener'}</sup> | 189 | 380 | 267 | 79 | 85
-HUBB <sup>[↗](https://www.tradingview.com/chart/?symbol=HUBB){:target='_blank' rel='noopener'}</sup> | 189 | 193 | 267 | 48 | 196
-BYD <sup>[↗](https://www.tradingview.com/chart/?symbol=BYD){:target='_blank' rel='noopener'}</sup> | 197 | 165 | 197 | 159 | 272
-EHC <sup>[↗](https://www.tradingview.com/chart/?symbol=EHC){:target='_blank' rel='noopener'}</sup> | 197 | 232 | 197 | 113 | 196
-SWK <sup>[↗](https://www.tradingview.com/chart/?symbol=SWK){:target='_blank' rel='noopener'}</sup> | 197 | 232 | 109 | 400 | 366
-AXP <sup>[↗](https://www.tradingview.com/chart/?symbol=AXP){:target='_blank' rel='noopener'}</sup> | 197 | 165 | 180 | 214 | 272
-ON <sup>[↗](https://www.tradingview.com/chart/?symbol=ON){:target='_blank' rel='noopener'}</sup> | 197 | 139 | 248 | 48 | 366
-ALLY <sup>[↗](https://www.tradingview.com/chart/?symbol=ALLY){:target='_blank' rel='noopener'}</sup> | 197 | 165 | 109 | 519 | 560
-ODFL <sup>[↗](https://www.tradingview.com/chart/?symbol=ODFL){:target='_blank' rel='noopener'}</sup> | 197 | 23 | 506 | 113 | 132
-GEN <sup>[↗](https://www.tradingview.com/chart/?symbol=GEN){:target='_blank' rel='noopener'}</sup> | 197 | 193 | 197 | 519 | 85
-LRCX <sup>[↗](https://www.tradingview.com/chart/?symbol=LRCX){:target='_blank' rel='noopener'}</sup> | 197 | 23 | 340 | 214 | 366
-PH <sup>[↗](https://www.tradingview.com/chart/?symbol=PH){:target='_blank' rel='noopener'}</sup> | 197 | 232 | 142 | 214 | 366
-KIM <sup>[↗](https://www.tradingview.com/chart/?symbol=KIM){:target='_blank' rel='noopener'}</sup> | 207 | 232 | 127 | 289 | 272
-WAB <sup>[↗](https://www.tradingview.com/chart/?symbol=WAB){:target='_blank' rel='noopener'}</sup> | 208 | 572 | 127 | 113 | 196
-ZBH <sup>[↗](https://www.tradingview.com/chart/?symbol=ZBH){:target='_blank' rel='noopener'}</sup> | 209 | 293 | 182 | 290 | 160
-TFC <sup>[↗](https://www.tradingview.com/chart/?symbol=TFC){:target='_blank' rel='noopener'}</sup> | 209 | 574 | 100 | 404 | 370
-NKE <sup>[↗](https://www.tradingview.com/chart/?symbol=NKE){:target='_blank' rel='noopener'}</sup> | 209 | 74 | 314 | 290 | 160
-LEA <sup>[↗](https://www.tradingview.com/chart/?symbol=LEA){:target='_blank' rel='noopener'}</sup> | 209 | 293 | 129 | 404 | 370
-MAA <sup>[↗](https://www.tradingview.com/chart/?symbol=MAA){:target='_blank' rel='noopener'}</sup> | 209 | 140 | 270 | 404 | 105
-MKC <sup>[↗](https://www.tradingview.com/chart/?symbol=MKC){:target='_blank' rel='noopener'}</sup> | 209 | 382 | 167 | 404 | 133
-AMZN <sup>[↗](https://www.tradingview.com/chart/?symbol=AMZN){:target='_blank' rel='noopener'}</sup> | 209 | 90 | 341 | 290 | 105
-BBWI <sup>[↗](https://www.tradingview.com/chart/?symbol=BBWI){:target='_blank' rel='noopener'}</sup> | 209 | 195 | 157 | 404 | 370
-FTV <sup>[↗](https://www.tradingview.com/chart/?symbol=FTV){:target='_blank' rel='noopener'}</sup> | 209 | 382 | 157 | 404 | 160
-ETN <sup>[↗](https://www.tradingview.com/chart/?symbol=ETN){:target='_blank' rel='noopener'}</sup> | 218 | 293 | 182 | 163 | 202
-QRVO <sup>[↗](https://www.tradingview.com/chart/?symbol=QRVO){:target='_blank' rel='noopener'}</sup> | 218 | 236 | 144 | 404 | 276
-AWK <sup>[↗](https://www.tradingview.com/chart/?symbol=AWK){:target='_blank' rel='noopener'}</sup> | 218 | 382 | 200 | 163 | 133
-ULTA <sup>[↗](https://www.tradingview.com/chart/?symbol=ULTA){:target='_blank' rel='noopener'}</sup> | 218 | 47 | 507 | 50 | 133
-PNC <sup>[↗](https://www.tradingview.com/chart/?symbol=PNC){:target='_blank' rel='noopener'}</sup> | 222 | 385 | 130 | 411 | 373
-IFF <sup>[↗](https://www.tradingview.com/chart/?symbol=IFF){:target='_blank' rel='noopener'}</sup> | 222 | 237 | 168 | 411 | 277
-MCO <sup>[↗](https://www.tradingview.com/chart/?symbol=MCO){:target='_blank' rel='noopener'}</sup> | 222 | 37 | 397 | 293 | 203
-SCHW <sup>[↗](https://www.tradingview.com/chart/?symbol=SCHW){:target='_blank' rel='noopener'}</sup> | 222 | 141 | 232 | 293 | 277
-AVB <sup>[↗](https://www.tradingview.com/chart/?symbol=AVB){:target='_blank' rel='noopener'}</sup> | 222 | 237 | 201 | 411 | 163
-ATR <sup>[↗](https://www.tradingview.com/chart/?symbol=ATR){:target='_blank' rel='noopener'}</sup> | 227 | 296 | 201 | 411 | 107
-BXP <sup>[↗](https://www.tradingview.com/chart/?symbol=BXP){:target='_blank' rel='noopener'}</sup> | 227 | 385 | 112 | 521 | 277
-ROST <sup>[↗](https://www.tradingview.com/chart/?symbol=ROST){:target='_blank' rel='noopener'}</sup> | 227 | 106 | 232 | 217 | 373
-ESS <sup>[↗](https://www.tradingview.com/chart/?symbol=ESS){:target='_blank' rel='noopener'}</sup> | 230 | 196 | 201 | 411 | 136
-DLB <sup>[↗](https://www.tradingview.com/chart/?symbol=DLB){:target='_blank' rel='noopener'}</sup> | 230 | 58 | 367 | 293 | 107
-MSM <sup>[↗](https://www.tradingview.com/chart/?symbol=MSM){:target='_blank' rel='noopener'}</sup> | 232 | 239 | 204 | 416 | 204
-CCI <sup>[↗](https://www.tradingview.com/chart/?symbol=CCI){:target='_blank' rel='noopener'}</sup> | 232 | 297 | 249 | 296 | 109
-FBIN <sup>[↗](https://www.tradingview.com/chart/?symbol=FBIN){:target='_blank' rel='noopener'}</sup> | 232 | 197 | 184 | 416 | 375
-FITB <sup>[↗](https://www.tradingview.com/chart/?symbol=FITB){:target='_blank' rel='noopener'}</sup> | 232 | 575 | 131 | 416 | 375
-FI <sup>[↗](https://www.tradingview.com/chart/?symbol=FI){:target='_blank' rel='noopener'}</sup> | 232 | 297 | 342 | 80 | 109
-SPGI <sup>[↗](https://www.tradingview.com/chart/?symbol=SPGI){:target='_blank' rel='noopener'}</sup> | 232 | 75 | 342 | 416 | 164
-CASY <sup>[↗](https://www.tradingview.com/chart/?symbol=CASY){:target='_blank' rel='noopener'}</sup> | 238 | 239 | 315 | 80 | 137
-GPN <sup>[↗](https://www.tradingview.com/chart/?symbol=GPN){:target='_blank' rel='noopener'}</sup> | 239 | 576 | 145 | 420 | 377
-BA <sup>[↗](https://www.tradingview.com/chart/?symbol=BA){:target='_blank' rel='noopener'}</sup> | 239 | 241 | 250 | 116 | 377
-EQH <sup>[↗](https://www.tradingview.com/chart/?symbol=EQH){:target='_blank' rel='noopener'}</sup> | 239 | 198 | 169 | 522 | 561
-BSX <sup>[↗](https://www.tradingview.com/chart/?symbol=BSX){:target='_blank' rel='noopener'}</sup> | 239 | 576 | 316 | 116 | 87
-SEIC <sup>[↗](https://www.tradingview.com/chart/?symbol=SEIC){:target='_blank' rel='noopener'}</sup> | 239 | 142 | 294 | 297 | 205
-SF <sup>[↗](https://www.tradingview.com/chart/?symbol=SF){:target='_blank' rel='noopener'}</sup> | 244 | 299 | 169 | 297 | 377
-PWR <sup>[↗](https://www.tradingview.com/chart/?symbol=PWR){:target='_blank' rel='noopener'}</sup> | 245 | 299 | 316 | 12 | 280
-PDCE <sup>[↗](https://www.tradingview.com/chart/?symbol=PDCE){:target='_blank' rel='noopener'}</sup> | 245 | 169 | 205 | 218 | 561
-PCG <sup>[↗](https://www.tradingview.com/chart/?symbol=PCG){:target='_blank' rel='noopener'}</sup> | 247 | 576 | 234 | 36 | 205
-PRI <sup>[↗](https://www.tradingview.com/chart/?symbol=PRI){:target='_blank' rel='noopener'}</sup> | 248 | 199 | 295 | 118 | 380
-IEX <sup>[↗](https://www.tradingview.com/chart/?symbol=IEX){:target='_blank' rel='noopener'}</sup> | 248 | 242 | 318 | 421 | 88
-FHN <sup>[↗](https://www.tradingview.com/chart/?symbol=FHN){:target='_blank' rel='noopener'}</sup> | 248 | 387 | 185 | 421 | 281
-KMX <sup>[↗](https://www.tradingview.com/chart/?symbol=KMX){:target='_blank' rel='noopener'}</sup> | 248 | 579 | 159 | 421 | 380
-SSNC <sup>[↗](https://www.tradingview.com/chart/?symbol=SSNC){:target='_blank' rel='noopener'}</sup> | 248 | 579 | 185 | 523 | 165
-CCL <sup>[↗](https://www.tradingview.com/chart/?symbol=CCL){:target='_blank' rel='noopener'}</sup> | 248 | 387 | 206 | 219 | 380
-ZTS <sup>[↗](https://www.tradingview.com/chart/?symbol=ZTS){:target='_blank' rel='noopener'}</sup> | 248 | 59 | 472 | 421 | 111
-DHR <sup>[↗](https://www.tradingview.com/chart/?symbol=DHR){:target='_blank' rel='noopener'}</sup> | 248 | 199 | 344 | 299 | 111
-AMP <sup>[↗](https://www.tradingview.com/chart/?symbol=AMP){:target='_blank' rel='noopener'}</sup> | 248 | 48 | 420 | 219 | 380
-FCX <sup>[↗](https://www.tradingview.com/chart/?symbol=FCX){:target='_blank' rel='noopener'}</sup> | 248 | 199 | 251 | 219 | 380
-GGG <sup>[↗](https://www.tradingview.com/chart/?symbol=GGG){:target='_blank' rel='noopener'}</sup> | 248 | 143 | 398 | 118 | 207
-WSO <sup>[↗](https://www.tradingview.com/chart/?symbol=WSO){:target='_blank' rel='noopener'}</sup> | 259 | 107 | 368 | 82 | 380
-O <sup>[↗](https://www.tradingview.com/chart/?symbol=O){:target='_blank' rel='noopener'}</sup> | 259 | 301 | 295 | 219 | 111
-NVDA <sup>[↗](https://www.tradingview.com/chart/?symbol=NVDA){:target='_blank' rel='noopener'}</sup> | 261 | 38 | 722 | 13 | 207
-GPI <sup>[↗](https://www.tradingview.com/chart/?symbol=GPI){:target='_blank' rel='noopener'}</sup> | 261 | 387 | 185 | 165 | 380
-VST <sup>[↗](https://www.tradingview.com/chart/?symbol=VST){:target='_blank' rel='noopener'}</sup> | 261 | 301 | 223 | 82 | 563
-ACI <sup>[↗](https://www.tradingview.com/chart/?symbol=ACI){:target='_blank' rel='noopener'}</sup> | 264 | 243 | 235 | 524 | 209
-INCY <sup>[↗](https://www.tradingview.com/chart/?symbol=INCY){:target='_blank' rel='noopener'}</sup> | 264 | 144 | 473 | 300 | 71
-IDXX <sup>[↗](https://www.tradingview.com/chart/?symbol=IDXX){:target='_blank' rel='noopener'}</sup> | 264 | 144 | 421 | 84 | 282
-BHF <sup>[↗](https://www.tradingview.com/chart/?symbol=BHF){:target='_blank' rel='noopener'}</sup> | 264 | 390 | 188 | 300 | 564
-TMO <sup>[↗](https://www.tradingview.com/chart/?symbol=TMO){:target='_blank' rel='noopener'}</sup> | 264 | 170 | 454 | 166 | 114
-CCK <sup>[↗](https://www.tradingview.com/chart/?symbol=CCK){:target='_blank' rel='noopener'}</sup> | 264 | 390 | 188 | 425 | 387
-SLB <sup>[↗](https://www.tradingview.com/chart/?symbol=SLB){:target='_blank' rel='noopener'}</sup> | 264 | 581 | 235 | 120 | 387
-BKNG <sup>[↗](https://www.tradingview.com/chart/?symbol=BKNG){:target='_blank' rel='noopener'}</sup> | 264 | 108 | 399 | 120 | 387
-PNR <sup>[↗](https://www.tradingview.com/chart/?symbol=PNR){:target='_blank' rel='noopener'}</sup> | 264 | 581 | 188 | 300 | 387
-TGNA <sup>[↗](https://www.tradingview.com/chart/?symbol=TGNA){:target='_blank' rel='noopener'}</sup> | 264 | 170 | 271 | 524 | 209
-SNV <sup>[↗](https://www.tradingview.com/chart/?symbol=SNV){:target='_blank' rel='noopener'}</sup> | 264 | 581 | 171 | 425 | 387
-ASIX <sup>[↗](https://www.tradingview.com/chart/?symbol=ASIX){:target='_blank' rel='noopener'}</sup> | 275 | 243 | 207 | 300 | 564
-AZPN <sup>[↗](https://www.tradingview.com/chart/?symbol=AZPN){:target='_blank' rel='noopener'}</sup> | 275 | 303 | 235 | 223 | 282
-LW <sup>[↗](https://www.tradingview.com/chart/?symbol=LW){:target='_blank' rel='noopener'}</sup> | 275 | 243 | 473 | 22 | 138
-NNN <sup>[↗](https://www.tradingview.com/chart/?symbol=NNN){:target='_blank' rel='noopener'}</sup> | 278 | 243 | 224 | 300 | 282
-SANM <sup>[↗](https://www.tradingview.com/chart/?symbol=SANM){:target='_blank' rel='noopener'}</sup> | 278 | 390 | 207 | 166 | 387
-MTH <sup>[↗](https://www.tradingview.com/chart/?symbol=MTH){:target='_blank' rel='noopener'}</sup> | 278 | 581 | 207 | 120 | 387
-ARE <sup>[↗](https://www.tradingview.com/chart/?symbol=ARE){:target='_blank' rel='noopener'}</sup> | 281 | 585 | 225 | 427 | 211
-IR <sup>[↗](https://www.tradingview.com/chart/?symbol=IR){:target='_blank' rel='noopener'}</sup> | 281 | 585 | 210 | 305 | 394
-HE <sup>[↗](https://www.tradingview.com/chart/?symbol=HE){:target='_blank' rel='noopener'}</sup> | 281 | 393 | 272 | 427 | 139
-MKTX <sup>[↗](https://www.tradingview.com/chart/?symbol=MKTX){:target='_blank' rel='noopener'}</sup> | 281 | 109 | 455 | 224 | 166
-DIS <sup>[↗](https://www.tradingview.com/chart/?symbol=DIS){:target='_blank' rel='noopener'}</sup> | 281 | 393 | 210 | 427 | 394
-NYT <sup>[↗](https://www.tradingview.com/chart/?symbol=NYT){:target='_blank' rel='noopener'}</sup> | 281 | 146 | 297 | 427 | 394
-FSLR <sup>[↗](https://www.tradingview.com/chart/?symbol=FSLR){:target='_blank' rel='noopener'}</sup> | 287 | 393 | 345 | 37 | 285
-DECK <sup>[↗](https://www.tradingview.com/chart/?symbol=DECK){:target='_blank' rel='noopener'}</sup> | 287 | 109 | 569 | 5 | 394
-SLGN <sup>[↗](https://www.tradingview.com/chart/?symbol=SLGN){:target='_blank' rel='noopener'}</sup> | 287 | 585 | 319 | 168 | 115
-BAH <sup>[↗](https://www.tradingview.com/chart/?symbol=BAH){:target='_blank' rel='noopener'}</sup> | 287 | 202 | 400 | 305 | 89
-CCS <sup>[↗](https://www.tradingview.com/chart/?symbol=CCS){:target='_blank' rel='noopener'}</sup> | 291 | 393 | 210 | 168 | 566
-SIG <sup>[↗](https://www.tradingview.com/chart/?symbol=SIG){:target='_blank' rel='noopener'}</sup> | 291 | 304 | 191 | 305 | 566
-ASH <sup>[↗](https://www.tradingview.com/chart/?symbol=ASH){:target='_blank' rel='noopener'}</sup> | 291 | 304 | 319 | 168 | 139
-AEL <sup>[↗](https://www.tradingview.com/chart/?symbol=AEL){:target='_blank' rel='noopener'}</sup> | 291 | 202 | 225 | 305 | 566
-WST <sup>[↗](https://www.tradingview.com/chart/?symbol=WST){:target='_blank' rel='noopener'}</sup> | 295 | 147 | 456 | 171 | 212
-MANH <sup>[↗](https://www.tradingview.com/chart/?symbol=MANH){:target='_blank' rel='noopener'}</sup> | 295 | 111 | 422 | 171 | 398
-EXPE <sup>[↗](https://www.tradingview.com/chart/?symbol=EXPE){:target='_blank' rel='noopener'}</sup> | 295 | 247 | 273 | 431 | 286
-SYK <sup>[↗](https://www.tradingview.com/chart/?symbol=SYK){:target='_blank' rel='noopener'}</sup> | 295 | 306 | 369 | 171 | 167
-CINF <sup>[↗](https://www.tradingview.com/chart/?symbol=CINF){:target='_blank' rel='noopener'}</sup> | 295 | 397 | 213 | 526 | 398
-AMT <sup>[↗](https://www.tradingview.com/chart/?symbol=AMT){:target='_blank' rel='noopener'}</sup> | 295 | 247 | 369 | 309 | 141
-CPT <sup>[↗](https://www.tradingview.com/chart/?symbol=CPT){:target='_blank' rel='noopener'}</sup> | 295 | 204 | 321 | 431 | 212
-ANSS <sup>[↗](https://www.tradingview.com/chart/?symbol=ANSS){:target='_blank' rel='noopener'}</sup> | 295 | 306 | 401 | 85 | 212
-CPRT <sup>[↗](https://www.tradingview.com/chart/?symbol=CPRT){:target='_blank' rel='noopener'}</sup> | 303 | 204 | 540 | 14 | 212
-MNST <sup>[↗](https://www.tradingview.com/chart/?symbol=MNST){:target='_blank' rel='noopener'}</sup> | 303 | 204 | 570 | 38 | 116
-SXC <sup>[↗](https://www.tradingview.com/chart/?symbol=SXC){:target='_blank' rel='noopener'}</sup> | 303 | 306 | 273 | 225 | 286
-PFGC <sup>[↗](https://www.tradingview.com/chart/?symbol=PFGC){:target='_blank' rel='noopener'}</sup> | 303 | 588 | 238 | 123 | 569
-IT <sup>[↗](https://www.tradingview.com/chart/?symbol=IT){:target='_blank' rel='noopener'}</sup> | 303 | 91 | 570 | 123 | 141
-HUBG <sup>[↗](https://www.tradingview.com/chart/?symbol=HUBG){:target='_blank' rel='noopener'}</sup> | 308 | 397 | 227 | 309 | 286
-LVS <sup>[↗](https://www.tradingview.com/chart/?symbol=LVS){:target='_blank' rel='noopener'}</sup> | 309 | 589 | 346 | 51 | 400
-CATY <sup>[↗](https://www.tradingview.com/chart/?symbol=CATY){:target='_blank' rel='noopener'}</sup> | 309 | 399 | 239 | 527 | 289
-EFX <sup>[↗](https://www.tradingview.com/chart/?symbol=EFX){:target='_blank' rel='noopener'}</sup> | 309 | 172 | 346 | 311 | 400
-HES <sup>[↗](https://www.tradingview.com/chart/?symbol=HES){:target='_blank' rel='noopener'}</sup> | 309 | 399 | 402 | 51 | 289
-WBS <sup>[↗](https://www.tradingview.com/chart/?symbol=WBS){:target='_blank' rel='noopener'}</sup> | 309 | 589 | 214 | 433 | 570
-LYV <sup>[↗](https://www.tradingview.com/chart/?symbol=LYV){:target='_blank' rel='noopener'}</sup> | 309 | 309 | 275 | 433 | 289
-SSB <sup>[↗](https://www.tradingview.com/chart/?symbol=SSB){:target='_blank' rel='noopener'}</sup> | 315 | 399 | 214 | 527 | 400
-FCNCA <sup>[↗](https://www.tradingview.com/chart/?symbol=FCNCA){:target='_blank' rel='noopener'}</sup> | 315 | 309 | 322 | 86 | 570
-STX <sup>[↗](https://www.tradingview.com/chart/?symbol=STX){:target='_blank' rel='noopener'}</sup> | 315 | 249 | 239 | 527 | 400
-PRDO <sup>[↗](https://www.tradingview.com/chart/?symbol=PRDO){:target='_blank' rel='noopener'}</sup> | 315 | 399 | 252 | 311 | 289
-BHE <sup>[↗](https://www.tradingview.com/chart/?symbol=BHE){:target='_blank' rel='noopener'}</sup> | 315 | 399 | 298 | 226 | 216
-GOOG <sup>[↗](https://www.tradingview.com/chart/?symbol=GOOG){:target='_blank' rel='noopener'}</sup> | 320 | 112 | 475 | 311 | 117
-SR <sup>[↗](https://www.tradingview.com/chart/?symbol=SR){:target='_blank' rel='noopener'}</sup> | 320 | 399 | 275 | 311 | 168
-DLTR <sup>[↗](https://www.tradingview.com/chart/?symbol=DLTR){:target='_blank' rel='noopener'}</sup> | 322 | 309 | 252 | 174 | 400
-FICO <sup>[↗](https://www.tradingview.com/chart/?symbol=FICO){:target='_blank' rel='noopener'}</sup> | 323 | 148 | 541 | 53 | 405
-VAC <sup>[↗](https://www.tradingview.com/chart/?symbol=VAC){:target='_blank' rel='noopener'}</sup> | 323 | 405 | 254 | 435 | 405
-WAL <sup>[↗](https://www.tradingview.com/chart/?symbol=WAL){:target='_blank' rel='noopener'}</sup> | 323 | 250 | 254 | 530 | 572
-CFR <sup>[↗](https://www.tradingview.com/chart/?symbol=CFR){:target='_blank' rel='noopener'}</sup> | 323 | 312 | 299 | 315 | 405
-NFLX <sup>[↗](https://www.tradingview.com/chart/?symbol=NFLX){:target='_blank' rel='noopener'}</sup> | 323 | 405 | 403 | 53 | 405
-NXPI <sup>[↗](https://www.tradingview.com/chart/?symbol=NXPI){:target='_blank' rel='noopener'}</sup> | 323 | 250 | 323 | 435 | 293
-WAFD <sup>[↗](https://www.tradingview.com/chart/?symbol=WAFD){:target='_blank' rel='noopener'}</sup> | 323 | 591 | 254 | 435 | 293
-EW <sup>[↗](https://www.tradingview.com/chart/?symbol=EW){:target='_blank' rel='noopener'}</sup> | 323 | 92 | 476 | 435 | 217
-WYNN <sup>[↗](https://www.tradingview.com/chart/?symbol=WYNN){:target='_blank' rel='noopener'}</sup> | 323 | 591 | 277 | 227 | 405
-IQV <sup>[↗](https://www.tradingview.com/chart/?symbol=IQV){:target='_blank' rel='noopener'}</sup> | 323 | 312 | 371 | 227 | 217
-FDS <sup>[↗](https://www.tradingview.com/chart/?symbol=FDS){:target='_blank' rel='noopener'}</sup> | 323 | 113 | 476 | 315 | 217
-EQIX <sup>[↗](https://www.tradingview.com/chart/?symbol=EQIX){:target='_blank' rel='noopener'}</sup> | 334 | 312 | 423 | 315 | 90
-NX <sup>[↗](https://www.tradingview.com/chart/?symbol=NX){:target='_blank' rel='noopener'}</sup> | 334 | 250 | 254 | 435 | 572
-SKX <sup>[↗](https://www.tradingview.com/chart/?symbol=SKX){:target='_blank' rel='noopener'}</sup> | 334 | 405 | 299 | 227 | 293
-MTDR <sup>[↗](https://www.tradingview.com/chart/?symbol=MTDR){:target='_blank' rel='noopener'}</sup> | 337 | 312 | 277 | 175 | 572
-WIRE <sup>[↗](https://www.tradingview.com/chart/?symbol=WIRE){:target='_blank' rel='noopener'}</sup> | 337 | 250 | 299 | 175 | 572
-VMW <sup>[↗](https://www.tradingview.com/chart/?symbol=VMW){:target='_blank' rel='noopener'}</sup> | 337 | 173 | 423 | 435 | 118
-GEF <sup>[↗](https://www.tradingview.com/chart/?symbol=GEF){:target='_blank' rel='noopener'}</sup> | 337 | 405 | 241 | 227 | 572
-TDY <sup>[↗](https://www.tradingview.com/chart/?symbol=TDY){:target='_blank' rel='noopener'}</sup> | 341 | 593 | 324 | 318 | 220
-XYL <sup>[↗](https://www.tradingview.com/chart/?symbol=XYL){:target='_blank' rel='noopener'}</sup> | 341 | 409 | 348 | 318 | 220
-STE <sup>[↗](https://www.tradingview.com/chart/?symbol=STE){:target='_blank' rel='noopener'}</sup> | 341 | 593 | 279 | 441 | 296
-ZD <sup>[↗](https://www.tradingview.com/chart/?symbol=ZD){:target='_blank' rel='noopener'}</sup> | 341 | 593 | 242 | 531 | 410
-TDG <sup>[↗](https://www.tradingview.com/chart/?symbol=TDG){:target='_blank' rel='noopener'}</sup> | 341 | 593 | 348 | 125 | 410
-SHOO <sup>[↗](https://www.tradingview.com/chart/?symbol=SHOO){:target='_blank' rel='noopener'}</sup> | 341 | 207 | 324 | 531 | 410
-FLS <sup>[↗](https://www.tradingview.com/chart/?symbol=FLS){:target='_blank' rel='noopener'}</sup> | 341 | 409 | 279 | 441 | 410
-COHU <sup>[↗](https://www.tradingview.com/chart/?symbol=COHU){:target='_blank' rel='noopener'}</sup> | 341 | 409 | 258 | 441 | 577
-CEG <sup>[↗](https://www.tradingview.com/chart/?symbol=CEG){:target='_blank' rel='noopener'}</sup> | 341 | 254 | 404 | 177 | 410
-DE <sup>[↗](https://www.tradingview.com/chart/?symbol=DE){:target='_blank' rel='noopener'}</sup> | 341 | 316 | 404 | 125 | 410
-ANF <sup>[↗](https://www.tradingview.com/chart/?symbol=ANF){:target='_blank' rel='noopener'}</sup> | 341 | 409 | 279 | 318 | 577
-STRA <sup>[↗](https://www.tradingview.com/chart/?symbol=STRA){:target='_blank' rel='noopener'}</sup> | 352 | 409 | 324 | 318 | 220
-NMIH <sup>[↗](https://www.tradingview.com/chart/?symbol=NMIH){:target='_blank' rel='noopener'}</sup> | 352 | 316 | 279 | 318 | 577
-SMCI <sup>[↗](https://www.tradingview.com/chart/?symbol=SMCI){:target='_blank' rel='noopener'}</sup> | 352 | 316 | 404 | 87 | 410
-SNPS <sup>[↗](https://www.tradingview.com/chart/?symbol=SNPS){:target='_blank' rel='noopener'}</sup> | 352 | 254 | 625 | 23 | 169
-NWE <sup>[↗](https://www.tradingview.com/chart/?symbol=NWE){:target='_blank' rel='noopener'}</sup> | 352 | 409 | 324 | 441 | 169
-UHAL <sup>[↗](https://www.tradingview.com/chart/?symbol=UHAL){:target='_blank' rel='noopener'}</sup> | 352 | 593 | 279 | 231 | 410
-QDEL <sup>[↗](https://www.tradingview.com/chart/?symbol=QDEL){:target='_blank' rel='noopener'}</sup> | 358 | 316 | 258 | 441 | 410
-HTH <sup>[↗](https://www.tradingview.com/chart/?symbol=HTH){:target='_blank' rel='noopener'}</sup> | 358 | 316 | 279 | 318 | 410
-VIRT <sup>[↗](https://www.tradingview.com/chart/?symbol=VIRT){:target='_blank' rel='noopener'}</sup> | 360 | 208 | 425 | 446 | 223
-VMC <sup>[↗](https://www.tradingview.com/chart/?symbol=VMC){:target='_blank' rel='noopener'}</sup> | 360 | 415 | 350 | 446 | 223
-MAR <sup>[↗](https://www.tradingview.com/chart/?symbol=MAR){:target='_blank' rel='noopener'}</sup> | 360 | 174 | 425 | 324 | 420
-SYNA <sup>[↗](https://www.tradingview.com/chart/?symbol=SYNA){:target='_blank' rel='noopener'}</sup> | 360 | 415 | 260 | 533 | 580
-NCLH <sup>[↗](https://www.tradingview.com/chart/?symbol=NCLH){:target='_blank' rel='noopener'}</sup> | 360 | 598 | 285 | 446 | 420
-SXI <sup>[↗](https://www.tradingview.com/chart/?symbol=SXI){:target='_blank' rel='noopener'}</sup> | 360 | 256 | 425 | 232 | 297
-KRC <sup>[↗](https://www.tradingview.com/chart/?symbol=KRC){:target='_blank' rel='noopener'}</sup> | 360 | 598 | 285 | 533 | 297
-WELL <sup>[↗](https://www.tradingview.com/chart/?symbol=WELL){:target='_blank' rel='noopener'}</sup> | 360 | 598 | 328 | 324 | 297
-ASGN <sup>[↗](https://www.tradingview.com/chart/?symbol=ASGN){:target='_blank' rel='noopener'}</sup> | 360 | 598 | 260 | 533 | 420
-UAA <sup>[↗](https://www.tradingview.com/chart/?symbol=UAA){:target='_blank' rel='noopener'}</sup> | 360 | 321 | 285 | 533 | 580
-NVST <sup>[↗](https://www.tradingview.com/chart/?symbol=NVST){:target='_blank' rel='noopener'}</sup> | 370 | 598 | 260 | 324 | 580
-CW <sup>[↗](https://www.tradingview.com/chart/?symbol=CW){:target='_blank' rel='noopener'}</sup> | 370 | 415 | 425 | 88 | 297
-JBHT <sup>[↗](https://www.tradingview.com/chart/?symbol=JBHT){:target='_blank' rel='noopener'}</sup> | 370 | 208 | 425 | 324 | 223
-ALB <sup>[↗](https://www.tradingview.com/chart/?symbol=ALB){:target='_blank' rel='noopener'}</sup> | 370 | 598 | 350 | 127 | 420
-SIGI <sup>[↗](https://www.tradingview.com/chart/?symbol=SIGI){:target='_blank' rel='noopener'}</sup> | 370 | 321 | 407 | 324 | 171
-CRC <sup>[↗](https://www.tradingview.com/chart/?symbol=CRC){:target='_blank' rel='noopener'}</sup> | 370 | 598 | 260 | 446 | 420
-WNC <sup>[↗](https://www.tradingview.com/chart/?symbol=WNC){:target='_blank' rel='noopener'}</sup> | 370 | 321 | 372 | 178 | 420
-FWONK <sup>[↗](https://www.tradingview.com/chart/?symbol=FWONK){:target='_blank' rel='noopener'}</sup> | 370 | 415 | 350 | 127 | 580
-FERG <sup>[↗](https://www.tradingview.com/chart/?symbol=FERG){:target='_blank' rel='noopener'}</sup> | 370 | 174 | 407 | 446 | 297
-HIBB <sup>[↗](https://www.tradingview.com/chart/?symbol=HIBB){:target='_blank' rel='noopener'}</sup> | 370 | 256 | 328 | 324 | 580
-CAL <sup>[↗](https://www.tradingview.com/chart/?symbol=CAL){:target='_blank' rel='noopener'}</sup> | 370 | 256 | 302 | 446 | 580
-LCII <sup>[↗](https://www.tradingview.com/chart/?symbol=LCII){:target='_blank' rel='noopener'}</sup> | 381 | 321 | 285 | 324 | 580
-ASO <sup>[↗](https://www.tradingview.com/chart/?symbol=ASO){:target='_blank' rel='noopener'}</sup> | 381 | 321 | 350 | 178 | 420
-IDCC <sup>[↗](https://www.tradingview.com/chart/?symbol=IDCC){:target='_blank' rel='noopener'}</sup> | 383 | 259 | 457 | 452 | 172
-OGS <sup>[↗](https://www.tradingview.com/chart/?symbol=OGS){:target='_blank' rel='noopener'}</sup> | 383 | 326 | 373 | 452 | 302
-ALV <sup>[↗](https://www.tradingview.com/chart/?symbol=ALV){:target='_blank' rel='noopener'}</sup> | 383 | 419 | 354 | 452 | 302
-CGNX <sup>[↗](https://www.tradingview.com/chart/?symbol=CGNX){:target='_blank' rel='noopener'}</sup> | 383 | 210 | 373 | 452 | 587
-Z <sup>[↗](https://www.tradingview.com/chart/?symbol=Z){:target='_blank' rel='noopener'}</sup> | 383 | 326 | 373 | 233 | 587
-KN <sup>[↗](https://www.tradingview.com/chart/?symbol=KN){:target='_blank' rel='noopener'}</sup> | 383 | 419 | 330 | 537 | 302
-PUMP <sup>[↗](https://www.tradingview.com/chart/?symbol=PUMP){:target='_blank' rel='noopener'}</sup> | 383 | 419 | 289 | 537 | 587
-MPW <sup>[↗](https://www.tradingview.com/chart/?symbol=MPW){:target='_blank' rel='noopener'}</sup> | 383 | 605 | 303 | 452 | 427
-ELS <sup>[↗](https://www.tradingview.com/chart/?symbol=ELS){:target='_blank' rel='noopener'}</sup> | 383 | 419 | 373 | 537 | 172
-POWL <sup>[↗](https://www.tradingview.com/chart/?symbol=POWL){:target='_blank' rel='noopener'}</sup> | 383 | 605 | 303 | 331 | 587
-FBNC <sup>[↗](https://www.tradingview.com/chart/?symbol=FBNC){:target='_blank' rel='noopener'}</sup> | 383 | 605 | 289 | 537 | 427
-VRTS <sup>[↗](https://www.tradingview.com/chart/?symbol=VRTS){:target='_blank' rel='noopener'}</sup> | 383 | 259 | 330 | 537 | 587
-AUB <sup>[↗](https://www.tradingview.com/chart/?symbol=AUB){:target='_blank' rel='noopener'}</sup> | 383 | 605 | 264 | 537 | 587
-CLH <sup>[↗](https://www.tradingview.com/chart/?symbol=CLH){:target='_blank' rel='noopener'}</sup> | 396 | 326 | 508 | 55 | 302
-AX <sup>[↗](https://www.tradingview.com/chart/?symbol=AX){:target='_blank' rel='noopener'}</sup> | 396 | 605 | 264 | 452 | 587
-ANDE <sup>[↗](https://www.tradingview.com/chart/?symbol=ANDE){:target='_blank' rel='noopener'}</sup> | 396 | 605 | 303 | 233 | 587
-CLW <sup>[↗](https://www.tradingview.com/chart/?symbol=CLW){:target='_blank' rel='noopener'}</sup> | 396 | 419 | 303 | 452 | 427
-SLCA <sup>[↗](https://www.tradingview.com/chart/?symbol=SLCA){:target='_blank' rel='noopener'}</sup> | 396 | 419 | 289 | 452 | 587
-ALE <sup>[↗](https://www.tradingview.com/chart/?symbol=ALE){:target='_blank' rel='noopener'}</sup> | 396 | 419 | 303 | 452 | 427
-UFCS <sup>[↗](https://www.tradingview.com/chart/?symbol=UFCS){:target='_blank' rel='noopener'}</sup> | 396 | 605 | 354 | 233 | 302
-HLX <sup>[↗](https://www.tradingview.com/chart/?symbol=HLX){:target='_blank' rel='noopener'}</sup> | 403 | 605 | 330 | 129 | 587
-CRL <sup>[↗](https://www.tradingview.com/chart/?symbol=CRL){:target='_blank' rel='noopener'}</sup> | 404 | 426 | 356 | 461 | 431
-ALGN <sup>[↗](https://www.tradingview.com/chart/?symbol=ALGN){:target='_blank' rel='noopener'}</sup> | 404 | 261 | 478 | 180 | 431
-SYY <sup>[↗](https://www.tradingview.com/chart/?symbol=SYY){:target='_blank' rel='noopener'}</sup> | 404 | 329 | 377 | 461 | 431
-BANR <sup>[↗](https://www.tradingview.com/chart/?symbol=BANR){:target='_blank' rel='noopener'}</sup> | 404 | 426 | 377 | 461 | 307
-PLUS <sup>[↗](https://www.tradingview.com/chart/?symbol=PLUS){:target='_blank' rel='noopener'}</sup> | 404 | 426 | 333 | 543 | 431
-WOLF <sup>[↗](https://www.tradingview.com/chart/?symbol=WOLF){:target='_blank' rel='noopener'}</sup> | 404 | 613 | 292 | 543 | 597
-MPWR <sup>[↗](https://www.tradingview.com/chart/?symbol=MPWR){:target='_blank' rel='noopener'}</sup> | 404 | 176 | 661 | 56 | 431
-TECH <sup>[↗](https://www.tradingview.com/chart/?symbol=TECH){:target='_blank' rel='noopener'}</sup> | 404 | 329 | 430 | 461 | 226
-FTNT <sup>[↗](https://www.tradingview.com/chart/?symbol=FTNT){:target='_blank' rel='noopener'}</sup> | 404 | 114 | 626 | 180 | 431
-BRX <sup>[↗](https://www.tradingview.com/chart/?symbol=BRX){:target='_blank' rel='noopener'}</sup> | 404 | 261 | 377 | 461 | 597
-ST <sup>[↗](https://www.tradingview.com/chart/?symbol=ST){:target='_blank' rel='noopener'}</sup> | 404 | 613 | 356 | 543 | 226
-IIIN <sup>[↗](https://www.tradingview.com/chart/?symbol=IIIN){:target='_blank' rel='noopener'}</sup> | 404 | 329 | 333 | 543 | 597
-ANET <sup>[↗](https://www.tradingview.com/chart/?symbol=ANET){:target='_blank' rel='noopener'}</sup> | 404 | 211 | 626 | 56 | 431
-LSXMK <sup>[↗](https://www.tradingview.com/chart/?symbol=LSXMK){:target='_blank' rel='noopener'}</sup> | 404 | 613 | 266 | 704 | 597
-MMS <sup>[↗](https://www.tradingview.com/chart/?symbol=MMS){:target='_blank' rel='noopener'}</sup> | 418 | 261 | 409 | 543 | 226
-SUPN <sup>[↗](https://www.tradingview.com/chart/?symbol=SUPN){:target='_blank' rel='noopener'}</sup> | 418 | 613 | 377 | 332 | 226
-RYI <sup>[↗](https://www.tradingview.com/chart/?symbol=RYI){:target='_blank' rel='noopener'}</sup> | 418 | 329 | 377 | 236 | 597
-OSIS <sup>[↗](https://www.tradingview.com/chart/?symbol=OSIS){:target='_blank' rel='noopener'}</sup> | 418 | 613 | 377 | 461 | 174
-TXRH <sup>[↗](https://www.tradingview.com/chart/?symbol=TXRH){:target='_blank' rel='noopener'}</sup> | 422 | 176 | 626 | 130 | 174
-SBH <sup>[↗](https://www.tradingview.com/chart/?symbol=SBH){:target='_blank' rel='noopener'}</sup> | 423 | 618 | 308 | 548 | 602
-MRVL <sup>[↗](https://www.tradingview.com/chart/?symbol=MRVL){:target='_blank' rel='noopener'}</sup> | 423 | 618 | 410 | 237 | 438
-MRTN <sup>[↗](https://www.tradingview.com/chart/?symbol=MRTN){:target='_blank' rel='noopener'}</sup> | 423 | 333 | 458 | 333 | 308
-ETRN <sup>[↗](https://www.tradingview.com/chart/?symbol=ETRN){:target='_blank' rel='noopener'}</sup> | 423 | 618 | 335 | 467 | 602
-AAN <sup>[↗](https://www.tradingview.com/chart/?symbol=AAN){:target='_blank' rel='noopener'}</sup> | 423 | 429 | 308 | 705 | 602
-TBI <sup>[↗](https://www.tradingview.com/chart/?symbol=TBI){:target='_blank' rel='noopener'}</sup> | 423 | 333 | 383 | 548 | 438
-ALG <sup>[↗](https://www.tradingview.com/chart/?symbol=ALG){:target='_blank' rel='noopener'}</sup> | 423 | 429 | 410 | 467 | 308
-PYPL <sup>[↗](https://www.tradingview.com/chart/?symbol=PYPL){:target='_blank' rel='noopener'}</sup> | 423 | 429 | 383 | 467 | 438
-DFIN <sup>[↗](https://www.tradingview.com/chart/?symbol=DFIN){:target='_blank' rel='noopener'}</sup> | 423 | 333 | 410 | 333 | 602
-NOW <sup>[↗](https://www.tradingview.com/chart/?symbol=NOW){:target='_blank' rel='noopener'}</sup> | 423 | 115 | 629 | 333 | 308
-SHEN <sup>[↗](https://www.tradingview.com/chart/?symbol=SHEN){:target='_blank' rel='noopener'}</sup> | 423 | 429 | 410 | 548 | 230
-OMI <sup>[↗](https://www.tradingview.com/chart/?symbol=OMI){:target='_blank' rel='noopener'}</sup> | 423 | 618 | 308 | 548 | 602
-APOG <sup>[↗](https://www.tradingview.com/chart/?symbol=APOG){:target='_blank' rel='noopener'}</sup> | 435 | 333 | 383 | 467 | 438
-AGNC <sup>[↗](https://www.tradingview.com/chart/?symbol=AGNC){:target='_blank' rel='noopener'}</sup> | 435 | 618 | 335 | 548 | 308
-LRN <sup>[↗](https://www.tradingview.com/chart/?symbol=LRN){:target='_blank' rel='noopener'}</sup> | 435 | 618 | 358 | 467 | 308
-TSLA <sup>[↗](https://www.tradingview.com/chart/?symbol=TSLA){:target='_blank' rel='noopener'}</sup> | 435 | 149 | 662 | 131 | 308
-VMI <sup>[↗](https://www.tradingview.com/chart/?symbol=VMI){:target='_blank' rel='noopener'}</sup> | 439 | 433 | 542 | 132 | 314
-HIW <sup>[↗](https://www.tradingview.com/chart/?symbol=HIW){:target='_blank' rel='noopener'}</sup> | 439 | 624 | 359 | 553 | 442
-NBR <sup>[↗](https://www.tradingview.com/chart/?symbol=NBR){:target='_blank' rel='noopener'}</sup> | 439 | 433 | 414 | 336 | 607
-RES <sup>[↗](https://www.tradingview.com/chart/?symbol=RES){:target='_blank' rel='noopener'}</sup> | 439 | 264 | 431 | 472 | 607
-MTN <sup>[↗](https://www.tradingview.com/chart/?symbol=MTN){:target='_blank' rel='noopener'}</sup> | 439 | 337 | 431 | 472 | 442
-LBRDK <sup>[↗](https://www.tradingview.com/chart/?symbol=LBRDK){:target='_blank' rel='noopener'}</sup> | 439 | 433 | 479 | 553 | 143
-CDAY <sup>[↗](https://www.tradingview.com/chart/?symbol=CDAY){:target='_blank' rel='noopener'}</sup> | 439 | 624 | 431 | 238 | 442
-PRA <sup>[↗](https://www.tradingview.com/chart/?symbol=PRA){:target='_blank' rel='noopener'}</sup> | 439 | 624 | 359 | 553 | 442
-CMG <sup>[↗](https://www.tradingview.com/chart/?symbol=CMG){:target='_blank' rel='noopener'}</sup> | 439 | 264 | 663 | 58 | 442
-APPS <sup>[↗](https://www.tradingview.com/chart/?symbol=APPS){:target='_blank' rel='noopener'}</sup> | 439 | 624 | 337 | 553 | 607
-GIII <sup>[↗](https://www.tradingview.com/chart/?symbol=GIII){:target='_blank' rel='noopener'}</sup> | 439 | 624 | 337 | 553 | 607
-MDRX <sup>[↗](https://www.tradingview.com/chart/?symbol=MDRX){:target='_blank' rel='noopener'}</sup> | 439 | 433 | 359 | 553 | 607
-HXL <sup>[↗](https://www.tradingview.com/chart/?symbol=HXL){:target='_blank' rel='noopener'}</sup> | 439 | 433 | 459 | 238 | 442
-ISRG <sup>[↗](https://www.tradingview.com/chart/?symbol=ISRG){:target='_blank' rel='noopener'}</sup> | 439 | 212 | 572 | 182 | 442
-BANC <sup>[↗](https://www.tradingview.com/chart/?symbol=BANC){:target='_blank' rel='noopener'}</sup> | 439 | 433 | 359 | 553 | 607
-TPX <sup>[↗](https://www.tradingview.com/chart/?symbol=TPX){:target='_blank' rel='noopener'}</sup> | 439 | 337 | 479 | 238 | 442
-AMBC <sup>[↗](https://www.tradingview.com/chart/?symbol=AMBC){:target='_blank' rel='noopener'}</sup> | 455 | 337 | 386 | 472 | 607
-MASI <sup>[↗](https://www.tradingview.com/chart/?symbol=MASI){:target='_blank' rel='noopener'}</sup> | 455 | 624 | 459 | 132 | 442
-RYN <sup>[↗](https://www.tradingview.com/chart/?symbol=RYN){:target='_blank' rel='noopener'}</sup> | 455 | 337 | 431 | 472 | 314
-FLR <sup>[↗](https://www.tradingview.com/chart/?symbol=FLR){:target='_blank' rel='noopener'}</sup> | 455 | 624 | 386 | 238 | 607
-BMRN <sup>[↗](https://www.tradingview.com/chart/?symbol=BMRN){:target='_blank' rel='noopener'}</sup> | 455 | 433 | 459 | 472 | 176
-HEI <sup>[↗](https://www.tradingview.com/chart/?symbol=HEI){:target='_blank' rel='noopener'}</sup> | 455 | 433 | 509 | 132 | 314
-SEM <sup>[↗](https://www.tradingview.com/chart/?symbol=SEM){:target='_blank' rel='noopener'}</sup> | 455 | 433 | 414 | 336 | 442
-WSBC <sup>[↗](https://www.tradingview.com/chart/?symbol=WSBC){:target='_blank' rel='noopener'}</sup> | 462 | 442 | 416 | 560 | 452
-SAM <sup>[↗](https://www.tradingview.com/chart/?symbol=SAM){:target='_blank' rel='noopener'}</sup> | 462 | 341 | 462 | 477 | 452
-EXAS <sup>[↗](https://www.tradingview.com/chart/?symbol=EXAS){:target='_blank' rel='noopener'}</sup> | 462 | 631 | 481 | 135 | 615
-EBF <sup>[↗](https://www.tradingview.com/chart/?symbol=EBF){:target='_blank' rel='noopener'}</sup> | 462 | 266 | 481 | 706 | 231
-GBX <sup>[↗](https://www.tradingview.com/chart/?symbol=GBX){:target='_blank' rel='noopener'}</sup> | 462 | 631 | 388 | 560 | 452
-VEEV <sup>[↗](https://www.tradingview.com/chart/?symbol=VEEV){:target='_blank' rel='noopener'}</sup> | 462 | 116 | 573 | 560 | 452
-LGIH <sup>[↗](https://www.tradingview.com/chart/?symbol=LGIH){:target='_blank' rel='noopener'}</sup> | 462 | 631 | 363 | 560 | 615
-TNC <sup>[↗](https://www.tradingview.com/chart/?symbol=TNC){:target='_blank' rel='noopener'}</sup> | 462 | 341 | 435 | 560 | 452
-EBS <sup>[↗](https://www.tradingview.com/chart/?symbol=EBS){:target='_blank' rel='noopener'}</sup> | 462 | 631 | 388 | 560 | 452
-CNA <sup>[↗](https://www.tradingview.com/chart/?symbol=CNA){:target='_blank' rel='noopener'}</sup> | 462 | 442 | 416 | 560 | 452
-ARNC <sup>[↗](https://www.tradingview.com/chart/?symbol=ARNC){:target='_blank' rel='noopener'}</sup> | 462 | 631 | 363 | 560 | 615
-PAYC <sup>[↗](https://www.tradingview.com/chart/?symbol=PAYC){:target='_blank' rel='noopener'}</sup> | 462 | 116 | 664 | 338 | 452
-HAYN <sup>[↗](https://www.tradingview.com/chart/?symbol=HAYN){:target='_blank' rel='noopener'}</sup> | 474 | 631 | 435 | 242 | 452
-OIS <sup>[↗](https://www.tradingview.com/chart/?symbol=OIS){:target='_blank' rel='noopener'}</sup> | 474 | 631 | 388 | 338 | 615
-UVE <sup>[↗](https://www.tradingview.com/chart/?symbol=UVE){:target='_blank' rel='noopener'}</sup> | 474 | 631 | 388 | 477 | 452
-ALGM <sup>[↗](https://www.tradingview.com/chart/?symbol=ALGM){:target='_blank' rel='noopener'}</sup> | 474 | 341 | 543 | 89 | 615
-VIR <sup>[↗](https://www.tradingview.com/chart/?symbol=VIR){:target='_blank' rel='noopener'}</sup> | 478 | 266 | 481 | 242 | 452
-CARS <sup>[↗](https://www.tradingview.com/chart/?symbol=CARS){:target='_blank' rel='noopener'}</sup> | 479 | 444 | 463 | 340 | 620
-STRL <sup>[↗](https://www.tradingview.com/chart/?symbol=STRL){:target='_blank' rel='noopener'}</sup> | 479 | 639 | 437 | 340 | 620
-CSGP <sup>[↗](https://www.tradingview.com/chart/?symbol=CSGP){:target='_blank' rel='noopener'}</sup> | 479 | 444 | 484 | 479 | 317
-DCOM <sup>[↗](https://www.tradingview.com/chart/?symbol=DCOM){:target='_blank' rel='noopener'}</sup> | 479 | 444 | 418 | 568 | 620
-JJSF <sup>[↗](https://www.tradingview.com/chart/?symbol=JJSF){:target='_blank' rel='noopener'}</sup> | 479 | 444 | 510 | 568 | 177
-MCS <sup>[↗](https://www.tradingview.com/chart/?symbol=MCS){:target='_blank' rel='noopener'}</sup> | 479 | 639 | 437 | 568 | 317
-RXO <sup>[↗](https://www.tradingview.com/chart/?symbol=RXO){:target='_blank' rel='noopener'}</sup> | 479 | 639 | 392 | 568 | 620
-KLIC <sup>[↗](https://www.tradingview.com/chart/?symbol=KLIC){:target='_blank' rel='noopener'}</sup> | 479 | 344 | 437 | 568 | 620
-SMTC <sup>[↗](https://www.tradingview.com/chart/?symbol=SMTC){:target='_blank' rel='noopener'}</sup> | 479 | 639 | 392 | 568 | 620
-LTC <sup>[↗](https://www.tradingview.com/chart/?symbol=LTC){:target='_blank' rel='noopener'}</sup> | 488 | 444 | 510 | 340 | 232
-ATSG <sup>[↗](https://www.tradingview.com/chart/?symbol=ATSG){:target='_blank' rel='noopener'}</sup> | 488 | 639 | 392 | 568 | 463
-GTY <sup>[↗](https://www.tradingview.com/chart/?symbol=GTY){:target='_blank' rel='noopener'}</sup> | 488 | 444 | 510 | 340 | 232
-CWK <sup>[↗](https://www.tradingview.com/chart/?symbol=CWK){:target='_blank' rel='noopener'}</sup> | 491 | 644 | 395 | 707 | 626
-DGII <sup>[↗](https://www.tradingview.com/chart/?symbol=DGII){:target='_blank' rel='noopener'}</sup> | 491 | 644 | 513 | 244 | 464
-MED <sup>[↗](https://www.tradingview.com/chart/?symbol=MED){:target='_blank' rel='noopener'}</sup> | 491 | 268 | 513 | 575 | 464
-GWRE <sup>[↗](https://www.tradingview.com/chart/?symbol=GWRE){:target='_blank' rel='noopener'}</sup> | 491 | 213 | 513 | 575 | 626
-LIVN <sup>[↗](https://www.tradingview.com/chart/?symbol=LIVN){:target='_blank' rel='noopener'}</sup> | 491 | 644 | 440 | 575 | 464
-HHC <sup>[↗](https://www.tradingview.com/chart/?symbol=HHC){:target='_blank' rel='noopener'}</sup> | 491 | 450 | 440 | 575 | 626
-ERIE <sup>[↗](https://www.tradingview.com/chart/?symbol=ERIE){:target='_blank' rel='noopener'}</sup> | 491 | 268 | 574 | 575 | 234
-LBAI <sup>[↗](https://www.tradingview.com/chart/?symbol=LBAI){:target='_blank' rel='noopener'}</sup> | 491 | 450 | 440 | 707 | 464
-PRIM <sup>[↗](https://www.tradingview.com/chart/?symbol=PRIM){:target='_blank' rel='noopener'}</sup> | 491 | 450 | 419 | 707 | 626
-VNDA <sup>[↗](https://www.tradingview.com/chart/?symbol=VNDA){:target='_blank' rel='noopener'}</sup> | 491 | 450 | 485 | 575 | 319
-KRG <sup>[↗](https://www.tradingview.com/chart/?symbol=KRG){:target='_blank' rel='noopener'}</sup> | 491 | 450 | 485 | 344 | 626
-PFBC <sup>[↗](https://www.tradingview.com/chart/?symbol=PFBC){:target='_blank' rel='noopener'}</sup> | 491 | 345 | 485 | 575 | 464
-SWAV <sup>[↗](https://www.tradingview.com/chart/?symbol=SWAV){:target='_blank' rel='noopener'}</sup> | 503 | 345 | 665 | 90 | 464
-EZPW <sup>[↗](https://www.tradingview.com/chart/?symbol=EZPW){:target='_blank' rel='noopener'}</sup> | 503 | 644 | 440 | 344 | 626
-GSK <sup>[↗](https://www.tradingview.com/chart/?symbol=GSK){:target='_blank' rel='noopener'}</sup> | 503 | 178 | 630 | 707 | 178
-CWEN <sup>[↗](https://www.tradingview.com/chart/?symbol=CWEN){:target='_blank' rel='noopener'}</sup> | 503 | 345 | 513 | 344 | 464
-ONTO <sup>[↗](https://www.tradingview.com/chart/?symbol=ONTO){:target='_blank' rel='noopener'}</sup> | 503 | 450 | 513 | 183 | 626
-AMH <sup>[↗](https://www.tradingview.com/chart/?symbol=AMH){:target='_blank' rel='noopener'}</sup> | 508 | 456 | 518 | 582 | 320
-BJRI <sup>[↗](https://www.tradingview.com/chart/?symbol=BJRI){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 464 | 480 | 633
-DXCM <sup>[↗](https://www.tradingview.com/chart/?symbol=DXCM){:target='_blank' rel='noopener'}</sup> | 508 | 456 | 666 | 136 | 471
-FWONA <sup>[↗](https://www.tradingview.com/chart/?symbol=FWONA){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 444 | 582 | 633
-GSBC <sup>[↗](https://www.tradingview.com/chart/?symbol=GSBC){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 488 | 711 | 235
-PZZA <sup>[↗](https://www.tradingview.com/chart/?symbol=PZZA){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 488 | 582 | 320
-PSTG <sup>[↗](https://www.tradingview.com/chart/?symbol=PSTG){:target='_blank' rel='noopener'}</sup> | 508 | 270 | 575 | 347 | 633
-JBGS <sup>[↗](https://www.tradingview.com/chart/?symbol=JBGS){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 488 | 582 | 320
-KKR <sup>[↗](https://www.tradingview.com/chart/?symbol=KKR){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 444 | 711 | 471
-SGH <sup>[↗](https://www.tradingview.com/chart/?symbol=SGH){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 444 | 582 | 633
-CARG <sup>[↗](https://www.tradingview.com/chart/?symbol=CARG){:target='_blank' rel='noopener'}</sup> | 508 | 456 | 444 | 711 | 633
-MODV <sup>[↗](https://www.tradingview.com/chart/?symbol=MODV){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 444 | 582 | 633
-CNSL <sup>[↗](https://www.tradingview.com/chart/?symbol=CNSL){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 444 | 582 | 633
-HCSG <sup>[↗](https://www.tradingview.com/chart/?symbol=HCSG){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 488 | 582 | 320
-ICUI <sup>[↗](https://www.tradingview.com/chart/?symbol=ICUI){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 464 | 582 | 471
-OMCL <sup>[↗](https://www.tradingview.com/chart/?symbol=OMCL){:target='_blank' rel='noopener'}</sup> | 508 | 648 | 464 | 582 | 471
-ELF <sup>[↗](https://www.tradingview.com/chart/?symbol=ELF){:target='_blank' rel='noopener'}</sup> | 524 | 456 | 666 | 59 | 633
-DOCU <sup>[↗](https://www.tradingview.com/chart/?symbol=DOCU){:target='_blank' rel='noopener'}</sup> | 525 | 348 | 631 | 348 | 475
-III <sup>[↗](https://www.tradingview.com/chart/?symbol=III){:target='_blank' rel='noopener'}</sup> | 525 | 214 | 576 | 592 | 641
-TWLO <sup>[↗](https://www.tradingview.com/chart/?symbol=TWLO){:target='_blank' rel='noopener'}</sup> | 525 | 660 | 519 | 481 | 475
-DHT <sup>[↗](https://www.tradingview.com/chart/?symbol=DHT){:target='_blank' rel='noopener'}</sup> | 525 | 660 | 467 | 592 | 641
-USM <sup>[↗](https://www.tradingview.com/chart/?symbol=USM){:target='_blank' rel='noopener'}</sup> | 525 | 660 | 492 | 714 | 324
-WOW <sup>[↗](https://www.tradingview.com/chart/?symbol=WOW){:target='_blank' rel='noopener'}</sup> | 525 | 660 | 544 | 592 | 236
-CRWD <sup>[↗](https://www.tradingview.com/chart/?symbol=CRWD){:target='_blank' rel='noopener'}</sup> | 525 | 271 | 631 | 481 | 475
-ITRI <sup>[↗](https://www.tradingview.com/chart/?symbol=ITRI){:target='_blank' rel='noopener'}</sup> | 525 | 660 | 467 | 592 | 641
-CIR <sup>[↗](https://www.tradingview.com/chart/?symbol=CIR){:target='_blank' rel='noopener'}</sup> | 525 | 660 | 467 | 592 | 641
-STR <sup>[↗](https://www.tradingview.com/chart/?symbol=STR){:target='_blank' rel='noopener'}</sup> | 525 | 460 | 492 | 714 | 475
-ANGO <sup>[↗](https://www.tradingview.com/chart/?symbol=ANGO){:target='_blank' rel='noopener'}</sup> | 525 | 660 | 492 | 592 | 475
-TROX <sup>[↗](https://www.tradingview.com/chart/?symbol=TROX){:target='_blank' rel='noopener'}</sup> | 525 | 660 | 450 | 714 | 641
-RBA <sup>[↗](https://www.tradingview.com/chart/?symbol=RBA){:target='_blank' rel='noopener'}</sup> | 525 | 348 | 544 | 592 | 475
-AXON <sup>[↗](https://www.tradingview.com/chart/?symbol=AXON){:target='_blank' rel='noopener'}</sup> | 525 | 660 | 668 | 137 | 475
-BCO <sup>[↗](https://www.tradingview.com/chart/?symbol=BCO){:target='_blank' rel='noopener'}</sup> | 525 | 460 | 492 | 592 | 641
-BY <sup>[↗](https://www.tradingview.com/chart/?symbol=BY){:target='_blank' rel='noopener'}</sup> | 525 | 460 | 492 | 714 | 475
-DEI <sup>[↗](https://www.tradingview.com/chart/?symbol=DEI){:target='_blank' rel='noopener'}</sup> | 525 | 660 | 492 | 592 | 475
-SVC <sup>[↗](https://www.tradingview.com/chart/?symbol=SVC){:target='_blank' rel='noopener'}</sup> | 542 | 460 | 492 | 481 | 641
-NBIX <sup>[↗](https://www.tradingview.com/chart/?symbol=NBIX){:target='_blank' rel='noopener'}</sup> | 542 | 660 | 631 | 245 | 236
-TNET <sup>[↗](https://www.tradingview.com/chart/?symbol=TNET){:target='_blank' rel='noopener'}</sup> | 542 | 348 | 519 | 592 | 475
-CHKP <sup>[↗](https://www.tradingview.com/chart/?symbol=CHKP){:target='_blank' rel='noopener'}</sup> | 545 | 179 | 782 | 592 | 144
-SYBT <sup>[↗](https://www.tradingview.com/chart/?symbol=SYBT){:target='_blank' rel='noopener'}</sup> | 546 | 464 | 634 | 603 | 238
-FCFS <sup>[↗](https://www.tradingview.com/chart/?symbol=FCFS){:target='_blank' rel='noopener'}</sup> | 546 | 351 | 634 | 349 | 648
-TEAM <sup>[↗](https://www.tradingview.com/chart/?symbol=TEAM){:target='_blank' rel='noopener'}</sup> | 546 | 272 | 669 | 484 | 485
-DV <sup>[↗](https://www.tradingview.com/chart/?symbol=DV){:target='_blank' rel='noopener'}</sup> | 546 | 464 | 723 | 184 | 485
-STNG <sup>[↗](https://www.tradingview.com/chart/?symbol=STNG){:target='_blank' rel='noopener'}</sup> | 546 | 464 | 521 | 603 | 648
-SPB <sup>[↗](https://www.tradingview.com/chart/?symbol=SPB){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 521 | 603 | 485
-ALNY <sup>[↗](https://www.tradingview.com/chart/?symbol=ALNY){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 577 | 349 | 485
-BILL <sup>[↗](https://www.tradingview.com/chart/?symbol=BILL){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 521 | 603 | 485
-NSP <sup>[↗](https://www.tradingview.com/chart/?symbol=NSP){:target='_blank' rel='noopener'}</sup> | 546 | 272 | 669 | 349 | 648
-CTRE <sup>[↗](https://www.tradingview.com/chart/?symbol=CTRE){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 521 | 603 | 485
-LXU <sup>[↗](https://www.tradingview.com/chart/?symbol=LXU){:target='_blank' rel='noopener'}</sup> | 546 | 464 | 499 | 718 | 648
-MBIN <sup>[↗](https://www.tradingview.com/chart/?symbol=MBIN){:target='_blank' rel='noopener'}</sup> | 546 | 464 | 499 | 718 | 648
-BGS <sup>[↗](https://www.tradingview.com/chart/?symbol=BGS){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 499 | 603 | 648
-NWLI <sup>[↗](https://www.tradingview.com/chart/?symbol=NWLI){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 499 | 603 | 648
-GTN <sup>[↗](https://www.tradingview.com/chart/?symbol=GTN){:target='_blank' rel='noopener'}</sup> | 546 | 464 | 499 | 718 | 648
-SATS <sup>[↗](https://www.tradingview.com/chart/?symbol=SATS){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 521 | 718 | 325
-CNOB <sup>[↗](https://www.tradingview.com/chart/?symbol=CNOB){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 470 | 718 | 648
-GCO <sup>[↗](https://www.tradingview.com/chart/?symbol=GCO){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 470 | 718 | 648
-ULH <sup>[↗](https://www.tradingview.com/chart/?symbol=ULH){:target='_blank' rel='noopener'}</sup> | 546 | 351 | 521 | 718 | 648
-UTL <sup>[↗](https://www.tradingview.com/chart/?symbol=UTL){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 546 | 603 | 325
-HCKT <sup>[↗](https://www.tradingview.com/chart/?symbol=HCKT){:target='_blank' rel='noopener'}</sup> | 546 | 351 | 577 | 718 | 325
-MSEX <sup>[↗](https://www.tradingview.com/chart/?symbol=MSEX){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 546 | 484 | 485
-MDB <sup>[↗](https://www.tradingview.com/chart/?symbol=MDB){:target='_blank' rel='noopener'}</sup> | 546 | 671 | 669 | 184 | 485
-SAP <sup>[↗](https://www.tradingview.com/chart/?symbol=SAP){:target='_blank' rel='noopener'}</sup> | 569 | 272 | 723 | 603 | 179
-AHCO <sup>[↗](https://www.tradingview.com/chart/?symbol=AHCO){:target='_blank' rel='noopener'}</sup> | 570 | 671 | 499 | 349 | 648
-EGY <sup>[↗](https://www.tradingview.com/chart/?symbol=EGY){:target='_blank' rel='noopener'}</sup> | 571 | 354 | 548 | 726 | 660
-BRY <sup>[↗](https://www.tradingview.com/chart/?symbol=BRY){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 505 | 726 | 660
-GOLF <sup>[↗](https://www.tradingview.com/chart/?symbol=GOLF){:target='_blank' rel='noopener'}</sup> | 571 | 354 | 579 | 612 | 660
-TG <sup>[↗](https://www.tradingview.com/chart/?symbol=TG){:target='_blank' rel='noopener'}</sup> | 571 | 470 | 548 | 726 | 493
-DIN <sup>[↗](https://www.tradingview.com/chart/?symbol=DIN){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 527 | 612 | 660
-BSIG <sup>[↗](https://www.tradingview.com/chart/?symbol=BSIG){:target='_blank' rel='noopener'}</sup> | 571 | 470 | 579 | 486 | 660
-ZUMZ <sup>[↗](https://www.tradingview.com/chart/?symbol=ZUMZ){:target='_blank' rel='noopener'}</sup> | 571 | 470 | 527 | 726 | 660
-DOCS <sup>[↗](https://www.tradingview.com/chart/?symbol=DOCS){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 527 | 612 | 660
-AMEH <sup>[↗](https://www.tradingview.com/chart/?symbol=AMEH){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 527 | 612 | 660
-CNK <sup>[↗](https://www.tradingview.com/chart/?symbol=CNK){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 527 | 612 | 660
-TW <sup>[↗](https://www.tradingview.com/chart/?symbol=TW){:target='_blank' rel='noopener'}</sup> | 571 | 470 | 672 | 612 | 239
-DHIL <sup>[↗](https://www.tradingview.com/chart/?symbol=DHIL){:target='_blank' rel='noopener'}</sup> | 571 | 354 | 636 | 726 | 328
-ACCO <sup>[↗](https://www.tradingview.com/chart/?symbol=ACCO){:target='_blank' rel='noopener'}</sup> | 571 | 470 | 527 | 726 | 660
-BCE <sup>[↗](https://www.tradingview.com/chart/?symbol=BCE){:target='_blank' rel='noopener'}</sup> | 571 | 470 | 579 | 726 | 328
-MWA <sup>[↗](https://www.tradingview.com/chart/?symbol=MWA){:target='_blank' rel='noopener'}</sup> | 571 | 470 | 548 | 726 | 493
-HAYW <sup>[↗](https://www.tradingview.com/chart/?symbol=HAYW){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 527 | 612 | 660
-MPB <sup>[↗](https://www.tradingview.com/chart/?symbol=MPB){:target='_blank' rel='noopener'}</sup> | 571 | 470 | 579 | 726 | 328
-MLAB <sup>[↗](https://www.tradingview.com/chart/?symbol=MLAB){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 527 | 726 | 493
-SEDG <sup>[↗](https://www.tradingview.com/chart/?symbol=SEDG){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 636 | 353 | 493
-ALEX <sup>[↗](https://www.tradingview.com/chart/?symbol=ALEX){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 548 | 612 | 493
-MCFT <sup>[↗](https://www.tradingview.com/chart/?symbol=MCFT){:target='_blank' rel='noopener'}</sup> | 571 | 470 | 579 | 486 | 660
-CMCO <sup>[↗](https://www.tradingview.com/chart/?symbol=CMCO){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 527 | 726 | 493
-BCPC <sup>[↗](https://www.tradingview.com/chart/?symbol=BCPC){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 672 | 612 | 180
-NET <sup>[↗](https://www.tradingview.com/chart/?symbol=NET){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 672 | 246 | 493
-IRT <sup>[↗](https://www.tradingview.com/chart/?symbol=IRT){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 548 | 612 | 493
-AZEK <sup>[↗](https://www.tradingview.com/chart/?symbol=AZEK){:target='_blank' rel='noopener'}</sup> | 571 | 684 | 579 | 486 | 493
-MGPI <sup>[↗](https://www.tradingview.com/chart/?symbol=MGPI){:target='_blank' rel='noopener'}</sup> | 571 | 470 | 672 | 246 | 660
-DVAX <sup>[↗](https://www.tradingview.com/chart/?symbol=DVAX){:target='_blank' rel='noopener'}</sup> | 598 | 470 | 548 | 353 | 660
-ROKU <sup>[↗](https://www.tradingview.com/chart/?symbol=ROKU){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 554 | 622 | 674
-AGTI <sup>[↗](https://www.tradingview.com/chart/?symbol=AGTI){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 536 | 737 | 674
-RCM <sup>[↗](https://www.tradingview.com/chart/?symbol=RCM){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 554 | 622 | 674
-EGRX <sup>[↗](https://www.tradingview.com/chart/?symbol=EGRX){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 585 | 737 | 331
-KWR <sup>[↗](https://www.tradingview.com/chart/?symbol=KWR){:target='_blank' rel='noopener'}</sup> | 599 | 481 | 676 | 489 | 502
-RWT <sup>[↗](https://www.tradingview.com/chart/?symbol=RWT){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 585 | 622 | 502
-EXPI <sup>[↗](https://www.tradingview.com/chart/?symbol=EXPI){:target='_blank' rel='noopener'}</sup> | 599 | 481 | 676 | 355 | 674
-EXLS <sup>[↗](https://www.tradingview.com/chart/?symbol=EXLS){:target='_blank' rel='noopener'}</sup> | 599 | 357 | 783 | 355 | 502
-DDOG <sup>[↗](https://www.tradingview.com/chart/?symbol=DDOG){:target='_blank' rel='noopener'}</sup> | 599 | 481 | 725 | 355 | 502
-SRI <sup>[↗](https://www.tradingview.com/chart/?symbol=SRI){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 585 | 622 | 502
-CASS <sup>[↗](https://www.tradingview.com/chart/?symbol=CASS){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 585 | 737 | 331
-FOR <sup>[↗](https://www.tradingview.com/chart/?symbol=FOR){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 536 | 737 | 674
-KALU <sup>[↗](https://www.tradingview.com/chart/?symbol=KALU){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 585 | 489 | 674
-RILY <sup>[↗](https://www.tradingview.com/chart/?symbol=RILY){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 554 | 622 | 674
-FISI <sup>[↗](https://www.tradingview.com/chart/?symbol=FISI){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 554 | 737 | 502
-CVNA <sup>[↗](https://www.tradingview.com/chart/?symbol=CVNA){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 585 | 489 | 674
-UBA <sup>[↗](https://www.tradingview.com/chart/?symbol=UBA){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 585 | 622 | 502
-SMBK <sup>[↗](https://www.tradingview.com/chart/?symbol=SMBK){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 585 | 737 | 331
-ACT <sup>[↗](https://www.tradingview.com/chart/?symbol=ACT){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 536 | 737 | 674
-BMRC <sup>[↗](https://www.tradingview.com/chart/?symbol=BMRC){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 585 | 737 | 331
-CVGW <sup>[↗](https://www.tradingview.com/chart/?symbol=CVGW){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 554 | 622 | 674
-PBI <sup>[↗](https://www.tradingview.com/chart/?symbol=PBI){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 554 | 622 | 674
-PACB <sup>[↗](https://www.tradingview.com/chart/?symbol=PACB){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 676 | 248 | 674
-FFIC <sup>[↗](https://www.tradingview.com/chart/?symbol=FFIC){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 554 | 737 | 502
-OTEX <sup>[↗](https://www.tradingview.com/chart/?symbol=OTEX){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 536 | 737 | 674
-HLIT <sup>[↗](https://www.tradingview.com/chart/?symbol=HLIT){:target='_blank' rel='noopener'}</sup> | 599 | 698 | 783 | 248 | 331
-WCN <sup>[↗](https://www.tradingview.com/chart/?symbol=WCN){:target='_blank' rel='noopener'}</sup> | 599 | 481 | 783 | 622 | 181
-ARWR <sup>[↗](https://www.tradingview.com/chart/?symbol=ARWR){:target='_blank' rel='noopener'}</sup> | 626 | 481 | 585 | 489 | 674
-AAON <sup>[↗](https://www.tradingview.com/chart/?symbol=AAON){:target='_blank' rel='noopener'}</sup> | 626 | 481 | 725 | 355 | 331
-PTGX <sup>[↗](https://www.tradingview.com/chart/?symbol=PTGX){:target='_blank' rel='noopener'}</sup> | 626 | 481 | 725 | 248 | 502
-OEC <sup>[↗](https://www.tradingview.com/chart/?symbol=OEC){:target='_blank' rel='noopener'}</sup> | 626 | 698 | 585 | 355 | 674
-SPWR <sup>[↗](https://www.tradingview.com/chart/?symbol=SPWR){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 638 | 493 | 689
-ESTE <sup>[↗](https://www.tradingview.com/chart/?symbol=ESTE){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 561 | 747 | 689
-OPI <sup>[↗](https://www.tradingview.com/chart/?symbol=OPI){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 596 | 631 | 689
-GKOS <sup>[↗](https://www.tradingview.com/chart/?symbol=GKOS){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 638 | 493 | 689
-BNL <sup>[↗](https://www.tradingview.com/chart/?symbol=BNL){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 561 | 747 | 689
-BFB <sup>[↗](https://www.tradingview.com/chart/?symbol=BFB){:target='_blank' rel='noopener'}</sup> | 630 | 488 | 596 | 747 | 689
-GFS <sup>[↗](https://www.tradingview.com/chart/?symbol=GFS){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 728 | 360 | 511
-VTS <sup>[↗](https://www.tradingview.com/chart/?symbol=VTS){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 596 | 631 | 689
-CSV <sup>[↗](https://www.tradingview.com/chart/?symbol=CSV){:target='_blank' rel='noopener'}</sup> | 630 | 488 | 638 | 747 | 511
-VRE <sup>[↗](https://www.tradingview.com/chart/?symbol=VRE){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 596 | 631 | 689
-NGVT <sup>[↗](https://www.tradingview.com/chart/?symbol=NGVT){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 596 | 631 | 689
-ODC <sup>[↗](https://www.tradingview.com/chart/?symbol=ODC){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 596 | 631 | 689
-HIFS <sup>[↗](https://www.tradingview.com/chart/?symbol=HIFS){:target='_blank' rel='noopener'}</sup> | 630 | 488 | 596 | 747 | 689
-HALO <sup>[↗](https://www.tradingview.com/chart/?symbol=HALO){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 728 | 360 | 511
-SGAFT <sup>[↗](https://www.tradingview.com/chart/?symbol=SGAFT){:target='_blank' rel='noopener'}</sup> | 630 | 488 | 728 | 493 | 511
-HLMN <sup>[↗](https://www.tradingview.com/chart/?symbol=HLMN){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 561 | 747 | 689
-SSRM <sup>[↗](https://www.tradingview.com/chart/?symbol=SSRM){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 561 | 747 | 689
-PRMW <sup>[↗](https://www.tradingview.com/chart/?symbol=PRMW){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 596 | 747 | 511
-CLB <sup>[↗](https://www.tradingview.com/chart/?symbol=CLB){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 596 | 631 | 689
-TSBK <sup>[↗](https://www.tradingview.com/chart/?symbol=TSBK){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 561 | 747 | 689
-CFB <sup>[↗](https://www.tradingview.com/chart/?symbol=CFB){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 561 | 747 | 689
-DAKT <sup>[↗](https://www.tradingview.com/chart/?symbol=DAKT){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 596 | 631 | 689
-PDFS <sup>[↗](https://www.tradingview.com/chart/?symbol=PDFS){:target='_blank' rel='noopener'}</sup> | 630 | 358 | 786 | 360 | 689
-TK <sup>[↗](https://www.tradingview.com/chart/?symbol=TK){:target='_blank' rel='noopener'}</sup> | 630 | 488 | 638 | 631 | 689
-QLYS <sup>[↗](https://www.tradingview.com/chart/?symbol=QLYS){:target='_blank' rel='noopener'}</sup> | 630 | 358 | 786 | 493 | 511
-AMNB <sup>[↗](https://www.tradingview.com/chart/?symbol=AMNB){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 596 | 747 | 511
-HDSN <sup>[↗](https://www.tradingview.com/chart/?symbol=HDSN){:target='_blank' rel='noopener'}</sup> | 630 | 488 | 638 | 631 | 689
-BRKB <sup>[↗](https://www.tradingview.com/chart/?symbol=BRKB){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 679 | 747 | 240
-SITM <sup>[↗](https://www.tradingview.com/chart/?symbol=SITM){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 596 | 631 | 689
-OSTK <sup>[↗](https://www.tradingview.com/chart/?symbol=OSTK){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 561 | 747 | 689
-LTHM <sup>[↗](https://www.tradingview.com/chart/?symbol=LTHM){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 596 | 631 | 689
-LNN <sup>[↗](https://www.tradingview.com/chart/?symbol=LNN){:target='_blank' rel='noopener'}</sup> | 630 | 488 | 728 | 493 | 511
-LILA <sup>[↗](https://www.tradingview.com/chart/?symbol=LILA){:target='_blank' rel='noopener'}</sup> | 630 | 721 | 561 | 747 | 689
-BHVN <sup>[↗](https://www.tradingview.com/chart/?symbol=BHVN){:target='_blank' rel='noopener'}</sup> | 663 | 488 | 728 | 360 | 511
-ZYME <sup>[↗](https://www.tradingview.com/chart/?symbol=ZYME){:target='_blank' rel='noopener'}</sup> | 663 | 488 | 638 | 631 | 511
-IDYA <sup>[↗](https://www.tradingview.com/chart/?symbol=IDYA){:target='_blank' rel='noopener'}</sup> | 663 | 488 | 786 | 251 | 511
-RBB <sup>[↗](https://www.tradingview.com/chart/?symbol=RBB){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-SFST <sup>[↗](https://www.tradingview.com/chart/?symbol=SFST){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-SHYF <sup>[↗](https://www.tradingview.com/chart/?symbol=SHYF){:target='_blank' rel='noopener'}</sup> | 666 | 498 | 644 | 761 | 713
-OSW <sup>[↗](https://www.tradingview.com/chart/?symbol=OSW){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 733 | 643 | 337
-CLDT <sup>[↗](https://www.tradingview.com/chart/?symbol=CLDT){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 644 | 643 | 713
-PCB <sup>[↗](https://www.tradingview.com/chart/?symbol=PCB){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-PKE <sup>[↗](https://www.tradingview.com/chart/?symbol=PKE){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-PANL <sup>[↗](https://www.tradingview.com/chart/?symbol=PANL){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 644 | 643 | 713
-RBBN <sup>[↗](https://www.tradingview.com/chart/?symbol=RBBN){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-CLSK <sup>[↗](https://www.tradingview.com/chart/?symbol=CLSK){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 644 | 643 | 713
-JAKK <sup>[↗](https://www.tradingview.com/chart/?symbol=JAKK){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-MNSB <sup>[↗](https://www.tradingview.com/chart/?symbol=MNSB){:target='_blank' rel='noopener'}</sup> | 666 | 498 | 644 | 761 | 713
-PFIS <sup>[↗](https://www.tradingview.com/chart/?symbol=PFIS){:target='_blank' rel='noopener'}</sup> | 666 | 498 | 644 | 761 | 713
-CTKB <sup>[↗](https://www.tradingview.com/chart/?symbol=CTKB){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-MG <sup>[↗](https://www.tradingview.com/chart/?symbol=MG){:target='_blank' rel='noopener'}</sup> | 666 | 498 | 644 | 761 | 713
-IGT <sup>[↗](https://www.tradingview.com/chart/?symbol=IGT){:target='_blank' rel='noopener'}</sup> | 666 | 360 | 733 | 643 | 713
-DNUT <sup>[↗](https://www.tradingview.com/chart/?symbol=DNUT){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-RICK <sup>[↗](https://www.tradingview.com/chart/?symbol=RICK){:target='_blank' rel='noopener'}</sup> | 666 | 498 | 680 | 643 | 713
-WDS <sup>[↗](https://www.tradingview.com/chart/?symbol=WDS){:target='_blank' rel='noopener'}</sup> | 666 | 498 | 680 | 643 | 713
-DUOL <sup>[↗](https://www.tradingview.com/chart/?symbol=DUOL){:target='_blank' rel='noopener'}</sup> | 666 | 498 | 847 | 364 | 522
-JACK <sup>[↗](https://www.tradingview.com/chart/?symbol=JACK){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 680 | 498 | 713
-NWFL <sup>[↗](https://www.tradingview.com/chart/?symbol=NWFL){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-DOOR <sup>[↗](https://www.tradingview.com/chart/?symbol=DOOR){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-OABI <sup>[↗](https://www.tradingview.com/chart/?symbol=OABI){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 644 | 761 | 522
-UWMC <sup>[↗](https://www.tradingview.com/chart/?symbol=UWMC){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 733 | 364 | 713
-TRUE <sup>[↗](https://www.tradingview.com/chart/?symbol=TRUE){:target='_blank' rel='noopener'}</sup> | 666 | 498 | 680 | 761 | 522
-TTGT <sup>[↗](https://www.tradingview.com/chart/?symbol=TTGT){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 680 | 643 | 522
-ORRF <sup>[↗](https://www.tradingview.com/chart/?symbol=ORRF){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-GMAB <sup>[↗](https://www.tradingview.com/chart/?symbol=GMAB){:target='_blank' rel='noopener'}</sup> | 666 | 498 | 733 | 761 | 337
-ACNB <sup>[↗](https://www.tradingview.com/chart/?symbol=ACNB){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-BXMT <sup>[↗](https://www.tradingview.com/chart/?symbol=BXMT){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-ASX <sup>[↗](https://www.tradingview.com/chart/?symbol=ASX){:target='_blank' rel='noopener'}</sup> | 666 | 360 | 789 | 761 | 337
-TRC <sup>[↗](https://www.tradingview.com/chart/?symbol=TRC){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 680 | 761 | 337
-ACCD <sup>[↗](https://www.tradingview.com/chart/?symbol=ACCD){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 680 | 498 | 713
-TXG <sup>[↗](https://www.tradingview.com/chart/?symbol=TXG){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 789 | 252 | 713
-SIGA <sup>[↗](https://www.tradingview.com/chart/?symbol=SIGA){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-CSTR <sup>[↗](https://www.tradingview.com/chart/?symbol=CSTR){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-BWFG <sup>[↗](https://www.tradingview.com/chart/?symbol=BWFG){:target='_blank' rel='noopener'}</sup> | 666 | 745 | 609 | 761 | 713
-KRYS <sup>[↗](https://www.tradingview.com/chart/?symbol=KRYS){:target='_blank' rel='noopener'}</sup> | 704 | 498 | 789 | 252 | 713
-MORF <sup>[↗](https://www.tradingview.com/chart/?symbol=MORF){:target='_blank' rel='noopener'}</sup> | 704 | 498 | 789 | 252 | 713
-ANAB <sup>[↗](https://www.tradingview.com/chart/?symbol=ANAB){:target='_blank' rel='noopener'}</sup> | 704 | 498 | 680 | 643 | 522
-CGEM <sup>[↗](https://www.tradingview.com/chart/?symbol=CGEM){:target='_blank' rel='noopener'}</sup> | 704 | 498 | 644 | 643 | 713
-CRNX <sup>[↗](https://www.tradingview.com/chart/?symbol=CRNX){:target='_blank' rel='noopener'}</sup> | 704 | 498 | 733 | 643 | 337
-DH <sup>[↗](https://www.tradingview.com/chart/?symbol=DH){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 653 | 786 | 746
-TECK <sup>[↗](https://www.tradingview.com/chart/?symbol=TECK){:target='_blank' rel='noopener'}</sup> | 709 | 512 | 688 | 786 | 746
-LBTYA <sup>[↗](https://www.tradingview.com/chart/?symbol=LBTYA){:target='_blank' rel='noopener'}</sup> | 709 | 512 | 688 | 786 | 746
-PUBM <sup>[↗](https://www.tradingview.com/chart/?symbol=PUBM){:target='_blank' rel='noopener'}</sup> | 709 | 512 | 688 | 786 | 746
-MITK <sup>[↗](https://www.tradingview.com/chart/?symbol=MITK){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 688 | 786 | 527
-ESCA <sup>[↗](https://www.tradingview.com/chart/?symbol=ESCA){:target='_blank' rel='noopener'}</sup> | 709 | 512 | 688 | 786 | 746
-VALE <sup>[↗](https://www.tradingview.com/chart/?symbol=VALE){:target='_blank' rel='noopener'}</sup> | 709 | 512 | 688 | 786 | 746
-ARR <sup>[↗](https://www.tradingview.com/chart/?symbol=ARR){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 738 | 654 | 527
-SOI <sup>[↗](https://www.tradingview.com/chart/?symbol=SOI){:target='_blank' rel='noopener'}</sup> | 709 | 512 | 688 | 786 | 746
-NVO <sup>[↗](https://www.tradingview.com/chart/?symbol=NVO){:target='_blank' rel='noopener'}</sup> | 709 | 512 | 738 | 786 | 527
-BWB <sup>[↗](https://www.tradingview.com/chart/?symbol=BWB){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 688 | 786 | 527
-JOE <sup>[↗](https://www.tradingview.com/chart/?symbol=JOE){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 738 | 500 | 746
-INFA <sup>[↗](https://www.tradingview.com/chart/?symbol=INFA){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 653 | 786 | 746
-OCN <sup>[↗](https://www.tradingview.com/chart/?symbol=OCN){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 653 | 786 | 746
-VRRM <sup>[↗](https://www.tradingview.com/chart/?symbol=VRRM){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 738 | 654 | 527
-CMCL <sup>[↗](https://www.tradingview.com/chart/?symbol=CMCL){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 653 | 786 | 746
-HLN <sup>[↗](https://www.tradingview.com/chart/?symbol=HLN){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 738 | 654 | 527
-FRGI <sup>[↗](https://www.tradingview.com/chart/?symbol=FRGI){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 653 | 786 | 746
-CYRX <sup>[↗](https://www.tradingview.com/chart/?symbol=CYRX){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 653 | 786 | 746
-CZNC <sup>[↗](https://www.tradingview.com/chart/?symbol=CZNC){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 688 | 786 | 527
-TTSH <sup>[↗](https://www.tradingview.com/chart/?symbol=TTSH){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 653 | 786 | 746
-RMR <sup>[↗](https://www.tradingview.com/chart/?symbol=RMR){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 688 | 786 | 527
-MELI <sup>[↗](https://www.tradingview.com/chart/?symbol=MELI){:target='_blank' rel='noopener'}</sup> | 709 | 362 | 914 | 500 | 527
-CNS <sup>[↗](https://www.tradingview.com/chart/?symbol=CNS){:target='_blank' rel='noopener'}</sup> | 709 | 275 | 793 | 786 | 746
-WTBA <sup>[↗](https://www.tradingview.com/chart/?symbol=WTBA){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 688 | 786 | 527
-PAAS <sup>[↗](https://www.tradingview.com/chart/?symbol=PAAS){:target='_blank' rel='noopener'}</sup> | 709 | 772 | 653 | 786 | 746
-BMEA <sup>[↗](https://www.tradingview.com/chart/?symbol=BMEA){:target='_blank' rel='noopener'}</sup> | 735 | 512 | 914 | 255 | 527
-ETNB <sup>[↗](https://www.tradingview.com/chart/?symbol=ETNB){:target='_blank' rel='noopener'}</sup> | 735 | 512 | 848 | 255 | 746
-RCKT <sup>[↗](https://www.tradingview.com/chart/?symbol=RCKT){:target='_blank' rel='noopener'}</sup> | 735 | 512 | 793 | 366 | 746
-EQRX <sup>[↗](https://www.tradingview.com/chart/?symbol=EQRX){:target='_blank' rel='noopener'}</sup> | 735 | 512 | 688 | 654 | 746
-EDIT <sup>[↗](https://www.tradingview.com/chart/?symbol=EDIT){:target='_blank' rel='noopener'}</sup> | 735 | 512 | 688 | 654 | 746
-NTLA <sup>[↗](https://www.tradingview.com/chart/?symbol=NTLA){:target='_blank' rel='noopener'}</sup> | 735 | 512 | 738 | 500 | 746
-CBAY <sup>[↗](https://www.tradingview.com/chart/?symbol=CBAY){:target='_blank' rel='noopener'}</sup> | 735 | 512 | 738 | 500 | 746
-REPL <sup>[↗](https://www.tradingview.com/chart/?symbol=REPL){:target='_blank' rel='noopener'}</sup> | 735 | 512 | 688 | 654 | 746
-GCI <sup>[↗](https://www.tradingview.com/chart/?symbol=GCI){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-SGRY <sup>[↗](https://www.tradingview.com/chart/?symbol=SGRY){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-STNE <sup>[↗](https://www.tradingview.com/chart/?symbol=STNE){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 745 | 660 | 769
-NETI <sup>[↗](https://www.tradingview.com/chart/?symbol=NETI){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-SOVO <sup>[↗](https://www.tradingview.com/chart/?symbol=SOVO){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 795 | 660 | 538
-CWCO <sup>[↗](https://www.tradingview.com/chart/?symbol=CWCO){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 745 | 660 | 769
-HCP <sup>[↗](https://www.tradingview.com/chart/?symbol=HCP){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 745 | 660 | 769
-JBI <sup>[↗](https://www.tradingview.com/chart/?symbol=JBI){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 745 | 807 | 538
-WFG <sup>[↗](https://www.tradingview.com/chart/?symbol=WFG){:target='_blank' rel='noopener'}</sup> | 743 | 527 | 745 | 807 | 769
-BOC <sup>[↗](https://www.tradingview.com/chart/?symbol=BOC){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-ALTR <sup>[↗](https://www.tradingview.com/chart/?symbol=ALTR){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 849 | 367 | 769
-SQSP <sup>[↗](https://www.tradingview.com/chart/?symbol=SQSP){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 745 | 660 | 769
-TARO <sup>[↗](https://www.tradingview.com/chart/?symbol=TARO){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-IIPR <sup>[↗](https://www.tradingview.com/chart/?symbol=IIPR){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 745 | 660 | 769
-RNGR <sup>[↗](https://www.tradingview.com/chart/?symbol=RNGR){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-INDI <sup>[↗](https://www.tradingview.com/chart/?symbol=INDI){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 795 | 504 | 769
-BCOV <sup>[↗](https://www.tradingview.com/chart/?symbol=BCOV){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-CCB <sup>[↗](https://www.tradingview.com/chart/?symbol=CCB){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-BEAM <sup>[↗](https://www.tradingview.com/chart/?symbol=BEAM){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 745 | 660 | 769
-CDNA <sup>[↗](https://www.tradingview.com/chart/?symbol=CDNA){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-FWRG <sup>[↗](https://www.tradingview.com/chart/?symbol=FWRG){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-ALKS <sup>[↗](https://www.tradingview.com/chart/?symbol=ALKS){:target='_blank' rel='noopener'}</sup> | 743 | 527 | 849 | 807 | 342
-MLNK <sup>[↗](https://www.tradingview.com/chart/?symbol=MLNK){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-AUR <sup>[↗](https://www.tradingview.com/chart/?symbol=AUR){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-MODN <sup>[↗](https://www.tradingview.com/chart/?symbol=MODN){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 849 | 660 | 342
-IBN <sup>[↗](https://www.tradingview.com/chart/?symbol=IBN){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 795 | 807 | 342
-NKSH <sup>[↗](https://www.tradingview.com/chart/?symbol=NKSH){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-CPHC <sup>[↗](https://www.tradingview.com/chart/?symbol=CPHC){:target='_blank' rel='noopener'}</sup> | 743 | 527 | 745 | 807 | 769
-LMND <sup>[↗](https://www.tradingview.com/chart/?symbol=LMND){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 745 | 660 | 769
-DFH <sup>[↗](https://www.tradingview.com/chart/?symbol=DFH){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 745 | 660 | 769
-KGC <sup>[↗](https://www.tradingview.com/chart/?symbol=KGC){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-NOVT <sup>[↗](https://www.tradingview.com/chart/?symbol=NOVT){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 795 | 660 | 538
-KTCC <sup>[↗](https://www.tradingview.com/chart/?symbol=KTCC){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-ADRO <sup>[↗](https://www.tradingview.com/chart/?symbol=ADRO){:target='_blank' rel='noopener'}</sup> | 743 | 276 | 849 | 807 | 769
-OWL <sup>[↗](https://www.tradingview.com/chart/?symbol=OWL){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 795 | 660 | 538
-STM <sup>[↗](https://www.tradingview.com/chart/?symbol=STM){:target='_blank' rel='noopener'}</sup> | 743 | 527 | 745 | 807 | 769
-SMFG <sup>[↗](https://www.tradingview.com/chart/?symbol=SMFG){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-CABA <sup>[↗](https://www.tradingview.com/chart/?symbol=CABA){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 795 | 504 | 769
-ITI <sup>[↗](https://www.tradingview.com/chart/?symbol=ITI){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-GRWG <sup>[↗](https://www.tradingview.com/chart/?symbol=GRWG){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 745 | 660 | 769
-PCTI <sup>[↗](https://www.tradingview.com/chart/?symbol=PCTI){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 702 | 807 | 769
-OMAB <sup>[↗](https://www.tradingview.com/chart/?symbol=OMAB){:target='_blank' rel='noopener'}</sup> | 743 | 789 | 745 | 660 | 769
-PDD <sup>[↗](https://www.tradingview.com/chart/?symbol=PDD){:target='_blank' rel='noopener'}</sup> | 785 | 363 | 795 | 807 | 538
-INBX <sup>[↗](https://www.tradingview.com/chart/?symbol=INBX){:target='_blank' rel='noopener'}</sup> | 785 | 527 | 849 | 367 | 769
-ARVN <sup>[↗](https://www.tradingview.com/chart/?symbol=ARVN){:target='_blank' rel='noopener'}</sup> | 785 | 527 | 745 | 660 | 769
-FATE <sup>[↗](https://www.tradingview.com/chart/?symbol=FATE){:target='_blank' rel='noopener'}</sup> | 785 | 527 | 745 | 660 | 769
-CIM <sup>[↗](https://www.tradingview.com/chart/?symbol=CIM){:target='_blank' rel='noopener'}</sup> | 785 | 789 | 702 | 660 | 769
-MTSI <sup>[↗](https://www.tradingview.com/chart/?symbol=MTSI){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 802 | 677 | 808
-LFVN <sup>[↗](https://www.tradingview.com/chart/?symbol=LFVN){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-INTA <sup>[↗](https://www.tradingview.com/chart/?symbol=INTA){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 854 | 506 | 808
-SWIM <sup>[↗](https://www.tradingview.com/chart/?symbol=SWIM){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-ZYXI <sup>[↗](https://www.tradingview.com/chart/?symbol=ZYXI){:target='_blank' rel='noopener'}</sup> | 790 | 534 | 916 | 506 | 808
-CARM <sup>[↗](https://www.tradingview.com/chart/?symbol=CARM){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-KNSA <sup>[↗](https://www.tradingview.com/chart/?symbol=KNSA){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 854 | 677 | 543
-GOOD <sup>[↗](https://www.tradingview.com/chart/?symbol=GOOD){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 802 | 833 | 543
-ADMA <sup>[↗](https://www.tradingview.com/chart/?symbol=ADMA){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 802 | 677 | 808
-ICL <sup>[↗](https://www.tradingview.com/chart/?symbol=ICL){:target='_blank' rel='noopener'}</sup> | 790 | 534 | 854 | 833 | 543
-QRHC <sup>[↗](https://www.tradingview.com/chart/?symbol=QRHC){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-ACHR <sup>[↗](https://www.tradingview.com/chart/?symbol=ACHR){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-JKS <sup>[↗](https://www.tradingview.com/chart/?symbol=JKS){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-PETQ <sup>[↗](https://www.tradingview.com/chart/?symbol=PETQ){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-HLIO <sup>[↗](https://www.tradingview.com/chart/?symbol=HLIO){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-TSVT <sup>[↗](https://www.tradingview.com/chart/?symbol=TSVT){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-LWAY <sup>[↗](https://www.tradingview.com/chart/?symbol=LWAY){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-ORIC <sup>[↗](https://www.tradingview.com/chart/?symbol=ORIC){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 802 | 677 | 808
-NVEC <sup>[↗](https://www.tradingview.com/chart/?symbol=NVEC){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 802 | 833 | 543
-SIVB <sup>[↗](https://www.tradingview.com/chart/?symbol=SIVB){:target='_blank' rel='noopener'}</sup> | 790 | 534 | 916 | 506 | 808
-GIL <sup>[↗](https://www.tradingview.com/chart/?symbol=GIL){:target='_blank' rel='noopener'}</sup> | 790 | 534 | 802 | 833 | 808
-EWCZ <sup>[↗](https://www.tradingview.com/chart/?symbol=EWCZ){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-ASRV <sup>[↗](https://www.tradingview.com/chart/?symbol=ASRV){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-SFIX <sup>[↗](https://www.tradingview.com/chart/?symbol=SFIX){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-PLYM <sup>[↗](https://www.tradingview.com/chart/?symbol=PLYM){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-INGN <sup>[↗](https://www.tradingview.com/chart/?symbol=INGN){:target='_blank' rel='noopener'}</sup> | 790 | 534 | 802 | 833 | 808
-SLGC <sup>[↗](https://www.tradingview.com/chart/?symbol=SLGC){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-BSAC <sup>[↗](https://www.tradingview.com/chart/?symbol=BSAC){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-COG <sup>[↗](https://www.tradingview.com/chart/?symbol=COG){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 854 | 677 | 543
-APPF <sup>[↗](https://www.tradingview.com/chart/?symbol=APPF){:target='_blank' rel='noopener'}</sup> | 790 | 534 | 916 | 506 | 808
-PNTG <sup>[↗](https://www.tradingview.com/chart/?symbol=PNTG){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-CALX <sup>[↗](https://www.tradingview.com/chart/?symbol=CALX){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 802 | 677 | 808
-DRE <sup>[↗](https://www.tradingview.com/chart/?symbol=DRE){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 802 | 677 | 808
-AMBA <sup>[↗](https://www.tradingview.com/chart/?symbol=AMBA){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-EML <sup>[↗](https://www.tradingview.com/chart/?symbol=EML){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-GLUE <sup>[↗](https://www.tradingview.com/chart/?symbol=GLUE){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-TRNO <sup>[↗](https://www.tradingview.com/chart/?symbol=TRNO){:target='_blank' rel='noopener'}</sup> | 790 | 827 | 761 | 833 | 808
-STOK <sup>[↗](https://www.tradingview.com/chart/?symbol=STOK){:target='_blank' rel='noopener'}</sup> | 827 | 534 | 802 | 677 | 808
-LQDA <sup>[↗](https://www.tradingview.com/chart/?symbol=LQDA){:target='_blank' rel='noopener'}</sup> | 827 | 534 | 916 | 369 | 808
-JD <sup>[↗](https://www.tradingview.com/chart/?symbol=JD){:target='_blank' rel='noopener'}</sup> | 827 | 364 | 854 | 833 | 543
-MCRB <sup>[↗](https://www.tradingview.com/chart/?symbol=MCRB){:target='_blank' rel='noopener'}</sup> | 827 | 534 | 802 | 677 | 808
-PLRX <sup>[↗](https://www.tradingview.com/chart/?symbol=PLRX){:target='_blank' rel='noopener'}</sup> | 831 | 534 | 802 | 506 | 808
-ACLX <sup>[↗](https://www.tradingview.com/chart/?symbol=ACLX){:target='_blank' rel='noopener'}</sup> | 831 | 534 | 916 | 369 | 543
-SCWX <sup>[↗](https://www.tradingview.com/chart/?symbol=SCWX){:target='_blank' rel='noopener'}</sup> | 833 | 545 | 859 | 860 | 844
-MNTX <sup>[↗](https://www.tradingview.com/chart/?symbol=MNTX){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-SRT <sup>[↗](https://www.tradingview.com/chart/?symbol=SRT){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-ORGN <sup>[↗](https://www.tradingview.com/chart/?symbol=ORGN){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-SPCE <sup>[↗](https://www.tradingview.com/chart/?symbol=SPCE){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-QUOT <sup>[↗](https://www.tradingview.com/chart/?symbol=QUOT){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-GANX <sup>[↗](https://www.tradingview.com/chart/?symbol=GANX){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-TGLS <sup>[↗](https://www.tradingview.com/chart/?symbol=TGLS){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 859 | 860 | 550
-TRTX <sup>[↗](https://www.tradingview.com/chart/?symbol=TRTX){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-AXNX <sup>[↗](https://www.tradingview.com/chart/?symbol=AXNX){:target='_blank' rel='noopener'}</sup> | 833 | 545 | 859 | 860 | 844
-SANA <sup>[↗](https://www.tradingview.com/chart/?symbol=SANA){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-COUR <sup>[↗](https://www.tradingview.com/chart/?symbol=COUR){:target='_blank' rel='noopener'}</sup> | 833 | 545 | 859 | 860 | 844
-LSPD <sup>[↗](https://www.tradingview.com/chart/?symbol=LSPD){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-YORW <sup>[↗](https://www.tradingview.com/chart/?symbol=YORW){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-LAW <sup>[↗](https://www.tradingview.com/chart/?symbol=LAW){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-ATHA <sup>[↗](https://www.tradingview.com/chart/?symbol=ATHA){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-DSGX <sup>[↗](https://www.tradingview.com/chart/?symbol=DSGX){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-FFNW <sup>[↗](https://www.tradingview.com/chart/?symbol=FFNW){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-HSBC <sup>[↗](https://www.tradingview.com/chart/?symbol=HSBC){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-CD <sup>[↗](https://www.tradingview.com/chart/?symbol=CD){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-MOMO <sup>[↗](https://www.tradingview.com/chart/?symbol=MOMO){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-NKLA <sup>[↗](https://www.tradingview.com/chart/?symbol=NKLA){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-NLSN <sup>[↗](https://www.tradingview.com/chart/?symbol=NLSN){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-WIX <sup>[↗](https://www.tradingview.com/chart/?symbol=WIX){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 921 | 686 | 550
-ZIP <sup>[↗](https://www.tradingview.com/chart/?symbol=ZIP){:target='_blank' rel='noopener'}</sup> | 833 | 545 | 859 | 860 | 844
-VERA <sup>[↗](https://www.tradingview.com/chart/?symbol=VERA){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 921 | 511 | 844
-NESR <sup>[↗](https://www.tradingview.com/chart/?symbol=NESR){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-NEWR <sup>[↗](https://www.tradingview.com/chart/?symbol=NEWR){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 921 | 511 | 844
-KSU <sup>[↗](https://www.tradingview.com/chart/?symbol=KSU){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-ALPN <sup>[↗](https://www.tradingview.com/chart/?symbol=ALPN){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-INTT <sup>[↗](https://www.tradingview.com/chart/?symbol=INTT){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-GRPH <sup>[↗](https://www.tradingview.com/chart/?symbol=GRPH){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-INZY <sup>[↗](https://www.tradingview.com/chart/?symbol=INZY){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-VIST <sup>[↗](https://www.tradingview.com/chart/?symbol=VIST){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-PBCT <sup>[↗](https://www.tradingview.com/chart/?symbol=PBCT){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-VZIO <sup>[↗](https://www.tradingview.com/chart/?symbol=VZIO){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-CPAC <sup>[↗](https://www.tradingview.com/chart/?symbol=CPAC){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-PEGA <sup>[↗](https://www.tradingview.com/chart/?symbol=PEGA){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 859 | 860 | 550
-UBOH <sup>[↗](https://www.tradingview.com/chart/?symbol=UBOH){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-MRNS <sup>[↗](https://www.tradingview.com/chart/?symbol=MRNS){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 1014 | 371 | 844
-PESI <sup>[↗](https://www.tradingview.com/chart/?symbol=PESI){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-MUFG <sup>[↗](https://www.tradingview.com/chart/?symbol=MUFG){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-TSQ <sup>[↗](https://www.tradingview.com/chart/?symbol=TSQ){:target='_blank' rel='noopener'}</sup> | 833 | 858 | 814 | 860 | 844
-DNLI <sup>[↗](https://www.tradingview.com/chart/?symbol=DNLI){:target='_blank' rel='noopener'}</sup> | 876 | 545 | 859 | 686 | 844
-AGEN <sup>[↗](https://www.tradingview.com/chart/?symbol=AGEN){:target='_blank' rel='noopener'}</sup> | 876 | 545 | 859 | 686 | 844
-DICE <sup>[↗](https://www.tradingview.com/chart/?symbol=DICE){:target='_blank' rel='noopener'}</sup> | 876 | 545 | 921 | 511 | 844
-MLTX <sup>[↗](https://www.tradingview.com/chart/?symbol=MLTX){:target='_blank' rel='noopener'}</sup> | 876 | 545 | 1014 | 371 | 844
-TGTX <sup>[↗](https://www.tradingview.com/chart/?symbol=TGTX){:target='_blank' rel='noopener'}</sup> | 880 | 545 | 921 | 371 | 844
-APTX <sup>[↗](https://www.tradingview.com/chart/?symbol=APTX){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-GEFB <sup>[↗](https://www.tradingview.com/chart/?symbol=GEFB){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-LIFE <sup>[↗](https://www.tradingview.com/chart/?symbol=LIFE){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-PSTL <sup>[↗](https://www.tradingview.com/chart/?symbol=PSTL){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 926 | 899 | 553
-AUDC <sup>[↗](https://www.tradingview.com/chart/?symbol=AUDC){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 926 | 899 | 553
-MNTK <sup>[↗](https://www.tradingview.com/chart/?symbol=MNTK){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-SCPH <sup>[↗](https://www.tradingview.com/chart/?symbol=SCPH){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-ACMR <sup>[↗](https://www.tradingview.com/chart/?symbol=ACMR){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-GOGL <sup>[↗](https://www.tradingview.com/chart/?symbol=GOGL){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-NE <sup>[↗](https://www.tradingview.com/chart/?symbol=NE){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 926 | 689 | 889
-FTAI <sup>[↗](https://www.tradingview.com/chart/?symbol=FTAI){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 926 | 689 | 889
-ALX <sup>[↗](https://www.tradingview.com/chart/?symbol=ALX){:target='_blank' rel='noopener'}</sup> | 881 | 554 | 926 | 899 | 889
-POWW <sup>[↗](https://www.tradingview.com/chart/?symbol=POWW){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-KLR <sup>[↗](https://www.tradingview.com/chart/?symbol=KLR){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-ALTO <sup>[↗](https://www.tradingview.com/chart/?symbol=ALTO){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-NHTC <sup>[↗](https://www.tradingview.com/chart/?symbol=NHTC){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-UNB <sup>[↗](https://www.tradingview.com/chart/?symbol=UNB){:target='_blank' rel='noopener'}</sup> | 881 | 554 | 926 | 899 | 889
-AADI <sup>[↗](https://www.tradingview.com/chart/?symbol=AADI){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-SALM <sup>[↗](https://www.tradingview.com/chart/?symbol=SALM){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-ML <sup>[↗](https://www.tradingview.com/chart/?symbol=ML){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 926 | 899 | 553
-BRP <sup>[↗](https://www.tradingview.com/chart/?symbol=BRP){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-DRD <sup>[↗](https://www.tradingview.com/chart/?symbol=DRD){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-MSTR <sup>[↗](https://www.tradingview.com/chart/?symbol=MSTR){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 1016 | 514 | 889
-ACET <sup>[↗](https://www.tradingview.com/chart/?symbol=ACET){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-RLMD <sup>[↗](https://www.tradingview.com/chart/?symbol=RLMD){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-ICPT <sup>[↗](https://www.tradingview.com/chart/?symbol=ICPT){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-ABOS <sup>[↗](https://www.tradingview.com/chart/?symbol=ABOS){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-CVV <sup>[↗](https://www.tradingview.com/chart/?symbol=CVV){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-SMID <sup>[↗](https://www.tradingview.com/chart/?symbol=SMID){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-VUZI <sup>[↗](https://www.tradingview.com/chart/?symbol=VUZI){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-MEG <sup>[↗](https://www.tradingview.com/chart/?symbol=MEG){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-SUN <sup>[↗](https://www.tradingview.com/chart/?symbol=SUN){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-PYXS <sup>[↗](https://www.tradingview.com/chart/?symbol=PYXS){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-RFIL <sup>[↗](https://www.tradingview.com/chart/?symbol=RFIL){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-VMD <sup>[↗](https://www.tradingview.com/chart/?symbol=VMD){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-CO <sup>[↗](https://www.tradingview.com/chart/?symbol=CO){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 1016 | 899 | 345
-VHC <sup>[↗](https://www.tradingview.com/chart/?symbol=VHC){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-ORC <sup>[↗](https://www.tradingview.com/chart/?symbol=ORC){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-RMNI <sup>[↗](https://www.tradingview.com/chart/?symbol=RMNI){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-TRDA <sup>[↗](https://www.tradingview.com/chart/?symbol=TRDA){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-DZSI <sup>[↗](https://www.tradingview.com/chart/?symbol=DZSI){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-METC <sup>[↗](https://www.tradingview.com/chart/?symbol=METC){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-GCMG <sup>[↗](https://www.tradingview.com/chart/?symbol=GCMG){:target='_blank' rel='noopener'}</sup> | 881 | 554 | 926 | 899 | 889
-QFIN <sup>[↗](https://www.tradingview.com/chart/?symbol=QFIN){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-LMST <sup>[↗](https://www.tradingview.com/chart/?symbol=LMST){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-WKHS <sup>[↗](https://www.tradingview.com/chart/?symbol=WKHS){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-MTEX <sup>[↗](https://www.tradingview.com/chart/?symbol=MTEX){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-BKSC <sup>[↗](https://www.tradingview.com/chart/?symbol=BKSC){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-SKIN <sup>[↗](https://www.tradingview.com/chart/?symbol=SKIN){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-EGIO <sup>[↗](https://www.tradingview.com/chart/?symbol=EGIO){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-ASAN <sup>[↗](https://www.tradingview.com/chart/?symbol=ASAN){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 1016 | 514 | 889
-UIS <sup>[↗](https://www.tradingview.com/chart/?symbol=UIS){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-BOXL <sup>[↗](https://www.tradingview.com/chart/?symbol=BOXL){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-SDRL <sup>[↗](https://www.tradingview.com/chart/?symbol=SDRL){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-DOCN <sup>[↗](https://www.tradingview.com/chart/?symbol=DOCN){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-CRWS <sup>[↗](https://www.tradingview.com/chart/?symbol=CRWS){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-PUK <sup>[↗](https://www.tradingview.com/chart/?symbol=PUK){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-XFOR <sup>[↗](https://www.tradingview.com/chart/?symbol=XFOR){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 926 | 689 | 889
-APPN <sup>[↗](https://www.tradingview.com/chart/?symbol=APPN){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 1016 | 514 | 889
-CBL <sup>[↗](https://www.tradingview.com/chart/?symbol=CBL){:target='_blank' rel='noopener'}</sup> | 881 | 897 | 867 | 899 | 889
-AMRS <sup>[↗](https://www.tradingview.com/chart/?symbol=AMRS){:target='_blank' rel='noopener'}</sup> | 941 | 554 | 926 | 689 | 889
-ARQT <sup>[↗](https://www.tradingview.com/chart/?symbol=ARQT){:target='_blank' rel='noopener'}</sup> | 941 | 554 | 1016 | 689 | 553
-IBRX <sup>[↗](https://www.tradingview.com/chart/?symbol=IBRX){:target='_blank' rel='noopener'}</sup> | 941 | 554 | 926 | 689 | 889
-ABUS <sup>[↗](https://www.tradingview.com/chart/?symbol=ABUS){:target='_blank' rel='noopener'}</sup> | 941 | 554 | 926 | 689 | 889
-MLYS <sup>[↗](https://www.tradingview.com/chart/?symbol=MLYS){:target='_blank' rel='noopener'}</sup> | 941 | 554 | 926 | 689 | 889
-JNCE <sup>[↗](https://www.tradingview.com/chart/?symbol=JNCE){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-CPSH <sup>[↗](https://www.tradingview.com/chart/?symbol=CPSH){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-FVRR <sup>[↗](https://www.tradingview.com/chart/?symbol=FVRR){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 1021 | 697 | 949
-OB <sup>[↗](https://www.tradingview.com/chart/?symbol=OB){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-PSTI <sup>[↗](https://www.tradingview.com/chart/?symbol=PSTI){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-IPHA <sup>[↗](https://www.tradingview.com/chart/?symbol=IPHA){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-ECHO <sup>[↗](https://www.tradingview.com/chart/?symbol=ECHO){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-NEWT <sup>[↗](https://www.tradingview.com/chart/?symbol=NEWT){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-CRNT <sup>[↗](https://www.tradingview.com/chart/?symbol=CRNT){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-CALA <sup>[↗](https://www.tradingview.com/chart/?symbol=CALA){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-WVE <sup>[↗](https://www.tradingview.com/chart/?symbol=WVE){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-FTCH <sup>[↗](https://www.tradingview.com/chart/?symbol=FTCH){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-INOD <sup>[↗](https://www.tradingview.com/chart/?symbol=INOD){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-UPLD <sup>[↗](https://www.tradingview.com/chart/?symbol=UPLD){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-APLD <sup>[↗](https://www.tradingview.com/chart/?symbol=APLD){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 1021 | 697 | 949
-BNTX <sup>[↗](https://www.tradingview.com/chart/?symbol=BNTX){:target='_blank' rel='noopener'}</sup> | 946 | 562 | 1021 | 953 | 949
-CCU <sup>[↗](https://www.tradingview.com/chart/?symbol=CCU){:target='_blank' rel='noopener'}</sup> | 946 | 562 | 1021 | 953 | 949
-FIXX <sup>[↗](https://www.tradingview.com/chart/?symbol=FIXX){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-RVNC <sup>[↗](https://www.tradingview.com/chart/?symbol=RVNC){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 1021 | 697 | 949
-OBIO <sup>[↗](https://www.tradingview.com/chart/?symbol=OBIO){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 1021 | 953 | 557
-GPX <sup>[↗](https://www.tradingview.com/chart/?symbol=GPX){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-AOMR <sup>[↗](https://www.tradingview.com/chart/?symbol=AOMR){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-WLYB <sup>[↗](https://www.tradingview.com/chart/?symbol=WLYB){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-PROF <sup>[↗](https://www.tradingview.com/chart/?symbol=PROF){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-ABTX <sup>[↗](https://www.tradingview.com/chart/?symbol=ABTX){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-MCFE <sup>[↗](https://www.tradingview.com/chart/?symbol=MCFE){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-EVGO <sup>[↗](https://www.tradingview.com/chart/?symbol=EVGO){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-ASTC <sup>[↗](https://www.tradingview.com/chart/?symbol=ASTC){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-MNOV <sup>[↗](https://www.tradingview.com/chart/?symbol=MNOV){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-EAST <sup>[↗](https://www.tradingview.com/chart/?symbol=EAST){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-AIRS <sup>[↗](https://www.tradingview.com/chart/?symbol=AIRS){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 1021 | 697 | 949
-LLNW <sup>[↗](https://www.tradingview.com/chart/?symbol=LLNW){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-QSI <sup>[↗](https://www.tradingview.com/chart/?symbol=QSI){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-TRVI <sup>[↗](https://www.tradingview.com/chart/?symbol=TRVI){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-MLVF <sup>[↗](https://www.tradingview.com/chart/?symbol=MLVF){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-SNSE <sup>[↗](https://www.tradingview.com/chart/?symbol=SNSE){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-TBB <sup>[↗](https://www.tradingview.com/chart/?symbol=TBB){:target='_blank' rel='noopener'}</sup> | 946 | 562 | 1021 | 953 | 949
-CHMI <sup>[↗](https://www.tradingview.com/chart/?symbol=CHMI){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-SWT <sup>[↗](https://www.tradingview.com/chart/?symbol=SWT){:target='_blank' rel='noopener'}</sup> | 946 | 562 | 1021 | 953 | 949
-SELB <sup>[↗](https://www.tradingview.com/chart/?symbol=SELB){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-DUKB <sup>[↗](https://www.tradingview.com/chart/?symbol=DUKB){:target='_blank' rel='noopener'}</sup> | 946 | 562 | 1021 | 953 | 949
-FINW <sup>[↗](https://www.tradingview.com/chart/?symbol=FINW){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-PD <sup>[↗](https://www.tradingview.com/chart/?symbol=PD){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 1021 | 697 | 949
-KRT <sup>[↗](https://www.tradingview.com/chart/?symbol=KRT){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-SPT <sup>[↗](https://www.tradingview.com/chart/?symbol=SPT){:target='_blank' rel='noopener'}</sup> | 946 | 562 | 1021 | 953 | 949
-PTRA <sup>[↗](https://www.tradingview.com/chart/?symbol=PTRA){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-GRAB <sup>[↗](https://www.tradingview.com/chart/?symbol=GRAB){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-SEMR <sup>[↗](https://www.tradingview.com/chart/?symbol=SEMR){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-ABCM <sup>[↗](https://www.tradingview.com/chart/?symbol=ABCM){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-BYND <sup>[↗](https://www.tradingview.com/chart/?symbol=BYND){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 1021 | 697 | 949
-RGS <sup>[↗](https://www.tradingview.com/chart/?symbol=RGS){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-VWTR <sup>[↗](https://www.tradingview.com/chart/?symbol=VWTR){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-CARV <sup>[↗](https://www.tradingview.com/chart/?symbol=CARV){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-TVTY <sup>[↗](https://www.tradingview.com/chart/?symbol=TVTY){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-SYRS <sup>[↗](https://www.tradingview.com/chart/?symbol=SYRS){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-AGFS <sup>[↗](https://www.tradingview.com/chart/?symbol=AGFS){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-BCRX <sup>[↗](https://www.tradingview.com/chart/?symbol=BCRX){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-TCX <sup>[↗](https://www.tradingview.com/chart/?symbol=TCX){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-SNCR <sup>[↗](https://www.tradingview.com/chart/?symbol=SNCR){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-DOMH <sup>[↗](https://www.tradingview.com/chart/?symbol=DOMH){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-BHIL <sup>[↗](https://www.tradingview.com/chart/?symbol=BHIL){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-AHT <sup>[↗](https://www.tradingview.com/chart/?symbol=AHT){:target='_blank' rel='noopener'}</sup> | 946 | 562 | 1021 | 953 | 949
-FENC <sup>[↗](https://www.tradingview.com/chart/?symbol=FENC){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-KALA <sup>[↗](https://www.tradingview.com/chart/?symbol=KALA){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-AGTC <sup>[↗](https://www.tradingview.com/chart/?symbol=AGTC){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-INSE <sup>[↗](https://www.tradingview.com/chart/?symbol=INSE){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-AVAL <sup>[↗](https://www.tradingview.com/chart/?symbol=AVAL){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-AIMC <sup>[↗](https://www.tradingview.com/chart/?symbol=AIMC){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-REKR <sup>[↗](https://www.tradingview.com/chart/?symbol=REKR){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-TCI <sup>[↗](https://www.tradingview.com/chart/?symbol=TCI){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-ACRV <sup>[↗](https://www.tradingview.com/chart/?symbol=ACRV){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-MASS <sup>[↗](https://www.tradingview.com/chart/?symbol=MASS){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-FUBO <sup>[↗](https://www.tradingview.com/chart/?symbol=FUBO){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-PX <sup>[↗](https://www.tradingview.com/chart/?symbol=PX){:target='_blank' rel='noopener'}</sup> | 946 | 562 | 1021 | 953 | 949
-VATE <sup>[↗](https://www.tradingview.com/chart/?symbol=VATE){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-AFCG <sup>[↗](https://www.tradingview.com/chart/?symbol=AFCG){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-ARAY <sup>[↗](https://www.tradingview.com/chart/?symbol=ARAY){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-FNWD <sup>[↗](https://www.tradingview.com/chart/?symbol=FNWD){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-EYPT <sup>[↗](https://www.tradingview.com/chart/?symbol=EYPT){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-SOTK <sup>[↗](https://www.tradingview.com/chart/?symbol=SOTK){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-FLOW <sup>[↗](https://www.tradingview.com/chart/?symbol=FLOW){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-EBSB <sup>[↗](https://www.tradingview.com/chart/?symbol=EBSB){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-TNGX <sup>[↗](https://www.tradingview.com/chart/?symbol=TNGX){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-CRDF <sup>[↗](https://www.tradingview.com/chart/?symbol=CRDF){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-MRAM <sup>[↗](https://www.tradingview.com/chart/?symbol=MRAM){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-ARCO <sup>[↗](https://www.tradingview.com/chart/?symbol=ARCO){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 1021 | 953 | 557
-RWAY <sup>[↗](https://www.tradingview.com/chart/?symbol=RWAY){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-SC <sup>[↗](https://www.tradingview.com/chart/?symbol=SC){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-ICAD <sup>[↗](https://www.tradingview.com/chart/?symbol=ICAD){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 1021 | 953 | 557
-WEAV <sup>[↗](https://www.tradingview.com/chart/?symbol=WEAV){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 1021 | 697 | 949
-USAU <sup>[↗](https://www.tradingview.com/chart/?symbol=USAU){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-VEC <sup>[↗](https://www.tradingview.com/chart/?symbol=VEC){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-CAPR <sup>[↗](https://www.tradingview.com/chart/?symbol=CAPR){:target='_blank' rel='noopener'}</sup> | 946 | 954 | 939 | 953 | 949
-JCS <sup>[↗](https://www.tradingview.com/chart/?symbol=JCS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-IMPX <sup>[↗](https://www.tradingview.com/chart/?symbol=IMPX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-LU <sup>[↗](https://www.tradingview.com/chart/?symbol=LU){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-GSQD <sup>[↗](https://www.tradingview.com/chart/?symbol=GSQD){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ENO <sup>[↗](https://www.tradingview.com/chart/?symbol=ENO){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-NERV <sup>[↗](https://www.tradingview.com/chart/?symbol=NERV){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-GILT <sup>[↗](https://www.tradingview.com/chart/?symbol=GILT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-XWEL <sup>[↗](https://www.tradingview.com/chart/?symbol=XWEL){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-EAI <sup>[↗](https://www.tradingview.com/chart/?symbol=EAI){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ZLAB <sup>[↗](https://www.tradingview.com/chart/?symbol=ZLAB){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CKPT <sup>[↗](https://www.tradingview.com/chart/?symbol=CKPT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-FZT <sup>[↗](https://www.tradingview.com/chart/?symbol=FZT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CEA <sup>[↗](https://www.tradingview.com/chart/?symbol=CEA){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-VAQC <sup>[↗](https://www.tradingview.com/chart/?symbol=VAQC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-SDIG <sup>[↗](https://www.tradingview.com/chart/?symbol=SDIG){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-NBEV <sup>[↗](https://www.tradingview.com/chart/?symbol=NBEV){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-LUXA <sup>[↗](https://www.tradingview.com/chart/?symbol=LUXA){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-PRPC <sup>[↗](https://www.tradingview.com/chart/?symbol=PRPC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-GTT <sup>[↗](https://www.tradingview.com/chart/?symbol=GTT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TYME <sup>[↗](https://www.tradingview.com/chart/?symbol=TYME){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TOUR <sup>[↗](https://www.tradingview.com/chart/?symbol=TOUR){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-NBST <sup>[↗](https://www.tradingview.com/chart/?symbol=NBST){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-LOCC <sup>[↗](https://www.tradingview.com/chart/?symbol=LOCC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-MIGI <sup>[↗](https://www.tradingview.com/chart/?symbol=MIGI){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-YTEN <sup>[↗](https://www.tradingview.com/chart/?symbol=YTEN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-YPF <sup>[↗](https://www.tradingview.com/chart/?symbol=YPF){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ANGN <sup>[↗](https://www.tradingview.com/chart/?symbol=ANGN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-PDOT <sup>[↗](https://www.tradingview.com/chart/?symbol=PDOT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-BHG <sup>[↗](https://www.tradingview.com/chart/?symbol=BHG){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ASTR <sup>[↗](https://www.tradingview.com/chart/?symbol=ASTR){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-BIOX <sup>[↗](https://www.tradingview.com/chart/?symbol=BIOX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-INKT <sup>[↗](https://www.tradingview.com/chart/?symbol=INKT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-IPOD <sup>[↗](https://www.tradingview.com/chart/?symbol=IPOD){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-LEO <sup>[↗](https://www.tradingview.com/chart/?symbol=LEO){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TDCX <sup>[↗](https://www.tradingview.com/chart/?symbol=TDCX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ADX <sup>[↗](https://www.tradingview.com/chart/?symbol=ADX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CANG <sup>[↗](https://www.tradingview.com/chart/?symbol=CANG){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-KNBE <sup>[↗](https://www.tradingview.com/chart/?symbol=KNBE){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HIL <sup>[↗](https://www.tradingview.com/chart/?symbol=HIL){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-COE <sup>[↗](https://www.tradingview.com/chart/?symbol=COE){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HX <sup>[↗](https://www.tradingview.com/chart/?symbol=HX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CLRB <sup>[↗](https://www.tradingview.com/chart/?symbol=CLRB){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-QNCX <sup>[↗](https://www.tradingview.com/chart/?symbol=QNCX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CATM <sup>[↗](https://www.tradingview.com/chart/?symbol=CATM){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HCIC <sup>[↗](https://www.tradingview.com/chart/?symbol=HCIC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-UBP <sup>[↗](https://www.tradingview.com/chart/?symbol=UBP){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ATNX <sup>[↗](https://www.tradingview.com/chart/?symbol=ATNX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-DRRX <sup>[↗](https://www.tradingview.com/chart/?symbol=DRRX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TGAN <sup>[↗](https://www.tradingview.com/chart/?symbol=TGAN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-BOCH <sup>[↗](https://www.tradingview.com/chart/?symbol=BOCH){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-MF <sup>[↗](https://www.tradingview.com/chart/?symbol=MF){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-KINS <sup>[↗](https://www.tradingview.com/chart/?symbol=KINS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-BEST <sup>[↗](https://www.tradingview.com/chart/?symbol=BEST){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-PRAX <sup>[↗](https://www.tradingview.com/chart/?symbol=PRAX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-PRTG <sup>[↗](https://www.tradingview.com/chart/?symbol=PRTG){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-NYXH <sup>[↗](https://www.tradingview.com/chart/?symbol=NYXH){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CXAI <sup>[↗](https://www.tradingview.com/chart/?symbol=CXAI){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-YQ <sup>[↗](https://www.tradingview.com/chart/?symbol=YQ){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TY <sup>[↗](https://www.tradingview.com/chart/?symbol=TY){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-LVOX <sup>[↗](https://www.tradingview.com/chart/?symbol=LVOX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TFPM <sup>[↗](https://www.tradingview.com/chart/?symbol=TFPM){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-INOV <sup>[↗](https://www.tradingview.com/chart/?symbol=INOV){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-OPAD <sup>[↗](https://www.tradingview.com/chart/?symbol=OPAD){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-IMMX <sup>[↗](https://www.tradingview.com/chart/?symbol=IMMX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ECOR <sup>[↗](https://www.tradingview.com/chart/?symbol=ECOR){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-VERO <sup>[↗](https://www.tradingview.com/chart/?symbol=VERO){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-GEL <sup>[↗](https://www.tradingview.com/chart/?symbol=GEL){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-DOMO <sup>[↗](https://www.tradingview.com/chart/?symbol=DOMO){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-BTCM <sup>[↗](https://www.tradingview.com/chart/?symbol=BTCM){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-VYNE <sup>[↗](https://www.tradingview.com/chart/?symbol=VYNE){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-APPH <sup>[↗](https://www.tradingview.com/chart/?symbol=APPH){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-FLUX <sup>[↗](https://www.tradingview.com/chart/?symbol=FLUX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-GHY <sup>[↗](https://www.tradingview.com/chart/?symbol=GHY){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HMHC <sup>[↗](https://www.tradingview.com/chart/?symbol=HMHC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TVC <sup>[↗](https://www.tradingview.com/chart/?symbol=TVC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-SONN <sup>[↗](https://www.tradingview.com/chart/?symbol=SONN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-NVX <sup>[↗](https://www.tradingview.com/chart/?symbol=NVX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-MUX <sup>[↗](https://www.tradingview.com/chart/?symbol=MUX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-GLTO <sup>[↗](https://www.tradingview.com/chart/?symbol=GLTO){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-VMAR <sup>[↗](https://www.tradingview.com/chart/?symbol=VMAR){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-UTME <sup>[↗](https://www.tradingview.com/chart/?symbol=UTME){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-AQMS <sup>[↗](https://www.tradingview.com/chart/?symbol=AQMS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-XENT <sup>[↗](https://www.tradingview.com/chart/?symbol=XENT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-AGAE <sup>[↗](https://www.tradingview.com/chart/?symbol=AGAE){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HIII <sup>[↗](https://www.tradingview.com/chart/?symbol=HIII){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-DTG <sup>[↗](https://www.tradingview.com/chart/?symbol=DTG){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HOTH <sup>[↗](https://www.tradingview.com/chart/?symbol=HOTH){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-SFT <sup>[↗](https://www.tradingview.com/chart/?symbol=SFT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CURV <sup>[↗](https://www.tradingview.com/chart/?symbol=CURV){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ATC <sup>[↗](https://www.tradingview.com/chart/?symbol=ATC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-BYRN <sup>[↗](https://www.tradingview.com/chart/?symbol=BYRN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-REUN <sup>[↗](https://www.tradingview.com/chart/?symbol=REUN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-KRNL <sup>[↗](https://www.tradingview.com/chart/?symbol=KRNL){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-MMP <sup>[↗](https://www.tradingview.com/chart/?symbol=MMP){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-AKBA <sup>[↗](https://www.tradingview.com/chart/?symbol=AKBA){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-PRSR <sup>[↗](https://www.tradingview.com/chart/?symbol=PRSR){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-SBTX <sup>[↗](https://www.tradingview.com/chart/?symbol=SBTX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CIK <sup>[↗](https://www.tradingview.com/chart/?symbol=CIK){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HMLP <sup>[↗](https://www.tradingview.com/chart/?symbol=HMLP){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-BFI <sup>[↗](https://www.tradingview.com/chart/?symbol=BFI){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-RPID <sup>[↗](https://www.tradingview.com/chart/?symbol=RPID){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-KIN <sup>[↗](https://www.tradingview.com/chart/?symbol=KIN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-XYF <sup>[↗](https://www.tradingview.com/chart/?symbol=XYF){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TRVG <sup>[↗](https://www.tradingview.com/chart/?symbol=TRVG){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-AWH <sup>[↗](https://www.tradingview.com/chart/?symbol=AWH){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CNTA <sup>[↗](https://www.tradingview.com/chart/?symbol=CNTA){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CION <sup>[↗](https://www.tradingview.com/chart/?symbol=CION){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HUDI <sup>[↗](https://www.tradingview.com/chart/?symbol=HUDI){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-IPOF <sup>[↗](https://www.tradingview.com/chart/?symbol=IPOF){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ATMR <sup>[↗](https://www.tradingview.com/chart/?symbol=ATMR){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HCHC <sup>[↗](https://www.tradingview.com/chart/?symbol=HCHC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-AFB <sup>[↗](https://www.tradingview.com/chart/?symbol=AFB){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-WIMI <sup>[↗](https://www.tradingview.com/chart/?symbol=WIMI){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-MSGM <sup>[↗](https://www.tradingview.com/chart/?symbol=MSGM){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-DDL <sup>[↗](https://www.tradingview.com/chart/?symbol=DDL){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-GOBI <sup>[↗](https://www.tradingview.com/chart/?symbol=GOBI){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-AVAN <sup>[↗](https://www.tradingview.com/chart/?symbol=AVAN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-GBT <sup>[↗](https://www.tradingview.com/chart/?symbol=GBT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CNST <sup>[↗](https://www.tradingview.com/chart/?symbol=CNST){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-DALS <sup>[↗](https://www.tradingview.com/chart/?symbol=DALS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-FTEK <sup>[↗](https://www.tradingview.com/chart/?symbol=FTEK){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HEPS <sup>[↗](https://www.tradingview.com/chart/?symbol=HEPS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-BSQR <sup>[↗](https://www.tradingview.com/chart/?symbol=BSQR){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-KKRS <sup>[↗](https://www.tradingview.com/chart/?symbol=KKRS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TENB <sup>[↗](https://www.tradingview.com/chart/?symbol=TENB){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-DTW <sup>[↗](https://www.tradingview.com/chart/?symbol=DTW){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-DRCT <sup>[↗](https://www.tradingview.com/chart/?symbol=DRCT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CEQP <sup>[↗](https://www.tradingview.com/chart/?symbol=CEQP){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-OTEC <sup>[↗](https://www.tradingview.com/chart/?symbol=OTEC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-LUCD <sup>[↗](https://www.tradingview.com/chart/?symbol=LUCD){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-COLI <sup>[↗](https://www.tradingview.com/chart/?symbol=COLI){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-EVTV <sup>[↗](https://www.tradingview.com/chart/?symbol=EVTV){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-PEO <sup>[↗](https://www.tradingview.com/chart/?symbol=PEO){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-VAXX <sup>[↗](https://www.tradingview.com/chart/?symbol=VAXX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HGTY <sup>[↗](https://www.tradingview.com/chart/?symbol=HGTY){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CTIB <sup>[↗](https://www.tradingview.com/chart/?symbol=CTIB){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ENVB <sup>[↗](https://www.tradingview.com/chart/?symbol=ENVB){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-DBVT <sup>[↗](https://www.tradingview.com/chart/?symbol=DBVT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ARCC <sup>[↗](https://www.tradingview.com/chart/?symbol=ARCC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ADAP <sup>[↗](https://www.tradingview.com/chart/?symbol=ADAP){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-PSAG <sup>[↗](https://www.tradingview.com/chart/?symbol=PSAG){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-GLPG <sup>[↗](https://www.tradingview.com/chart/?symbol=GLPG){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-KPRX <sup>[↗](https://www.tradingview.com/chart/?symbol=KPRX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-SY <sup>[↗](https://www.tradingview.com/chart/?symbol=SY){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ENOB <sup>[↗](https://www.tradingview.com/chart/?symbol=ENOB){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-AKYA <sup>[↗](https://www.tradingview.com/chart/?symbol=AKYA){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-AXDX <sup>[↗](https://www.tradingview.com/chart/?symbol=AXDX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ACXP <sup>[↗](https://www.tradingview.com/chart/?symbol=ACXP){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-SLGL <sup>[↗](https://www.tradingview.com/chart/?symbol=SLGL){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TLSA <sup>[↗](https://www.tradingview.com/chart/?symbol=TLSA){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CNFR <sup>[↗](https://www.tradingview.com/chart/?symbol=CNFR){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-RLX <sup>[↗](https://www.tradingview.com/chart/?symbol=RLX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CHMA <sup>[↗](https://www.tradingview.com/chart/?symbol=CHMA){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-APGN <sup>[↗](https://www.tradingview.com/chart/?symbol=APGN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CLAS <sup>[↗](https://www.tradingview.com/chart/?symbol=CLAS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-GRVY <sup>[↗](https://www.tradingview.com/chart/?symbol=GRVY){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-WDH <sup>[↗](https://www.tradingview.com/chart/?symbol=WDH){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ZEAL <sup>[↗](https://www.tradingview.com/chart/?symbol=ZEAL){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-STAR <sup>[↗](https://www.tradingview.com/chart/?symbol=STAR){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-OPT <sup>[↗](https://www.tradingview.com/chart/?symbol=OPT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-RONI <sup>[↗](https://www.tradingview.com/chart/?symbol=RONI){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ONE <sup>[↗](https://www.tradingview.com/chart/?symbol=ONE){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-DBD <sup>[↗](https://www.tradingview.com/chart/?symbol=DBD){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TETC <sup>[↗](https://www.tradingview.com/chart/?symbol=TETC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-SHFS <sup>[↗](https://www.tradingview.com/chart/?symbol=SHFS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-GASS <sup>[↗](https://www.tradingview.com/chart/?symbol=GASS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ESTA <sup>[↗](https://www.tradingview.com/chart/?symbol=ESTA){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-JUN <sup>[↗](https://www.tradingview.com/chart/?symbol=JUN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-SHIP <sup>[↗](https://www.tradingview.com/chart/?symbol=SHIP){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-TIL <sup>[↗](https://www.tradingview.com/chart/?symbol=TIL){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-JFIN <sup>[↗](https://www.tradingview.com/chart/?symbol=JFIN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-AINV <sup>[↗](https://www.tradingview.com/chart/?symbol=AINV){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-STBX <sup>[↗](https://www.tradingview.com/chart/?symbol=STBX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-DYAI <sup>[↗](https://www.tradingview.com/chart/?symbol=DYAI){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-SINO <sup>[↗](https://www.tradingview.com/chart/?symbol=SINO){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CLVS <sup>[↗](https://www.tradingview.com/chart/?symbol=CLVS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-SKYX <sup>[↗](https://www.tradingview.com/chart/?symbol=SKYX){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-CYCC <sup>[↗](https://www.tradingview.com/chart/?symbol=CYCC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-RAVN <sup>[↗](https://www.tradingview.com/chart/?symbol=RAVN){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HSTO <sup>[↗](https://www.tradingview.com/chart/?symbol=HSTO){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-INFO <sup>[↗](https://www.tradingview.com/chart/?symbol=INFO){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ARDC <sup>[↗](https://www.tradingview.com/chart/?symbol=ARDC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-WF <sup>[↗](https://www.tradingview.com/chart/?symbol=WF){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-KRON <sup>[↗](https://www.tradingview.com/chart/?symbol=KRON){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HCAQ <sup>[↗](https://www.tradingview.com/chart/?symbol=HCAQ){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-VSTM <sup>[↗](https://www.tradingview.com/chart/?symbol=VSTM){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-OTLY <sup>[↗](https://www.tradingview.com/chart/?symbol=OTLY){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-WGS <sup>[↗](https://www.tradingview.com/chart/?symbol=WGS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-AAQC <sup>[↗](https://www.tradingview.com/chart/?symbol=AAQC){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-ONCT <sup>[↗](https://www.tradingview.com/chart/?symbol=ONCT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-MTLS <sup>[↗](https://www.tradingview.com/chart/?symbol=MTLS){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-UZF <sup>[↗](https://www.tradingview.com/chart/?symbol=UZF){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-NIU <sup>[↗](https://www.tradingview.com/chart/?symbol=NIU){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-PHT <sup>[↗](https://www.tradingview.com/chart/?symbol=PHT){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-HQH <sup>[↗](https://www.tradingview.com/chart/?symbol=HQH){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
-AZUL <sup>[↗](https://www.tradingview.com/chart/?symbol=AZUL){:target='_blank' rel='noopener'}</sup> | 1039 | 1039 | 1039 | 1039 | 1039
+Stock | Size | Aggregated | Quality | Value | Momentum | LowVolatility
+----- | ---- | ---------- | ------- | ----- | -------- | -------------
+MRK <sup>[↗](https://www.tradingview.com/chart/?symbol=MRK){:target='_blank' rel='noopener'}</sup> | Large |  1  |  2  |  14  |  6  |  1
+CSCO <sup>[↗](https://www.tradingview.com/chart/?symbol=CSCO){:target='_blank' rel='noopener'}</sup> | Large |  2  |  3  |  5  |  186  |  20
+CMCSA <sup>[↗](https://www.tradingview.com/chart/?symbol=CMCSA){:target='_blank' rel='noopener'}</sup> | Large |  3  |  15  |  1  |  138  |  39
+BMY <sup>[↗](https://www.tradingview.com/chart/?symbol=BMY){:target='_blank' rel='noopener'}</sup> | Large |  4  |  16  |  15  |  257  |  4
+JNJ <sup>[↗](https://www.tradingview.com/chart/?symbol=JNJ){:target='_blank' rel='noopener'}</sup> | Large |  5  |  6  |  29  |  374  |  2
+GILD <sup>[↗](https://www.tradingview.com/chart/?symbol=GILD){:target='_blank' rel='noopener'}</sup> | Large |  6  |  7  |  19  |  60  |  40
+MSFT <sup>[↗](https://www.tradingview.com/chart/?symbol=MSFT){:target='_blank' rel='noopener'}</sup> | Large |  7  |  1  |  153  |  24  |  10
+CVX <sup>[↗](https://www.tradingview.com/chart/?symbol=CVX){:target='_blank' rel='noopener'}</sup> | Large |  8  |  39  |  62  |  15  |  7
+AMGN <sup>[↗](https://www.tradingview.com/chart/?symbol=AMGN){:target='_blank' rel='noopener'}</sup> | Large |  9  |  9  |  63  |  187  |  11
+MMM <sup>[↗](https://www.tradingview.com/chart/?symbol=MMM){:target='_blank' rel='noopener'}</sup> | Large |  10  |  4  |  48  |  375  |  51
+VZ <sup>[↗](https://www.tradingview.com/chart/?symbol=VZ){:target='_blank' rel='noopener'}</sup> | Large |  11  |  76  |  16  |  375  |  5
+MCD <sup>[↗](https://www.tradingview.com/chart/?symbol=MCD){:target='_blank' rel='noopener'}</sup> | Large |  12  |  28  |  115  |  25  |  8
+PFE <sup>[↗](https://www.tradingview.com/chart/?symbol=PFE){:target='_blank' rel='noopener'}</sup> | Large |  12  |  40  |  39  |  188  |  12
+RS <sup>[↗](https://www.tradingview.com/chart/?symbol=RS){:target='_blank' rel='noopener'}</sup> | Mid |  14  |  40  |  20  |  1  |  145
+CAH <sup>[↗](https://www.tradingview.com/chart/?symbol=CAH){:target='_blank' rel='noopener'}</sup> | Large |  15  |  49  |  20  |  3  |  72
+MO <sup>[↗](https://www.tradingview.com/chart/?symbol=MO){:target='_blank' rel='noopener'}</sup> | Large |  16  |  17  |  22  |  377  |  41
+WMT <sup>[↗](https://www.tradingview.com/chart/?symbol=WMT){:target='_blank' rel='noopener'}</sup> | Large |  16  |  29  |  49  |  189  |  13
+XOM <sup>[↗](https://www.tradingview.com/chart/?symbol=XOM){:target='_blank' rel='noopener'}</sup> | Large |  18  |  25  |  91  |  16  |  29
+PHM <sup>[↗](https://www.tradingview.com/chart/?symbol=PHM){:target='_blank' rel='noopener'}</sup> | Large |  18  |  118  |  2  |  16  |  240
+KR <sup>[↗](https://www.tradingview.com/chart/?symbol=KR){:target='_blank' rel='noopener'}</sup> | Large |  20  |  119  |  6  |  91  |  52
+MCK <sup>[↗](https://www.tradingview.com/chart/?symbol=MCK){:target='_blank' rel='noopener'}</sup> | Large |  21  |  60  |  64  |  61  |  21
+VLO <sup>[↗](https://www.tradingview.com/chart/?symbol=VLO){:target='_blank' rel='noopener'}</sup> | Large |  21  |  60  |  8  |  61  |  119
+DGX <sup>[↗](https://www.tradingview.com/chart/?symbol=DGX){:target='_blank' rel='noopener'}</sup> | Large |  23  |  120  |  8  |  139  |  30
+EXPD <sup>[↗](https://www.tradingview.com/chart/?symbol=EXPD){:target='_blank' rel='noopener'}</sup> | Large |  23  |  18  |  50  |  139  |  53
+BBY <sup>[↗](https://www.tradingview.com/chart/?symbol=BBY){:target='_blank' rel='noopener'}</sup> | Large |  25  |  11  |  30  |  141  |  182
+NUE <sup>[↗](https://www.tradingview.com/chart/?symbol=NUE){:target='_blank' rel='noopener'}</sup> | Large |  26  |  42  |  23  |  26  |  241
+ORCL <sup>[↗](https://www.tradingview.com/chart/?symbol=ORCL){:target='_blank' rel='noopener'}</sup> | Large |  26  |  93  |  80  |  7  |  42
+LEN <sup>[↗](https://www.tradingview.com/chart/?symbol=LEN){:target='_blank' rel='noopener'}</sup> | Large |  28  |  121  |  4  |  26  |  241
+ED <sup>[↗](https://www.tradingview.com/chart/?symbol=ED){:target='_blank' rel='noopener'}</sup> | Large |  28  |  150  |  72  |  39  |  9
+SNA <sup>[↗](https://www.tradingview.com/chart/?symbol=SNA){:target='_blank' rel='noopener'}</sup> | Large |  30  |  62  |  31  |  26  |  73
+TRV <sup>[↗](https://www.tradingview.com/chart/?symbol=TRV){:target='_blank' rel='noopener'}</sup> | Large |  31  |  122  |  51  |  142  |  22
+KO <sup>[↗](https://www.tradingview.com/chart/?symbol=KO){:target='_blank' rel='noopener'}</sup> | Large |  32  |  12  |  139  |  190  |  43
+STLD <sup>[↗](https://www.tradingview.com/chart/?symbol=STLD){:target='_blank' rel='noopener'}</sup> | Large |  33  |  63  |  40  |  18  |  243
+UPS <sup>[↗](https://www.tradingview.com/chart/?symbol=UPS){:target='_blank' rel='noopener'}</sup> | Large |  33  |  19  |  98  |  378  |  31
+LOW <sup>[↗](https://www.tradingview.com/chart/?symbol=LOW){:target='_blank' rel='noopener'}</sup> | Large |  35  |  13  |  92  |  143  |  146
+CF <sup>[↗](https://www.tradingview.com/chart/?symbol=CF){:target='_blank' rel='noopener'}</sup> | Large |  36  |  30  |  52  |  191  |  120
+ITW <sup>[↗](https://www.tradingview.com/chart/?symbol=ITW){:target='_blank' rel='noopener'}</sup> | Large |  36  |  10  |  194  |  29  |  54
+KMB <sup>[↗](https://www.tradingview.com/chart/?symbol=KMB){:target='_blank' rel='noopener'}</sup> | Large |  36  |  43  |  92  |  379  |  23
+JPM <sup>[↗](https://www.tradingview.com/chart/?symbol=JPM){:target='_blank' rel='noopener'}</sup> | Large |  39  |  123  |  24  |  63  |  91
+AFL <sup>[↗](https://www.tradingview.com/chart/?symbol=AFL){:target='_blank' rel='noopener'}</sup> | Large |  39  |  77  |  41  |  63  |  91
+SJM <sup>[↗](https://www.tradingview.com/chart/?symbol=SJM){:target='_blank' rel='noopener'}</sup> | Large |  41  |  215  |  32  |  92  |  14
+COP <sup>[↗](https://www.tradingview.com/chart/?symbol=COP){:target='_blank' rel='noopener'}</sup> | Large |  42  |  50  |  94  |  30  |  147
+K <sup>[↗](https://www.tradingview.com/chart/?symbol=K){:target='_blank' rel='noopener'}</sup> | Large |  43  |  124  |  81  |  144  |  24
+PEP <sup>[↗](https://www.tradingview.com/chart/?symbol=PEP){:target='_blank' rel='noopener'}</sup> | Large |  43  |  31  |  167  |  93  |  15
+BIIB <sup>[↗](https://www.tradingview.com/chart/?symbol=BIIB){:target='_blank' rel='noopener'}</sup> | Large |  45  |  78  |  25  |  40  |  244
+DHI <sup>[↗](https://www.tradingview.com/chart/?symbol=DHI){:target='_blank' rel='noopener'}</sup> | Large |  46  |  94  |  33  |  4  |  342
+LKQ <sup>[↗](https://www.tradingview.com/chart/?symbol=LKQ){:target='_blank' rel='noopener'}</sup> | Large |  47  |  78  |  25  |  40  |  147
+ADM <sup>[↗](https://www.tradingview.com/chart/?symbol=ADM){:target='_blank' rel='noopener'}</sup> | Large |  48  |  125  |  34  |  258  |  93
+RHI <sup>[↗](https://www.tradingview.com/chart/?symbol=RHI){:target='_blank' rel='noopener'}</sup> | Mid |  49  |  32  |  53  |  258  |  183
+LYB <sup>[↗](https://www.tradingview.com/chart/?symbol=LYB){:target='_blank' rel='noopener'}</sup> | Large |  50  |  80  |  27  |  145  |  183
+NTAP <sup>[↗](https://www.tradingview.com/chart/?symbol=NTAP){:target='_blank' rel='noopener'}</sup> | Large |  50  |  51  |  65  |  192  |  93
+BLDR <sup>[↗](https://www.tradingview.com/chart/?symbol=BLDR){:target='_blank' rel='noopener'}</sup> | Mid |  52  |  80  |  73  |  2  |  343
+GPC <sup>[↗](https://www.tradingview.com/chart/?symbol=GPC){:target='_blank' rel='noopener'}</sup> | Large |  52  |  80  |  116  |  42  |  32
+OC <sup>[↗](https://www.tradingview.com/chart/?symbol=OC){:target='_blank' rel='noopener'}</sup> | Mid |  54  |  125  |  7  |  65  |  343
+CL <sup>[↗](https://www.tradingview.com/chart/?symbol=CL){:target='_blank' rel='noopener'}</sup> | Large |  55  |  44  |  125  |  380  |  25
+JNPR <sup>[↗](https://www.tradingview.com/chart/?symbol=JNPR){:target='_blank' rel='noopener'}</sup> | Mid |  55  |  180  |  54  |  193  |  55
+CAG <sup>[↗](https://www.tradingview.com/chart/?symbol=CAG){:target='_blank' rel='noopener'}</sup> | Large |  55  |  556  |  11  |  193  |  63
+MMC <sup>[↗](https://www.tradingview.com/chart/?symbol=MMC){:target='_blank' rel='noopener'}</sup> | Large |  55  |  95  |  207  |  8  |  16
+MOS <sup>[↗](https://www.tradingview.com/chart/?symbol=MOS){:target='_blank' rel='noopener'}</sup> | Large |  59  |  64  |  35  |  94  |  345
+TSN <sup>[↗](https://www.tradingview.com/chart/?symbol=TSN){:target='_blank' rel='noopener'}</sup> | Large |  59  |  180  |  17  |  260  |  74
+MPC <sup>[↗](https://www.tradingview.com/chart/?symbol=MPC){:target='_blank' rel='noopener'}</sup> | Large |  59  |  83  |  99  |  19  |  121
+INTC <sup>[↗](https://www.tradingview.com/chart/?symbol=INTC){:target='_blank' rel='noopener'}</sup> | Large |  59  |  95  |  17  |  260  |  149
+ABC <sup>[↗](https://www.tradingview.com/chart/?symbol=ABC){:target='_blank' rel='noopener'}</sup> | Large |  59  |  127  |  110  |  66  |  33
+CB <sup>[↗](https://www.tradingview.com/chart/?symbol=CB){:target='_blank' rel='noopener'}</sup> | Large |  64  |  216  |  66  |  43  |  55
+FOXA <sup>[↗](https://www.tradingview.com/chart/?symbol=FOXA){:target='_blank' rel='noopener'}</sup> | Large |  64  |  216  |  3  |  260  |  185
+MDT <sup>[↗](https://www.tradingview.com/chart/?symbol=MDT){:target='_blank' rel='noopener'}</sup> | Large |  66  |  97  |  55  |  381  |  75
+AIG <sup>[↗](https://www.tradingview.com/chart/?symbol=AIG){:target='_blank' rel='noopener'}</sup> | Large |  66  |  151  |  10  |  195  |  346
+AAPL <sup>[↗](https://www.tradingview.com/chart/?symbol=AAPL){:target='_blank' rel='noopener'}</sup> | Large |  68  |  5  |  261  |  67  |  44
+HOLX <sup>[↗](https://www.tradingview.com/chart/?symbol=HOLX){:target='_blank' rel='noopener'}</sup> | Large |  68  |  84  |  111  |  95  |  44
+PRU <sup>[↗](https://www.tradingview.com/chart/?symbol=PRU){:target='_blank' rel='noopener'}</sup> | Large |  70  |  128  |  28  |  196  |  245
+UNP <sup>[↗](https://www.tradingview.com/chart/?symbol=UNP){:target='_blank' rel='noopener'}</sup> | Large |  70  |  33  |  82  |  382  |  150
+HUM <sup>[↗](https://www.tradingview.com/chart/?symbol=HUM){:target='_blank' rel='noopener'}</sup> | Large |  72  |  128  |  74  |  68  |  95
+PFG <sup>[↗](https://www.tradingview.com/chart/?symbol=PFG){:target='_blank' rel='noopener'}</sup> | Large |  73  |  52  |  95  |  69  |  246
+GOOGL <sup>[↗](https://www.tradingview.com/chart/?symbol=GOOGL){:target='_blank' rel='noopener'}</sup> | Large |  73  |  14  |  195  |  146  |  64
+TAP <sup>[↗](https://www.tradingview.com/chart/?symbol=TAP){:target='_blank' rel='noopener'}</sup> | Mid |  75  |  276  |  42  |  20  |  151
+TROW <sup>[↗](https://www.tradingview.com/chart/?symbol=TROW){:target='_blank' rel='noopener'}</sup> | Large |  76  |  26  |  100  |  383  |  247
+WSM <sup>[↗](https://www.tradingview.com/chart/?symbol=WSM){:target='_blank' rel='noopener'}</sup> | Mid |  77  |  53  |  75  |  263  |  247
+TEL <sup>[↗](https://www.tradingview.com/chart/?symbol=TEL){:target='_blank' rel='noopener'}</sup> | Large |  77  |  85  |  75  |  383  |  122
+REGN <sup>[↗](https://www.tradingview.com/chart/?symbol=REGN){:target='_blank' rel='noopener'}</sup> | Large |  79  |  53  |  154  |  70  |  76
+HPQ <sup>[↗](https://www.tradingview.com/chart/?symbol=HPQ){:target='_blank' rel='noopener'}</sup> | Large |  79  |  152  |  36  |  197  |  186
+COF <sup>[↗](https://www.tradingview.com/chart/?symbol=COF){:target='_blank' rel='noopener'}</sup> | Large |  79  |  277  |  12  |  96  |  347
+EA <sup>[↗](https://www.tradingview.com/chart/?symbol=EA){:target='_blank' rel='noopener'}</sup> | Large |  79  |  53  |  140  |  383  |  34
+WM <sup>[↗](https://www.tradingview.com/chart/?symbol=WM){:target='_blank' rel='noopener'}</sup> | Large |  83  |  130  |  179  |  147  |  6
+CMI <sup>[↗](https://www.tradingview.com/chart/?symbol=CMI){:target='_blank' rel='noopener'}</sup> | Large |  83  |  152  |  56  |  70  |  186
+WFC <sup>[↗](https://www.tradingview.com/chart/?symbol=WFC){:target='_blank' rel='noopener'}</sup> | Large |  85  |  98  |  43  |  264  |  348
+AKAM <sup>[↗](https://www.tradingview.com/chart/?symbol=AKAM){:target='_blank' rel='noopener'}</sup> | Large |  86  |  278  |  57  |  386  |  57
+LH <sup>[↗](https://www.tradingview.com/chart/?symbol=LH){:target='_blank' rel='noopener'}</sup> | Large |  87  |  154  |  43  |  264  |  123
+MET <sup>[↗](https://www.tradingview.com/chart/?symbol=MET){:target='_blank' rel='noopener'}</sup> | Large |  87  |  98  |  43  |  198  |  249
+RSG <sup>[↗](https://www.tradingview.com/chart/?symbol=RSG){:target='_blank' rel='noopener'}</sup> | Large |  89  |  182  |  155  |  198  |  3
+EVRG <sup>[↗](https://www.tradingview.com/chart/?symbol=EVRG){:target='_blank' rel='noopener'}</sup> | Large |  90  |  183  |  101  |  200  |  65
+CAT <sup>[↗](https://www.tradingview.com/chart/?symbol=CAT){:target='_blank' rel='noopener'}</sup> | Large |  90  |  65  |  112  |  72  |  349
+EMN <sup>[↗](https://www.tradingview.com/chart/?symbol=EMN){:target='_blank' rel='noopener'}</sup> | Mid |  90  |  183  |  37  |  387  |  188
+SWKS <sup>[↗](https://www.tradingview.com/chart/?symbol=SWKS){:target='_blank' rel='noopener'}</sup> | Large |  90  |  131  |  58  |  266  |  250
+GL <sup>[↗](https://www.tradingview.com/chart/?symbol=GL){:target='_blank' rel='noopener'}</sup> | Mid |  90  |  183  |  96  |  97  |  124
+BK <sup>[↗](https://www.tradingview.com/chart/?symbol=BK){:target='_blank' rel='noopener'}</sup> | Large |  95  |  65  |  67  |  266  |  349
+PSX <sup>[↗](https://www.tradingview.com/chart/?symbol=PSX){:target='_blank' rel='noopener'}</sup> | Large |  95  |  361  |  77  |  97  |  77
+GD <sup>[↗](https://www.tradingview.com/chart/?symbol=GD){:target='_blank' rel='noopener'}</sup> | Large |  95  |  155  |  126  |  148  |  46
+PSA <sup>[↗](https://www.tradingview.com/chart/?symbol=PSA){:target='_blank' rel='noopener'}</sup> | Large |  95  |  20  |  226  |  200  |  58
+C <sup>[↗](https://www.tradingview.com/chart/?symbol=C){:target='_blank' rel='noopener'}</sup> | Large |  95  |  361  |  13  |  200  |  250
+HCA <sup>[↗](https://www.tradingview.com/chart/?symbol=HCA){:target='_blank' rel='noopener'}</sup> | Large |  100  |  100  |  101  |  21  |  349
+HIG <sup>[↗](https://www.tradingview.com/chart/?symbol=HIG){:target='_blank' rel='noopener'}</sup> | Large |  100  |  183  |  37  |  266  |  152
+EMR <sup>[↗](https://www.tradingview.com/chart/?symbol=EMR){:target='_blank' rel='noopener'}</sup> | Large |  102  |  45  |  103  |  388  |  252
+EXC <sup>[↗](https://www.tradingview.com/chart/?symbol=EXC){:target='_blank' rel='noopener'}</sup> | Large |  103  |  187  |  83  |  149  |  125
+HII <sup>[↗](https://www.tradingview.com/chart/?symbol=HII){:target='_blank' rel='noopener'}</sup> | Mid |  104  |  218  |  83  |  99  |  96
+MRO <sup>[↗](https://www.tradingview.com/chart/?symbol=MRO){:target='_blank' rel='noopener'}</sup> | Large |  104  |  156  |  83  |  31  |  352
+LLY <sup>[↗](https://www.tradingview.com/chart/?symbol=LLY){:target='_blank' rel='noopener'}</sup> | Large |  104  |  34  |  347  |  9  |  47
+URI <sup>[↗](https://www.tradingview.com/chart/?symbol=URI){:target='_blank' rel='noopener'}</sup> | Large |  107  |  187  |  68  |  44  |  252
+ADI <sup>[↗](https://www.tradingview.com/chart/?symbol=ADI){:target='_blank' rel='noopener'}</sup> | Large |  108  |  157  |  168  |  32  |  97
+VRTX <sup>[↗](https://www.tradingview.com/chart/?symbol=VRTX){:target='_blank' rel='noopener'}</sup> | Large |  109  |  35  |  262  |  73  |  66
+EOG <sup>[↗](https://www.tradingview.com/chart/?symbol=EOG){:target='_blank' rel='noopener'}</sup> | Large |  109  |  86  |  117  |  73  |  254
+STT <sup>[↗](https://www.tradingview.com/chart/?symbol=STT){:target='_blank' rel='noopener'}</sup> | Large |  109  |  67  |  86  |  269  |  353
+ARW <sup>[↗](https://www.tradingview.com/chart/?symbol=ARW){:target='_blank' rel='noopener'}</sup> | Mid |  112  |  279  |  69  |  150  |  126
+PNW <sup>[↗](https://www.tradingview.com/chart/?symbol=PNW){:target='_blank' rel='noopener'}</sup> | Mid |  113  |  219  |  86  |  150  |  78
+BEN <sup>[↗](https://www.tradingview.com/chart/?symbol=BEN){:target='_blank' rel='noopener'}</sup> | Large |  114  |  280  |  46  |  270  |  255
+GS <sup>[↗](https://www.tradingview.com/chart/?symbol=GS){:target='_blank' rel='noopener'}</sup> | Large |  114  |  220  |  59  |  203  |  354
+AMAT <sup>[↗](https://www.tradingview.com/chart/?symbol=AMAT){:target='_blank' rel='noopener'}</sup> | Large |  114  |  21  |  196  |  100  |  354
+CMS <sup>[↗](https://www.tradingview.com/chart/?symbol=CMS){:target='_blank' rel='noopener'}</sup> | Large |  114  |  280  |  156  |  270  |  17
+RTX <sup>[↗](https://www.tradingview.com/chart/?symbol=RTX){:target='_blank' rel='noopener'}</sup> | Large |  114  |  363  |  104  |  152  |  79
+ATVI <sup>[↗](https://www.tradingview.com/chart/?symbol=ATVI){:target='_blank' rel='noopener'}</sup> | Large |  114  |  132  |  127  |  270  |  79
+NEM <sup>[↗](https://www.tradingview.com/chart/?symbol=NEM){:target='_blank' rel='noopener'}</sup> | Large |  114  |  158  |  118  |  270  |  79
+KNX <sup>[↗](https://www.tradingview.com/chart/?symbol=KNX){:target='_blank' rel='noopener'}</sup> | Mid |  121  |  363  |  70  |  75  |  255
+WEC <sup>[↗](https://www.tradingview.com/chart/?symbol=WEC){:target='_blank' rel='noopener'}</sup> | Large |  121  |  158  |  196  |  152  |  26
+CTRA <sup>[↗](https://www.tradingview.com/chart/?symbol=CTRA){:target='_blank' rel='noopener'}</sup> | Large |  121  |  68  |  156  |  152  |  127
+SO <sup>[↗](https://www.tradingview.com/chart/?symbol=SO){:target='_blank' rel='noopener'}</sup> | Large |  121  |  220  |  156  |  100  |  48
+UHS <sup>[↗](https://www.tradingview.com/chart/?symbol=UHS){:target='_blank' rel='noopener'}</sup> | Mid |  125  |  220  |  59  |  152  |  255
+NOC <sup>[↗](https://www.tradingview.com/chart/?symbol=NOC){:target='_blank' rel='noopener'}</sup> | Large |  125  |  220  |  127  |  100  |  59
+FAST <sup>[↗](https://www.tradingview.com/chart/?symbol=FAST){:target='_blank' rel='noopener'}</sup> | Large |  127  |  27  |  245  |  204  |  128
+TER <sup>[↗](https://www.tradingview.com/chart/?symbol=TER){:target='_blank' rel='noopener'}</sup> | Large |  127  |  22  |  198  |  204  |  356
+DKS <sup>[↗](https://www.tradingview.com/chart/?symbol=DKS){:target='_blank' rel='noopener'}</sup> | Mid |  129  |  224  |  105  |  76  |  258
+HON <sup>[↗](https://www.tradingview.com/chart/?symbol=HON){:target='_blank' rel='noopener'}</sup> | Large |  129  |  56  |  208  |  389  |  60
+HRL <sup>[↗](https://www.tradingview.com/chart/?symbol=HRL){:target='_blank' rel='noopener'}</sup> | Large |  129  |  282  |  129  |  389  |  35
+RF <sup>[↗](https://www.tradingview.com/chart/?symbol=RF){:target='_blank' rel='noopener'}</sup> | Large |  132  |  282  |  47  |  204  |  356
+VICI <sup>[↗](https://www.tradingview.com/chart/?symbol=VICI){:target='_blank' rel='noopener'}</sup> | Large |  133  |  365  |  129  |  10  |  98
+BAC <sup>[↗](https://www.tradingview.com/chart/?symbol=BAC){:target='_blank' rel='noopener'}</sup> | Large |  134  |  189  |  88  |  517  |  189
+TSCO <sup>[↗](https://www.tradingview.com/chart/?symbol=TSCO){:target='_blank' rel='noopener'}</sup> | Large |  134  |  87  |  246  |  156  |  67
+DVN <sup>[↗](https://www.tradingview.com/chart/?symbol=DVN){:target='_blank' rel='noopener'}</sup> | Large |  136  |  133  |  141  |  103  |  189
+TGT <sup>[↗](https://www.tradingview.com/chart/?symbol=TGT){:target='_blank' rel='noopener'}</sup> | Large |  136  |  87  |  141  |  274  |  153
+GLW <sup>[↗](https://www.tradingview.com/chart/?symbol=GLW){:target='_blank' rel='noopener'}</sup> | Large |  136  |  189  |  106  |  274  |  153
+BDX <sup>[↗](https://www.tradingview.com/chart/?symbol=BDX){:target='_blank' rel='noopener'}</sup> | Large |  136  |  366  |  131  |  391  |  36
+MS <sup>[↗](https://www.tradingview.com/chart/?symbol=MS){:target='_blank' rel='noopener'}</sup> | Large |  140  |  160  |  106  |  103  |  358
+PXD <sup>[↗](https://www.tradingview.com/chart/?symbol=PXD){:target='_blank' rel='noopener'}</sup> | Large |  140  |  69  |  159  |  207  |  153
+CLX <sup>[↗](https://www.tradingview.com/chart/?symbol=CLX){:target='_blank' rel='noopener'}</sup> | Large |  140  |  69  |  169  |  274  |  99
+KDP <sup>[↗](https://www.tradingview.com/chart/?symbol=KDP){:target='_blank' rel='noopener'}</sup> | Large |  143  |  367  |  119  |  392  |  68
+TT <sup>[↗](https://www.tradingview.com/chart/?symbol=TT){:target='_blank' rel='noopener'}</sup> | Large |  143  |  161  |  180  |  45  |  191
+GM <sup>[↗](https://www.tradingview.com/chart/?symbol=GM){:target='_blank' rel='noopener'}</sup> | Large |  145  |  367  |  61  |  277  |  359
+TMUS <sup>[↗](https://www.tradingview.com/chart/?symbol=TMUS){:target='_blank' rel='noopener'}</sup> | Large |  145  |  367  |  209  |  105  |  27
+WHR <sup>[↗](https://www.tradingview.com/chart/?symbol=WHR){:target='_blank' rel='noopener'}</sup> | Large |  145  |  191  |  97  |  392  |  191
+AAP <sup>[↗](https://www.tradingview.com/chart/?symbol=AAP){:target='_blank' rel='noopener'}</sup> | Mid |  145  |  225  |  78  |  392  |  259
+MU <sup>[↗](https://www.tradingview.com/chart/?symbol=MU){:target='_blank' rel='noopener'}</sup> | Large |  149  |  225  |  71  |  277  |  359
+ATO <sup>[↗](https://www.tradingview.com/chart/?symbol=ATO){:target='_blank' rel='noopener'}</sup> | Large |  149  |  367  |  119  |  105  |  100
+META <sup>[↗](https://www.tradingview.com/chart/?symbol=META){:target='_blank' rel='noopener'}</sup> | Large |  149  |  134  |  180  |  33  |  191
+AEP <sup>[↗](https://www.tradingview.com/chart/?symbol=AEP){:target='_blank' rel='noopener'}</sup> | Large |  152  |  284  |  180  |  208  |  18
+CSX <sup>[↗](https://www.tradingview.com/chart/?symbol=CSX){:target='_blank' rel='noopener'}</sup> | Large |  152  |  101  |  119  |  277  |  156
+TXT <sup>[↗](https://www.tradingview.com/chart/?symbol=TXT){:target='_blank' rel='noopener'}</sup> | Large |  152  |  225  |  89  |  157  |  259
+XEL <sup>[↗](https://www.tradingview.com/chart/?symbol=XEL){:target='_blank' rel='noopener'}</sup> | Large |  152  |  284  |  143  |  208  |  49
+ACGL <sup>[↗](https://www.tradingview.com/chart/?symbol=ACGL){:target='_blank' rel='noopener'}</sup> | Large |  156  |  284  |  170  |  11  |  100
+DUK <sup>[↗](https://www.tradingview.com/chart/?symbol=DUK){:target='_blank' rel='noopener'}</sup> | Large |  157  |  371  |  199  |  280  |  19
+CARR <sup>[↗](https://www.tradingview.com/chart/?symbol=CARR){:target='_blank' rel='noopener'}</sup> | Large |  157  |  192  |  113  |  210  |  261
+LDOS <sup>[↗](https://www.tradingview.com/chart/?symbol=LDOS){:target='_blank' rel='noopener'}</sup> | Large |  157  |  228  |  132  |  280  |  102
+TJX <sup>[↗](https://www.tradingview.com/chart/?symbol=TJX){:target='_blank' rel='noopener'}</sup> | Large |  157  |  89  |  298  |  34  |  102
+PGR <sup>[↗](https://www.tradingview.com/chart/?symbol=PGR){:target='_blank' rel='noopener'}</sup> | Large |  157  |  135  |  327  |  46  |  50
+LIN <sup>[↗](https://www.tradingview.com/chart/?symbol=LIN){:target='_blank' rel='noopener'}</sup> | Large |  157  |  162  |  247  |  107  |  61
+SRE <sup>[↗](https://www.tradingview.com/chart/?symbol=SRE){:target='_blank' rel='noopener'}</sup> | Large |  163  |  557  |  132  |  46  |  129
+IVZ <sup>[↗](https://www.tradingview.com/chart/?symbol=IVZ){:target='_blank' rel='noopener'}</sup> | Mid |  163  |  287  |  79  |  280  |  261
+WY <sup>[↗](https://www.tradingview.com/chart/?symbol=WY){:target='_blank' rel='noopener'}</sup> | Large |  165  |  71  |  171  |  210  |  157
+WMB <sup>[↗](https://www.tradingview.com/chart/?symbol=WMB){:target='_blank' rel='noopener'}</sup> | Large |  166  |  372  |  144  |  283  |  82
+NWSA <sup>[↗](https://www.tradingview.com/chart/?symbol=NWSA){:target='_blank' rel='noopener'}</sup> | Mid |  166  |  229  |  108  |  395  |  263
+NSC <sup>[↗](https://www.tradingview.com/chart/?symbol=NSC){:target='_blank' rel='noopener'}</sup> | Large |  168  |  102  |  134  |  395  |  263
+FNF <sup>[↗](https://www.tradingview.com/chart/?symbol=FNF){:target='_blank' rel='noopener'}</sup> | Mid |  168  |  102  |  122  |  518  |  263
+FANG <sup>[↗](https://www.tradingview.com/chart/?symbol=FANG){:target='_blank' rel='noopener'}</sup> | Large |  168  |  288  |  134  |  77  |  263
+ES <sup>[↗](https://www.tradingview.com/chart/?symbol=ES){:target='_blank' rel='noopener'}</sup> | Large |  168  |  372  |  183  |  283  |  37
+CTVA <sup>[↗](https://www.tradingview.com/chart/?symbol=CTVA){:target='_blank' rel='noopener'}</sup> | Large |  172  |  288  |  183  |  35  |  130
+AOS <sup>[↗](https://www.tradingview.com/chart/?symbol=AOS){:target='_blank' rel='noopener'}</sup> | Mid |  173  |  163  |  172  |  158  |  267
+BLK <sup>[↗](https://www.tradingview.com/chart/?symbol=BLK){:target='_blank' rel='noopener'}</sup> | Large |  173  |  57  |  227  |  285  |  194
+KEYS <sup>[↗](https://www.tradingview.com/chart/?symbol=KEYS){:target='_blank' rel='noopener'}</sup> | Large |  173  |  104  |  263  |  212  |  83
+SPG <sup>[↗](https://www.tradingview.com/chart/?symbol=SPG){:target='_blank' rel='noopener'}</sup> | Large |  176  |  136  |  145  |  285  |  267
+QCOM <sup>[↗](https://www.tradingview.com/chart/?symbol=QCOM){:target='_blank' rel='noopener'}</sup> | Large |  176  |  46  |  200  |  397  |  267
+BYD <sup>[↗](https://www.tradingview.com/chart/?symbol=BYD){:target='_blank' rel='noopener'}</sup> | Mid |  176  |  163  |  160  |  158  |  267
+JKHY <sup>[↗](https://www.tradingview.com/chart/?symbol=JKHY){:target='_blank' rel='noopener'}</sup> | Mid |  176  |  72  |  328  |  397  |  38
+AIZ <sup>[↗](https://www.tradingview.com/chart/?symbol=AIZ){:target='_blank' rel='noopener'}</sup> | Mid |  176  |  230  |  145  |  397  |  104
+F <sup>[↗](https://www.tradingview.com/chart/?symbol=F){:target='_blank' rel='noopener'}</sup> | Large |  181  |  374  |  90  |  212  |  361
+UGI <sup>[↗](https://www.tradingview.com/chart/?symbol=UGI){:target='_blank' rel='noopener'}</sup> | Mid |  181  |  163  |  145  |  285  |  158
+NEE <sup>[↗](https://www.tradingview.com/chart/?symbol=NEE){:target='_blank' rel='noopener'}</sup> | Large |  183  |  290  |  210  |  160  |  84
+HUBB <sup>[↗](https://www.tradingview.com/chart/?symbol=HUBB){:target='_blank' rel='noopener'}</sup> | Mid |  183  |  193  |  228  |  48  |  195
+MA <sup>[↗](https://www.tradingview.com/chart/?symbol=MA){:target='_blank' rel='noopener'}</sup> | Large |  185  |  8  |  551  |  108  |  69
+EHC <sup>[↗](https://www.tradingview.com/chart/?symbol=EHC){:target='_blank' rel='noopener'}</sup> | Mid |  185  |  231  |  173  |  108  |  195
+LRCX <sup>[↗](https://www.tradingview.com/chart/?symbol=LRCX){:target='_blank' rel='noopener'}</sup> | Large |  185  |  23  |  273  |  214  |  362
+ODFL <sup>[↗](https://www.tradingview.com/chart/?symbol=ODFL){:target='_blank' rel='noopener'}</sup> | Large |  185  |  23  |  415  |  108  |  131
+CASY <sup>[↗](https://www.tradingview.com/chart/?symbol=CASY){:target='_blank' rel='noopener'}</sup> | Mid |  185  |  231  |  210  |  78  |  131
+DRI <sup>[↗](https://www.tradingview.com/chart/?symbol=DRI){:target='_blank' rel='noopener'}</sup> | Large |  190  |  137  |  185  |  108  |  271
+MTB <sup>[↗](https://www.tradingview.com/chart/?symbol=MTB){:target='_blank' rel='noopener'}</sup> | Large |  191  |  375  |  114  |  400  |  272
+APD <sup>[↗](https://www.tradingview.com/chart/?symbol=APD){:target='_blank' rel='noopener'}</sup> | Large |  191  |  375  |  248  |  79  |  85
+SBUX <sup>[↗](https://www.tradingview.com/chart/?symbol=SBUX){:target='_blank' rel='noopener'}</sup> | Large |  193  |  73  |  329  |  112  |  133
+VRSN <sup>[↗](https://www.tradingview.com/chart/?symbol=VRSN){:target='_blank' rel='noopener'}</sup> | Large |  193  |  233  |  299  |  79  |  62
+ROP <sup>[↗](https://www.tradingview.com/chart/?symbol=ROP){:target='_blank' rel='noopener'}</sup> | Large |  193  |  138  |  348  |  288  |  28
+QRVO <sup>[↗](https://www.tradingview.com/chart/?symbol=QRVO){:target='_blank' rel='noopener'}</sup> | Large |  193  |  233  |  123  |  400  |  272
+IRM <sup>[↗](https://www.tradingview.com/chart/?symbol=IRM){:target='_blank' rel='noopener'}</sup> | Large |  193  |  166  |  212  |  112  |  197
+COST <sup>[↗](https://www.tradingview.com/chart/?symbol=COST){:target='_blank' rel='noopener'}</sup> | Large |  198  |  36  |  438  |  112  |  70
+CRM <sup>[↗](https://www.tradingview.com/chart/?symbol=CRM){:target='_blank' rel='noopener'}</sup> | Large |  199  |  105  |  264  |  161  |  198
+MSM <sup>[↗](https://www.tradingview.com/chart/?symbol=MSM){:target='_blank' rel='noopener'}</sup> | Mid |  199  |  235  |  161  |  402  |  198
+JCI <sup>[↗](https://www.tradingview.com/chart/?symbol=JCI){:target='_blank' rel='noopener'}</sup> | Large |  199  |  558  |  124  |  402  |  198
+TFC <sup>[↗](https://www.tradingview.com/chart/?symbol=TFC){:target='_blank' rel='noopener'}</sup> | Large |  199  |  558  |  109  |  402  |  363
+ULTA <sup>[↗](https://www.tradingview.com/chart/?symbol=ULTA){:target='_blank' rel='noopener'}</sup> | Large |  203  |  47  |  439  |  49  |  134
+PH <sup>[↗](https://www.tradingview.com/chart/?symbol=PH){:target='_blank' rel='noopener'}</sup> | Large |  203  |  235  |  148  |  215  |  363
+ON <sup>[↗](https://www.tradingview.com/chart/?symbol=ON){:target='_blank' rel='noopener'}</sup> | Large |  203  |  139  |  249  |  49  |  363
+AMP <sup>[↗](https://www.tradingview.com/chart/?symbol=AMP){:target='_blank' rel='noopener'}</sup> | Large |  206  |  48  |  300  |  216  |  366
+NKE <sup>[↗](https://www.tradingview.com/chart/?symbol=NKE){:target='_blank' rel='noopener'}</sup> | Large |  206  |  74  |  300  |  289  |  159
+AES <sup>[↗](https://www.tradingview.com/chart/?symbol=AES){:target='_blank' rel='noopener'}</sup> | Large |  206  |  291  |  201  |  162  |  201
+MCO <sup>[↗](https://www.tradingview.com/chart/?symbol=MCO){:target='_blank' rel='noopener'}</sup> | Large |  206  |  37  |  349  |  289  |  201
+WSO <sup>[↗](https://www.tradingview.com/chart/?symbol=WSO){:target='_blank' rel='noopener'}</sup> | Mid |  210  |  106  |  265  |  81  |  366
+GEN <sup>[↗](https://www.tradingview.com/chart/?symbol=GEN){:target='_blank' rel='noopener'}</sup> | Large |  210  |  194  |  213  |  519  |  86
+ETN <sup>[↗](https://www.tradingview.com/chart/?symbol=ETN){:target='_blank' rel='noopener'}</sup> | Large |  210  |  291  |  186  |  162  |  201
+ALLY <sup>[↗](https://www.tradingview.com/chart/?symbol=ALLY){:target='_blank' rel='noopener'}</sup> | Mid |  210  |  167  |  136  |  519  |  554
+KIM <sup>[↗](https://www.tradingview.com/chart/?symbol=KIM){:target='_blank' rel='noopener'}</sup> | Mid |  214  |  237  |  149  |  289  |  274
+AXP <sup>[↗](https://www.tradingview.com/chart/?symbol=AXP){:target='_blank' rel='noopener'}</sup> | Large |  214  |  167  |  186  |  216  |  274
+PDCE <sup>[↗](https://www.tradingview.com/chart/?symbol=PDCE){:target='_blank' rel='noopener'}</sup> | Mid |  214  |  167  |  162  |  216  |  554
+MKC <sup>[↗](https://www.tradingview.com/chart/?symbol=MKC){:target='_blank' rel='noopener'}</sup> | Large |  217  |  377  |  188  |  405  |  135
+MAA <sup>[↗](https://www.tradingview.com/chart/?symbol=MAA){:target='_blank' rel='noopener'}</sup> | Large |  217  |  140  |  274  |  405  |  105
+AMZN <sup>[↗](https://www.tradingview.com/chart/?symbol=AMZN){:target='_blank' rel='noopener'}</sup> | Large |  217  |  90  |  350  |  292  |  105
+FTV <sup>[↗](https://www.tradingview.com/chart/?symbol=FTV){:target='_blank' rel='noopener'}</sup> | Large |  217  |  377  |  174  |  405  |  160
+BAX <sup>[↗](https://www.tradingview.com/chart/?symbol=BAX){:target='_blank' rel='noopener'}</sup> | Large |  217  |  377  |  174  |  405  |  160
+AVB <sup>[↗](https://www.tradingview.com/chart/?symbol=AVB){:target='_blank' rel='noopener'}</sup> | Large |  217  |  238  |  202  |  405  |  160
+ZBH <sup>[↗](https://www.tradingview.com/chart/?symbol=ZBH){:target='_blank' rel='noopener'}</sup> | Large |  217  |  293  |  202  |  292  |  160
+BBWI <sup>[↗](https://www.tradingview.com/chart/?symbol=BBWI){:target='_blank' rel='noopener'}</sup> | Mid |  217  |  195  |  174  |  405  |  368
+LEA <sup>[↗](https://www.tradingview.com/chart/?symbol=LEA){:target='_blank' rel='noopener'}</sup> | Mid |  217  |  293  |  150  |  405  |  368
+PRI <sup>[↗](https://www.tradingview.com/chart/?symbol=PRI){:target='_blank' rel='noopener'}</sup> | Mid |  217  |  195  |  229  |  115  |  368
+IFF <sup>[↗](https://www.tradingview.com/chart/?symbol=IFF){:target='_blank' rel='noopener'}</sup> | Large |  217  |  238  |  174  |  405  |  276
+SCHW <sup>[↗](https://www.tradingview.com/chart/?symbol=SCHW){:target='_blank' rel='noopener'}</sup> | Large |  217  |  140  |  229  |  292  |  276
+AWK <sup>[↗](https://www.tradingview.com/chart/?symbol=AWK){:target='_blank' rel='noopener'}</sup> | Large |  229  |  377  |  214  |  164  |  135
+SWK <sup>[↗](https://www.tradingview.com/chart/?symbol=SWK){:target='_blank' rel='noopener'}</sup> | Large |  229  |  238  |  150  |  405  |  368
+ROST <sup>[↗](https://www.tradingview.com/chart/?symbol=ROST){:target='_blank' rel='noopener'}</sup> | Large |  229  |  107  |  229  |  219  |  368
+WAB <sup>[↗](https://www.tradingview.com/chart/?symbol=WAB){:target='_blank' rel='noopener'}</sup> | Large |  232  |  560  |  163  |  115  |  204
+DHR <sup>[↗](https://www.tradingview.com/chart/?symbol=DHR){:target='_blank' rel='noopener'}</sup> | Large |  233  |  197  |  275  |  295  |  107
+FITB <sup>[↗](https://www.tradingview.com/chart/?symbol=FITB){:target='_blank' rel='noopener'}</sup> | Large |  233  |  561  |  137  |  414  |  373
+PNC <sup>[↗](https://www.tradingview.com/chart/?symbol=PNC){:target='_blank' rel='noopener'}</sup> | Large |  233  |  381  |  152  |  414  |  373
+BXP <sup>[↗](https://www.tradingview.com/chart/?symbol=BXP){:target='_blank' rel='noopener'}</sup> | Mid |  236  |  381  |  137  |  521  |  278
+SF <sup>[↗](https://www.tradingview.com/chart/?symbol=SF){:target='_blank' rel='noopener'}</sup> | Mid |  236  |  295  |  164  |  295  |  373
+DLB <sup>[↗](https://www.tradingview.com/chart/?symbol=DLB){:target='_blank' rel='noopener'}</sup> | Mid |  238  |  58  |  370  |  295  |  107
+FI <sup>[↗](https://www.tradingview.com/chart/?symbol=FI){:target='_blank' rel='noopener'}</sup> | Large |  239  |  296  |  351  |  82  |  109
+SPGI <sup>[↗](https://www.tradingview.com/chart/?symbol=SPGI){:target='_blank' rel='noopener'}</sup> | Large |  239  |  75  |  351  |  416  |  164
+INCY <sup>[↗](https://www.tradingview.com/chart/?symbol=INCY){:target='_blank' rel='noopener'}</sup> | Large |  239  |  142  |  391  |  298  |  71
+GGG <sup>[↗](https://www.tradingview.com/chart/?symbol=GGG){:target='_blank' rel='noopener'}</sup> | Mid |  239  |  142  |  351  |  117  |  205
+FICO <sup>[↗](https://www.tradingview.com/chart/?symbol=FICO){:target='_blank' rel='noopener'}</sup> | Large |  239  |  142  |  351  |  51  |  376
+ATR <sup>[↗](https://www.tradingview.com/chart/?symbol=ATR){:target='_blank' rel='noopener'}</sup> | Mid |  244  |  296  |  232  |  416  |  109
+IT <sup>[↗](https://www.tradingview.com/chart/?symbol=IT){:target='_blank' rel='noopener'}</sup> | Large |  244  |  91  |  416  |  117  |  137
+ESS <sup>[↗](https://www.tradingview.com/chart/?symbol=ESS){:target='_blank' rel='noopener'}</sup> | Large |  246  |  198  |  232  |  416  |  137
+NVDA <sup>[↗](https://www.tradingview.com/chart/?symbol=NVDA){:target='_blank' rel='noopener'}</sup> | Large |  246  |  38  |  552  |  12  |  205
+SEIC <sup>[↗](https://www.tradingview.com/chart/?symbol=SEIC){:target='_blank' rel='noopener'}</sup> | Mid |  248  |  145  |  302  |  299  |  207
+NYT <sup>[↗](https://www.tradingview.com/chart/?symbol=NYT){:target='_blank' rel='noopener'}</sup> | Mid |  248  |  145  |  250  |  419  |  377
+KMX <sup>[↗](https://www.tradingview.com/chart/?symbol=KMX){:target='_blank' rel='noopener'}</sup> | Mid |  248  |  562  |  165  |  419  |  377
+SNV <sup>[↗](https://www.tradingview.com/chart/?symbol=SNV){:target='_blank' rel='noopener'}</sup> | Mid |  248  |  562  |  165  |  419  |  377
+SLB <sup>[↗](https://www.tradingview.com/chart/?symbol=SLB){:target='_blank' rel='noopener'}</sup> | Large |  248  |  562  |  215  |  119  |  377
+FBIN <sup>[↗](https://www.tradingview.com/chart/?symbol=FBIN){:target='_blank' rel='noopener'}</sup> | Mid |  248  |  199  |  215  |  419  |  377
+FCX <sup>[↗](https://www.tradingview.com/chart/?symbol=FCX){:target='_blank' rel='noopener'}</sup> | Large |  248  |  199  |  250  |  220  |  377
+BKNG <sup>[↗](https://www.tradingview.com/chart/?symbol=BKNG){:target='_blank' rel='noopener'}</sup> | Large |  248  |  108  |  355  |  119  |  377
+CCI <sup>[↗](https://www.tradingview.com/chart/?symbol=CCI){:target='_blank' rel='noopener'}</sup> | Large |  248  |  298  |  276  |  299  |  111
+EQH <sup>[↗](https://www.tradingview.com/chart/?symbol=EQH){:target='_blank' rel='noopener'}</sup> | Mid |  248  |  199  |  189  |  522  |  556
+LW <sup>[↗](https://www.tradingview.com/chart/?symbol=LW){:target='_blank' rel='noopener'}</sup> | Mid |  258  |  241  |  417  |  22  |  139
+SLGN <sup>[↗](https://www.tradingview.com/chart/?symbol=SLGN){:target='_blank' rel='noopener'}</sup> | Mid |  258  |  562  |  266  |  165  |  111
+GPI <sup>[↗](https://www.tradingview.com/chart/?symbol=GPI){:target='_blank' rel='noopener'}</sup> | Small |  260  |  383  |  189  |  165  |  377
+SANM <sup>[↗](https://www.tradingview.com/chart/?symbol=SANM){:target='_blank' rel='noopener'}</sup> | Small |  260  |  383  |  189  |  165  |  377
+TMO <sup>[↗](https://www.tradingview.com/chart/?symbol=TMO){:target='_blank' rel='noopener'}</sup> | Large |  262  |  170  |  418  |  168  |  113
+ZTS <sup>[↗](https://www.tradingview.com/chart/?symbol=ZTS){:target='_blank' rel='noopener'}</sup> | Large |  262  |  59  |  459  |  423  |  113
+HE <sup>[↗](https://www.tradingview.com/chart/?symbol=HE){:target='_blank' rel='noopener'}</sup> | Mid |  262  |  385  |  252  |  423  |  140
+DIS <sup>[↗](https://www.tradingview.com/chart/?symbol=DIS){:target='_blank' rel='noopener'}</sup> | Large |  262  |  385  |  192  |  423  |  386
+IEX <sup>[↗](https://www.tradingview.com/chart/?symbol=IEX){:target='_blank' rel='noopener'}</sup> | Large |  262  |  242  |  330  |  423  |  87
+BSX <sup>[↗](https://www.tradingview.com/chart/?symbol=BSX){:target='_blank' rel='noopener'}</sup> | Large |  262  |  566  |  356  |  121  |  87
+ACI <sup>[↗](https://www.tradingview.com/chart/?symbol=ACI){:target='_blank' rel='noopener'}</sup> | Mid |  262  |  242  |  234  |  523  |  208
+CPT <sup>[↗](https://www.tradingview.com/chart/?symbol=CPT){:target='_blank' rel='noopener'}</sup> | |  262  |  202  |  267  |  423  |  208
+O <sup>[↗](https://www.tradingview.com/chart/?symbol=O){:target='_blank' rel='noopener'}</sup> | Large |  270  |  299  |  303  |  221  |  113
+ASIX <sup>[↗](https://www.tradingview.com/chart/?symbol=ASIX){:target='_blank' rel='noopener'}</sup> | Small |  270  |  242  |  204  |  301  |  557
+ASH <sup>[↗](https://www.tradingview.com/chart/?symbol=ASH){:target='_blank' rel='noopener'}</sup> | Mid |  272  |  299  |  277  |  168  |  140
+SIG <sup>[↗](https://www.tradingview.com/chart/?symbol=SIG){:target='_blank' rel='noopener'}</sup> | Small |  272  |  299  |  178  |  301  |  557
+NNN <sup>[↗](https://www.tradingview.com/chart/?symbol=NNN){:target='_blank' rel='noopener'}</sup> | Mid |  272  |  242  |  217  |  301  |  279
+PWR <sup>[↗](https://www.tradingview.com/chart/?symbol=PWR){:target='_blank' rel='noopener'}</sup> | Large |  272  |  299  |  356  |  13  |  279
+TGNA <sup>[↗](https://www.tradingview.com/chart/?symbol=TGNA){:target='_blank' rel='noopener'}</sup> | Small |  276  |  171  |  278  |  524  |  210
+WST <sup>[↗](https://www.tradingview.com/chart/?symbol=WST){:target='_blank' rel='noopener'}</sup> | Large |  276  |  147  |  392  |  170  |  210
+FHN <sup>[↗](https://www.tradingview.com/chart/?symbol=FHN){:target='_blank' rel='noopener'}</sup> | Mid |  276  |  387  |  218  |  428  |  281
+EXPE <sup>[↗](https://www.tradingview.com/chart/?symbol=EXPE){:target='_blank' rel='noopener'}</sup> | Large |  276  |  246  |  253  |  428  |  281
+IDXX <sup>[↗](https://www.tradingview.com/chart/?symbol=IDXX){:target='_blank' rel='noopener'}</sup> | Large |  276  |  147  |  419  |  83  |  281
+CFR <sup>[↗](https://www.tradingview.com/chart/?symbol=CFR){:target='_blank' rel='noopener'}</sup> | Mid |  276  |  303  |  235  |  304  |  387
+GPN <sup>[↗](https://www.tradingview.com/chart/?symbol=GPN){:target='_blank' rel='noopener'}</sup> | Large |  276  |  567  |  193  |  428  |  387
+BA <sup>[↗](https://www.tradingview.com/chart/?symbol=BA){:target='_blank' rel='noopener'}</sup> | Large |  276  |  246  |  304  |  122  |  387
+PNR <sup>[↗](https://www.tradingview.com/chart/?symbol=PNR){:target='_blank' rel='noopener'}</sup> | Mid |  276  |  567  |  205  |  304  |  387
+CCL <sup>[↗](https://www.tradingview.com/chart/?symbol=CCL){:target='_blank' rel='noopener'}</sup> | Mid |  276  |  387  |  235  |  222  |  387
+MANH <sup>[↗](https://www.tradingview.com/chart/?symbol=MANH){:target='_blank' rel='noopener'}</sup> | Mid |  276  |  109  |  371  |  170  |  387
+AZPN <sup>[↗](https://www.tradingview.com/chart/?symbol=AZPN){:target='_blank' rel='noopener'}</sup> | Mid |  287  |  303  |  253  |  222  |  281
+FSLR <sup>[↗](https://www.tradingview.com/chart/?symbol=FSLR){:target='_blank' rel='noopener'}</sup> | Large |  287  |  387  |  331  |  36  |  281
+DECK <sup>[↗](https://www.tradingview.com/chart/?symbol=DECK){:target='_blank' rel='noopener'}</sup> | Mid |  287  |  109  |  502  |  5  |  387
+AEL <sup>[↗](https://www.tradingview.com/chart/?symbol=AEL){:target='_blank' rel='noopener'}</sup> | Small |  290  |  203  |  218  |  304  |  559
+VST <sup>[↗](https://www.tradingview.com/chart/?symbol=VST){:target='_blank' rel='noopener'}</sup> | Mid |  290  |  303  |  253  |  83  |  559
+MTH <sup>[↗](https://www.tradingview.com/chart/?symbol=MTH){:target='_blank' rel='noopener'}</sup> | Small |  290  |  567  |  218  |  122  |  387
+ANSS <sup>[↗](https://www.tradingview.com/chart/?symbol=ANSS){:target='_blank' rel='noopener'}</sup> | Large |  293  |  306  |  372  |  85  |  212
+ARE <sup>[↗](https://www.tradingview.com/chart/?symbol=ARE){:target='_blank' rel='noopener'}</sup> | Large |  293  |  570  |  237  |  431  |  212
+IR <sup>[↗](https://www.tradingview.com/chart/?symbol=IR){:target='_blank' rel='noopener'}</sup> | Large |  293  |  570  |  221  |  307  |  395
+CPRT <sup>[↗](https://www.tradingview.com/chart/?symbol=CPRT){:target='_blank' rel='noopener'}</sup> | Large |  296  |  204  |  480  |  14  |  212
+STX <sup>[↗](https://www.tradingview.com/chart/?symbol=STX){:target='_blank' rel='noopener'}</sup> | Large |  296  |  248  |  221  |  525  |  395
+PFGC <sup>[↗](https://www.tradingview.com/chart/?symbol=PFGC){:target='_blank' rel='noopener'}</sup> | Mid |  296  |  570  |  237  |  124  |  561
+SXC <sup>[↗](https://www.tradingview.com/chart/?symbol=SXC){:target='_blank' rel='noopener'}</sup> | Small |  296  |  306  |  268  |  224  |  286
+PRDO <sup>[↗](https://www.tradingview.com/chart/?symbol=PRDO){:target='_blank' rel='noopener'}</sup> | Small |  296  |  390  |  237  |  307  |  286
+CCS <sup>[↗](https://www.tradingview.com/chart/?symbol=CCS){:target='_blank' rel='noopener'}</sup> | Small |  301  |  390  |  221  |  172  |  561
+GOOG <sup>[↗](https://www.tradingview.com/chart/?symbol=GOOG){:target='_blank' rel='noopener'}</sup> | Large |  301  |  111  |  420  |  307  |  116
+HUBG <sup>[↗](https://www.tradingview.com/chart/?symbol=HUBG){:target='_blank' rel='noopener'}</sup> | Small |  301  |  390  |  221  |  307  |  286
+PCG <sup>[↗](https://www.tradingview.com/chart/?symbol=PCG){:target='_blank' rel='noopener'}</sup> | Large |  304  |  570  |  305  |  37  |  212
+BHF <sup>[↗](https://www.tradingview.com/chart/?symbol=BHF){:target='_blank' rel='noopener'}</sup> | Mid |  305  |  393  |  240  |  311  |  563
+WBS <sup>[↗](https://www.tradingview.com/chart/?symbol=WBS){:target='_blank' rel='noopener'}</sup> | Mid |  305  |  574  |  206  |  432  |  563
+MKTX <sup>[↗](https://www.tradingview.com/chart/?symbol=MKTX){:target='_blank' rel='noopener'}</sup> | Large |  305  |  112  |  460  |  225  |  165
+SSNC <sup>[↗](https://www.tradingview.com/chart/?symbol=SSNC){:target='_blank' rel='noopener'}</sup> | Mid |  305  |  574  |  256  |  526  |  165
+CCK <sup>[↗](https://www.tradingview.com/chart/?symbol=CCK){:target='_blank' rel='noopener'}</sup> | Mid |  305  |  393  |  240  |  432  |  397
+FCNCA <sup>[↗](https://www.tradingview.com/chart/?symbol=FCNCA){:target='_blank' rel='noopener'}</sup> | Mid |  310  |  308  |  306  |  86  |  563
+SNPS <sup>[↗](https://www.tradingview.com/chart/?symbol=SNPS){:target='_blank' rel='noopener'}</sup> | Large |  310  |  249  |  481  |  23  |  165
+BAH <sup>[↗](https://www.tradingview.com/chart/?symbol=BAH){:target='_blank' rel='noopener'}</sup> | Mid |  310  |  205  |  421  |  311  |  89
+MNST <sup>[↗](https://www.tradingview.com/chart/?symbol=MNST){:target='_blank' rel='noopener'}</sup> | Large |  310  |  205  |  527  |  38  |  117
+SKX <sup>[↗](https://www.tradingview.com/chart/?symbol=SKX){:target='_blank' rel='noopener'}</sup> | Mid |  310  |  393  |  269  |  225  |  289
+GEF <sup>[↗](https://www.tradingview.com/chart/?symbol=GEF){:target='_blank' rel='noopener'}</sup> | Mid |  315  |  393  |  225  |  225  |  563
+DLTR <sup>[↗](https://www.tradingview.com/chart/?symbol=DLTR){:target='_blank' rel='noopener'}</sup> | Large |  316  |  308  |  256  |  173  |  397
+MPWR <sup>[↗](https://www.tradingview.com/chart/?symbol=MPWR){:target='_blank' rel='noopener'}</sup> | Large |  317  |  172  |  461  |  52  |  399
+ANET <sup>[↗](https://www.tradingview.com/chart/?symbol=ANET){:target='_blank' rel='noopener'}</sup> | Large |  317  |  207  |  440  |  52  |  399
+VAC <sup>[↗](https://www.tradingview.com/chart/?symbol=VAC){:target='_blank' rel='noopener'}</sup> | Mid |  317  |  397  |  258  |  434  |  399
+LVS <sup>[↗](https://www.tradingview.com/chart/?symbol=LVS){:target='_blank' rel='noopener'}</sup> | Large |  317  |  576  |  358  |  52  |  399
+WAFD <sup>[↗](https://www.tradingview.com/chart/?symbol=WAFD){:target='_blank' rel='noopener'}</sup> | Small |  317  |  576  |  258  |  434  |  290
+EQIX <sup>[↗](https://www.tradingview.com/chart/?symbol=EQIX){:target='_blank' rel='noopener'}</sup> | Large |  322  |  310  |  393  |  313  |  90
+BHE <sup>[↗](https://www.tradingview.com/chart/?symbol=BHE){:target='_blank' rel='noopener'}</sup> | Small |  322  |  397  |  307  |  228  |  216
+JBHT <sup>[↗](https://www.tradingview.com/chart/?symbol=JBHT){:target='_blank' rel='noopener'}</sup> | Large |  322  |  207  |  358  |  313  |  216
+NX <sup>[↗](https://www.tradingview.com/chart/?symbol=NX){:target='_blank' rel='noopener'}</sup> | Small |  322  |  250  |  258  |  434  |  567
+QDEL <sup>[↗](https://www.tradingview.com/chart/?symbol=QDEL){:target='_blank' rel='noopener'}</sup> | Mid |  326  |  310  |  242  |  434  |  399
+WIRE <sup>[↗](https://www.tradingview.com/chart/?symbol=WIRE){:target='_blank' rel='noopener'}</sup> | Small |  326  |  250  |  279  |  174  |  567
+TXRH <sup>[↗](https://www.tradingview.com/chart/?symbol=TXRH){:target='_blank' rel='noopener'}</sup> | Mid |  328  |  172  |  422  |  125  |  168
+SYK <sup>[↗](https://www.tradingview.com/chart/?symbol=SYK){:target='_blank' rel='noopener'}</sup> | Large |  329  |  312  |  423  |  175  |  169
+FDS <sup>[↗](https://www.tradingview.com/chart/?symbol=FDS){:target='_blank' rel='noopener'}</sup> | Large |  329  |  113  |  462  |  315  |  218
+EW <sup>[↗](https://www.tradingview.com/chart/?symbol=EW){:target='_blank' rel='noopener'}</sup> | Large |  329  |  92  |  462  |  438  |  218
+ALV <sup>[↗](https://www.tradingview.com/chart/?symbol=ALV){:target='_blank' rel='noopener'}</sup> | Mid |  329  |  399  |  280  |  438  |  291
+NXPI <sup>[↗](https://www.tradingview.com/chart/?symbol=NXPI){:target='_blank' rel='noopener'}</sup> | Large |  329  |  252  |  332  |  438  |  291
+SSB <sup>[↗](https://www.tradingview.com/chart/?symbol=SSB){:target='_blank' rel='noopener'}</sup> | Mid |  334  |  399  |  243  |  527  |  404
+WNC <sup>[↗](https://www.tradingview.com/chart/?symbol=WNC){:target='_blank' rel='noopener'}</sup> | Small |  334  |  312  |  332  |  175  |  404
+UHAL <sup>[↗](https://www.tradingview.com/chart/?symbol=UHAL){:target='_blank' rel='noopener'}</sup> | Mid |  334  |  578  |  270  |  229  |  404
+SMCI <sup>[↗](https://www.tradingview.com/chart/?symbol=SMCI){:target='_blank' rel='noopener'}</sup> | |  334  |  312  |  373  |  87  |  404
+HIBB <sup>[↗](https://www.tradingview.com/chart/?symbol=HIBB){:target='_blank' rel='noopener'}</sup> | Small |  334  |  252  |  280  |  315  |  569
+NVST <sup>[↗](https://www.tradingview.com/chart/?symbol=NVST){:target='_blank' rel='noopener'}</sup> | Mid |  334  |  578  |  243  |  315  |  569
+MMS <sup>[↗](https://www.tradingview.com/chart/?symbol=MMS){:target='_blank' rel='noopener'}</sup> | |  334  |  252  |  308  |  527  |  218
+CW <sup>[↗](https://www.tradingview.com/chart/?symbol=CW){:target='_blank' rel='noopener'}</sup> | Mid |  334  |  399  |  373  |  87  |  291
+ASO <sup>[↗](https://www.tradingview.com/chart/?symbol=ASO){:target='_blank' rel='noopener'}</sup> | Small |  342  |  312  |  308  |  175  |  404
+SR <sup>[↗](https://www.tradingview.com/chart/?symbol=SR){:target='_blank' rel='noopener'}</sup> | Mid |  342  |  399  |  308  |  315  |  169
+MTDR <sup>[↗](https://www.tradingview.com/chart/?symbol=MTDR){:target='_blank' rel='noopener'}</sup> | Mid |  342  |  312  |  280  |  175  |  569
+AMT <sup>[↗](https://www.tradingview.com/chart/?symbol=AMT){:target='_blank' rel='noopener'}</sup> | Large |  345  |  255  |  441  |  319  |  142
+LYV <sup>[↗](https://www.tradingview.com/chart/?symbol=LYV){:target='_blank' rel='noopener'}</sup> | Mid |  345  |  317  |  334  |  441  |  294
+CATY <sup>[↗](https://www.tradingview.com/chart/?symbol=CATY){:target='_blank' rel='noopener'}</sup> | Mid |  345  |  403  |  283  |  529  |  294
+STE <sup>[↗](https://www.tradingview.com/chart/?symbol=STE){:target='_blank' rel='noopener'}</sup> | Large |  345  |  580  |  283  |  441  |  294
+HES <sup>[↗](https://www.tradingview.com/chart/?symbol=HES){:target='_blank' rel='noopener'}</sup> | Large |  345  |  403  |  441  |  55  |  294
+DE <sup>[↗](https://www.tradingview.com/chart/?symbol=DE){:target='_blank' rel='noopener'}</sup> | Large |  345  |  317  |  394  |  126  |  409
+CINF <sup>[↗](https://www.tradingview.com/chart/?symbol=CINF){:target='_blank' rel='noopener'}</sup> | |  345  |  403  |  271  |  529  |  409
+NFLX <sup>[↗](https://www.tradingview.com/chart/?symbol=NFLX){:target='_blank' rel='noopener'}</sup> | Large |  345  |  403  |  424  |  55  |  409
+MAR <sup>[↗](https://www.tradingview.com/chart/?symbol=MAR){:target='_blank' rel='noopener'}</sup> | Large |  345  |  174  |  394  |  319  |  409
+EFX <sup>[↗](https://www.tradingview.com/chart/?symbol=EFX){:target='_blank' rel='noopener'}</sup> | Large |  345  |  174  |  394  |  319  |  409
+COHU <sup>[↗](https://www.tradingview.com/chart/?symbol=COHU){:target='_blank' rel='noopener'}</sup> | Small |  345  |  403  |  271  |  441  |  572
+TDY <sup>[↗](https://www.tradingview.com/chart/?symbol=TDY){:target='_blank' rel='noopener'}</sup> | Large |  345  |  580  |  334  |  319  |  221
+VIRT <sup>[↗](https://www.tradingview.com/chart/?symbol=VIRT){:target='_blank' rel='noopener'}</sup> | Small |  345  |  209  |  394  |  441  |  221
+IQV <sup>[↗](https://www.tradingview.com/chart/?symbol=IQV){:target='_blank' rel='noopener'}</sup> | Large |  345  |  317  |  394  |  230  |  221
+ALB <sup>[↗](https://www.tradingview.com/chart/?symbol=ALB){:target='_blank' rel='noopener'}</sup> | Large |  359  |  580  |  334  |  126  |  409
+CAL <sup>[↗](https://www.tradingview.com/chart/?symbol=CAL){:target='_blank' rel='noopener'}</sup> | Small |  359  |  255  |  283  |  441  |  572
+HTH <sup>[↗](https://www.tradingview.com/chart/?symbol=HTH){:target='_blank' rel='noopener'}</sup> | Small |  361  |  317  |  283  |  319  |  409
+VMW <sup>[↗](https://www.tradingview.com/chart/?symbol=VMW){:target='_blank' rel='noopener'}</sup> | Large |  361  |  174  |  441  |  441  |  118
+CGNX <sup>[↗](https://www.tradingview.com/chart/?symbol=CGNX){:target='_blank' rel='noopener'}</sup> | Mid |  363  |  210  |  360  |  447  |  574
+ANF <sup>[↗](https://www.tradingview.com/chart/?symbol=ANF){:target='_blank' rel='noopener'}</sup> | Small |  363  |  408  |  311  |  324  |  574
+WAL <sup>[↗](https://www.tradingview.com/chart/?symbol=WAL){:target='_blank' rel='noopener'}</sup> | Mid |  363  |  257  |  311  |  531  |  574
+UAA <sup>[↗](https://www.tradingview.com/chart/?symbol=UAA){:target='_blank' rel='noopener'}</sup> | Mid |  363  |  321  |  287  |  531  |  574
+SHOO <sup>[↗](https://www.tradingview.com/chart/?symbol=SHOO){:target='_blank' rel='noopener'}</sup> | Small |  363  |  210  |  360  |  531  |  416
+PLUS <sup>[↗](https://www.tradingview.com/chart/?symbol=PLUS){:target='_blank' rel='noopener'}</sup> | Small |  363  |  408  |  287  |  531  |  416
+FTNT <sup>[↗](https://www.tradingview.com/chart/?symbol=FTNT){:target='_blank' rel='noopener'}</sup> | Large |  363  |  114  |  503  |  179  |  416
+TPX <sup>[↗](https://www.tradingview.com/chart/?symbol=TPX){:target='_blank' rel='noopener'}</sup> | Mid |  363  |  321  |  375  |  231  |  416
+WYNN <sup>[↗](https://www.tradingview.com/chart/?symbol=WYNN){:target='_blank' rel='noopener'}</sup> | Mid |  363  |  583  |  337  |  231  |  416
+XYL <sup>[↗](https://www.tradingview.com/chart/?symbol=XYL){:target='_blank' rel='noopener'}</sup> | Large |  363  |  408  |  375  |  324  |  224
+VMC <sup>[↗](https://www.tradingview.com/chart/?symbol=VMC){:target='_blank' rel='noopener'}</sup> | Large |  363  |  408  |  360  |  447  |  224
+NMIH <sup>[↗](https://www.tradingview.com/chart/?symbol=NMIH){:target='_blank' rel='noopener'}</sup> | Small |  374  |  321  |  311  |  324  |  574
+FERG <sup>[↗](https://www.tradingview.com/chart/?symbol=FERG){:target='_blank' rel='noopener'}</sup> | Mid |  374  |  177  |  399  |  447  |  298
+CLH <sup>[↗](https://www.tradingview.com/chart/?symbol=CLH){:target='_blank' rel='noopener'}</sup> | Mid |  374  |  321  |  464  |  57  |  298
+SEM <sup>[↗](https://www.tradingview.com/chart/?symbol=SEM){:target='_blank' rel='noopener'}</sup> | Small |  374  |  408  |  311  |  324  |  416
+STRA <sup>[↗](https://www.tradingview.com/chart/?symbol=STRA){:target='_blank' rel='noopener'}</sup> | Small |  374  |  408  |  360  |  324  |  224
+SIGI <sup>[↗](https://www.tradingview.com/chart/?symbol=SIGI){:target='_blank' rel='noopener'}</sup> | Mid |  374  |  321  |  399  |  324  |  171
+TECH <sup>[↗](https://www.tradingview.com/chart/?symbol=TECH){:target='_blank' rel='noopener'}</sup> | Mid |  380  |  326  |  401  |  450  |  227
+SXI <sup>[↗](https://www.tradingview.com/chart/?symbol=SXI){:target='_blank' rel='noopener'}</sup> | Small |  380  |  258  |  444  |  233  |  300
+KN <sup>[↗](https://www.tradingview.com/chart/?symbol=KN){:target='_blank' rel='noopener'}</sup> | Small |  380  |  414  |  338  |  535  |  300
+KRC <sup>[↗](https://www.tradingview.com/chart/?symbol=KRC){:target='_blank' rel='noopener'}</sup> | Mid |  380  |  584  |  315  |  535  |  300
+ZD <sup>[↗](https://www.tradingview.com/chart/?symbol=ZD){:target='_blank' rel='noopener'}</sup> | Mid |  380  |  584  |  289  |  535  |  422
+MPW <sup>[↗](https://www.tradingview.com/chart/?symbol=MPW){:target='_blank' rel='noopener'}</sup> | Mid |  380  |  584  |  315  |  450  |  422
+FBNC <sup>[↗](https://www.tradingview.com/chart/?symbol=FBNC){:target='_blank' rel='noopener'}</sup> | Small |  380  |  584  |  289  |  535  |  422
+FLS <sup>[↗](https://www.tradingview.com/chart/?symbol=FLS){:target='_blank' rel='noopener'}</sup> | Mid |  380  |  414  |  338  |  450  |  422
+CRL <sup>[↗](https://www.tradingview.com/chart/?symbol=CRL){:target='_blank' rel='noopener'}</sup> | Large |  380  |  414  |  338  |  450  |  422
+TDG <sup>[↗](https://www.tradingview.com/chart/?symbol=TDG){:target='_blank' rel='noopener'}</sup> | Large |  380  |  584  |  401  |  128  |  422
+EBS <sup>[↗](https://www.tradingview.com/chart/?symbol=EBS){:target='_blank' rel='noopener'}</sup> | Small |  380  |  584  |  289  |  535  |  422
+IIIN <sup>[↗](https://www.tradingview.com/chart/?symbol=IIIN){:target='_blank' rel='noopener'}</sup> | Small |  380  |  326  |  315  |  535  |  579
+POWL <sup>[↗](https://www.tradingview.com/chart/?symbol=POWL){:target='_blank' rel='noopener'}</sup> | Small |  380  |  584  |  315  |  330  |  579
+SYNA <sup>[↗](https://www.tradingview.com/chart/?symbol=SYNA){:target='_blank' rel='noopener'}</sup> | Mid |  380  |  414  |  289  |  535  |  579
+LCII <sup>[↗](https://www.tradingview.com/chart/?symbol=LCII){:target='_blank' rel='noopener'}</sup> | Small |  394  |  326  |  315  |  330  |  579
+NCLH <sup>[↗](https://www.tradingview.com/chart/?symbol=NCLH){:target='_blank' rel='noopener'}</sup> | Mid |  395  |  591  |  341  |  454  |  429
+HIW <sup>[↗](https://www.tradingview.com/chart/?symbol=HIW){:target='_blank' rel='noopener'}</sup> | Mid |  395  |  591  |  320  |  542  |  429
+ASGN <sup>[↗](https://www.tradingview.com/chart/?symbol=ASGN){:target='_blank' rel='noopener'}</sup> | Mid |  395  |  591  |  320  |  542  |  429
+TBI <sup>[↗](https://www.tradingview.com/chart/?symbol=TBI){:target='_blank' rel='noopener'}</sup> | Small |  395  |  329  |  364  |  542  |  429
+CEG <sup>[↗](https://www.tradingview.com/chart/?symbol=CEG){:target='_blank' rel='noopener'}</sup> | Large |  395  |  259  |  465  |  180  |  429
+ALGN <sup>[↗](https://www.tradingview.com/chart/?symbol=ALGN){:target='_blank' rel='noopener'}</sup> | Large |  395  |  259  |  465  |  180  |  429
+ALG <sup>[↗](https://www.tradingview.com/chart/?symbol=ALG){:target='_blank' rel='noopener'}</sup> | Small |  395  |  418  |  377  |  454  |  303
+MRTN <sup>[↗](https://www.tradingview.com/chart/?symbol=MRTN){:target='_blank' rel='noopener'}</sup> | Small |  395  |  329  |  425  |  332  |  303
+OGS <sup>[↗](https://www.tradingview.com/chart/?symbol=OGS){:target='_blank' rel='noopener'}</sup> | Mid |  395  |  329  |  403  |  454  |  303
+IDCC <sup>[↗](https://www.tradingview.com/chart/?symbol=IDCC){:target='_blank' rel='noopener'}</sup> | Small |  395  |  259  |  465  |  454  |  172
+SBH <sup>[↗](https://www.tradingview.com/chart/?symbol=SBH){:target='_blank' rel='noopener'}</sup> | Small |  395  |  591  |  293  |  542  |  583
+APPS <sup>[↗](https://www.tradingview.com/chart/?symbol=APPS){:target='_blank' rel='noopener'}</sup> | Small |  395  |  591  |  293  |  542  |  583
+AAN <sup>[↗](https://www.tradingview.com/chart/?symbol=AAN){:target='_blank' rel='noopener'}</sup> | Small |  395  |  418  |  293  |  702  |  583
+OMI <sup>[↗](https://www.tradingview.com/chart/?symbol=OMI){:target='_blank' rel='noopener'}</sup> | Small |  395  |  591  |  293  |  542  |  583
+BRX <sup>[↗](https://www.tradingview.com/chart/?symbol=BRX){:target='_blank' rel='noopener'}</sup> | Mid |  395  |  259  |  377  |  454  |  583
+VRTS <sup>[↗](https://www.tradingview.com/chart/?symbol=VRTS){:target='_blank' rel='noopener'}</sup> | Small |  395  |  259  |  364  |  542  |  583
+MASI <sup>[↗](https://www.tradingview.com/chart/?symbol=MASI){:target='_blank' rel='noopener'}</sup> | Mid |  411  |  591  |  403  |  129  |  429
+APOG <sup>[↗](https://www.tradingview.com/chart/?symbol=APOG){:target='_blank' rel='noopener'}</sup> | Small |  411  |  329  |  364  |  454  |  429
+CLW <sup>[↗](https://www.tradingview.com/chart/?symbol=CLW){:target='_blank' rel='noopener'}</sup> | Small |  411  |  418  |  341  |  454  |  429
+CRC <sup>[↗](https://www.tradingview.com/chart/?symbol=CRC){:target='_blank' rel='noopener'}</sup> | Small |  411  |  591  |  320  |  454  |  429
+UFCS <sup>[↗](https://www.tradingview.com/chart/?symbol=UFCS){:target='_blank' rel='noopener'}</sup> | Small |  411  |  591  |  377  |  234  |  303
+LRN <sup>[↗](https://www.tradingview.com/chart/?symbol=LRN){:target='_blank' rel='noopener'}</sup> | Small |  411  |  591  |  341  |  454  |  303
+OSIS <sup>[↗](https://www.tradingview.com/chart/?symbol=OSIS){:target='_blank' rel='noopener'}</sup> | Small |  411  |  591  |  377  |  454  |  172
+ANDE <sup>[↗](https://www.tradingview.com/chart/?symbol=ANDE){:target='_blank' rel='noopener'}</sup> | Small |  411  |  591  |  341  |  234  |  583
+SLCA <sup>[↗](https://www.tradingview.com/chart/?symbol=SLCA){:target='_blank' rel='noopener'}</sup> | Small |  411  |  418  |  320  |  454  |  583
+HLX <sup>[↗](https://www.tradingview.com/chart/?symbol=HLX){:target='_blank' rel='noopener'}</sup> | Small |  420  |  591  |  364  |  129  |  583
+MTN <sup>[↗](https://www.tradingview.com/chart/?symbol=MTN){:target='_blank' rel='noopener'}</sup> | Mid |  421  |  333  |  405  |  465  |  439
+PYPL <sup>[↗](https://www.tradingview.com/chart/?symbol=PYPL){:target='_blank' rel='noopener'}</sup> | Large |  421  |  422  |  381  |  465  |  439
+SAM <sup>[↗](https://www.tradingview.com/chart/?symbol=SAM){:target='_blank' rel='noopener'}</sup> | Mid |  421  |  333  |  405  |  465  |  439
+ISRG <sup>[↗](https://www.tradingview.com/chart/?symbol=ISRG){:target='_blank' rel='noopener'}</sup> | Large |  421  |  212  |  504  |  182  |  439
+ST <sup>[↗](https://www.tradingview.com/chart/?symbol=ST){:target='_blank' rel='noopener'}</sup> | |  421  |  604  |  381  |  549  |  228
+BANR <sup>[↗](https://www.tradingview.com/chart/?symbol=BANR){:target='_blank' rel='noopener'}</sup> | Small |  421  |  422  |  405  |  465  |  308
+WELL <sup>[↗](https://www.tradingview.com/chart/?symbol=WELL){:target='_blank' rel='noopener'}</sup> | Large |  421  |  604  |  405  |  333  |  308
+GIII <sup>[↗](https://www.tradingview.com/chart/?symbol=GIII){:target='_blank' rel='noopener'}</sup> | Small |  421  |  604  |  324  |  549  |  592
+AUB <sup>[↗](https://www.tradingview.com/chart/?symbol=AUB){:target='_blank' rel='noopener'}</sup> | Small |  421  |  604  |  324  |  549  |  592
+PUMP <sup>[↗](https://www.tradingview.com/chart/?symbol=PUMP){:target='_blank' rel='noopener'}</sup> | Small |  421  |  422  |  345  |  549  |  592
+LSXMK <sup>[↗](https://www.tradingview.com/chart/?symbol=LSXMK){:target='_blank' rel='noopener'}</sup> | Mid |  421  |  604  |  297  |  703  |  592
+UVE <sup>[↗](https://www.tradingview.com/chart/?symbol=UVE){:target='_blank' rel='noopener'}</sup> | Small |  432  |  604  |  345  |  465  |  439
+NWE <sup>[↗](https://www.tradingview.com/chart/?symbol=NWE){:target='_blank' rel='noopener'}</sup> | Mid |  432  |  422  |  426  |  465  |  174
+SUPN <sup>[↗](https://www.tradingview.com/chart/?symbol=SUPN){:target='_blank' rel='noopener'}</sup> | Small |  432  |  604  |  405  |  333  |  228
+HEI <sup>[↗](https://www.tradingview.com/chart/?symbol=HEI){:target='_blank' rel='noopener'}</sup> | Mid |  432  |  422  |  468  |  131  |  308
+AX <sup>[↗](https://www.tradingview.com/chart/?symbol=AX){:target='_blank' rel='noopener'}</sup> | Small |  432  |  604  |  324  |  465  |  592
+MDRX <sup>[↗](https://www.tradingview.com/chart/?symbol=MDRX){:target='_blank' rel='noopener'}</sup> | Small |  437  |  427  |  368  |  553  |  597
+Z <sup>[↗](https://www.tradingview.com/chart/?symbol=Z){:target='_blank' rel='noopener'}</sup> | Mid |  437  |  335  |  445  |  236  |  597
+DFIN <sup>[↗](https://www.tradingview.com/chart/?symbol=DFIN){:target='_blank' rel='noopener'}</sup> | Small |  437  |  335  |  427  |  335  |  597
+SYY <sup>[↗](https://www.tradingview.com/chart/?symbol=SYY){:target='_blank' rel='noopener'}</sup> | Large |  437  |  335  |  427  |  472  |  444
+HXL <sup>[↗](https://www.tradingview.com/chart/?symbol=HXL){:target='_blank' rel='noopener'}</sup> | Mid |  437  |  427  |  445  |  236  |  444
+CNA <sup>[↗](https://www.tradingview.com/chart/?symbol=CNA){:target='_blank' rel='noopener'}</sup> | Mid |  437  |  427  |  383  |  553  |  444
+CDAY <sup>[↗](https://www.tradingview.com/chart/?symbol=CDAY){:target='_blank' rel='noopener'}</sup> | Mid |  437  |  612  |  427  |  236  |  444
+VMI <sup>[↗](https://www.tradingview.com/chart/?symbol=VMI){:target='_blank' rel='noopener'}</sup> | Mid |  437  |  427  |  505  |  132  |  311
+RYI <sup>[↗](https://www.tradingview.com/chart/?symbol=RYI){:target='_blank' rel='noopener'}</sup> | Small |  445  |  335  |  427  |  236  |  597
+ALGM <sup>[↗](https://www.tradingview.com/chart/?symbol=ALGM){:target='_blank' rel='noopener'}</sup> | Mid |  445  |  335  |  482  |  89  |  597
+AMBC <sup>[↗](https://www.tradingview.com/chart/?symbol=AMBC){:target='_blank' rel='noopener'}</sup> | Small |  445  |  335  |  383  |  472  |  597
+FWONK <sup>[↗](https://www.tradingview.com/chart/?symbol=FWONK){:target='_blank' rel='noopener'}</sup> | Mid |  445  |  427  |  445  |  132  |  597
+ALE <sup>[↗](https://www.tradingview.com/chart/?symbol=ALE){:target='_blank' rel='noopener'}</sup> | Mid |  445  |  427  |  383  |  472  |  444
+VIR <sup>[↗](https://www.tradingview.com/chart/?symbol=VIR){:target='_blank' rel='noopener'}</sup> | Small |  450  |  264  |  445  |  236  |  444
+ELS <sup>[↗](https://www.tradingview.com/chart/?symbol=ELS){:target='_blank' rel='noopener'}</sup> | Mid |  451  |  433  |  469  |  555  |  175
+KLIC <sup>[↗](https://www.tradingview.com/chart/?symbol=KLIC){:target='_blank' rel='noopener'}</sup> | Small |  451  |  341  |  410  |  555  |  604
+ETRN <sup>[↗](https://www.tradingview.com/chart/?symbol=ETRN){:target='_blank' rel='noopener'}</sup> | Mid |  451  |  613  |  386  |  475  |  604
+NBR <sup>[↗](https://www.tradingview.com/chart/?symbol=NBR){:target='_blank' rel='noopener'}</sup> | Small |  451  |  433  |  431  |  336  |  604
+WOLF <sup>[↗](https://www.tradingview.com/chart/?symbol=WOLF){:target='_blank' rel='noopener'}</sup> | Mid |  451  |  613  |  369  |  555  |  604
+CMG <sup>[↗](https://www.tradingview.com/chart/?symbol=CMG){:target='_blank' rel='noopener'}</sup> | Large |  451  |  265  |  598  |  58  |  450
+PFBC <sup>[↗](https://www.tradingview.com/chart/?symbol=PFBC){:target='_blank' rel='noopener'}</sup> | Small |  451  |  341  |  431  |  555  |  450
+MRVL <sup>[↗](https://www.tradingview.com/chart/?symbol=MRVL){:target='_blank' rel='noopener'}</sup> | Large |  451  |  613  |  449  |  241  |  450
+PRA <sup>[↗](https://www.tradingview.com/chart/?symbol=PRA){:target='_blank' rel='noopener'}</sup> | Small |  451  |  613  |  386  |  555  |  450
+OIS <sup>[↗](https://www.tradingview.com/chart/?symbol=OIS){:target='_blank' rel='noopener'}</sup> | Small |  460  |  613  |  386  |  336  |  604
+HAYN <sup>[↗](https://www.tradingview.com/chart/?symbol=HAYN){:target='_blank' rel='noopener'}</sup> | Small |  460  |  613  |  431  |  241  |  450
+RYN <sup>[↗](https://www.tradingview.com/chart/?symbol=RYN){:target='_blank' rel='noopener'}</sup> | Mid |  460  |  341  |  449  |  475  |  312
+TSLA <sup>[↗](https://www.tradingview.com/chart/?symbol=TSLA){:target='_blank' rel='noopener'}</sup> | Large |  460  |  149  |  618  |  134  |  312
+NOW <sup>[↗](https://www.tradingview.com/chart/?symbol=NOW){:target='_blank' rel='noopener'}</sup> | Large |  464  |  115  |  619  |  338  |  314
+LBRDK <sup>[↗](https://www.tradingview.com/chart/?symbol=LBRDK){:target='_blank' rel='noopener'}</sup> | Mid |  464  |  435  |  506  |  560  |  143
+PAYC <sup>[↗](https://www.tradingview.com/chart/?symbol=PAYC){:target='_blank' rel='noopener'}</sup> | Large |  464  |  115  |  599  |  338  |  455
+MED <sup>[↗](https://www.tradingview.com/chart/?symbol=MED){:target='_blank' rel='noopener'}</sup> | Small |  464  |  266  |  470  |  560  |  455
+PSTG <sup>[↗](https://www.tradingview.com/chart/?symbol=PSTG){:target='_blank' rel='noopener'}</sup> | Mid |  464  |  266  |  483  |  338  |  609
+RES <sup>[↗](https://www.tradingview.com/chart/?symbol=RES){:target='_blank' rel='noopener'}</sup> | Small |  464  |  266  |  470  |  477  |  609
+SMTC <sup>[↗](https://www.tradingview.com/chart/?symbol=SMTC){:target='_blank' rel='noopener'}</sup> | Small |  464  |  619  |  389  |  560  |  609
+BANC <sup>[↗](https://www.tradingview.com/chart/?symbol=BANC){:target='_blank' rel='noopener'}</sup> | Small |  464  |  435  |  411  |  560  |  609
+CARS <sup>[↗](https://www.tradingview.com/chart/?symbol=CARS){:target='_blank' rel='noopener'}</sup> | Small |  464  |  435  |  451  |  338  |  609
+SHEN <sup>[↗](https://www.tradingview.com/chart/?symbol=SHEN){:target='_blank' rel='noopener'}</sup> | Small |  464  |  435  |  470  |  560  |  230
+GSK <sup>[↗](https://www.tradingview.com/chart/?symbol=GSK){:target='_blank' rel='noopener'}</sup> | Large |  474  |  178  |  528  |  704  |  176
+AGNC <sup>[↗](https://www.tradingview.com/chart/?symbol=AGNC){:target='_blank' rel='noopener'}</sup> | |  474  |  619  |  411  |  560  |  314
+SWAV <sup>[↗](https://www.tradingview.com/chart/?symbol=SWAV){:target='_blank' rel='noopener'}</sup> | Mid |  474  |  344  |  553  |  90  |  455
+TNET <sup>[↗](https://www.tradingview.com/chart/?symbol=TNET){:target='_blank' rel='noopener'}</sup> | Small |  474  |  344  |  434  |  560  |  455
+GTY <sup>[↗](https://www.tradingview.com/chart/?symbol=GTY){:target='_blank' rel='noopener'}</sup> | Small |  474  |  435  |  483  |  338  |  230
+ERIE <sup>[↗](https://www.tradingview.com/chart/?symbol=ERIE){:target='_blank' rel='noopener'}</sup> | Mid |  479  |  269  |  529  |  567  |  232
+EBF <sup>[↗](https://www.tradingview.com/chart/?symbol=EBF){:target='_blank' rel='noopener'}</sup> | Small |  479  |  269  |  507  |  705  |  232
+VEEV <sup>[↗](https://www.tradingview.com/chart/?symbol=VEEV){:target='_blank' rel='noopener'}</sup> | Large |  479  |  117  |  577  |  567  |  459
+TNC <sup>[↗](https://www.tradingview.com/chart/?symbol=TNC){:target='_blank' rel='noopener'}</sup> | Small |  479  |  346  |  473  |  567  |  459
+GBX <sup>[↗](https://www.tradingview.com/chart/?symbol=GBX){:target='_blank' rel='noopener'}</sup> | Small |  479  |  621  |  435  |  567  |  459
+WSBC <sup>[↗](https://www.tradingview.com/chart/?symbol=WSBC){:target='_blank' rel='noopener'}</sup> | Small |  479  |  440  |  452  |  567  |  459
+CSGP <sup>[↗](https://www.tradingview.com/chart/?symbol=CSGP){:target='_blank' rel='noopener'}</sup> | Large |  479  |  440  |  485  |  478  |  316
+VNDA <sup>[↗](https://www.tradingview.com/chart/?symbol=VNDA){:target='_blank' rel='noopener'}</sup> | Small |  479  |  440  |  473  |  567  |  316
+III <sup>[↗](https://www.tradingview.com/chart/?symbol=III){:target='_blank' rel='noopener'}</sup> | Small |  479  |  213  |  485  |  567  |  614
+CWK <sup>[↗](https://www.tradingview.com/chart/?symbol=CWK){:target='_blank' rel='noopener'}</sup> | Small |  479  |  621  |  390  |  705  |  614
+ARNC <sup>[↗](https://www.tradingview.com/chart/?symbol=ARNC){:target='_blank' rel='noopener'}</sup> | Small |  479  |  621  |  413  |  567  |  614
+DCOM <sup>[↗](https://www.tradingview.com/chart/?symbol=DCOM){:target='_blank' rel='noopener'}</sup> | Small |  479  |  440  |  435  |  567  |  614
+LGIH <sup>[↗](https://www.tradingview.com/chart/?symbol=LGIH){:target='_blank' rel='noopener'}</sup> | Small |  479  |  621  |  413  |  567  |  614
+LTC <sup>[↗](https://www.tradingview.com/chart/?symbol=LTC){:target='_blank' rel='noopener'}</sup> | Small |  492  |  440  |  507  |  343  |  232
+CWEN <sup>[↗](https://www.tradingview.com/chart/?symbol=CWEN){:target='_blank' rel='noopener'}</sup> | Small |  492  |  346  |  485  |  343  |  459
+BMRN <sup>[↗](https://www.tradingview.com/chart/?symbol=BMRN){:target='_blank' rel='noopener'}</sup> | Mid |  492  |  440  |  507  |  478  |  177
+EZPW <sup>[↗](https://www.tradingview.com/chart/?symbol=EZPW){:target='_blank' rel='noopener'}</sup> | Small |  492  |  621  |  435  |  343  |  614
+JJSF <sup>[↗](https://www.tradingview.com/chart/?symbol=JJSF){:target='_blank' rel='noopener'}</sup> | Small |  496  |  446  |  530  |  577  |  178
+LIVN <sup>[↗](https://www.tradingview.com/chart/?symbol=LIVN){:target='_blank' rel='noopener'}</sup> | Mid |  496  |  626  |  453  |  577  |  464
+DGII <sup>[↗](https://www.tradingview.com/chart/?symbol=DGII){:target='_blank' rel='noopener'}</sup> | Small |  496  |  626  |  510  |  243  |  464
+MCS <sup>[↗](https://www.tradingview.com/chart/?symbol=MCS){:target='_blank' rel='noopener'}</sup> | Small |  496  |  626  |  475  |  577  |  318
+HHC <sup>[↗](https://www.tradingview.com/chart/?symbol=HHC){:target='_blank' rel='noopener'}</sup> | Small |  496  |  446  |  453  |  577  |  620
+WOW <sup>[↗](https://www.tradingview.com/chart/?symbol=WOW){:target='_blank' rel='noopener'}</sup> | Small |  496  |  626  |  488  |  577  |  235
+ONTO <sup>[↗](https://www.tradingview.com/chart/?symbol=ONTO){:target='_blank' rel='noopener'}</sup> | Small |  502  |  446  |  510  |  183  |  620
+ELF <sup>[↗](https://www.tradingview.com/chart/?symbol=ELF){:target='_blank' rel='noopener'}</sup> | Small |  502  |  446  |  578  |  59  |  620
+FLR <sup>[↗](https://www.tradingview.com/chart/?symbol=FLR){:target='_blank' rel='noopener'}</sup> | Mid |  502  |  626  |  475  |  243  |  620
+NBIX <sup>[↗](https://www.tradingview.com/chart/?symbol=NBIX){:target='_blank' rel='noopener'}</sup> | Mid |  502  |  626  |  530  |  243  |  235
+JBGS <sup>[↗](https://www.tradingview.com/chart/?symbol=JBGS){:target='_blank' rel='noopener'}</sup> | Small |  506  |  632  |  489  |  582  |  319
+HCSG <sup>[↗](https://www.tradingview.com/chart/?symbol=HCSG){:target='_blank' rel='noopener'}</sup> | Small |  506  |  632  |  489  |  582  |  319
+KRG <sup>[↗](https://www.tradingview.com/chart/?symbol=KRG){:target='_blank' rel='noopener'}</sup> | Mid |  506  |  450  |  512  |  346  |  624
+STRL <sup>[↗](https://www.tradingview.com/chart/?symbol=STRL){:target='_blank' rel='noopener'}</sup> | Small |  506  |  632  |  489  |  346  |  624
+MODV <sup>[↗](https://www.tradingview.com/chart/?symbol=MODV){:target='_blank' rel='noopener'}</sup> | Small |  506  |  632  |  455  |  582  |  624
+EXAS <sup>[↗](https://www.tradingview.com/chart/?symbol=EXAS){:target='_blank' rel='noopener'}</sup> | Mid |  506  |  632  |  554  |  135  |  624
+RXO <sup>[↗](https://www.tradingview.com/chart/?symbol=RXO){:target='_blank' rel='noopener'}</sup> | Small |  506  |  632  |  455  |  582  |  624
+SGH <sup>[↗](https://www.tradingview.com/chart/?symbol=SGH){:target='_blank' rel='noopener'}</sup> | Small |  506  |  632  |  455  |  582  |  624
+OMCL <sup>[↗](https://www.tradingview.com/chart/?symbol=OMCL){:target='_blank' rel='noopener'}</sup> | |  506  |  632  |  477  |  582  |  466
+ATSG <sup>[↗](https://www.tradingview.com/chart/?symbol=ATSG){:target='_blank' rel='noopener'}</sup> | Small |  515  |  632  |  455  |  582  |  466
+SATS <sup>[↗](https://www.tradingview.com/chart/?symbol=SATS){:target='_blank' rel='noopener'}</sup> | Small |  516  |  641  |  492  |  707  |  321
+UTL <sup>[↗](https://www.tradingview.com/chart/?symbol=UTL){:target='_blank' rel='noopener'}</sup> | Small |  516  |  641  |  513  |  589  |  321
+AMH <sup>[↗](https://www.tradingview.com/chart/?symbol=AMH){:target='_blank' rel='noopener'}</sup> | Mid |  516  |  451  |  532  |  589  |  321
+AXON <sup>[↗](https://www.tradingview.com/chart/?symbol=AXON){:target='_blank' rel='noopener'}</sup> | Large |  516  |  641  |  600  |  136  |  468
+DXCM <sup>[↗](https://www.tradingview.com/chart/?symbol=DXCM){:target='_blank' rel='noopener'}</sup> | Large |  516  |  451  |  620  |  136  |  468
+GSBC <sup>[↗](https://www.tradingview.com/chart/?symbol=GSBC){:target='_blank' rel='noopener'}</sup> | Small |  516  |  641  |  513  |  707  |  237
+NSP <sup>[↗](https://www.tradingview.com/chart/?symbol=NSP){:target='_blank' rel='noopener'}</sup> | Mid |  516  |  271  |  579  |  348  |  630
+GWRE <sup>[↗](https://www.tradingview.com/chart/?symbol=GWRE){:target='_blank' rel='noopener'}</sup> | Mid |  516  |  214  |  555  |  589  |  630
+BCO <sup>[↗](https://www.tradingview.com/chart/?symbol=BCO){:target='_blank' rel='noopener'}</sup> | |  516  |  451  |  492  |  589  |  630
+BJRI <sup>[↗](https://www.tradingview.com/chart/?symbol=BJRI){:target='_blank' rel='noopener'}</sup> | Small |  516  |  641  |  492  |  480  |  630
+SVC <sup>[↗](https://www.tradingview.com/chart/?symbol=SVC){:target='_blank' rel='noopener'}</sup> | Small |  526  |  451  |  492  |  480  |  630
+SPB <sup>[↗](https://www.tradingview.com/chart/?symbol=SPB){:target='_blank' rel='noopener'}</sup> | Small |  527  |  646  |  515  |  593  |  470
+EXLS <sup>[↗](https://www.tradingview.com/chart/?symbol=EXLS){:target='_blank' rel='noopener'}</sup> | Mid |  527  |  348  |  601  |  349  |  470
+CTRE <sup>[↗](https://www.tradingview.com/chart/?symbol=CTRE){:target='_blank' rel='noopener'}</sup> | Small |  527  |  646  |  515  |  593  |  470
+ICUI <sup>[↗](https://www.tradingview.com/chart/?symbol=ICUI){:target='_blank' rel='noopener'}</sup> | Mid |  527  |  646  |  515  |  593  |  470
+QLYS <sup>[↗](https://www.tradingview.com/chart/?symbol=QLYS){:target='_blank' rel='noopener'}</sup> | Mid |  527  |  348  |  580  |  482  |  470
+LBAI <sup>[↗](https://www.tradingview.com/chart/?symbol=LBAI){:target='_blank' rel='noopener'}</sup> | Small |  527  |  455  |  515  |  709  |  470
+DEI <sup>[↗](https://www.tradingview.com/chart/?symbol=DEI){:target='_blank' rel='noopener'}</sup> | Small |  527  |  646  |  515  |  593  |  470
+SEDG <sup>[↗](https://www.tradingview.com/chart/?symbol=SEDG){:target='_blank' rel='noopener'}</sup> | Large |  527  |  646  |  556  |  349  |  470
+RBA <sup>[↗](https://www.tradingview.com/chart/?symbol=RBA){:target='_blank' rel='noopener'}</sup> | Mid |  527  |  348  |  556  |  593  |  470
+BCPC <sup>[↗](https://www.tradingview.com/chart/?symbol=BCPC){:target='_blank' rel='noopener'}</sup> | Small |  527  |  646  |  580  |  593  |  179
+CIR <sup>[↗](https://www.tradingview.com/chart/?symbol=CIR){:target='_blank' rel='noopener'}</sup> | Small |  527  |  646  |  496  |  593  |  635
+CARG <sup>[↗](https://www.tradingview.com/chart/?symbol=CARG){:target='_blank' rel='noopener'}</sup> | Small |  527  |  455  |  496  |  709  |  635
+DIN <sup>[↗](https://www.tradingview.com/chart/?symbol=DIN){:target='_blank' rel='noopener'}</sup> | Small |  527  |  646  |  496  |  593  |  635
+ITRI <sup>[↗](https://www.tradingview.com/chart/?symbol=ITRI){:target='_blank' rel='noopener'}</sup> | Small |  527  |  646  |  496  |  593  |  635
+GCO <sup>[↗](https://www.tradingview.com/chart/?symbol=GCO){:target='_blank' rel='noopener'}</sup> | Small |  527  |  646  |  478  |  709  |  635
+TROX <sup>[↗](https://www.tradingview.com/chart/?symbol=TROX){:target='_blank' rel='noopener'}</sup> | Small |  527  |  646  |  478  |  709  |  635
+CNSL <sup>[↗](https://www.tradingview.com/chart/?symbol=CNSL){:target='_blank' rel='noopener'}</sup> | Small |  527  |  646  |  496  |  593  |  635
+PZZA <sup>[↗](https://www.tradingview.com/chart/?symbol=PZZA){:target='_blank' rel='noopener'}</sup> | Small |  527  |  646  |  533  |  593  |  324
+SAP <sup>[↗](https://www.tradingview.com/chart/?symbol=SAP){:target='_blank' rel='noopener'}</sup> | Small |  545  |  272  |  621  |  593  |  179
+CHKP <sup>[↗](https://www.tradingview.com/chart/?symbol=CHKP){:target='_blank' rel='noopener'}</sup> | Large |  546  |  179  |  696  |  593  |  144
+AHCO <sup>[↗](https://www.tradingview.com/chart/?symbol=AHCO){:target='_blank' rel='noopener'}</sup> | Small |  546  |  646  |  496  |  349  |  635
+MSEX <sup>[↗](https://www.tradingview.com/chart/?symbol=MSEX){:target='_blank' rel='noopener'}</sup> | Small |  548  |  660  |  558  |  483  |  479
+HALO <sup>[↗](https://www.tradingview.com/chart/?symbol=HALO){:target='_blank' rel='noopener'}</sup> | Mid |  548  |  660  |  582  |  352  |  479
+DV <sup>[↗](https://www.tradingview.com/chart/?symbol=DV){:target='_blank' rel='noopener'}</sup> | Small |  548  |  457  |  666  |  184  |  479
+CRWD <sup>[↗](https://www.tradingview.com/chart/?symbol=CRWD){:target='_blank' rel='noopener'}</sup> | Large |  548  |  273  |  622  |  483  |  479
+UBA <sup>[↗](https://www.tradingview.com/chart/?symbol=UBA){:target='_blank' rel='noopener'}</sup> | Small |  548  |  660  |  534  |  606  |  479
+TEAM <sup>[↗](https://www.tradingview.com/chart/?symbol=TEAM){:target='_blank' rel='noopener'}</sup> | Large |  548  |  273  |  622  |  483  |  479
+ANGO <sup>[↗](https://www.tradingview.com/chart/?symbol=ANGO){:target='_blank' rel='noopener'}</sup> | Small |  548  |  660  |  534  |  606  |  479
+BY <sup>[↗](https://www.tradingview.com/chart/?symbol=BY){:target='_blank' rel='noopener'}</sup> | Small |  548  |  457  |  534  |  713  |  479
+TWLO <sup>[↗](https://www.tradingview.com/chart/?symbol=TWLO){:target='_blank' rel='noopener'}</sup> | Mid |  548  |  660  |  558  |  483  |  479
+BILL <sup>[↗](https://www.tradingview.com/chart/?symbol=BILL){:target='_blank' rel='noopener'}</sup> | Mid |  548  |  660  |  534  |  606  |  479
+KKR <sup>[↗](https://www.tradingview.com/chart/?symbol=KKR){:target='_blank' rel='noopener'}</sup> | Large |  548  |  660  |  520  |  713  |  479
+HCKT <sup>[↗](https://www.tradingview.com/chart/?symbol=HCKT){:target='_blank' rel='noopener'}</sup> | Small |  548  |  351  |  582  |  713  |  325
+EGRX <sup>[↗](https://www.tradingview.com/chart/?symbol=EGRX){:target='_blank' rel='noopener'}</sup> | Small |  548  |  660  |  534  |  713  |  325
+USM <sup>[↗](https://www.tradingview.com/chart/?symbol=USM){:target='_blank' rel='noopener'}</sup> | Small |  548  |  660  |  534  |  713  |  325
+FWONA <sup>[↗](https://www.tradingview.com/chart/?symbol=FWONA){:target='_blank' rel='noopener'}</sup> | Mid |  548  |  660  |  520  |  606  |  643
+PRIM <sup>[↗](https://www.tradingview.com/chart/?symbol=PRIM){:target='_blank' rel='noopener'}</sup> | Small |  548  |  457  |  520  |  713  |  643
+BGS <sup>[↗](https://www.tradingview.com/chart/?symbol=BGS){:target='_blank' rel='noopener'}</sup> | Small |  548  |  660  |  520  |  606  |  643
+GOLF <sup>[↗](https://www.tradingview.com/chart/?symbol=GOLF){:target='_blank' rel='noopener'}</sup> | Small |  548  |  351  |  558  |  606  |  643
+OPI <sup>[↗](https://www.tradingview.com/chart/?symbol=OPI){:target='_blank' rel='noopener'}</sup> | Small |  548  |  660  |  520  |  606  |  643
+DVAX <sup>[↗](https://www.tradingview.com/chart/?symbol=DVAX){:target='_blank' rel='noopener'}</sup> | Small |  567  |  457  |  534  |  352  |  643
+MCFT <sup>[↗](https://www.tradingview.com/chart/?symbol=MCFT){:target='_blank' rel='noopener'}</sup> | Small |  568  |  461  |  584  |  487  |  649
+ULH <sup>[↗](https://www.tradingview.com/chart/?symbol=ULH){:target='_blank' rel='noopener'}</sup> | Small |  568  |  353  |  561  |  719  |  649
+FCFS <sup>[↗](https://www.tradingview.com/chart/?symbol=FCFS){:target='_blank' rel='noopener'}</sup> | Mid |  568  |  353  |  624  |  354  |  649
+BSIG <sup>[↗](https://www.tradingview.com/chart/?symbol=BSIG){:target='_blank' rel='noopener'}</sup> | Small |  568  |  461  |  584  |  487  |  649
+MBIN <sup>[↗](https://www.tradingview.com/chart/?symbol=MBIN){:target='_blank' rel='noopener'}</sup> | Small |  568  |  461  |  541  |  719  |  649
+MGPI <sup>[↗](https://www.tradingview.com/chart/?symbol=MGPI){:target='_blank' rel='noopener'}</sup> | Small |  568  |  461  |  624  |  246  |  649
+NWLI <sup>[↗](https://www.tradingview.com/chart/?symbol=NWLI){:target='_blank' rel='noopener'}</sup> | Small |  568  |  672  |  541  |  613  |  649
+EGY <sup>[↗](https://www.tradingview.com/chart/?symbol=EGY){:target='_blank' rel='noopener'}</sup> | Small |  568  |  353  |  561  |  719  |  649
+OTEX <sup>[↗](https://www.tradingview.com/chart/?symbol=OTEX){:target='_blank' rel='noopener'}</sup> | |  568  |  672  |  525  |  719  |  649
+BRY <sup>[↗](https://www.tradingview.com/chart/?symbol=BRY){:target='_blank' rel='noopener'}</sup> | Small |  568  |  672  |  525  |  719  |  649
+STNG <sup>[↗](https://www.tradingview.com/chart/?symbol=STNG){:target='_blank' rel='noopener'}</sup> | Small |  568  |  461  |  561  |  613  |  649
+RCM <sup>[↗](https://www.tradingview.com/chart/?symbol=RCM){:target='_blank' rel='noopener'}</sup> | Mid |  568  |  672  |  541  |  613  |  649
+ACCO <sup>[↗](https://www.tradingview.com/chart/?symbol=ACCO){:target='_blank' rel='noopener'}</sup> | Small |  568  |  461  |  541  |  719  |  649
+ZUMZ <sup>[↗](https://www.tradingview.com/chart/?symbol=ZUMZ){:target='_blank' rel='noopener'}</sup> | Small |  568  |  461  |  541  |  719  |  649
+GTN <sup>[↗](https://www.tradingview.com/chart/?symbol=GTN){:target='_blank' rel='noopener'}</sup> | Small |  568  |  461  |  541  |  719  |  649
+DHT <sup>[↗](https://www.tradingview.com/chart/?symbol=DHT){:target='_blank' rel='noopener'}</sup> | Small |  568  |  672  |  541  |  613  |  649
+KALU <sup>[↗](https://www.tradingview.com/chart/?symbol=KALU){:target='_blank' rel='noopener'}</sup> | Small |  568  |  672  |  561  |  487  |  649
+TG <sup>[↗](https://www.tradingview.com/chart/?symbol=TG){:target='_blank' rel='noopener'}</sup> | Small |  568  |  461  |  561  |  719  |  490
+DOCU <sup>[↗](https://www.tradingview.com/chart/?symbol=DOCU){:target='_blank' rel='noopener'}</sup> | Mid |  568  |  353  |  667  |  354  |  490
+STR <sup>[↗](https://www.tradingview.com/chart/?symbol=STR){:target='_blank' rel='noopener'}</sup> | Small |  568  |  461  |  561  |  719  |  490
+AZEK <sup>[↗](https://www.tradingview.com/chart/?symbol=AZEK){:target='_blank' rel='noopener'}</sup> | Small |  568  |  672  |  584  |  487  |  490
+ALNY <sup>[↗](https://www.tradingview.com/chart/?symbol=ALNY){:target='_blank' rel='noopener'}</sup> | Mid |  568  |  672  |  602  |  354  |  490
+KWR <sup>[↗](https://www.tradingview.com/chart/?symbol=KWR){:target='_blank' rel='noopener'}</sup> | Small |  568  |  461  |  602  |  487  |  490
+TW <sup>[↗](https://www.tradingview.com/chart/?symbol=TW){:target='_blank' rel='noopener'}</sup> | Mid |  568  |  461  |  624  |  613  |  238
+CASS <sup>[↗](https://www.tradingview.com/chart/?symbol=CASS){:target='_blank' rel='noopener'}</sup> | Small |  568  |  672  |  561  |  719  |  328
+ARWR <sup>[↗](https://www.tradingview.com/chart/?symbol=ARWR){:target='_blank' rel='noopener'}</sup> | Mid |  593  |  461  |  561  |  487  |  649
+AAON <sup>[↗](https://www.tradingview.com/chart/?symbol=AAON){:target='_blank' rel='noopener'}</sup> | Small |  593  |  461  |  624  |  354  |  328
+CNOB <sup>[↗](https://www.tradingview.com/chart/?symbol=CNOB){:target='_blank' rel='noopener'}</sup> | Small |  595  |  681  |  548  |  730  |  667
+ACT <sup>[↗](https://www.tradingview.com/chart/?symbol=ACT){:target='_blank' rel='noopener'}</sup> | Small |  595  |  681  |  548  |  730  |  667
+AMEH <sup>[↗](https://www.tradingview.com/chart/?symbol=AMEH){:target='_blank' rel='noopener'}</sup> | Small |  595  |  681  |  569  |  618  |  667
+DOCS <sup>[↗](https://www.tradingview.com/chart/?symbol=DOCS){:target='_blank' rel='noopener'}</sup> | Mid |  595  |  681  |  569  |  618  |  667
+LXU <sup>[↗](https://www.tradingview.com/chart/?symbol=LXU){:target='_blank' rel='noopener'}</sup> | Small |  595  |  475  |  569  |  730  |  667
+AGTI <sup>[↗](https://www.tradingview.com/chart/?symbol=AGTI){:target='_blank' rel='noopener'}</sup> | Small |  595  |  681  |  548  |  730  |  667
+CVGW <sup>[↗](https://www.tradingview.com/chart/?symbol=CVGW){:target='_blank' rel='noopener'}</sup> | Small |  595  |  681  |  569  |  618  |  667
+PDFS <sup>[↗](https://www.tradingview.com/chart/?symbol=PDFS){:target='_blank' rel='noopener'}</sup> | Small |  595  |  357  |  668  |  358  |  667
+JACK <sup>[↗](https://www.tradingview.com/chart/?symbol=JACK){:target='_blank' rel='noopener'}</sup> | Small |  595  |  681  |  587  |  493  |  667
+PBI <sup>[↗](https://www.tradingview.com/chart/?symbol=PBI){:target='_blank' rel='noopener'}</sup> | Small |  595  |  681  |  569  |  618  |  667
+WCN <sup>[↗](https://www.tradingview.com/chart/?symbol=WCN){:target='_blank' rel='noopener'}</sup> | |  595  |  475  |  697  |  618  |  181
+ALEX <sup>[↗](https://www.tradingview.com/chart/?symbol=ALEX){:target='_blank' rel='noopener'}</sup> | Small |  595  |  681  |  587  |  618  |  496
+MPB <sup>[↗](https://www.tradingview.com/chart/?symbol=MPB){:target='_blank' rel='noopener'}</sup> | Small |  607  |  477  |  628  |  734  |  330
+HLIT <sup>[↗](https://www.tradingview.com/chart/?symbol=HLIT){:target='_blank' rel='noopener'}</sup> | Small |  607  |  690  |  742  |  247  |  330
+DHIL <sup>[↗](https://www.tradingview.com/chart/?symbol=DHIL){:target='_blank' rel='noopener'}</sup> | Small |  607  |  358  |  669  |  734  |  330
+DOOR <sup>[↗](https://www.tradingview.com/chart/?symbol=DOOR){:target='_blank' rel='noopener'}</sup> | Small |  607  |  690  |  574  |  734  |  677
+SIGA <sup>[↗](https://www.tradingview.com/chart/?symbol=SIGA){:target='_blank' rel='noopener'}</sup> | Small |  607  |  690  |  574  |  734  |  677
+FOR <sup>[↗](https://www.tradingview.com/chart/?symbol=FOR){:target='_blank' rel='noopener'}</sup> | Small |  607  |  690  |  574  |  734  |  677
+CNK <sup>[↗](https://www.tradingview.com/chart/?symbol=CNK){:target='_blank' rel='noopener'}</sup> | Small |  607  |  690  |  589  |  624  |  677
+VRE <sup>[↗](https://www.tradingview.com/chart/?symbol=VRE){:target='_blank' rel='noopener'}</sup> | Small |  607  |  690  |  589  |  624  |  677
+HAYW <sup>[↗](https://www.tradingview.com/chart/?symbol=HAYW){:target='_blank' rel='noopener'}</sup> | Small |  607  |  690  |  589  |  624  |  677
+PACB <sup>[↗](https://www.tradingview.com/chart/?symbol=PACB){:target='_blank' rel='noopener'}</sup> | Small |  607  |  690  |  669  |  247  |  677
+IGT <sup>[↗](https://www.tradingview.com/chart/?symbol=IGT){:target='_blank' rel='noopener'}</sup> | Small |  607  |  358  |  628  |  624  |  677
+SYBT <sup>[↗](https://www.tradingview.com/chart/?symbol=SYBT){:target='_blank' rel='noopener'}</sup> | Small |  607  |  477  |  698  |  624  |  239
+MLAB <sup>[↗](https://www.tradingview.com/chart/?symbol=MLAB){:target='_blank' rel='noopener'}</sup> | Small |  607  |  690  |  589  |  734  |  497
+FFIC <sup>[↗](https://www.tradingview.com/chart/?symbol=FFIC){:target='_blank' rel='noopener'}</sup> | Small |  607  |  690  |  589  |  734  |  497
+MDB <sup>[↗](https://www.tradingview.com/chart/?symbol=MDB){:target='_blank' rel='noopener'}</sup> | Mid |  607  |  690  |  742  |  185  |  497
+DDOG <sup>[↗](https://www.tradingview.com/chart/?symbol=DDOG){:target='_blank' rel='noopener'}</sup> | Large |  607  |  477  |  698  |  359  |  497
+NET <sup>[↗](https://www.tradingview.com/chart/?symbol=NET){:target='_blank' rel='noopener'}</sup> | |  607  |  690  |  698  |  247  |  497
+MWA <sup>[↗](https://www.tradingview.com/chart/?symbol=MWA){:target='_blank' rel='noopener'}</sup> | Small |  607  |  477  |  604  |  734  |  497
+RWT <sup>[↗](https://www.tradingview.com/chart/?symbol=RWT){:target='_blank' rel='noopener'}</sup> | Small |  607  |  690  |  604  |  624  |  497
+NGVT <sup>[↗](https://www.tradingview.com/chart/?symbol=NGVT){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  606  |  630  |  685
+ESTE <sup>[↗](https://www.tradingview.com/chart/?symbol=ESTE){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  594  |  742  |  685
+SSRM <sup>[↗](https://www.tradingview.com/chart/?symbol=SSRM){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  594  |  742  |  685
+LTHM <sup>[↗](https://www.tradingview.com/chart/?symbol=LTHM){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  606  |  630  |  685
+HDSN <sup>[↗](https://www.tradingview.com/chart/?symbol=HDSN){:target='_blank' rel='noopener'}</sup> | Small |  626  |  481  |  630  |  630  |  685
+LILA <sup>[↗](https://www.tradingview.com/chart/?symbol=LILA){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  594  |  742  |  685
+ZYXI <sup>[↗](https://www.tradingview.com/chart/?symbol=ZYXI){:target='_blank' rel='noopener'}</sup> | Small |  626  |  481  |  671  |  494  |  685
+TK <sup>[↗](https://www.tradingview.com/chart/?symbol=TK){:target='_blank' rel='noopener'}</sup> | Small |  626  |  481  |  630  |  630  |  685
+SHYF <sup>[↗](https://www.tradingview.com/chart/?symbol=SHYF){:target='_blank' rel='noopener'}</sup> | Small |  626  |  481  |  606  |  742  |  685
+CLDT <sup>[↗](https://www.tradingview.com/chart/?symbol=CLDT){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  606  |  630  |  685
+SPWR <sup>[↗](https://www.tradingview.com/chart/?symbol=SPWR){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  630  |  494  |  685
+GKOS <sup>[↗](https://www.tradingview.com/chart/?symbol=GKOS){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  630  |  494  |  685
+EXPI <sup>[↗](https://www.tradingview.com/chart/?symbol=EXPI){:target='_blank' rel='noopener'}</sup> | Small |  626  |  481  |  701  |  360  |  685
+CTKB <sup>[↗](https://www.tradingview.com/chart/?symbol=CTKB){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  594  |  742  |  685
+PRMW <sup>[↗](https://www.tradingview.com/chart/?symbol=PRMW){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  606  |  742  |  504
+ICL <sup>[↗](https://www.tradingview.com/chart/?symbol=ICL){:target='_blank' rel='noopener'}</sup> | Mid |  626  |  481  |  630  |  742  |  504
+IRT <sup>[↗](https://www.tradingview.com/chart/?symbol=IRT){:target='_blank' rel='noopener'}</sup> | Mid |  626  |  703  |  630  |  630  |  504
+SRI <sup>[↗](https://www.tradingview.com/chart/?symbol=SRI){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  630  |  630  |  504
+SGAFT <sup>[↗](https://www.tradingview.com/chart/?symbol=SGAFT){:target='_blank' rel='noopener'}</sup> | Small |  626  |  481  |  701  |  494  |  504
+LNN <sup>[↗](https://www.tradingview.com/chart/?symbol=LNN){:target='_blank' rel='noopener'}</sup> | Small |  626  |  481  |  701  |  494  |  504
+CMCO <sup>[↗](https://www.tradingview.com/chart/?symbol=CMCO){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  606  |  742  |  504
+NOVT <sup>[↗](https://www.tradingview.com/chart/?symbol=NOVT){:target='_blank' rel='noopener'}</sup> | Mid |  626  |  703  |  630  |  630  |  504
+CSV <sup>[↗](https://www.tradingview.com/chart/?symbol=CSV){:target='_blank' rel='noopener'}</sup> | Small |  626  |  481  |  630  |  742  |  504
+FISI <sup>[↗](https://www.tradingview.com/chart/?symbol=FISI){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  606  |  742  |  504
+SMBK <sup>[↗](https://www.tradingview.com/chart/?symbol=SMBK){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  630  |  742  |  333
+BMRC <sup>[↗](https://www.tradingview.com/chart/?symbol=BMRC){:target='_blank' rel='noopener'}</sup> | Small |  626  |  703  |  630  |  742  |  333
+TTGT <sup>[↗](https://www.tradingview.com/chart/?symbol=TTGT){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  672  |  638  |  514
+VRRM <sup>[↗](https://www.tradingview.com/chart/?symbol=VRRM){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  672  |  638  |  514
+AMNB <sup>[↗](https://www.tradingview.com/chart/?symbol=AMNB){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  641  |  754  |  514
+MITK <sup>[↗](https://www.tradingview.com/chart/?symbol=MITK){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  641  |  754  |  514
+GFS <sup>[↗](https://www.tradingview.com/chart/?symbol=GFS){:target='_blank' rel='noopener'}</sup> | Mid |  652  |  720  |  744  |  361  |  514
+PANL <sup>[↗](https://www.tradingview.com/chart/?symbol=PANL){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  641  |  638  |  699
+WFG <sup>[↗](https://www.tradingview.com/chart/?symbol=WFG){:target='_blank' rel='noopener'}</sup> | |  652  |  490  |  641  |  754  |  699
+TSBK <sup>[↗](https://www.tradingview.com/chart/?symbol=TSBK){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  613  |  754  |  699
+CVNA <sup>[↗](https://www.tradingview.com/chart/?symbol=CVNA){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  672  |  499  |  699
+CLB <sup>[↗](https://www.tradingview.com/chart/?symbol=CLB){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  641  |  638  |  699
+RICK <sup>[↗](https://www.tradingview.com/chart/?symbol=RICK){:target='_blank' rel='noopener'}</sup> | Small |  652  |  490  |  672  |  638  |  699
+VTS <sup>[↗](https://www.tradingview.com/chart/?symbol=VTS){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  641  |  638  |  699
+TXG <sup>[↗](https://www.tradingview.com/chart/?symbol=TXG){:target='_blank' rel='noopener'}</sup> | Mid |  652  |  720  |  744  |  250  |  699
+BNL <sup>[↗](https://www.tradingview.com/chart/?symbol=BNL){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  613  |  754  |  699
+UWMC <sup>[↗](https://www.tradingview.com/chart/?symbol=UWMC){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  704  |  361  |  699
+OSTK <sup>[↗](https://www.tradingview.com/chart/?symbol=OSTK){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  613  |  754  |  699
+CFB <sup>[↗](https://www.tradingview.com/chart/?symbol=CFB){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  613  |  754  |  699
+STM <sup>[↗](https://www.tradingview.com/chart/?symbol=STM){:target='_blank' rel='noopener'}</sup> | Small |  652  |  490  |  641  |  754  |  699
+JOE <sup>[↗](https://www.tradingview.com/chart/?symbol=JOE){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  672  |  499  |  699
+WDS <sup>[↗](https://www.tradingview.com/chart/?symbol=WDS){:target='_blank' rel='noopener'}</sup> | Large |  652  |  490  |  672  |  638  |  699
+RILY <sup>[↗](https://www.tradingview.com/chart/?symbol=RILY){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  641  |  638  |  699
+JAKK <sup>[↗](https://www.tradingview.com/chart/?symbol=JAKK){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  613  |  754  |  699
+ROKU <sup>[↗](https://www.tradingview.com/chart/?symbol=ROKU){:target='_blank' rel='noopener'}</sup> | Mid |  652  |  720  |  641  |  638  |  699
+HIFS <sup>[↗](https://www.tradingview.com/chart/?symbol=HIFS){:target='_blank' rel='noopener'}</sup> | Small |  652  |  490  |  641  |  754  |  699
+DAKT <sup>[↗](https://www.tradingview.com/chart/?symbol=DAKT){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  641  |  638  |  699
+MG <sup>[↗](https://www.tradingview.com/chart/?symbol=MG){:target='_blank' rel='noopener'}</sup> | Small |  652  |  490  |  641  |  754  |  699
+ODC <sup>[↗](https://www.tradingview.com/chart/?symbol=ODC){:target='_blank' rel='noopener'}</sup> | Small |  652  |  720  |  641  |  638  |  699
+BHVN <sup>[↗](https://www.tradingview.com/chart/?symbol=BHVN){:target='_blank' rel='noopener'}</sup> | Small |  679  |  490  |  744  |  361  |  514
+ZYME <sup>[↗](https://www.tradingview.com/chart/?symbol=ZYME){:target='_blank' rel='noopener'}</sup> | Small |  679  |  490  |  672  |  638  |  514
+PTGX <sup>[↗](https://www.tradingview.com/chart/?symbol=PTGX){:target='_blank' rel='noopener'}</sup> | Small |  679  |  490  |  782  |  250  |  514
+OEC <sup>[↗](https://www.tradingview.com/chart/?symbol=OEC){:target='_blank' rel='noopener'}</sup> | Small |  679  |  720  |  672  |  361  |  699
+RBB <sup>[↗](https://www.tradingview.com/chart/?symbol=RBB){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+CNS <sup>[↗](https://www.tradingview.com/chart/?symbol=CNS){:target='_blank' rel='noopener'}</sup> | Small |  683  |  275  |  747  |  765  |  722
+ACNB <sup>[↗](https://www.tradingview.com/chart/?symbol=ACNB){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+MTSI <sup>[↗](https://www.tradingview.com/chart/?symbol=MTSI){:target='_blank' rel='noopener'}</sup> | Mid |  683  |  742  |  680  |  650  |  722
+BFB <sup>[↗](https://www.tradingview.com/chart/?symbol=BFB){:target='_blank' rel='noopener'}</sup> | Mid |  683  |  499  |  680  |  765  |  722
+PAAS <sup>[↗](https://www.tradingview.com/chart/?symbol=PAAS){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+PCB <sup>[↗](https://www.tradingview.com/chart/?symbol=PCB){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+PFIS <sup>[↗](https://www.tradingview.com/chart/?symbol=PFIS){:target='_blank' rel='noopener'}</sup> | Small |  683  |  499  |  680  |  765  |  722
+RBBN <sup>[↗](https://www.tradingview.com/chart/?symbol=RBBN){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+IIPR <sup>[↗](https://www.tradingview.com/chart/?symbol=IIPR){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  680  |  650  |  722
+SITM <sup>[↗](https://www.tradingview.com/chart/?symbol=SITM){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  680  |  650  |  722
+BEAM <sup>[↗](https://www.tradingview.com/chart/?symbol=BEAM){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  680  |  650  |  722
+ACCD <sup>[↗](https://www.tradingview.com/chart/?symbol=ACCD){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  705  |  501  |  722
+PKE <sup>[↗](https://www.tradingview.com/chart/?symbol=PKE){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+NWFL <sup>[↗](https://www.tradingview.com/chart/?symbol=NWFL){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+HLMN <sup>[↗](https://www.tradingview.com/chart/?symbol=HLMN){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+MNSB <sup>[↗](https://www.tradingview.com/chart/?symbol=MNSB){:target='_blank' rel='noopener'}</sup> | Small |  683  |  499  |  680  |  765  |  722
+CSTR <sup>[↗](https://www.tradingview.com/chart/?symbol=CSTR){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+CLSK <sup>[↗](https://www.tradingview.com/chart/?symbol=CLSK){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  680  |  650  |  722
+ORRF <sup>[↗](https://www.tradingview.com/chart/?symbol=ORRF){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+SFST <sup>[↗](https://www.tradingview.com/chart/?symbol=SFST){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+BWFG <sup>[↗](https://www.tradingview.com/chart/?symbol=BWFG){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  654  |  765  |  722
+WIX <sup>[↗](https://www.tradingview.com/chart/?symbol=WIX){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  705  |  650  |  522
+RMR <sup>[↗](https://www.tradingview.com/chart/?symbol=RMR){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  680  |  765  |  522
+ARR <sup>[↗](https://www.tradingview.com/chart/?symbol=ARR){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  705  |  650  |  522
+COG <sup>[↗](https://www.tradingview.com/chart/?symbol=COG){:target='_blank' rel='noopener'}</sup> | |  683  |  742  |  705  |  650  |  522
+HLN <sup>[↗](https://www.tradingview.com/chart/?symbol=HLN){:target='_blank' rel='noopener'}</sup> | Large |  683  |  742  |  705  |  650  |  522
+DUOL <sup>[↗](https://www.tradingview.com/chart/?symbol=DUOL){:target='_blank' rel='noopener'}</sup> | Small |  683  |  499  |  826  |  365  |  522
+TRC <sup>[↗](https://www.tradingview.com/chart/?symbol=TRC){:target='_blank' rel='noopener'}</sup> | Small |  683  |  742  |  705  |  765  |  335
+NTLA <sup>[↗](https://www.tradingview.com/chart/?symbol=NTLA){:target='_blank' rel='noopener'}</sup> | Small |  712  |  499  |  705  |  501  |  722
+CGEM <sup>[↗](https://www.tradingview.com/chart/?symbol=CGEM){:target='_blank' rel='noopener'}</sup> | Small |  712  |  499  |  680  |  650  |  722
+IDYA <sup>[↗](https://www.tradingview.com/chart/?symbol=IDYA){:target='_blank' rel='noopener'}</sup> | Small |  712  |  499  |  826  |  252  |  522
+ANAB <sup>[↗](https://www.tradingview.com/chart/?symbol=ANAB){:target='_blank' rel='noopener'}</sup> | Small |  712  |  499  |  705  |  650  |  522
+MODN <sup>[↗](https://www.tradingview.com/chart/?symbol=MODN){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  783  |  661  |  336
+ALKS <sup>[↗](https://www.tradingview.com/chart/?symbol=ALKS){:target='_blank' rel='noopener'}</sup> | Small |  716  |  507  |  783  |  783  |  336
+OSW <sup>[↗](https://www.tradingview.com/chart/?symbol=OSW){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  783  |  661  |  336
+TTSH <sup>[↗](https://www.tradingview.com/chart/?symbol=TTSH){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  690  |  783  |  746
+STNE <sup>[↗](https://www.tradingview.com/chart/?symbol=STNE){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  713  |  661  |  746
+CMCL <sup>[↗](https://www.tradingview.com/chart/?symbol=CMCL){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  690  |  783  |  746
+FRGI <sup>[↗](https://www.tradingview.com/chart/?symbol=FRGI){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  690  |  783  |  746
+ESCA <sup>[↗](https://www.tradingview.com/chart/?symbol=ESCA){:target='_blank' rel='noopener'}</sup> | Small |  716  |  507  |  713  |  783  |  746
+BXMT <sup>[↗](https://www.tradingview.com/chart/?symbol=BXMT){:target='_blank' rel='noopener'}</sup> | |  716  |  766  |  690  |  783  |  746
+OCN <sup>[↗](https://www.tradingview.com/chart/?symbol=OCN){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  690  |  783  |  746
+ALTR <sup>[↗](https://www.tradingview.com/chart/?symbol=ALTR){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  783  |  366  |  746
+CALX <sup>[↗](https://www.tradingview.com/chart/?symbol=CALX){:target='_blank' rel='noopener'}</sup> | Mid |  716  |  766  |  713  |  661  |  746
+CWCO <sup>[↗](https://www.tradingview.com/chart/?symbol=CWCO){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  713  |  661  |  746
+SQSP <sup>[↗](https://www.tradingview.com/chart/?symbol=SQSP){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  713  |  661  |  746
+DNUT <sup>[↗](https://www.tradingview.com/chart/?symbol=DNUT){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  690  |  783  |  746
+PUBM <sup>[↗](https://www.tradingview.com/chart/?symbol=PUBM){:target='_blank' rel='noopener'}</sup> | Small |  716  |  507  |  713  |  783  |  746
+SOI <sup>[↗](https://www.tradingview.com/chart/?symbol=SOI){:target='_blank' rel='noopener'}</sup> | Small |  716  |  507  |  713  |  783  |  746
+BWB <sup>[↗](https://www.tradingview.com/chart/?symbol=BWB){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  713  |  783  |  530
+MELI <sup>[↗](https://www.tradingview.com/chart/?symbol=MELI){:target='_blank' rel='noopener'}</sup> | Large |  716  |  360  |  870  |  503  |  530
+ML <sup>[↗](https://www.tradingview.com/chart/?symbol=ML){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  713  |  783  |  530
+OABI <sup>[↗](https://www.tradingview.com/chart/?symbol=OABI){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  713  |  783  |  530
+TRUE <sup>[↗](https://www.tradingview.com/chart/?symbol=TRUE){:target='_blank' rel='noopener'}</sup> | Small |  716  |  507  |  748  |  783  |  530
+WTBA <sup>[↗](https://www.tradingview.com/chart/?symbol=WTBA){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  713  |  783  |  530
+CZNC <sup>[↗](https://www.tradingview.com/chart/?symbol=CZNC){:target='_blank' rel='noopener'}</sup> | Small |  716  |  766  |  713  |  783  |  530
+CRNX <sup>[↗](https://www.tradingview.com/chart/?symbol=CRNX){:target='_blank' rel='noopener'}</sup> | Small |  740  |  507  |  783  |  661  |  336
+KRYS <sup>[↗](https://www.tradingview.com/chart/?symbol=KRYS){:target='_blank' rel='noopener'}</sup> | Small |  740  |  507  |  828  |  253  |  746
+MORF <sup>[↗](https://www.tradingview.com/chart/?symbol=MORF){:target='_blank' rel='noopener'}</sup> | Small |  740  |  507  |  828  |  253  |  746
+EDIT <sup>[↗](https://www.tradingview.com/chart/?symbol=EDIT){:target='_blank' rel='noopener'}</sup> | Small |  740  |  507  |  713  |  661  |  746
+FATE <sup>[↗](https://www.tradingview.com/chart/?symbol=FATE){:target='_blank' rel='noopener'}</sup> | Small |  740  |  507  |  713  |  661  |  746
+SFIX <sup>[↗](https://www.tradingview.com/chart/?symbol=SFIX){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+TRNO <sup>[↗](https://www.tradingview.com/chart/?symbol=TRNO){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+ALX <sup>[↗](https://www.tradingview.com/chart/?symbol=ALX){:target='_blank' rel='noopener'}</sup> | Small |  745  |  517  |  749  |  799  |  764
+DFH <sup>[↗](https://www.tradingview.com/chart/?symbol=DFH){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  749  |  670  |  764
+GIL <sup>[↗](https://www.tradingview.com/chart/?symbol=GIL){:target='_blank' rel='noopener'}</sup> | Small |  745  |  517  |  749  |  799  |  764
+CYRX <sup>[↗](https://www.tradingview.com/chart/?symbol=CYRX){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+PETQ <sup>[↗](https://www.tradingview.com/chart/?symbol=PETQ){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+LBTYA <sup>[↗](https://www.tradingview.com/chart/?symbol=LBTYA){:target='_blank' rel='noopener'}</sup> | Large |  745  |  517  |  749  |  799  |  764
+NETI <sup>[↗](https://www.tradingview.com/chart/?symbol=NETI){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+RNGR <sup>[↗](https://www.tradingview.com/chart/?symbol=RNGR){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+INFA <sup>[↗](https://www.tradingview.com/chart/?symbol=INFA){:target='_blank' rel='noopener'}</sup> | Mid |  745  |  784  |  727  |  799  |  764
+ADMA <sup>[↗](https://www.tradingview.com/chart/?symbol=ADMA){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  749  |  670  |  764
+CCB <sup>[↗](https://www.tradingview.com/chart/?symbol=CCB){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+ITI <sup>[↗](https://www.tradingview.com/chart/?symbol=ITI){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+BCOV <sup>[↗](https://www.tradingview.com/chart/?symbol=BCOV){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+APPF <sup>[↗](https://www.tradingview.com/chart/?symbol=APPF){:target='_blank' rel='noopener'}</sup> | Small |  745  |  517  |  830  |  504  |  764
+GCI <sup>[↗](https://www.tradingview.com/chart/?symbol=GCI){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+DH <sup>[↗](https://www.tradingview.com/chart/?symbol=DH){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+LMND <sup>[↗](https://www.tradingview.com/chart/?symbol=LMND){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  749  |  670  |  764
+SUN <sup>[↗](https://www.tradingview.com/chart/?symbol=SUN){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+NKSH <sup>[↗](https://www.tradingview.com/chart/?symbol=NKSH){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  727  |  799  |  764
+NVO <sup>[↗](https://www.tradingview.com/chart/?symbol=NVO){:target='_blank' rel='noopener'}</sup> | Large |  745  |  517  |  788  |  799  |  537
+PEGA <sup>[↗](https://www.tradingview.com/chart/?symbol=PEGA){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  749  |  799  |  537
+NVEC <sup>[↗](https://www.tradingview.com/chart/?symbol=NVEC){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  749  |  799  |  537
+GOOD <sup>[↗](https://www.tradingview.com/chart/?symbol=GOOD){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  749  |  799  |  537
+OWL <sup>[↗](https://www.tradingview.com/chart/?symbol=OWL){:target='_blank' rel='noopener'}</sup> | Mid |  745  |  784  |  788  |  670  |  537
+KNSA <sup>[↗](https://www.tradingview.com/chart/?symbol=KNSA){:target='_blank' rel='noopener'}</sup> | Small |  745  |  784  |  788  |  670  |  537
+IBN <sup>[↗](https://www.tradingview.com/chart/?symbol=IBN){:target='_blank' rel='noopener'}</sup> | Large |  745  |  784  |  788  |  799  |  340
+REPL <sup>[↗](https://www.tradingview.com/chart/?symbol=REPL){:target='_blank' rel='noopener'}</sup> | Small |  773  |  517  |  749  |  670  |  764
+RCKT <sup>[↗](https://www.tradingview.com/chart/?symbol=RCKT){:target='_blank' rel='noopener'}</sup> | Small |  773  |  517  |  830  |  367  |  764
+EQRX <sup>[↗](https://www.tradingview.com/chart/?symbol=EQRX){:target='_blank' rel='noopener'}</sup> | Small |  773  |  517  |  749  |  670  |  764
+CBAY <sup>[↗](https://www.tradingview.com/chart/?symbol=CBAY){:target='_blank' rel='noopener'}</sup> | Small |  773  |  517  |  788  |  504  |  764
+DNLI <sup>[↗](https://www.tradingview.com/chart/?symbol=DNLI){:target='_blank' rel='noopener'}</sup> | Small |  773  |  517  |  749  |  670  |  764
+CIM <sup>[↗](https://www.tradingview.com/chart/?symbol=CIM){:target='_blank' rel='noopener'}</sup> | Small |  773  |  784  |  727  |  670  |  764
+ETNB <sup>[↗](https://www.tradingview.com/chart/?symbol=ETNB){:target='_blank' rel='noopener'}</sup> | Small |  773  |  517  |  871  |  255  |  764
+BMEA <sup>[↗](https://www.tradingview.com/chart/?symbol=BMEA){:target='_blank' rel='noopener'}</sup> | Small |  773  |  517  |  924  |  255  |  537
+SOVO <sup>[↗](https://www.tradingview.com/chart/?symbol=SOVO){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  832  |  679  |  544
+JBI <sup>[↗](https://www.tradingview.com/chart/?symbol=JBI){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  793  |  821  |  544
+BOC <sup>[↗](https://www.tradingview.com/chart/?symbol=BOC){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+SWIM <sup>[↗](https://www.tradingview.com/chart/?symbol=SWIM){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+GRWG <sup>[↗](https://www.tradingview.com/chart/?symbol=GRWG){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  793  |  679  |  792
+METC <sup>[↗](https://www.tradingview.com/chart/?symbol=METC){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+INDI <sup>[↗](https://www.tradingview.com/chart/?symbol=INDI){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  832  |  506  |  792
+ZIP <sup>[↗](https://www.tradingview.com/chart/?symbol=ZIP){:target='_blank' rel='noopener'}</sup> | Small |  781  |  529  |  793  |  821  |  792
+AUR <sup>[↗](https://www.tradingview.com/chart/?symbol=AUR){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+KSU <sup>[↗](https://www.tradingview.com/chart/?symbol=KSU){:target='_blank' rel='noopener'}</sup> | Mid |  781  |  808  |  761  |  821  |  792
+CDNA <sup>[↗](https://www.tradingview.com/chart/?symbol=CDNA){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+FWRG <sup>[↗](https://www.tradingview.com/chart/?symbol=FWRG){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+PBCT <sup>[↗](https://www.tradingview.com/chart/?symbol=PBCT){:target='_blank' rel='noopener'}</sup> | Mid |  781  |  808  |  761  |  821  |  792
+CARM <sup>[↗](https://www.tradingview.com/chart/?symbol=CARM){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+CABA <sup>[↗](https://www.tradingview.com/chart/?symbol=CABA){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  832  |  506  |  792
+SGRY <sup>[↗](https://www.tradingview.com/chart/?symbol=SGRY){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+PCTI <sup>[↗](https://www.tradingview.com/chart/?symbol=PCTI){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+KTCC <sup>[↗](https://www.tradingview.com/chart/?symbol=KTCC){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+SMFG <sup>[↗](https://www.tradingview.com/chart/?symbol=SMFG){:target='_blank' rel='noopener'}</sup> | Large |  781  |  808  |  761  |  821  |  792
+INGN <sup>[↗](https://www.tradingview.com/chart/?symbol=INGN){:target='_blank' rel='noopener'}</sup> | Small |  781  |  529  |  793  |  821  |  792
+SC <sup>[↗](https://www.tradingview.com/chart/?symbol=SC){:target='_blank' rel='noopener'}</sup> | Mid |  781  |  808  |  761  |  821  |  792
+TARO <sup>[↗](https://www.tradingview.com/chart/?symbol=TARO){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+GOGL <sup>[↗](https://www.tradingview.com/chart/?symbol=GOGL){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+SIVB <sup>[↗](https://www.tradingview.com/chart/?symbol=SIVB){:target='_blank' rel='noopener'}</sup> | |  781  |  529  |  872  |  506  |  792
+PNTG <sup>[↗](https://www.tradingview.com/chart/?symbol=PNTG){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+NEWR <sup>[↗](https://www.tradingview.com/chart/?symbol=NEWR){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  832  |  506  |  792
+NLSN <sup>[↗](https://www.tradingview.com/chart/?symbol=NLSN){:target='_blank' rel='noopener'}</sup> | Mid |  781  |  808  |  761  |  821  |  792
+HCP <sup>[↗](https://www.tradingview.com/chart/?symbol=HCP){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  793  |  679  |  792
+CPHC <sup>[↗](https://www.tradingview.com/chart/?symbol=CPHC){:target='_blank' rel='noopener'}</sup> | Small |  781  |  529  |  793  |  821  |  792
+MLNK <sup>[↗](https://www.tradingview.com/chart/?symbol=MLNK){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+KGC <sup>[↗](https://www.tradingview.com/chart/?symbol=KGC){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+AMBA <sup>[↗](https://www.tradingview.com/chart/?symbol=AMBA){:target='_blank' rel='noopener'}</sup> | Small |  781  |  808  |  761  |  821  |  792
+INBX <sup>[↗](https://www.tradingview.com/chart/?symbol=INBX){:target='_blank' rel='noopener'}</sup> | Small |  813  |  529  |  872  |  368  |  792
+MCRB <sup>[↗](https://www.tradingview.com/chart/?symbol=MCRB){:target='_blank' rel='noopener'}</sup> | Small |  813  |  529  |  793  |  679  |  792
+STOK <sup>[↗](https://www.tradingview.com/chart/?symbol=STOK){:target='_blank' rel='noopener'}</sup> | Small |  813  |  529  |  793  |  679  |  792
+ARVN <sup>[↗](https://www.tradingview.com/chart/?symbol=ARVN){:target='_blank' rel='noopener'}</sup> | Small |  813  |  529  |  793  |  679  |  792
+TGTX <sup>[↗](https://www.tradingview.com/chart/?symbol=TGTX){:target='_blank' rel='noopener'}</sup> | Small |  817  |  529  |  832  |  368  |  792
+RMNI <sup>[↗](https://www.tradingview.com/chart/?symbol=RMNI){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+EWCZ <sup>[↗](https://www.tradingview.com/chart/?symbol=EWCZ){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+CBL <sup>[↗](https://www.tradingview.com/chart/?symbol=CBL){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+TSQ <sup>[↗](https://www.tradingview.com/chart/?symbol=TSQ){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+AXNX <sup>[↗](https://www.tradingview.com/chart/?symbol=AXNX){:target='_blank' rel='noopener'}</sup> | Small |  818  |  538  |  837  |  846  |  827
+ORIC <sup>[↗](https://www.tradingview.com/chart/?symbol=ORIC){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  837  |  685  |  827
+JKS <sup>[↗](https://www.tradingview.com/chart/?symbol=JKS){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+ACHR <sup>[↗](https://www.tradingview.com/chart/?symbol=ACHR){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+APPN <sup>[↗](https://www.tradingview.com/chart/?symbol=APPN){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  874  |  510  |  827
+MOMO <sup>[↗](https://www.tradingview.com/chart/?symbol=MOMO){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+SLGC <sup>[↗](https://www.tradingview.com/chart/?symbol=SLGC){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+COUR <sup>[↗](https://www.tradingview.com/chart/?symbol=COUR){:target='_blank' rel='noopener'}</sup> | Small |  818  |  538  |  837  |  846  |  827
+EML <sup>[↗](https://www.tradingview.com/chart/?symbol=EML){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+NKLA <sup>[↗](https://www.tradingview.com/chart/?symbol=NKLA){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+MSTR <sup>[↗](https://www.tradingview.com/chart/?symbol=MSTR){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  874  |  510  |  827
+GLUE <sup>[↗](https://www.tradingview.com/chart/?symbol=GLUE){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+ATHA <sup>[↗](https://www.tradingview.com/chart/?symbol=ATHA){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+SANA <sup>[↗](https://www.tradingview.com/chart/?symbol=SANA){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+PLYM <sup>[↗](https://www.tradingview.com/chart/?symbol=PLYM){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+TSVT <sup>[↗](https://www.tradingview.com/chart/?symbol=TSVT){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+HLIO <sup>[↗](https://www.tradingview.com/chart/?symbol=HLIO){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+INTT <sup>[↗](https://www.tradingview.com/chart/?symbol=INTT){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+VZIO <sup>[↗](https://www.tradingview.com/chart/?symbol=VZIO){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+ASRV <sup>[↗](https://www.tradingview.com/chart/?symbol=ASRV){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+LFVN <sup>[↗](https://www.tradingview.com/chart/?symbol=LFVN){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+SPCE <sup>[↗](https://www.tradingview.com/chart/?symbol=SPCE){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+QRHC <sup>[↗](https://www.tradingview.com/chart/?symbol=QRHC){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+INTA <sup>[↗](https://www.tradingview.com/chart/?symbol=INTA){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  874  |  510  |  827
+TRTX <sup>[↗](https://www.tradingview.com/chart/?symbol=TRTX){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+LWAY <sup>[↗](https://www.tradingview.com/chart/?symbol=LWAY){:target='_blank' rel='noopener'}</sup> | Small |  818  |  836  |  802  |  846  |  827
+LQDA <sup>[↗](https://www.tradingview.com/chart/?symbol=LQDA){:target='_blank' rel='noopener'}</sup> | Small |  848  |  538  |  925  |  370  |  827
+AGEN <sup>[↗](https://www.tradingview.com/chart/?symbol=AGEN){:target='_blank' rel='noopener'}</sup> | Small |  848  |  538  |  837  |  685  |  827
+ACLX <sup>[↗](https://www.tradingview.com/chart/?symbol=ACLX){:target='_blank' rel='noopener'}</sup> | Small |  850  |  538  |  925  |  370  |  546
+PLRX <sup>[↗](https://www.tradingview.com/chart/?symbol=PLRX){:target='_blank' rel='noopener'}</sup> | Small |  850  |  538  |  837  |  510  |  827
+GCMG <sup>[↗](https://www.tradingview.com/chart/?symbol=GCMG){:target='_blank' rel='noopener'}</sup> | Small |  852  |  544  |  877  |  872  |  860
+DOCN <sup>[↗](https://www.tradingview.com/chart/?symbol=DOCN){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+DRE <sup>[↗](https://www.tradingview.com/chart/?symbol=DRE){:target='_blank' rel='noopener'}</sup> | |  852  |  864  |  877  |  687  |  860
+ORC <sup>[↗](https://www.tradingview.com/chart/?symbol=ORC){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+KLR <sup>[↗](https://www.tradingview.com/chart/?symbol=KLR){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+SRT <sup>[↗](https://www.tradingview.com/chart/?symbol=SRT){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+ICPT <sup>[↗](https://www.tradingview.com/chart/?symbol=ICPT){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+ASAN <sup>[↗](https://www.tradingview.com/chart/?symbol=ASAN){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  927  |  514  |  860
+NESR <sup>[↗](https://www.tradingview.com/chart/?symbol=NESR){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+UIS <sup>[↗](https://www.tradingview.com/chart/?symbol=UIS){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+LAW <sup>[↗](https://www.tradingview.com/chart/?symbol=LAW){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+SPT <sup>[↗](https://www.tradingview.com/chart/?symbol=SPT){:target='_blank' rel='noopener'}</sup> | Small |  852  |  544  |  877  |  872  |  860
+VERA <sup>[↗](https://www.tradingview.com/chart/?symbol=VERA){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  927  |  514  |  860
+YORW <sup>[↗](https://www.tradingview.com/chart/?symbol=YORW){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+ORGN <sup>[↗](https://www.tradingview.com/chart/?symbol=ORGN){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+FFNW <sup>[↗](https://www.tradingview.com/chart/?symbol=FFNW){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+CD <sup>[↗](https://www.tradingview.com/chart/?symbol=CD){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+QUOT <sup>[↗](https://www.tradingview.com/chart/?symbol=QUOT){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+MCFE <sup>[↗](https://www.tradingview.com/chart/?symbol=MCFE){:target='_blank' rel='noopener'}</sup> | Large |  852  |  864  |  842  |  872  |  860
+MEG <sup>[↗](https://www.tradingview.com/chart/?symbol=MEG){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+UBOH <sup>[↗](https://www.tradingview.com/chart/?symbol=UBOH){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+VIST <sup>[↗](https://www.tradingview.com/chart/?symbol=VIST){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+BYND <sup>[↗](https://www.tradingview.com/chart/?symbol=BYND){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  877  |  687  |  860
+GANX <sup>[↗](https://www.tradingview.com/chart/?symbol=GANX){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+INSE <sup>[↗](https://www.tradingview.com/chart/?symbol=INSE){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+POWW <sup>[↗](https://www.tradingview.com/chart/?symbol=POWW){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+MUFG <sup>[↗](https://www.tradingview.com/chart/?symbol=MUFG){:target='_blank' rel='noopener'}</sup> | Large |  852  |  864  |  842  |  872  |  860
+VMD <sup>[↗](https://www.tradingview.com/chart/?symbol=VMD){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+FVRR <sup>[↗](https://www.tradingview.com/chart/?symbol=FVRR){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  877  |  687  |  860
+MRNS <sup>[↗](https://www.tradingview.com/chart/?symbol=MRNS){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  988  |  372  |  860
+MNTK <sup>[↗](https://www.tradingview.com/chart/?symbol=MNTK){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+ALPN <sup>[↗](https://www.tradingview.com/chart/?symbol=ALPN){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+SCWX <sup>[↗](https://www.tradingview.com/chart/?symbol=SCWX){:target='_blank' rel='noopener'}</sup> | Small |  852  |  544  |  877  |  872  |  860
+LSPD <sup>[↗](https://www.tradingview.com/chart/?symbol=LSPD){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+INZY <sup>[↗](https://www.tradingview.com/chart/?symbol=INZY){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+MNTX <sup>[↗](https://www.tradingview.com/chart/?symbol=MNTX){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  842  |  872  |  860
+DSGX <sup>[↗](https://www.tradingview.com/chart/?symbol=DSGX){:target='_blank' rel='noopener'}</sup> | |  852  |  864  |  842  |  872  |  860
+CO <sup>[↗](https://www.tradingview.com/chart/?symbol=CO){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  927  |  872  |  341
+AUDC <sup>[↗](https://www.tradingview.com/chart/?symbol=AUDC){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  877  |  872  |  547
+TGLS <sup>[↗](https://www.tradingview.com/chart/?symbol=TGLS){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  877  |  872  |  547
+PSTL <sup>[↗](https://www.tradingview.com/chart/?symbol=PSTL){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  877  |  872  |  547
+ARCO <sup>[↗](https://www.tradingview.com/chart/?symbol=ARCO){:target='_blank' rel='noopener'}</sup> | Small |  852  |  864  |  877  |  872  |  547
+DICE <sup>[↗](https://www.tradingview.com/chart/?symbol=DICE){:target='_blank' rel='noopener'}</sup> | Small |  894  |  544  |  927  |  514  |  860
+MLTX <sup>[↗](https://www.tradingview.com/chart/?symbol=MLTX){:target='_blank' rel='noopener'}</sup> | Small |  894  |  544  |  988  |  372  |  860
+INFO <sup>[↗](https://www.tradingview.com/chart/?symbol=INFO){:target='_blank' rel='noopener'}</sup> | Large |  896  |  903  |  887  |  908  |  899
+ARAY <sup>[↗](https://www.tradingview.com/chart/?symbol=ARAY){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+PYXS <sup>[↗](https://www.tradingview.com/chart/?symbol=PYXS){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+PD <sup>[↗](https://www.tradingview.com/chart/?symbol=PD){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  931  |  690  |  899
+TRDA <sup>[↗](https://www.tradingview.com/chart/?symbol=TRDA){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+LIFE <sup>[↗](https://www.tradingview.com/chart/?symbol=LIFE){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+SDRL <sup>[↗](https://www.tradingview.com/chart/?symbol=SDRL){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+ACMR <sup>[↗](https://www.tradingview.com/chart/?symbol=ACMR){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+EAST <sup>[↗](https://www.tradingview.com/chart/?symbol=EAST){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+CRWS <sup>[↗](https://www.tradingview.com/chart/?symbol=CRWS){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+DZSI <sup>[↗](https://www.tradingview.com/chart/?symbol=DZSI){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+DRD <sup>[↗](https://www.tradingview.com/chart/?symbol=DRD){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+ALTO <sup>[↗](https://www.tradingview.com/chart/?symbol=ALTO){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+PX <sup>[↗](https://www.tradingview.com/chart/?symbol=PX){:target='_blank' rel='noopener'}</sup> | Small |  896  |  549  |  931  |  908  |  899
+FTAI <sup>[↗](https://www.tradingview.com/chart/?symbol=FTAI){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  931  |  690  |  899
+SELB <sup>[↗](https://www.tradingview.com/chart/?symbol=SELB){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+INOD <sup>[↗](https://www.tradingview.com/chart/?symbol=INOD){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+UNB <sup>[↗](https://www.tradingview.com/chart/?symbol=UNB){:target='_blank' rel='noopener'}</sup> | Small |  896  |  549  |  931  |  908  |  899
+WKHS <sup>[↗](https://www.tradingview.com/chart/?symbol=WKHS){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+GEFB <sup>[↗](https://www.tradingview.com/chart/?symbol=GEFB){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+ACET <sup>[↗](https://www.tradingview.com/chart/?symbol=ACET){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+BCRX <sup>[↗](https://www.tradingview.com/chart/?symbol=BCRX){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+ABCM <sup>[↗](https://www.tradingview.com/chart/?symbol=ABCM){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+FTCH <sup>[↗](https://www.tradingview.com/chart/?symbol=FTCH){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+RWAY <sup>[↗](https://www.tradingview.com/chart/?symbol=RWAY){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+APTX <sup>[↗](https://www.tradingview.com/chart/?symbol=APTX){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+AADI <sup>[↗](https://www.tradingview.com/chart/?symbol=AADI){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+EGIO <sup>[↗](https://www.tradingview.com/chart/?symbol=EGIO){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+RFIL <sup>[↗](https://www.tradingview.com/chart/?symbol=RFIL){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+BOXL <sup>[↗](https://www.tradingview.com/chart/?symbol=BOXL){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+CHMI <sup>[↗](https://www.tradingview.com/chart/?symbol=CHMI){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+SKIN <sup>[↗](https://www.tradingview.com/chart/?symbol=SKIN){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+RLMD <sup>[↗](https://www.tradingview.com/chart/?symbol=RLMD){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+SCPH <sup>[↗](https://www.tradingview.com/chart/?symbol=SCPH){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+LMST <sup>[↗](https://www.tradingview.com/chart/?symbol=LMST){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+AIMC <sup>[↗](https://www.tradingview.com/chart/?symbol=AIMC){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+TCX <sup>[↗](https://www.tradingview.com/chart/?symbol=TCX){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+VHC <sup>[↗](https://www.tradingview.com/chart/?symbol=VHC){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+NE <sup>[↗](https://www.tradingview.com/chart/?symbol=NE){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  931  |  690  |  899
+SMID <sup>[↗](https://www.tradingview.com/chart/?symbol=SMID){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+RVNC <sup>[↗](https://www.tradingview.com/chart/?symbol=RVNC){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  931  |  690  |  899
+NEWT <sup>[↗](https://www.tradingview.com/chart/?symbol=NEWT){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+BRP <sup>[↗](https://www.tradingview.com/chart/?symbol=BRP){:target='_blank' rel='noopener'}</sup> | Small |  896  |  903  |  887  |  908  |  899
+ARQT <sup>[↗](https://www.tradingview.com/chart/?symbol=ARQT){:target='_blank' rel='noopener'}</sup> | Small |  939  |  549  |  990  |  690  |  551
+AMRS <sup>[↗](https://www.tradingview.com/chart/?symbol=AMRS){:target='_blank' rel='noopener'}</sup> | Small |  939  |  549  |  931  |  690  |  899
+IBRX <sup>[↗](https://www.tradingview.com/chart/?symbol=IBRX){:target='_blank' rel='noopener'}</sup> | Small |  939  |  549  |  931  |  690  |  899
+ABUS <sup>[↗](https://www.tradingview.com/chart/?symbol=ABUS){:target='_blank' rel='noopener'}</sup> | Small |  939  |  549  |  931  |  690  |  899
+MLYS <sup>[↗](https://www.tradingview.com/chart/?symbol=MLYS){:target='_blank' rel='noopener'}</sup> | Small |  939  |  549  |  931  |  690  |  899
+FLOW <sup>[↗](https://www.tradingview.com/chart/?symbol=FLOW){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+ECHO <sup>[↗](https://www.tradingview.com/chart/?symbol=ECHO){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+CALA <sup>[↗](https://www.tradingview.com/chart/?symbol=CALA){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+MASS <sup>[↗](https://www.tradingview.com/chart/?symbol=MASS){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+ESTA <sup>[↗](https://www.tradingview.com/chart/?symbol=ESTA){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+LLNW <sup>[↗](https://www.tradingview.com/chart/?symbol=LLNW){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+PROF <sup>[↗](https://www.tradingview.com/chart/?symbol=PROF){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+CARV <sup>[↗](https://www.tradingview.com/chart/?symbol=CARV){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+CPSH <sup>[↗](https://www.tradingview.com/chart/?symbol=CPSH){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+JNCE <sup>[↗](https://www.tradingview.com/chart/?symbol=JNCE){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+CAPR <sup>[↗](https://www.tradingview.com/chart/?symbol=CAPR){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+MNOV <sup>[↗](https://www.tradingview.com/chart/?symbol=MNOV){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+TVTY <sup>[↗](https://www.tradingview.com/chart/?symbol=TVTY){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+SEMR <sup>[↗](https://www.tradingview.com/chart/?symbol=SEMR){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+ABTX <sup>[↗](https://www.tradingview.com/chart/?symbol=ABTX){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+KALA <sup>[↗](https://www.tradingview.com/chart/?symbol=KALA){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+FENC <sup>[↗](https://www.tradingview.com/chart/?symbol=FENC){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+GPX <sup>[↗](https://www.tradingview.com/chart/?symbol=GPX){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+TNGX <sup>[↗](https://www.tradingview.com/chart/?symbol=TNGX){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+VEC <sup>[↗](https://www.tradingview.com/chart/?symbol=VEC){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+UPLD <sup>[↗](https://www.tradingview.com/chart/?symbol=UPLD){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+SNCR <sup>[↗](https://www.tradingview.com/chart/?symbol=SNCR){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+INOV <sup>[↗](https://www.tradingview.com/chart/?symbol=INOV){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+DOMH <sup>[↗](https://www.tradingview.com/chart/?symbol=DOMH){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+SNSE <sup>[↗](https://www.tradingview.com/chart/?symbol=SNSE){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+WEAV <sup>[↗](https://www.tradingview.com/chart/?symbol=WEAV){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  991  |  699  |  946
+AGFS <sup>[↗](https://www.tradingview.com/chart/?symbol=AGFS){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+EBSB <sup>[↗](https://www.tradingview.com/chart/?symbol=EBSB){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+FUBO <sup>[↗](https://www.tradingview.com/chart/?symbol=FUBO){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+BHIL <sup>[↗](https://www.tradingview.com/chart/?symbol=BHIL){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+TDCX <sup>[↗](https://www.tradingview.com/chart/?symbol=TDCX){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+CURV <sup>[↗](https://www.tradingview.com/chart/?symbol=CURV){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+ASTC <sup>[↗](https://www.tradingview.com/chart/?symbol=ASTC){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+ACRV <sup>[↗](https://www.tradingview.com/chart/?symbol=ACRV){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+CRDF <sup>[↗](https://www.tradingview.com/chart/?symbol=CRDF){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+AIRS <sup>[↗](https://www.tradingview.com/chart/?symbol=AIRS){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  991  |  699  |  946
+FIXX <sup>[↗](https://www.tradingview.com/chart/?symbol=FIXX){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+TENB <sup>[↗](https://www.tradingview.com/chart/?symbol=TENB){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+EVGO <sup>[↗](https://www.tradingview.com/chart/?symbol=EVGO){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+AGTC <sup>[↗](https://www.tradingview.com/chart/?symbol=AGTC){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+MLVF <sup>[↗](https://www.tradingview.com/chart/?symbol=MLVF){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+MRAM <sup>[↗](https://www.tradingview.com/chart/?symbol=MRAM){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+AKBA <sup>[↗](https://www.tradingview.com/chart/?symbol=AKBA){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+VWTR <sup>[↗](https://www.tradingview.com/chart/?symbol=VWTR){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+APLD <sup>[↗](https://www.tradingview.com/chart/?symbol=APLD){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  991  |  699  |  946
+CRNT <sup>[↗](https://www.tradingview.com/chart/?symbol=CRNT){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+PTRA <sup>[↗](https://www.tradingview.com/chart/?symbol=PTRA){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+DOMO <sup>[↗](https://www.tradingview.com/chart/?symbol=DOMO){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+RGS <sup>[↗](https://www.tradingview.com/chart/?symbol=RGS){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+PSTI <sup>[↗](https://www.tradingview.com/chart/?symbol=PSTI){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  941  |  947  |  946
+ICAD <sup>[↗](https://www.tradingview.com/chart/?symbol=ICAD){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  991  |  947  |  552
+OBIO <sup>[↗](https://www.tradingview.com/chart/?symbol=OBIO){:target='_blank' rel='noopener'}</sup> | Small |  944  |  944  |  991  |  947  |  552
+BIOX <sup>[↗](https://www.tradingview.com/chart/?symbol=BIOX){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+XENT <sup>[↗](https://www.tradingview.com/chart/?symbol=XENT){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+ADX <sup>[↗](https://www.tradingview.com/chart/?symbol=ADX){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+ATNX <sup>[↗](https://www.tradingview.com/chart/?symbol=ATNX){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+CHMA <sup>[↗](https://www.tradingview.com/chart/?symbol=CHMA){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+MTLS <sup>[↗](https://www.tradingview.com/chart/?symbol=MTLS){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+PRSR <sup>[↗](https://www.tradingview.com/chart/?symbol=PRSR){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+RLX <sup>[↗](https://www.tradingview.com/chart/?symbol=RLX){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+GILT <sup>[↗](https://www.tradingview.com/chart/?symbol=GILT){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+KIN <sup>[↗](https://www.tradingview.com/chart/?symbol=KIN){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+BHG <sup>[↗](https://www.tradingview.com/chart/?symbol=BHG){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+ASTR <sup>[↗](https://www.tradingview.com/chart/?symbol=ASTR){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+TYME <sup>[↗](https://www.tradingview.com/chart/?symbol=TYME){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+ONE <sup>[↗](https://www.tradingview.com/chart/?symbol=ONE){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+CNST <sup>[↗](https://www.tradingview.com/chart/?symbol=CNST){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+VYNE <sup>[↗](https://www.tradingview.com/chart/?symbol=VYNE){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+TIL <sup>[↗](https://www.tradingview.com/chart/?symbol=TIL){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+COE <sup>[↗](https://www.tradingview.com/chart/?symbol=COE){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+APGN <sup>[↗](https://www.tradingview.com/chart/?symbol=APGN){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+APPH <sup>[↗](https://www.tradingview.com/chart/?symbol=APPH){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+AKYA <sup>[↗](https://www.tradingview.com/chart/?symbol=AKYA){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+SHIP <sup>[↗](https://www.tradingview.com/chart/?symbol=SHIP){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+MSGM <sup>[↗](https://www.tradingview.com/chart/?symbol=MSGM){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+DDL <sup>[↗](https://www.tradingview.com/chart/?symbol=DDL){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+ENOB <sup>[↗](https://www.tradingview.com/chart/?symbol=ENOB){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+NIU <sup>[↗](https://www.tradingview.com/chart/?symbol=NIU){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+CANG <sup>[↗](https://www.tradingview.com/chart/?symbol=CANG){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+GTT <sup>[↗](https://www.tradingview.com/chart/?symbol=GTT){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+RAVN <sup>[↗](https://www.tradingview.com/chart/?symbol=RAVN){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+ANGN <sup>[↗](https://www.tradingview.com/chart/?symbol=ANGN){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+BFI <sup>[↗](https://www.tradingview.com/chart/?symbol=BFI){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+ADAP <sup>[↗](https://www.tradingview.com/chart/?symbol=ADAP){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+CXAI <sup>[↗](https://www.tradingview.com/chart/?symbol=CXAI){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+GLPG <sup>[↗](https://www.tradingview.com/chart/?symbol=GLPG){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+ZEAL <sup>[↗](https://www.tradingview.com/chart/?symbol=ZEAL){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+SHFS <sup>[↗](https://www.tradingview.com/chart/?symbol=SHFS){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+NVX <sup>[↗](https://www.tradingview.com/chart/?symbol=NVX){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+OPT <sup>[↗](https://www.tradingview.com/chart/?symbol=OPT){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+HEPS <sup>[↗](https://www.tradingview.com/chart/?symbol=HEPS){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+AWH <sup>[↗](https://www.tradingview.com/chart/?symbol=AWH){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+AQMS <sup>[↗](https://www.tradingview.com/chart/?symbol=AQMS){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+HGTY <sup>[↗](https://www.tradingview.com/chart/?symbol=HGTY){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+GRVY <sup>[↗](https://www.tradingview.com/chart/?symbol=GRVY){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+KRON <sup>[↗](https://www.tradingview.com/chart/?symbol=KRON){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+WDH <sup>[↗](https://www.tradingview.com/chart/?symbol=WDH){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+FLUX <sup>[↗](https://www.tradingview.com/chart/?symbol=FLUX){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+OPAD <sup>[↗](https://www.tradingview.com/chart/?symbol=OPAD){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
+WGS <sup>[↗](https://www.tradingview.com/chart/?symbol=WGS){:target='_blank' rel='noopener'}</sup> | Small |  996  |  996  |  996  |  996  |  996
 {: .datatable}
 
 <div class="datatable-end"></div>
@@ -1256,17 +1065,10 @@ For example, most momentum stocks performed well recently, so automatically the 
 
 > :information_source: The backtests can be extended by replacing the shortest lived stocks with VFINX (Vanguard's S&P 500 mutual fund).
 
-* Quality [portfolio visualizer](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Quality+Top+1-10&portfolioName2=Quality+Top+11-20&portfolioName3=Quality+Top+21-30&symbol1=MSFT&allocation1_1=10&symbol2=MRK&allocation2_1=10&symbol3=CSCO&allocation3_1=10&symbol4=MMM&allocation4_1=10&symbol5=AAPL&allocation5_1=10&symbol6=JNJ&allocation6_1=10&symbol7=GILD&allocation7_1=10&symbol8=MA&allocation8_1=10&symbol9=AMGN&allocation9_1=10&symbol10=ITW&allocation10_1=10&symbol11=BBY&allocation11_2=10&symbol12=KO&allocation12_2=10&symbol13=LOW&allocation13_2=10&symbol14=GOOGL&allocation14_2=10&symbol15=CMCSA&allocation15_2=10&symbol16=BMY&allocation16_2=10&symbol17=MO&allocation17_2=10&symbol18=UPS&allocation18_2=10&symbol19=EXPD&allocation19_2=10&symbol20=PSA&allocation20_2=10&symbol21=TER&allocation21_3=10&symbol22=AMAT&allocation22_3=10&symbol23=ODFL&allocation23_3=10&symbol24=LRCX&allocation24_3=10&symbol25=XOM&allocation25_3=10&symbol26=TROW&allocation26_3=10&symbol27=FAST&allocation27_3=10&symbol28=MCD&allocation28_3=10&symbol29=WMT&allocation29_3=10&symbol30=PEP&allocation30_3=10)
-
-* Value [portfolio visualizer](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Value+Top+1-10&portfolioName2=Value+Top+11-20&portfolioName3=Value+Top+21-30&symbol1=CMCSA&allocation1_1=10&symbol2=PHM&allocation2_1=10&symbol3=COF&allocation3_1=10&symbol4=LEN&allocation4_1=10&symbol5=AIG&allocation5_1=10&symbol6=CSCO&allocation6_1=10&symbol7=KR&allocation7_1=10&symbol8=JPM&allocation8_1=10&symbol9=TSN&allocation9_1=10&symbol10=INTC&allocation10_1=10&symbol11=OC&allocation11_2=10&symbol12=FOXA&allocation12_2=10&symbol13=C&allocation13_2=10&symbol14=VLO&allocation14_2=10&symbol15=CAG&allocation15_2=10&symbol16=DGX&allocation16_2=10&symbol17=PRU&allocation17_2=10&symbol18=WFC&allocation18_2=10&symbol19=BMY&allocation19_2=10&symbol20=VZ&allocation20_2=10&symbol21=CAH&allocation21_3=10&symbol22=SJM&allocation22_3=10&symbol23=LKQ&allocation23_3=10&symbol24=HIG&allocation24_3=10&symbol25=UHS&allocation25_3=10&symbol26=GM&allocation26_3=10&symbol27=MO&allocation27_3=10&symbol28=MDT&allocation28_3=10&symbol29=LYB&allocation29_3=10&symbol30=MOS&allocation30_3=10)
-
-* Momentum [portfolio visualizer](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Momentum+Top+1-10&portfolioName2=Momentum+Top+11-20&portfolioName3=Momentum+Top+21-30&symbol1=RS&allocation1_1=10&symbol2=BLDR&allocation2_1=10&symbol3=CAH&allocation3_1=10&symbol4=DHI&allocation4_1=10&symbol5=DECK&allocation5_1=10&symbol6=MRK&allocation6_1=10&symbol7=MMC&allocation7_1=10&symbol8=ORCL&allocation8_1=10&symbol9=LLY&allocation9_1=10&symbol10=VICI&allocation10_1=10&symbol11=ACGL&allocation11_2=10&symbol12=PWR&allocation12_2=10&symbol13=NVDA&allocation13_2=10&symbol14=CPRT&allocation14_2=10&symbol15=CVX&allocation15_2=10&symbol16=XOM&allocation16_2=10&symbol17=PHM&allocation17_2=10&symbol18=STLD&allocation18_2=10&symbol19=MPC&allocation19_2=10&symbol20=HCA&allocation20_2=10&symbol21=TAP&allocation21_3=10&symbol22=LW&allocation22_3=10&symbol23=SNPS&allocation23_3=10&symbol24=MSFT&allocation24_3=10&symbol25=MCD&allocation25_3=10&symbol26=SNA&allocation26_3=10&symbol27=ITW&allocation27_3=10&symbol28=LEN&allocation28_3=10&symbol29=COP&allocation29_3=10&symbol30=NUE&allocation30_3=10)
-
-* Low Volatility [portfolio visualizer](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Low Volatility+Top+1-10&portfolioName2=Low Volatility+Top+11-20&portfolioName3=Low Volatility+Top+21-30&symbol1=MRK&allocation1_1=10&symbol2=JNJ&allocation2_1=10&symbol3=RSG&allocation3_1=10&symbol4=BMY&allocation4_1=10&symbol5=VZ&allocation5_1=10&symbol6=WM&allocation6_1=10&symbol7=CVX&allocation7_1=10&symbol8=MCD&allocation8_1=10&symbol9=ED&allocation9_1=10&symbol10=MSFT&allocation10_1=10&symbol11=AMGN&allocation11_2=10&symbol12=WMT&allocation12_2=10&symbol13=PFE&allocation13_2=10&symbol14=SJM&allocation14_2=10&symbol15=MMC&allocation15_2=10&symbol16=PEP&allocation16_2=10&symbol17=CMS&allocation17_2=10&symbol18=DUK&allocation18_2=10&symbol19=AEP&allocation19_2=10&symbol20=CSCO&allocation20_2=10&symbol21=MCK&allocation21_3=10&symbol22=TRV&allocation22_3=10&symbol23=CL&allocation23_3=10&symbol24=KMB&allocation24_3=10&symbol25=K&allocation25_3=10&symbol26=WEC&allocation26_3=10&symbol27=TMUS&allocation27_3=10&symbol28=ROP&allocation28_3=10&symbol29=XOM&allocation29_3=10&symbol30=DGX&allocation30_3=10)
-
-* Aggregated Large Cap [portfolio visualizer](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Aggregated Large Cap+Top+1-10&portfolioName2=Aggregated Large Cap+Top+11-20&portfolioName3=Aggregated Large Cap+Top+21-30&symbol1=MRK&allocation1_1=10&symbol2=CSCO&allocation2_1=10&symbol3=CMCSA&allocation3_1=10&symbol4=BMY&allocation4_1=10&symbol5=JNJ&allocation5_1=10&symbol6=MSFT&allocation6_1=10&symbol7=CVX&allocation7_1=10&symbol8=GILD&allocation8_1=10&symbol9=MMM&allocation9_1=10&symbol10=MCD&allocation10_1=10&symbol11=AMGN&allocation11_2=10&symbol12=VZ&allocation12_2=10&symbol13=XOM&allocation13_2=10&symbol14=CAH&allocation14_2=10&symbol15=WMT&allocation15_2=10&symbol16=MO&allocation16_2=10&symbol17=PFE&allocation17_2=10&symbol18=MCK&allocation18_2=10&symbol19=KR&allocation19_2=10&symbol20=VLO&allocation20_2=10&symbol21=PHM&allocation21_3=10&symbol22=DGX&allocation22_3=10&symbol23=JPM&allocation23_3=10&symbol24=RS&allocation24_3=10&symbol25=BBY&allocation25_3=10&symbol26=SNA&allocation26_3=10&symbol27=ED&allocation27_3=10&symbol28=KO&allocation28_3=10&symbol29=UPS&allocation29_3=10&symbol30=ITW&allocation30_3=10)
-
-* Aggregated Small Cap [portfolio visualizer](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Aggregated Small Cap+Top+1-10&portfolioName2=Aggregated Small Cap+Top+11-20&portfolioName3=Aggregated Small Cap+Top+21-30&symbol1=ARW&allocation1_1=10&symbol2=UGI&allocation2_1=10&symbol3=BYD&allocation3_1=10&symbol4=EHC&allocation4_1=10&symbol5=ATR&allocation5_1=10&symbol6=DLB&allocation6_1=10&symbol7=MSM&allocation7_1=10&symbol8=CASY&allocation8_1=10&symbol9=SF&allocation9_1=10&symbol10=PDCE&allocation10_1=10&symbol11=PRI&allocation11_2=10&symbol12=FHN&allocation12_2=10&symbol13=GPI&allocation13_2=10&symbol14=BHF&allocation14_2=10&symbol15=TGNA&allocation15_2=10&symbol16=SNV&allocation16_2=10&symbol17=ASIX&allocation17_2=10&symbol18=SANM&allocation18_2=10&symbol19=MTH&allocation19_2=10&symbol20=HE&allocation20_2=10&symbol21=NYT&allocation21_3=10&symbol22=SLGN&allocation22_3=10&symbol23=CCS&allocation23_3=10&symbol24=SIG&allocation24_3=10&symbol25=ASH&allocation25_3=10&symbol26=AEL&allocation26_3=10&symbol27=MANH&allocation27_3=10&symbol28=SXC&allocation28_3=10&symbol29=PFGC&allocation29_3=10&symbol30=HUBG&allocation30_3=10)
-
-* Aggregated [portfolio visualizer](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Aggregated+Top+1-10&portfolioName2=Aggregated+Top+11-20&portfolioName3=Aggregated+Top+21-30&symbol1=MRK&allocation1_1=10&symbol2=CSCO&allocation2_1=10&symbol3=CMCSA&allocation3_1=10&symbol4=BMY&allocation4_1=10&symbol5=JNJ&allocation5_1=10&symbol6=MSFT&allocation6_1=10&symbol7=CVX&allocation7_1=10&symbol8=GILD&allocation8_1=10&symbol9=MMM&allocation9_1=10&symbol10=MCD&allocation10_1=10&symbol11=AMGN&allocation11_2=10&symbol12=VZ&allocation12_2=10&symbol13=XOM&allocation13_2=10&symbol14=CAH&allocation14_2=10&symbol15=WMT&allocation15_2=10&symbol16=MO&allocation16_2=10&symbol17=PFE&allocation17_2=10&symbol18=MCK&allocation18_2=10&symbol19=KR&allocation19_2=10&symbol20=VLO&allocation20_2=10&symbol21=PHM&allocation21_3=10&symbol22=DGX&allocation22_3=10&symbol23=JPM&allocation23_3=10&symbol24=RS&allocation24_3=10&symbol25=BBY&allocation25_3=10&symbol26=SNA&allocation26_3=10&symbol27=ED&allocation27_3=10&symbol28=KO&allocation28_3=10&symbol29=UPS&allocation29_3=10&symbol30=ITW&allocation30_3=10)
-
+Portfolio | Any Cap | Mid Cap | Small Cap
+--- | --- | --- | ---
+Aggregated | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Aggregated Any Cap+Top+1-10&portfolioName2=Aggregated Any Cap+Top+11-20&portfolioName3=Aggregated Any Cap+Top+21-30&symbol1=MRK&allocation1_1=10&symbol2=CSCO&allocation2_1=10&symbol3=CMCSA&allocation3_1=10&symbol4=BMY&allocation4_1=10&symbol5=JNJ&allocation5_1=10&symbol6=GILD&allocation6_1=10&symbol7=MSFT&allocation7_1=10&symbol8=CVX&allocation8_1=10&symbol9=AMGN&allocation9_1=10&symbol10=MMM&allocation10_1=10&symbol11=VZ&allocation11_2=10&symbol12=MCD&allocation12_2=10&symbol13=PFE&allocation13_2=10&symbol14=RS&allocation14_2=10&symbol15=CAH&allocation15_2=10&symbol16=MO&allocation16_2=10&symbol17=WMT&allocation17_2=10&symbol18=XOM&allocation18_2=10&symbol19=PHM&allocation19_2=10&symbol20=KR&allocation20_2=10&symbol21=MCK&allocation21_3=10&symbol22=VLO&allocation22_3=10&symbol23=DGX&allocation23_3=10&symbol24=EXPD&allocation24_3=10&symbol25=BBY&allocation25_3=10&symbol26=NUE&allocation26_3=10&symbol27=ORCL&allocation27_3=10&symbol28=LEN&allocation28_3=10&symbol29=ED&allocation29_3=10&symbol30=SNA&allocation30_3=10) | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Aggregated Mid Cap+Top+1-10&portfolioName2=Aggregated Mid Cap+Top+11-20&portfolioName3=Aggregated Mid Cap+Top+21-30&symbol1=RS&allocation1_1=10&symbol2=RHI&allocation2_1=10&symbol3=BLDR&allocation3_1=10&symbol4=OC&allocation4_1=10&symbol5=JNPR&allocation5_1=10&symbol6=TAP&allocation6_1=10&symbol7=WSM&allocation7_1=10&symbol8=EMN&allocation8_1=10&symbol9=GL&allocation9_1=10&symbol10=HII&allocation10_1=10&symbol11=ARW&allocation11_2=10&symbol12=PNW&allocation12_2=10&symbol13=KNX&allocation13_2=10&symbol14=UHS&allocation14_2=10&symbol15=DKS&allocation15_2=10&symbol16=AAP&allocation16_2=10&symbol17=IVZ&allocation17_2=10&symbol18=NWSA&allocation18_2=10&symbol19=FNF&allocation19_2=10&symbol20=AOS&allocation20_2=10&symbol21=BYD&allocation21_3=10&symbol22=JKHY&allocation22_3=10&symbol23=AIZ&allocation23_3=10&symbol24=UGI&allocation24_3=10&symbol25=HUBB&allocation25_3=10&symbol26=EHC&allocation26_3=10&symbol27=CASY&allocation27_3=10&symbol28=MSM&allocation28_3=10&symbol29=WSO&allocation29_3=10&symbol30=ALLY&allocation30_3=10) | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Aggregated Small Cap+Top+1-10&portfolioName2=Aggregated Small Cap+Top+11-20&portfolioName3=Aggregated Small Cap+Top+21-30&symbol1=GPI&allocation1_1=10&symbol2=SANM&allocation2_1=10&symbol3=ASIX&allocation3_1=10&symbol4=SIG&allocation4_1=10&symbol5=TGNA&allocation5_1=10&symbol6=AEL&allocation6_1=10&symbol7=MTH&allocation7_1=10&symbol8=SXC&allocation8_1=10&symbol9=PRDO&allocation9_1=10&symbol10=CCS&allocation10_1=10&symbol11=HUBG&allocation11_2=10&symbol12=WAFD&allocation12_2=10&symbol13=BHE&allocation13_2=10&symbol14=NX&allocation14_2=10&symbol15=WIRE&allocation15_2=10&symbol16=WNC&allocation16_2=10&symbol17=HIBB&allocation17_2=10&symbol18=ASO&allocation18_2=10&symbol19=COHU&allocation19_2=10&symbol20=VIRT&allocation20_2=10&symbol21=CAL&allocation21_3=10&symbol22=HTH&allocation22_3=10&symbol23=ANF&allocation23_3=10&symbol24=SHOO&allocation24_3=10&symbol25=PLUS&allocation25_3=10&symbol26=NMIH&allocation26_3=10&symbol27=SEM&allocation27_3=10&symbol28=STRA&allocation28_3=10&symbol29=SXI&allocation29_3=10&symbol30=KN&allocation30_3=10)
+Quality | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Quality Any Cap+Top+1-10&portfolioName2=Quality Any Cap+Top+11-20&portfolioName3=Quality Any Cap+Top+21-30&symbol1=MSFT&allocation1_1=10&symbol2=MRK&allocation2_1=10&symbol3=CSCO&allocation3_1=10&symbol4=MMM&allocation4_1=10&symbol5=AAPL&allocation5_1=10&symbol6=JNJ&allocation6_1=10&symbol7=GILD&allocation7_1=10&symbol8=MA&allocation8_1=10&symbol9=AMGN&allocation9_1=10&symbol10=ITW&allocation10_1=10&symbol11=BBY&allocation11_2=10&symbol12=KO&allocation12_2=10&symbol13=LOW&allocation13_2=10&symbol14=GOOGL&allocation14_2=10&symbol15=CMCSA&allocation15_2=10&symbol16=BMY&allocation16_2=10&symbol17=MO&allocation17_2=10&symbol18=EXPD&allocation18_2=10&symbol19=UPS&allocation19_2=10&symbol20=PSA&allocation20_2=10&symbol21=AMAT&allocation21_3=10&symbol22=TER&allocation22_3=10&symbol23=LRCX&allocation23_3=10&symbol24=ODFL&allocation24_3=10&symbol25=XOM&allocation25_3=10&symbol26=TROW&allocation26_3=10&symbol27=FAST&allocation27_3=10&symbol28=MCD&allocation28_3=10&symbol29=WMT&allocation29_3=10&symbol30=CF&allocation30_3=10) | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Quality Mid Cap+Top+1-10&portfolioName2=Quality Mid Cap+Top+11-20&portfolioName3=Quality Mid Cap+Top+21-30&symbol1=RHI&allocation1_1=10&symbol2=RS&allocation2_1=10&symbol3=WSM&allocation3_1=10&symbol4=DLB&allocation4_1=10&symbol5=JKHY&allocation5_1=10&symbol6=BLDR&allocation6_1=10&symbol7=FNF&allocation7_1=10&symbol8=WSO&allocation8_1=10&symbol9=MANH&allocation9_1=10&symbol10=DECK&allocation10_1=10&symbol11=OC&allocation11_2=10&symbol12=GGG&allocation12_2=10&symbol13=SEIC&allocation13_2=10&symbol14=NYT&allocation14_2=10&symbol15=AOS&allocation15_2=10&symbol16=BYD&allocation16_2=10&symbol17=UGI&allocation17_2=10&symbol18=ALLY&allocation18_2=10&symbol19=PDCE&allocation19_2=10&symbol20=TXRH&allocation20_2=10&symbol21=FERG&allocation21_3=10&symbol22=JNPR&allocation22_3=10&symbol23=EMN&allocation23_3=10&symbol24=GL&allocation24_3=10&symbol25=HUBB&allocation25_3=10&symbol26=BBWI&allocation26_3=10&symbol27=PRI&allocation27_3=10&symbol28=FBIN&allocation28_3=10&symbol29=EQH&allocation29_3=10&symbol30=BAH&allocation30_3=10) | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Quality Small Cap+Top+1-10&portfolioName2=Quality Small Cap+Top+11-20&portfolioName3=Quality Small Cap+Top+21-30&symbol1=TGNA&allocation1_1=10&symbol2=AEL&allocation2_1=10&symbol3=VIRT&allocation3_1=10&symbol4=SHOO&allocation4_1=10&symbol5=III&allocation5_1=10&symbol6=ASIX&allocation6_1=10&symbol7=NX&allocation7_1=10&symbol8=WIRE&allocation8_1=10&symbol9=HIBB&allocation9_1=10&symbol10=CAL&allocation10_1=10&symbol11=SXI&allocation11_2=10&symbol12=IDCC&allocation12_2=10&symbol13=VRTS&allocation13_2=10&symbol14=VIR&allocation14_2=10&symbol15=MED&allocation15_2=10&symbol16=RES&allocation16_2=10&symbol17=EBF&allocation17_2=10&symbol18=SAP&allocation18_2=10&symbol19=CNS&allocation19_2=10&symbol20=SIG&allocation20_2=10&symbol21=SXC&allocation21_3=10&symbol22=WNC&allocation22_3=10&symbol23=ASO&allocation23_3=10&symbol24=HTH&allocation24_3=10&symbol25=NMIH&allocation25_3=10&symbol26=IIIN&allocation26_3=10&symbol27=LCII&allocation27_3=10&symbol28=TBI&allocation28_3=10&symbol29=MRTN&allocation29_3=10&symbol30=APOG&allocation30_3=10)
+Value | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Value Any Cap+Top+1-10&portfolioName2=Value Any Cap+Top+11-20&portfolioName3=Value Any Cap+Top+21-30&symbol1=CMCSA&allocation1_1=10&symbol2=PHM&allocation2_1=10&symbol3=FOXA&allocation3_1=10&symbol4=LEN&allocation4_1=10&symbol5=CSCO&allocation5_1=10&symbol6=KR&allocation6_1=10&symbol7=OC&allocation7_1=10&symbol8=VLO&allocation8_1=10&symbol9=DGX&allocation9_1=10&symbol10=AIG&allocation10_1=10&symbol11=CAG&allocation11_2=10&symbol12=COF&allocation12_2=10&symbol13=C&allocation13_2=10&symbol14=MRK&allocation14_2=10&symbol15=BMY&allocation15_2=10&symbol16=VZ&allocation16_2=10&symbol17=TSN&allocation17_2=10&symbol18=INTC&allocation18_2=10&symbol19=GILD&allocation19_2=10&symbol20=RS&allocation20_2=10&symbol21=CAH&allocation21_3=10&symbol22=MO&allocation22_3=10&symbol23=NUE&allocation23_3=10&symbol24=JPM&allocation24_3=10&symbol25=BIIB&allocation25_3=10&symbol26=LKQ&allocation26_3=10&symbol27=LYB&allocation27_3=10&symbol28=PRU&allocation28_3=10&symbol29=JNJ&allocation29_3=10&symbol30=BBY&allocation30_3=10) | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Value Mid Cap+Top+1-10&portfolioName2=Value Mid Cap+Top+11-20&portfolioName3=Value Mid Cap+Top+21-30&symbol1=OC&allocation1_1=10&symbol2=RS&allocation2_1=10&symbol3=EMN&allocation3_1=10&symbol4=TAP&allocation4_1=10&symbol5=RHI&allocation5_1=10&symbol6=JNPR&allocation6_1=10&symbol7=UHS&allocation7_1=10&symbol8=ARW&allocation8_1=10&symbol9=KNX&allocation9_1=10&symbol10=BLDR&allocation10_1=10&symbol11=WSM&allocation11_2=10&symbol12=AAP&allocation12_2=10&symbol13=IVZ&allocation13_2=10&symbol14=HII&allocation14_2=10&symbol15=PNW&allocation15_2=10&symbol16=GL&allocation16_2=10&symbol17=DKS&allocation17_2=10&symbol18=NWSA&allocation18_2=10&symbol19=FNF&allocation19_2=10&symbol20=ALLY&allocation20_2=10&symbol21=BXP&allocation21_3=10&symbol22=AIZ&allocation22_3=10&symbol23=UGI&allocation23_3=10&symbol24=KIM&allocation24_3=10&symbol25=LEA&allocation25_3=10&symbol26=BYD&allocation26_3=10&symbol27=MSM&allocation27_3=10&symbol28=PDCE&allocation28_3=10&symbol29=SF&allocation29_3=10&symbol30=KMX&allocation30_3=10) | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Value Small Cap+Top+1-10&portfolioName2=Value Small Cap+Top+11-20&portfolioName3=Value Small Cap+Top+21-30&symbol1=SIG&allocation1_1=10&symbol2=GPI&allocation2_1=10&symbol3=SANM&allocation3_1=10&symbol4=ASIX&allocation4_1=10&symbol5=AEL&allocation5_1=10&symbol6=MTH&allocation6_1=10&symbol7=CCS&allocation7_1=10&symbol8=HUBG&allocation8_1=10&symbol9=PRDO&allocation9_1=10&symbol10=WAFD&allocation10_1=10&symbol11=NX&allocation11_2=10&symbol12=SXC&allocation12_2=10&symbol13=COHU&allocation13_2=10&symbol14=TGNA&allocation14_2=10&symbol15=WIRE&allocation15_2=10&symbol16=HIBB&allocation16_2=10&symbol17=CAL&allocation17_2=10&symbol18=HTH&allocation18_2=10&symbol19=PLUS&allocation19_2=10&symbol20=FBNC&allocation20_2=10&symbol21=EBS&allocation21_3=10&symbol22=SBH&allocation22_3=10&symbol23=APPS&allocation23_3=10&symbol24=AAN&allocation24_3=10&symbol25=OMI&allocation25_3=10&symbol26=BHE&allocation26_3=10&symbol27=ASO&allocation27_3=10&symbol28=ANF&allocation28_3=10&symbol29=NMIH&allocation29_3=10&symbol30=SEM&allocation30_3=10)
+Momentum | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Momentum Any Cap+Top+1-10&portfolioName2=Momentum Any Cap+Top+11-20&portfolioName3=Momentum Any Cap+Top+21-30&symbol1=RS&allocation1_1=10&symbol2=BLDR&allocation2_1=10&symbol3=CAH&allocation3_1=10&symbol4=DHI&allocation4_1=10&symbol5=DECK&allocation5_1=10&symbol6=MRK&allocation6_1=10&symbol7=ORCL&allocation7_1=10&symbol8=MMC&allocation8_1=10&symbol9=LLY&allocation9_1=10&symbol10=VICI&allocation10_1=10&symbol11=ACGL&allocation11_2=10&symbol12=NVDA&allocation12_2=10&symbol13=PWR&allocation13_2=10&symbol14=CPRT&allocation14_2=10&symbol15=CVX&allocation15_2=10&symbol16=XOM&allocation16_2=10&symbol17=PHM&allocation17_2=10&symbol18=STLD&allocation18_2=10&symbol19=MPC&allocation19_2=10&symbol20=TAP&allocation20_2=10&symbol21=HCA&allocation21_3=10&symbol22=LW&allocation22_3=10&symbol23=SNPS&allocation23_3=10&symbol24=MSFT&allocation24_3=10&symbol25=MCD&allocation25_3=10&symbol26=NUE&allocation26_3=10&symbol27=LEN&allocation27_3=10&symbol28=SNA&allocation28_3=10&symbol29=ITW&allocation29_3=10&symbol30=COP&allocation30_3=10) | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Momentum Mid Cap+Top+1-10&portfolioName2=Momentum Mid Cap+Top+11-20&portfolioName3=Momentum Mid Cap+Top+21-30&symbol1=RS&allocation1_1=10&symbol2=BLDR&allocation2_1=10&symbol3=DECK&allocation3_1=10&symbol4=TAP&allocation4_1=10&symbol5=LW&allocation5_1=10&symbol6=HUBB&allocation6_1=10&symbol7=CLH&allocation7_1=10&symbol8=OC&allocation8_1=10&symbol9=KNX&allocation9_1=10&symbol10=DKS&allocation10_1=10&symbol11=CASY&allocation11_2=10&symbol12=WSO&allocation12_2=10&symbol13=VST&allocation13_2=10&symbol14=FCNCA&allocation14_2=10&symbol15=CW&allocation15_2=10&symbol16=ALGM&allocation16_2=10&symbol17=SWAV&allocation17_2=10&symbol18=GL&allocation18_2=10&symbol19=HII&allocation19_2=10&symbol20=EHC&allocation20_2=10&symbol21=PRI&allocation21_3=10&symbol22=GGG&allocation22_3=10&symbol23=PFGC&allocation23_3=10&symbol24=TXRH&allocation24_3=10&symbol25=MASI&allocation25_3=10&symbol26=HEI&allocation26_3=10&symbol27=VMI&allocation27_3=10&symbol28=FWONK&allocation28_3=10&symbol29=EXAS&allocation29_3=10&symbol30=ARW&allocation30_3=10) | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Momentum Small Cap+Top+1-10&portfolioName2=Momentum Small Cap+Top+11-20&portfolioName3=Momentum Small Cap+Top+21-30&symbol1=ELF&allocation1_1=10&symbol2=MTH&allocation2_1=10&symbol3=HLX&allocation3_1=10&symbol4=GPI&allocation4_1=10&symbol5=SANM&allocation5_1=10&symbol6=CCS&allocation6_1=10&symbol7=WIRE&allocation7_1=10&symbol8=WNC&allocation8_1=10&symbol9=ASO&allocation9_1=10&symbol10=ONTO&allocation10_1=10&symbol11=DV&allocation11_2=10&symbol12=SXC&allocation12_2=10&symbol13=BHE&allocation13_2=10&symbol14=SXI&allocation14_2=10&symbol15=UFCS&allocation15_2=10&symbol16=ANDE&allocation16_2=10&symbol17=RYI&allocation17_2=10&symbol18=VIR&allocation18_2=10&symbol19=HAYN&allocation19_2=10&symbol20=DGII&allocation20_2=10&symbol21=MGPI&allocation21_3=10&symbol22=HLIT&allocation22_3=10&symbol23=PACB&allocation23_3=10&symbol24=PTGX&allocation24_3=10&symbol25=IDYA&allocation25_3=10&symbol26=KRYS&allocation26_3=10&symbol27=MORF&allocation27_3=10&symbol28=ETNB&allocation28_3=10&symbol29=BMEA&allocation29_3=10&symbol30=ASIX&allocation30_3=10)
+Low Volatility | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Low Volatility Any Cap+Top+1-10&portfolioName2=Low Volatility Any Cap+Top+11-20&portfolioName3=Low Volatility Any Cap+Top+21-30&symbol1=MRK&allocation1_1=10&symbol2=JNJ&allocation2_1=10&symbol3=RSG&allocation3_1=10&symbol4=BMY&allocation4_1=10&symbol5=VZ&allocation5_1=10&symbol6=WM&allocation6_1=10&symbol7=CVX&allocation7_1=10&symbol8=MCD&allocation8_1=10&symbol9=ED&allocation9_1=10&symbol10=MSFT&allocation10_1=10&symbol11=AMGN&allocation11_2=10&symbol12=PFE&allocation12_2=10&symbol13=WMT&allocation13_2=10&symbol14=SJM&allocation14_2=10&symbol15=PEP&allocation15_2=10&symbol16=MMC&allocation16_2=10&symbol17=CMS&allocation17_2=10&symbol18=AEP&allocation18_2=10&symbol19=DUK&allocation19_2=10&symbol20=CSCO&allocation20_2=10&symbol21=MCK&allocation21_3=10&symbol22=TRV&allocation22_3=10&symbol23=KMB&allocation23_3=10&symbol24=K&allocation24_3=10&symbol25=CL&allocation25_3=10&symbol26=WEC&allocation26_3=10&symbol27=TMUS&allocation27_3=10&symbol28=ROP&allocation28_3=10&symbol29=XOM&allocation29_3=10&symbol30=DGX&allocation30_3=10) | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Low Volatility Mid Cap+Top+1-10&portfolioName2=Low Volatility Mid Cap+Top+11-20&portfolioName3=Low Volatility Mid Cap+Top+21-30&symbol1=JKHY&allocation1_1=10&symbol2=JNPR&allocation2_1=10&symbol3=PNW&allocation3_1=10&symbol4=BAH&allocation4_1=10&symbol5=HII&allocation5_1=10&symbol6=AIZ&allocation6_1=10&symbol7=DLB&allocation7_1=10&symbol8=ATR&allocation8_1=10&symbol9=SLGN&allocation9_1=10&symbol10=GL&allocation10_1=10&symbol11=ARW&allocation11_2=10&symbol12=CASY&allocation12_2=10&symbol13=LW&allocation13_2=10&symbol14=HE&allocation14_2=10&symbol15=ASH&allocation15_2=10&symbol16=LBRDK&allocation16_2=10&symbol17=RS&allocation17_2=10&symbol18=TAP&allocation18_2=10&symbol19=UGI&allocation19_2=10&symbol20=SSNC&allocation20_2=10&symbol21=TXRH&allocation21_3=10&symbol22=SR&allocation22_3=10&symbol23=SIGI&allocation23_3=10&symbol24=NWE&allocation24_3=10&symbol25=ELS&allocation25_3=10&symbol26=BMRN&allocation26_3=10&symbol27=RHI&allocation27_3=10&symbol28=EMN&allocation28_3=10&symbol29=HUBB&allocation29_3=10&symbol30=EHC&allocation30_3=10) | [pv](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=4&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=5&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=true&factorModel=5&benchmark=VFINX&portfolioNames=true&portfolioName1=Low Volatility Small Cap+Top+1-10&portfolioName2=Low Volatility Small Cap+Top+11-20&portfolioName3=Low Volatility Small Cap+Top+21-30&symbol1=IDCC&allocation1_1=10&symbol2=OSIS&allocation2_1=10&symbol3=JJSF&allocation3_1=10&symbol4=BCPC&allocation4_1=10&symbol5=SAP&allocation5_1=10&symbol6=TGNA&allocation6_1=10&symbol7=BHE&allocation7_1=10&symbol8=VIRT&allocation8_1=10&symbol9=STRA&allocation9_1=10&symbol10=SUPN&allocation10_1=10&symbol11=SHEN&allocation11_2=10&symbol12=GTY&allocation12_2=10&symbol13=EBF&allocation13_2=10&symbol14=LTC&allocation14_2=10&symbol15=WOW&allocation15_2=10&symbol16=GSBC&allocation16_2=10&symbol17=SYBT&allocation17_2=10&symbol18=SXC&allocation18_2=10&symbol19=PRDO&allocation19_2=10&symbol20=HUBG&allocation20_2=10&symbol21=WAFD&allocation21_3=10&symbol22=SXI&allocation22_3=10&symbol23=KN&allocation23_3=10&symbol24=ALG&allocation24_3=10&symbol25=MRTN&allocation25_3=10&symbol26=UFCS&allocation26_3=10&symbol27=LRN&allocation27_3=10&symbol28=BANR&allocation28_3=10&symbol29=VNDA&allocation29_3=10&symbol30=MCS&allocation30_3=10)

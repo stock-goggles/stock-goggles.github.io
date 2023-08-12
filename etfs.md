@@ -118,7 +118,6 @@ IMFI  |  Invesco Multi-Factor Income ETF  |    |  yes  |    |    |
 IMFL  |  Invesco International Developed Dynamic Multifactor ETF  |    |  yes  |    |    |  
 ISVL  |  iShares International Developed Small Cap Value Factor ETF  |    |  yes  |    |    |  
 IVAL  |  Alpha Architect International Quantitative Value ETF  |    |  yes  |    |    |  
-JNMF  |  WisdomTree Japan Multifactor Fund  |    |  yes  |    |    |  
 MATF  |  iShares Edge MSCI Multifactor Matrls ETF  |    |  yes  |    |    |  
 NULV  |  Nuveen ESG Large-Cap Value ETF  |    |  yes  |    |    |  
 NUMV  |  Nuveen ESG Mid-Cap Value ETF  |    |  yes  |    |    |  
@@ -154,7 +153,6 @@ PSC  |  Principal U.S. Small-Cap Multi-Factor ETF  |    |  yes  |    |    |
 BSVO  |  Ea Series Trust - Ea Bridgeway Omni Small Cap Value Etf Fund  |    |  yes  |    |    |  
 DVAL  |  BrandywineGLOBAL Dynamic U.S. Large Cap Value ETF  |    |  yes  |    |    |  
 ECOW  |  Pacer Emerging Markets Cash Cows 100 ETF  |    |  yes  |    |    |  
-EWJV  |  iShares MSCI Japan Value ETF  |    |  yes  |    |    |  
 HERD  |  Pacer Cash Cows Fund of Funds ETF  |    |  yes  |    |    |  
 IMCV  |  iShares Morningstar Mid-Cap Value ETF  |    |  yes  |    |    |  
 IUSV  |  iShares Core S&P U.S. Value ETF  |    |  yes  |    |    |  
@@ -320,8 +318,6 @@ IVDG  |  Invesco Focused Discovery Growth ETF  |    |    |  yes  |    |
 IVSG  |  Invesco Select Growth ETF  |    |    |  yes  |    |  
 MFMS  |  MFAM Small-Cap Growth ETF  |    |    |  yes  |    |  
 MOHR  |  Mohr Growth ETF  |    |    |  yes  |    |  
-NJAN  |  Innovator Growth-100 Power Buffer ETF - January  |    |    |  yes  |    |  
-NOCT  |  Innovator Growth-100 Power Buffer ETF - October  |    |    |  yes  |    |  
 NULG  |  Nuveen ESG Large-Cap Growth ETF  |    |    |  yes  |    |  
 NUMG  |  Nuveen ESG Mid-Cap Growth ETF  |    |    |  yes  |    |  
 PSMG  |  Invesco Growth Multi-Asset Allocation ETF  |    |    |  yes  |    |  
@@ -500,7 +496,6 @@ HDLB  |  ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN Seri
 HDLV  |  UBS ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN  |    |    |    |    |  yes
 IDLV  |  Invesco S&P International Developed Low Volatility ETF  |    |    |    |    |  yes
 JMIN  |  JPMorgan U.S. Minimum Volatility ETF  |    |    |    |    |  yes
-JPMV  |  iShares Edge MSCI Min Vol Japan ETF  |    |    |    |    |  yes
 LGLV  |  SPDR SSGA US Large Cap Low Volatility Index ETF  |    |    |    |    |  yes
 LOWV  |  AB Active ETFs, Inc. AB US Low   |    |    |    |    |  yes
 LVOL  |  American Century Low Volatility ETF  |    |    |    |    |  yes
@@ -580,37 +575,20 @@ AUGZ  |  TrueShares Structured Outcome (August) ETF  |    |    |    |    |
 AVDG  |  AVDR US LargeCap ESG ETF  |    |    |    |    |  
 AVDR  |  AVDR US LargeCap Leading ETF  |    |    |    |    |  
 BALT  |  Innovator Defined Wealth Shield ETF  |    |    |    |    |  
-BAPR  |  Innovator S&P 500 Buffer ETF - April New  |    |    |    |    |  
-BAUG  |  Innovator U.S. Equity Buffer ETF - August  |    |    |    |    |  
-BBAX  |  JPMorgan BetaBuilders Developed Asia Pacific ex-Japan ETF  |    |    |    |    |  
 BBCA  |  JPMorgan BetaBuilders Canada ETF  |    |    |    |    |  
 BBEU  |  JPMorgan BetaBuilders Europe ETF  |    |    |    |    |  
 BBIN  |  JPMorgan BetaBuilders International Equity ETF  |    |    |    |    |  
-BBJP  |  JPMorgan BetaBuilders Japan ETF  |    |    |    |    |  
 BBRE  |  JPMorgan BetaBuilders MSCI U.S. REIT ETF  |    |    |    |    |  
 BBUS  |  JPMorgan BetaBuilders U.S. Equity ETF  |    |    |    |    |  
-BDEC  |  Innovator S&P 500 Buffer ETF - December  |    |    |    |    |  
 BERN  |  Bernstein U.S. Research Fund  |    |    |    |    |  
-BFEB  |  Innovator S&P 500 Buffer ETF - February  |    |    |    |    |  
-BGLD  |  FT Cboe Vest Gold Tactical Buffer ETF  |    |    |    |    |  
-BJAN  |  Innovator U.S. Equity Buffer ETF - January  |    |    |    |    |  
-BJUL  |  Innovator U.S. Equity Buffer ETF - July  |    |    |    |    |  
-BJUN  |  Innovator S&P 500 Buffer ETF - June  |    |    |    |    |  
 BKGI  |  Bny Mellon Global Infrastructure Income ETF  |    |    |    |    |  
 BLDG  |  Cambria Global Real Estate ETF  |    |    |    |    |  
 BLKC  |  Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF  |    |    |    |    |  
-BMAR  |  Innovator S&P 500 Buffer ETF - March  |    |    |    |    |  
-BMAY  |  Innovator S&P 500 Buffer ETF - May  |    |    |    |    |  
-BNOV  |  Innovator U.S. Equity Buffer ETF - November  |    |    |    |    |  
-BOCT  |  Innovator S&P 500 Buffer ETF - October  |    |    |    |    |  
 BOSS  |  Global X Founder-Run Companies ETF  |    |    |    |    |  
 BOXX  |  Alpha Architect 1-3 Month Box ETF  |    |    |    |    |  
 BRGL  |  Bernstein Global Research Fund  |    |    |    |    |  
 BRLN  |  BlackRock Floating Rate Loan ETF  |    |    |    |    |  
-BSEP  |  Innovator S&P 500 Buffer ETF - September  |    |    |    |    |  
-BUFB  |  Innovator Laddered Allocation Buffer ETF  |    |    |    |    |  
 BUFD  |  FT Cboe Vest Fund of Deep Buffer ETFs  |    |    |    |    |  
-BUFF  |  Innovator Laddered Allocation Power Buffer ETF  |    |    |    |    |  
 BUFQ  |  FT Cboe Vest Fund of Nasdaq-100 Buffer ETFs  |    |    |    |    |  
 BUFR  |  First Trust Cboe Vest Fund of Buffer ETFs  |    |    |    |    |  
 BUFT  |  FT Cboe Vest Buffered Allocation Defensive ETF  |    |    |    |    |  
@@ -623,23 +601,15 @@ CNSF  |  iShares Edge MSCI Mltfct Cnsmr Stpls ETF  |    |    |    |    |
 CTRU  |  ARK Transparency ETF  |    |    |    |    |  
 CWAI  |  CWA Income ETF  |    |    |    |    |  
 DALT  |  Anfield Capital Diversified Alternatives ETF  |    |    |    |    |  
-DAPR  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - April  |    |    |    |    |  
-DAUG  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - August  |    |    |    |    |  
 DBES  |  Xtrackers MSCI EAFE Small Cap Hdg Eq ETF  |    |    |    |    |  
-DBJA  |  Innovator Double Stacker 9 Buffer ETF - January  |    |    |    |    |  
-DBOC  |  Innovator Double Stacker 9 Buffer ETF – October  |    |    |    |    |  
-DDEC  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - December  |    |    |    |    |  
 DDEZ  |  WisdomTree Dynamic Currency Hedged Europe Equity Fund  |    |    |    |    |  
-DDJP  |  WisdomTree Dynamic Currency Hedged Japan Equity Fund  |    |    |    |    |  
 DDLS  |  WisdomTree Dynamic Currency Hedged International SmallCap Equity Fund  |    |    |    |    |  
 DDWM  |  WisdomTree Dynamic Currency Hedged International Equity Fund  |    |    |    |    |  
 DECZ  |  TrueShares Structured Outcome (December) ETF  |    |    |    |    |  
 DEFA  |  iShares Adaptive Currency Hedged MSCI EAFE ETF  |    |    |    |    |  
 DEFN  |  Emles Trust - Emles Protective Allocation ETF  |    |    |    |    |  
 DEMS  |  Democratic Policies Fund  |    |    |    |    |  
-DEWJ  |  iShares Adaptive Currency Hedged MSCI Japan ETF  |    |    |    |    |  
 DEZU  |  iShares Adaptive Currency Hedged MSCI Eurozone ETF  |    |    |    |    |  
-DFEB  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - February  |    |    |    |    |  
 DFIS  |  Dimensional International Small Cap ETF  |    |    |    |    |  
 DFND  |  Siren DIVCON Dividend Defender ETF  |    |    |    |    |  
 DFNL  |  Davis Select Financial ETF  |    |    |    |    |  
@@ -648,16 +618,8 @@ DFRA  |  Donoghue Forlines Yield Enhanced Real Asset ETF  |    |    |    |    |
 DHDG  |  WisdomTree International ESG Fund  |    |    |    |    |  
 DINT  |  Davis Select International ETF  |    |    |    |    |  
 DIVB  |  iShares U.S. Dividend and Buyback ETF  |    |    |    |    |  
-DJAN  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - January  |    |    |    |    |  
-DJUL  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - July  |    |    |    |    |  
-DJUN  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - June  |    |    |    |    |  
 DKRB  |  Subversive Decarbonization ETF  |    |    |    |    |  
-DMAR  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - March  |    |    |    |    |  
-DMAY  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - May  |    |    |    |    |  
-DNOV  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - November  |    |    |    |    |  
-DOCT  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - October  |    |    |    |    |  
 DRSK  |  Aptus Defined Risk ETF  |    |    |    |    |  
-DSEP  |  FT Cboe Vest U.S. Equity Deep Buffer ETF - September  |    |    |    |    |  
 DSJA  |  Innovator Double Stacker ETF - January  |    |    |    |    |  
 DSOC  |  Innovator Double Stacker ETF – October  |    |    |    |    |  
 DURA  |  VanEck Morningstar Durable Dividend ETF  |    |    |    |    |  
@@ -695,37 +657,25 @@ EXIV  |  VelocityShares 1x Daily Inverse VSTOXX Futures ETN  |    |    |    |   
 EYLD  |  Cambria Emerging Shareholder Yield ETF  |    |    |    |    |  
 FAIL  |  Cambria Global Tail Risk ETF  |    |    |    |    |  
 FANZ  |  ProSports Sponsors ETF  |    |    |    |    |  
-FAPR  |  FT Cboe Vest U.S. Equity Buffer ETF - April  |    |    |    |    |  
-FAUG  |  FT Cboe Vest U.S. Equity Buffer ETF - August  |    |    |    |    |  
 FCLD  |  Fidelity Cloud Computing ETF  |    |    |    |    |  
 FCPI  |  Fidelity Stocks for Inflation ETF  |    |    |    |    |  
 FCTR  |  First Trust Lunt U.S. Factor Rotation ETF  |    |    |    |    |  
-FDEC  |  FT Cboe Vest U.S. Equity Buffer ETF - December  |    |    |    |    |  
 FDHT  |  Fidelity Digital Health ETF  |    |    |    |    |  
 FDRV  |  Fidelity Electric Vehicles and Future Transportation ETF  |    |    |    |    |  
 FEBZ  |  TrueShares Structured Outcome (February) ETF  |    |    |    |    |  
 FEDX  |  Emles Federal Contractors ETF  |    |    |    |    |  
-FFEB  |  FT Cboe Vest U.S. Equity Buffer ETF - February  |    |    |    |    |  
 FFTI  |  FormulaFolios Tactical Income ETF  |    |    |    |    |  
-FJAN  |  FT Cboe Vest U.S. Equity Buffer ETF - January  |    |    |    |    |  
-FJUL  |  FT Cboe Vest U.S. Equity Buffer ETF - July  |    |    |    |    |  
-FJUN  |  FT Cboe Vest U.S. Equity Buffer ETF - June  |    |    |    |    |  
 FLBL  |  Franklin Senior Loan ETF  |    |    |    |    |  
 FLDR  |  Fidelity Low Duration Bond Factor ETF  |    |    |    |    |  
 FLTN  |  Rareview Inflation/Deflation ETF  |    |    |    |    |  
 FMAG  |  Fidelity Magellan ETF  |    |    |    |    |  
-FMAR  |  FT Cboe Vest U.S. Equity Buffer ETF - March  |    |    |    |    |  
-FMAY  |  FT Cboe Vest U.S. Equity Buffer ETF - May  |    |    |    |    |  
 FMIL  |  Fidelity New Millennium ETF  |    |    |    |    |  
-FNOV  |  FT Cboe Vest U.S. Equity Buffer ETF - November  |    |    |    |    |  
-FOCT  |  FT Cboe Vest U.S. Equity Buffer ETF - October  |    |    |    |    |  
 FOMO  |  AXS FOMO ETF  |    |    |    |    |  
 FPAG  |  FPA Global Equity ETF  |    |    |    |    |  
 FPFD  |  Fidelity Preferred Securities & Income ETF  |    |    |    |    |  
 FPRO  |  Fidelity Real Estate Investment ETF  |    |    |    |    |  
 FRDM  |  Freedom 100 Emerging Markets ETF  |    |    |    |    |  
 FRNW  |  Fidelity Clean Energy ETF  |    |    |    |    |  
-FSEP  |  FT Cboe Vest U.S. Equity Buffer ETF - September  |    |    |    |    |  
 FSMO  |  Fidelity Small-Mid Cap Opportunities ETF  |    |    |    |    |  
 FUNL  |  CornerCap Fundametrics Large-Cap ETF FUNL  |    |    |    |    |  
 FYLD  |  Cambria Foreign Shareholder Yield ETF  |    |    |    |    |  
@@ -791,13 +741,9 @@ JPIB  |  JPMorgan International Bond Opportunities ETF  |    |    |    |    |
 JUCY  |  Aptus Enhanced Yield ETF  |    |    |    |    |  
 JULZ  |  Trueshares Structured Outcome (July) ETF  |    |    |    |    |  
 JUNZ  |  TrueShares Structured Outcome (June) ETF  |    |    |    |    |  
-KAPR  |  Innovator Russell 2000 Power Buffer ETF - April  |    |    |    |    |  
 KCAL  |  Subversive Food Security ETF  |    |    |    |    |  
 KEMP  |  KraneShares FTSE Emerging Mkts Plus ETF  |    |    |    |    |  
-KJAN  |  Innovator U.S. Small Cap Power Buffer ETF - January  |    |    |    |    |  
-KJUL  |  Innovator Russell 2000 Power Buffer ETF - July  |    |    |    |    |  
 KNGS  |  Upholdings Compound Kings ETF  |    |    |    |    |  
-KOCT  |  Innovator U.S. Small Cap Power Buffer ETF - October  |    |    |    |    |  
 LEAD  |  Siren DIVCON Leaders Dividend ETF  |    |    |    |    |  
 LKOR  |  FlexShares Credit-Scored US Long Corporate Bond Index Fund  |    |    |    |    |  
 LQDW  |  iShares Investment Grade Corporate Bond Buywrite Strategy ETF  |    |    |    |    |  
@@ -821,9 +767,7 @@ MSTB  |  LHA Market State Tactical Beta ETF  |    |    |    |    |
 MSTQ  |  LHA Market State Tactical Q ETF  |    |    |    |    |  
 MSUS  |  LHA Market State Tactical U.S. Equity ETF  |    |    |    |    |  
 MSVX  |  LHA Market State Alpha Seeker ETF  |    |    |    |    |  
-NAPR  |  Innovator Nasdaq-100 Power Buffer ETF - April  |    |    |    |    |  
 NETZ  |  Engine No. 1 Transform Climate ETF  |    |    |    |    |  
-NJUL  |  Innovator Nasdaq-100 Power Buffer ETF - July  |    |    |    |    |  
 NOBL  |  ProShares S&P 500 Dividend Aristocrats ETF  |    |    |    |    |  
 NOVZ  |  TrueShares Structured Outcome (November) ETF  |    |    |    |    |  
 NUDM  |  Nuveen ESG International Developed Markets Equity ETF  |    |    |    |    |  
@@ -838,31 +782,19 @@ OGIG  |  ALPS O'Shares Global Internet Giants ETF Shares  |    |    |    |    |
 OILK  |  ProShares K-1 Free Crude Oil Strategy ETF  |    |    |    |    |  
 OSIZ  |  Invesco Russell 1000 Size Factor ETF  |    |    |    |    |  
 OYLD  |  Invesco Russell 1000 Yield Factor ETF  |    |    |    |    |  
-PAPR  |  Innovator S&P 500 Power Buffer ETF - April New  |    |    |    |    |  
-PAUG  |  Innovator U.S. Equity Power Buffer ETF - August  |    |    |    |    |  
 PAVE  |  Global X U.S. Infrastructure Development ETF  |    |    |    |    |  
 PAWZ  |  ProShares Pet Care ETF  |    |    |    |    |  
 PBDM  |  Invesco PureBeta FTSE Developed ex-North America ETF  |    |    |    |    |  
 PBEE  |  Invesco PureBeta FTSE Emerging Markets ETF  |    |    |    |    |  
 PBSM  |  Invesco PureBeta MSCI USA Small Cap ETF  |    |    |    |    |  
 PBUS  |  Invesco PureBeta MSCI USA ETF  |    |    |    |    |  
-PDEC  |  Innovator U.S. Equity Power Buffer ETF - December  |    |    |    |    |  
-PFEB  |  Innovator U.S. Equity Power Buffer ETF - February  |    |    |    |    |  
 PICK  |  iShares MSCI Global Metals & Mining Producers ETF  |    |    |    |    |  
-PJAN  |  Innovator U.S. Equity Power Buffer ETF - January  |    |    |    |    |  
-PJUL  |  Innovator S&P 500 Power Buffer ETF — July  |    |    |    |    |  
-PJUN  |  Innovator S&P 500 Power Buffer ETF - New  |    |    |    |    |  
 PLCY  |  EventShares U.S. Legislative Opportunities ETF  |    |    |    |    |  
-PMAR  |  Innovator S&P 500 Power Buffer ETF - March  |    |    |    |    |  
-PMAY  |  Innovator S&P 500 Power Buffer ETF - May  |    |    |    |    |  
-PNOV  |  Innovator U.S. Equity Power Buffer ETF - November  |    |    |    |    |  
-POCT  |  Innovator S&P 500 Power Buffer ETF - October  |    |    |    |    |  
 PRNT  |  The 3D Printing ETF  |    |    |    |    |  
 PSCJ  |  Pacer Swan SOS Conservative (July) ETF  |    |    |    |    |  
 PSCQ  |  Pacer Swan SOS Conservative (October) ETF  |    |    |    |    |  
 PSCW  |  Pacer Swan SOS Conservative (April) ETF  |    |    |    |    |  
 PSCX  |  Pacer Swan SOS Conservative (January) ETF  |    |    |    |    |  
-PSEP  |  Innovator S&P 500 Power Buffer ETF - September  |    |    |    |    |  
 PSFD  |  Pacer Swan SOS Flex (January) ETF  |    |    |    |    |  
 PSFF  |  Pacer Swan SOS Fund of Funds ETF  |    |    |    |    |  
 PSFJ  |  Pacer Swan SOS Flex (July) ETF  |    |    |    |    |  
@@ -880,10 +812,6 @@ PTLC  |  Pacer Trendpilot US Large Cap ETF  |    |    |    |    |
 PTMC  |  Pacer Trendpilot US Mid Cap ETF  |    |    |    |    |  
 PTNQ  |  Pacer Trendpilot 100 ETF  |    |    |    |    |  
 PUNK  |  Subversive Metaverse ETF  |    |    |    |    |  
-QDEC  |  FT Cboe Vest Nasdaq-100 Buffer ETF – December  |    |    |    |    |  
-QJUN  |  FT Cboe Vest Nasdaq-100 Buffer ETF - June  |    |    |    |    |  
-QMAR  |  FT Cboe Vest Nasdaq-100 Buffer ETF – March  |    |    |    |    |  
-QSPT  |  FT Cboe Vest Nasdaq-100 Buffer ETF – September  |    |    |    |    |  
 QXMI  |  QUANTX Risk Managed Multi-Asset Inc ETF  |    |    |    |    |  
 QXRR  |  QUANTX Risk Managed Real Return ETF  |    |    |    |    |  
 QXTR  |  QUANTX Risk Managed Multi-Asset Total Return ETF  |    |    |    |    |  
@@ -944,18 +872,6 @@ TRTY  |  Cambria Trinity ETF  |    |    |    |    |
 TSJA  |  Innovator Triple Stacker ETF - January  |    |    |    |    |  
 TSLH  |  Innovator Hedged TSLA Strategy ETF  |    |    |    |    |  
 TSOC  |  Innovator Triple Stacker ETF – October  |    |    |    |    |  
-UAPR  |  Innovator S&P 500 Ultra Buffer ETF - April New  |    |    |    |    |  
-UAUG  |  Innovator U.S. Equity Ultra Buffer ETF - August  |    |    |    |    |  
-UDEC  |  Innovator S&P 500 Ultra Buffer ETF - December  |    |    |    |    |  
-UFEB  |  Innovator U.S. Equity Ultra Buffer ETF - February  |    |    |    |    |  
-UJAN  |  Innovator U.S. Equity Ultra Buffer ETF - January  |    |    |    |    |  
-UJUL  |  Innovator S&P 500 Ultra Buffer ETF — July  |    |    |    |    |  
-UJUN  |  Innovator S&P 500 Ultra Buffer ETF - June  |    |    |    |    |  
-UMAR  |  Innovator S&P 500 Ultra Buffer ETF - March  |    |    |    |    |  
-UMAY  |  Innovator S&P 500 Ultra Buffer ETF - May  |    |    |    |    |  
-UNOV  |  Innovator U.S. Equity Ultra Buffer ETF - November  |    |    |    |    |  
-UOCT  |  Innovator S&P 500 Ultra Buffer ETF - October  |    |    |    |    |  
-USEP  |  Innovator S&P 500 Ultra Buffer ETF - September  |    |    |    |    |  
 USEQ  |  Invesco Russell 1000 Enhanced Equal Weight ETF  |    |    |    |    |  
 UVXY  |  ProShares Ultra VIX Short-Term Futures ETF  |    |    |    |    |  
 VFLQ  |  Vanguard U.S. Liquidity Factor ETF  |    |    |    |    |  
@@ -978,20 +894,14 @@ WTAI  |  WisdomTree Artificial Intelligence and Innovation Fund  |    |    |    
 WUGI  |  Esoterica NextG Economy ETF  |    |    |    |    |  
 WYDE  |  ProShares CDS Short North American HY Credit ETF  |    |    |    |    |  
 XBAP  |  Innovator U.S. Equity Accelerated 9 Buffer ETFTM – April  |    |    |    |    |  
-XBJA  |  Innovator U.S. Equity Accelerated 9 Buffer ETF - January  |    |    |    |    |  
-XBJL  |  Innovator U.S. Equity Accelerated 9 Buffer ETF - July  |    |    |    |    |  
-XBOC  |  Innovator U.S. Equity Accelerated 9 Buffer ETF - October  |    |    |    |    |  
 XBTF  |  VanEck Bitcoin Strategy ETF  |    |    |    |    |  
 XDAP  |  Innovator U.S. Equity Accelerated ETF – April  |    |    |    |    |  
 XDAT  |  Franklin Exponential Data ETF  |    |    |    |    |  
-XDEC  |  FT Cboe Vest U.S. Equity Enhance & Moderate Buffer ETF - December  |    |    |    |    |  
 XDJA  |  Innovator U.S. Equity Accelerated ETF - January  |    |    |    |    |  
 XDJL  |  Innovator U.S. Equity Accelerated ETF - July  |    |    |    |    |  
 XDOC  |  Innovator U.S. Equity Accelerated ETF - October  |    |    |    |    |  
 XDSQ  |  Innovator U.S. Equity Accelerated ETF – Quarterly  |    |    |    |    |  
-XJUN  |  FT Cboe Vest U.S. Equity Enhance & Moderate Buffer ETF - June  |    |    |    |    |  
 XMPT  |  VanEck CEF Municipal Income ETF  |    |    |    |    |  
-XSEP  |  FT Cboe Vest U.S. Equity Enhance & Moderate Buffer ETF - September  |    |    |    |    |  
 XTAP  |  Innovator U.S. Equity Accelerated Plus ETF – April  |    |    |    |    |  
 XTJA  |  Innovator U.S. Equity Accelerated Plus ETF - January  |    |    |    |    |  
 XTJL  |  Innovator U.S. Equity Accelerated Plus ETF - July  |    |    |    |    |  
@@ -999,10 +909,6 @@ XTOC  |  Innovator U.S. Equity Accelerated Plus ETF - October  |    |    |    | 
 XUSA  |  QuantX Dynamic Beta US Equity ETF  |    |    |    |    |  
 XUSP  |  Innovator Uncapped Accelerated U.S. Equity ETF  |    |    |    |    |  
 XVOL  |  Acruence Active Hedge U.S. Equity ETF  |    |    |    |    |  
-YDEC  |  FT Cboe Vest International Equity Buffer ETF - December  |    |    |    |    |  
-YJUN  |  FT Cboe Vest International Equity Buffer ETF – June  |    |    |    |    |  
-YMAR  |  FT Cboe Vest International Equity Buffer ETF - March  |    |    |    |    |  
-YSEP  |  FT Cboe Vest International Equity Buffer ETF - September  |    |    |    |    |  
 ZECP  |  Zacks Earnings Consistent Portfolio ETF  |    |    |    |    |  
 APRD  |  Innovator Etfs Trust - Premium Income 10 Barrier Etf - April  |    |    |    |    |  
 APRH  |  Innovator Premium Income 20 Barrier ETF - April  |    |    |    |    |  
@@ -1012,11 +918,6 @@ BBEM  |  J.P. Morgan Exchange-Traded Fund Trust - JPMorgan BetaBuilders Emerging
 BBIP  |  J.P. Morgan Exchange-Traded Fun  |    |    |    |    |  
 CAOS  |  EA Series Trust - Alpha Architect Tail Risk ETF  |    |    |    |    |  
 DOGG  |  First Trust Exchange-Traded Fund IV - FT Cboe Vest DJIA Dogs 10 Target Income ETF  |    |    |    |    |  
-GAPR  |  First Trust Exchange-Traded Fund VIII - FT Cboe Vest U.S. Equity Moderate Buffer ETF - April  |    |    |    |    |  
-GFEB  |  First Trust Exchange-Traded Fund VIII - FT Cboe Vest U.S. Equity Moderate Buffer ETF - February  |    |    |    |    |  
-GJUN  |  First Trust Exchange-Traded Fund VIII - FT Cboe Vest U.S. Equity Moderate Buffer ETF - June  |    |    |    |    |  
-GMAR  |  First Trust Exchange-Traded Fund VIII - FT Cboe Vest U.S. Equity Moderate Buffer ETF - March  |    |    |    |    |  
-GMAY  |  First Trust Exchange-Traded Fund VIII - FT Cboe Vest U.S. Equity Moderate Buffer ETF - May  |    |    |    |    |  
 HEAT  |  Touchstone ETF Trust - Touchstone Climate Transition ETF  |    |    |    |    |  
 IBHJ  |    |    |    |    |    |  
 IDUB  |  ETF Series Solutions - Aptus International Enhanced Yield ETF  |    |    |    |    |  
@@ -1026,11 +927,9 @@ KRUZ  |  Unusual Whales Subversive Republican Trading ETF  |    |    |    |    |
 NANC  |  Unusual Whales Subversive Democratic Trading ETF  |    |    |    |    |  
 RMIF  |  ETF Series Solutions - LHA Risk-Managed Income ETF  |    |    |    |    |  
 RSBT  |  Return Stacked Bonds & Managed Futures ETF  |    |    |    |    |  
-SMAY  |  FT Cboe Vest U.S. Small Cap Moderate Buffer ETF - May  |    |    |    |    |  
 SNAV  |  Collaborative Investment Series Trust - Mohr Sector Nav ETF  |    |    |    |    |  
 SUPP  |  Engine No. 1 Transform Supply Chain ETF  |    |    |    |    |  
 TOLL  |  Tema ETF Trust - Tema Monopolies and Oligopolies ETF  |    |    |    |    |  
-XMAR  |  First Trust Exchange Traded Fund VIII - Cboe Vest US Equity Enhance and Moderate Buffer ETF  |    |    |    |    |  
 ZIVB  |  Volatility Shares Trust - -1x Short VIX Mid-Term Futures Strategy ETF  |    |    |    |    |  
 FV  |  First Trust Dorsey Wright Focus 5 ETF  |    |    |    |    |  
 VR  |  Global X Metaverse ETF  |    |    |    |    |  
@@ -1068,13 +967,11 @@ FEX  |  First Trust Large Cap Core AlphaDEX Fund  |    |    |    |    |
 FGM  |  First Trust Germany AlphaDEX Fund  |    |    |    |    |  
 FHK  |  First Trust Hong Kong AlphaDEX Fund  |    |    |    |    |  
 FID  |  First Trust S&P International Dividend Aristocrats Fund  |    |    |    |    |  
-FJP  |  First Trust Japan AlphaDEX Fund  |    |    |    |    |  
 FKO  |  First Trust South Korea AlphaDEX Fund  |    |    |    |    |  
 FKU  |  First Trust United Kingdom AlphaDEX Fund  |    |    |    |    |  
 FLN  |  First Trust Latin America AlphaDEX Fund  |    |    |    |    |  
 FMB  |  First Trust Managed Municipal ETF  |    |    |    |    |  
 FNX  |  First Trust Mid Cap Core AlphaDEX Fund  |    |    |    |    |  
-FPA  |  First Trust Asia Pacific Ex-Japan AlphaDEX Fund  |    |    |    |    |  
 FSZ  |  First Trust Switzerland AlphaDEX Fund  |    |    |    |    |  
 FVC  |  First Trust Dorsey Wright Dynamic Focus 5 ETF  |    |    |    |    |  
 FYX  |  First Trust Small Cap Core AlphaDEX Fund  |    |    |    |    |  
@@ -1112,7 +1009,6 @@ WIZ  |  Alpha Architect Merlyn.AI Bull-Rider Bear-Fighter ETF  |    |    |    | 
 ZIV  |  VelocityShares Daily Inverse VIX Medium-Term ETN  |    |    |    |    |  
 AADR  |  AdvisorShares Dorsey Wright ADR ETF  |    |    |    |    |  
 AAPU  |  Direxion Daily AAPL Bull 1.5X Shares  |    |    |    |    |  
-AAXJ  |  iShares MSCI All Country Asia ex Japan ETF  |    |    |    |    |  
 ACWI  |  iShares MSCI ACWI ETF  |    |    |    |    |  
 ACWX  |  iShares MSCI ACWI ex U.S. ETF  |    |    |    |    |  
 ADRD  |  Invesco BLDRS Developed Markets 100 ADR Index Fund  |    |    |    |    |  
@@ -1184,7 +1080,6 @@ DWPP  |  First Trust Dorsey Wright People's Portfolio ETF  |    |    |    |    |
 DWSH  |  AdvisorShares Dorsey Wright Short ETF  |    |    |    |    |  
 DWUS  |  AdvisorShares Dorsey Wright FSM US Core ETF  |    |    |    |    |  
 DXGE  |  WisdomTree Germany Hedged Equity Fund  |    |    |    |    |  
-DXJS  |  WisdomTree Japan Hedged SmallCap Equity Fund  |    |    |    |    |  
 DYTA  |  SGI Dynamic Tactical ETF  |    |    |    |    |  
 EBIZ  |  Global X E-commerce ETF  |    |    |    |    |  
 EDOC  |  Global X Telemedicine & Digital Health ETF  |    |    |    |    |  
@@ -1206,7 +1101,6 @@ ETEC  |  iShares Trust - iShares Breakthrough Environmental Solutions ETF  |    
 EUFN  |  iShares MSCI Europe Financials ETF  |    |    |    |    |  
 EVMT  |  Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF  |    |    |    |    |  
 EWEB  |  Global X Emerging Markets Internet & E-commerce ETF  |    |    |    |    |  
-EWJE  |  iShares MSCI Japan Equal Weighted ETF  |    |    |    |    |  
 EWZS  |  iShares MSCI Brazil Small-Cap ETF  |    |    |    |    |  
 FAAR  |  First Trust Alternative Absolute Return Strategy ETF  |    |    |    |    |  
 FATT  |  Fat Tail Risk ETF  |    |    |    |    |  
@@ -1556,7 +1450,6 @@ DEM  |  WisdomTree Emerging Markets High Dividend Fund  |    |    |    |    |
 DES  |  WisdomTree U.S. SmallCap Dividend Fund  |    |    |    |    |  
 DEW  |  WisdomTree Global High Dividend Fund  |    |    |    |    |  
 DFE  |  WisdomTree Europe SmallCap Dividend Fund  |    |    |    |    |  
-DFJ  |  WisdomTree Japan SmallCap Dividend Fund  |    |    |    |    |  
 DGL  |  Invesco DB Gold Fund  |    |    |    |    |  
 DGP  |  DB Gold Double Long ETN  |    |    |    |    |  
 DGS  |  WisdomTree Emerging Markets SmallCap Dividend Fund  |    |    |    |    |  
@@ -1585,7 +1478,6 @@ DTN  |  WisdomTree U.S. Dividend ex-Financials Fund  |    |    |    |    |
 DTO  |  DB Crude Oil Double Short ETN  |    |    |    |    |  
 DWM  |  WisdomTree International Equity Fund  |    |    |    |    |  
 DWX  |  SPDR S&P International Dividend ETF  |    |    |    |    |  
-DXJ  |  WisdomTree Japan Hedged Equity Fund  |    |    |    |    |  
 DYY  |  DB Commodity Double Long ETN  |    |    |    |    |  
 DZZ  |  DB Gold Double Short ETN  |    |    |    |    |  
 EEB  |  Invesco BRIC ETF  |    |    |    |    |  
@@ -1599,7 +1491,6 @@ EIS  |  iShares MSCI Israel ETF  |    |    |    |    |
 ELD  |  WisdomTree Emerging Markets Local Debt Fund  |    |    |    |    |  
 EMM  |  Global X Funds - Global X Emerging Markets ETF  |    |    |    |    |  
 EPI  |  WisdomTree India Earnings Fund  |    |    |    |    |  
-EPP  |  iShares MSCI Pacific ex Japan ETF  |    |    |    |    |  
 EPS  |  WisdomTree U.S. Earnings 500 Fund  |    |    |    |    |  
 EPU  |  iShares MSCI Peru ETF  |    |    |    |    |  
 EQL  |  ALPS Equal Sector Weight ETF  |    |    |    |    |  
@@ -1612,7 +1503,6 @@ EWD  |  iShares MSCI Sweden ETF  |    |    |    |    |
 EWG  |  iShares MSCI Germany ETF  |    |    |    |    |  
 EWH  |  iShares MSCI Hong Kong ETF  |    |    |    |    |  
 EWI  |  iShares MSCI Italy ETF  |    |    |    |    |  
-EWJ  |  iShares MSCI Japan ETF  |    |    |    |    |  
 EWK  |  iShares MSCI Belgium ETF  |    |    |    |    |  
 EWL  |  iShares MSCI Switzerland ETF  |    |    |    |    |  
 EWM  |  iShares MSCI Malaysia ETF  |    |    |    |    |  
@@ -1630,7 +1520,6 @@ EWZ  |  iShares MSCI Brazil ETF  |    |    |    |    |
 EXI  |  iShares Global Industrials ETF  |    |    |    |    |  
 EXT  |  WisdomTree U.S. ESG Fund  |    |    |    |    |  
 EZA  |  iShares MSCI South Africa ETF  |    |    |    |    |  
-EZJ  |  ProShares Ultra MSCI Japan  |    |    |    |    |  
 EZM  |  WisdomTree U.S. MidCap Earnings Fund  |    |    |    |    |  
 FAN  |  First Trust Global Wind Energy ETF  |    |    |    |    |  
 FBT  |  First Trust NYSE Arca Biotechnology Index Fund  |    |    |    |    |  
@@ -1755,7 +1644,6 @@ JJU  |  iPath Series B Bloomberg Aluminum Subindex Total Return ETN  |    |    |
 JKD  |  iShares Morningstar U.S. Equity ETF  |    |    |    |    |  
 JKG  |  iShares Morningstar Mid-Cap ETF  |    |    |    |    |  
 JKJ  |  iShares Morningstar Small-Cap ETF  |    |    |    |    |  
-JPN  |  Xtrackers Japan JPX-Nikkei 400 Equity ETF  |    |    |    |    |  
 JRE  |  Janus Henderson U.S. Real Estate ETF  |    |    |    |    |  
 JXI  |  iShares Global Utilities ETF  |    |    |    |    |  
 JYN  |  iPath JPY/USD Exchange Rate ETN  |    |    |    |    |  
@@ -1874,7 +1762,6 @@ SAA  |  ProShares Ultra SmallCap600  |    |    |    |    |
 SBB  |  ProShares Short SmallCap600  |    |    |    |    |  
 SBM  |  ProShares Short Basic Materials  |    |    |    |    |  
 SBV  |  iPath® Pure Beta S&P GSCI®-Weighted ETN  |    |    |    |    |  
-SCJ  |  iShares MSCI Japan Small-Cap ETF  |    |    |    |    |  
 SDY  |  SPDR S&P Dividend ETF  |    |    |    |    |  
 SEA  |  U.S. Global Sea to Sky Cargo ETF  |    |    |    |    |  
 SEF  |  ProShares Short Financials  |    |    |    |    |  
@@ -2051,7 +1938,6 @@ AVSE  |  Avantis Responsible Emerging Markets Equity ETF  |    |    |    |    |
 AVSU  |  Avantis Responsible U.S. Equity ETF  |    |    |    |    |  
 AVUS  |  Avantis U.S. Equity ETF  |    |    |    |    |  
 AWAY  |  ETFMG Travel Tech ETF  |    |    |    |    |  
-AXJL  |  WisdomTree Asia Pacific ex-Japan Fund  |    |    |    |    |  
 AZAA  |  AllianzIM U.S. Large Cap Buffer10 Apr ETF  |    |    |    |    |  
 AZAJ  |  AllianzIM U.S. Large Cap Buffer10 Jan ETF  |    |    |    |    |  
 AZAL  |  AllianzIM U.S. Large Cap Buffer10 Jul ETF  |    |    |    |    |  
@@ -2191,7 +2077,6 @@ DBEM  |  Xtrackers MSCI Emerging Markets Hedged Equity ETF  |    |    |    |    
 DBEU  |  Xtrackers MSCI Europe Hedged Equity ETF  |    |    |    |    |  
 DBEZ  |  Xtrackers MSCI Eurozone Hedged Equity ETF  |    |    |    |    |  
 DBGR  |  Xtrackers MSCI Germany Hedged Equity ETF  |    |    |    |    |  
-DBJP  |  Xtrackers MSCI Japan Hedged Equity ETF  |    |    |    |    |  
 DBMF  |  iMGP DBi Managed Futures Strategy ETF  |    |    |    |    |  
 DBRT  |  Credit Suisse AG (Nassau Branch) Ltd.  |    |    |    |    |  
 DCMB  |  Doubleline Etf Trust - Commercial Real Estate ETF  |    |    |    |    |  
@@ -2245,7 +2130,6 @@ DYHG  |  Direxion Dynamic Hedge ETF  |    |    |    |    |
 DYLD  |  LeaderShares Dynamic Yield ETF  |    |    |    |    |  
 DYNF  |  BlackRock U.S. Equity Factor Rotation ETF  |    |    |    |    |  
 EAFD  |  Simplify Developed Ex-US PLUS Downside Convexity ETF  |    |    |    |    |  
-EAPR  |  Innovator MSCI Emerging Markets Power Buffer ETF - April  |    |    |    |    |  
 EASG  |  Xtrackers MSCI EAFE ESG Leaders Equity ETF  |    |    |    |    |  
 EATV  |  VegTech Plant-based Innovation & Climate ETF  |    |    |    |    |  
 EATZ  |  AdvisorShares Restaurant ETF  |    |    |    |    |  
@@ -2267,8 +2151,6 @@ EIDO  |  iShares MSCI Indonesia ETF  |    |    |    |    |
 EINC  |  VanEck Energy Income ETF  |    |    |    |    |  
 EIPX  |  FT Energy Income Partners Strategy ETF  |    |    |    |    |  
 EIRL  |  iShares MSCI Ireland ETF  |    |    |    |    |  
-EJAN  |  Innovator Emerging Markets Power Buffer ETF - January  |    |    |    |    |  
-EJUL  |  Innovator MSCI Emerging Markets Power Buffer ETF - July  |    |    |    |    |  
 EKAR  |  Capital Link Global Green Energy Transport & Technology Leaders ETF  |    |    |    |    |  
 EMCR  |  Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF  |    |    |    |    |  
 EMDM  |  First Trust Exchange-Traded Fun  |    |    |    |    |  
@@ -2283,7 +2165,6 @@ EMSG  |  Xtrackers MSCI Emerging Markets ESG Leaders Equity ETF  |    |    |    
 EMTY  |  ProShares Decline of the Retail Store ETF  |    |    |    |    |  
 ENFR  |  Alerian Energy Infrastructure ETF  |    |    |    |    |  
 ENTR  |  ERShares Entrepreneur ETF  |    |    |    |    |  
-EOCT  |  Innovator Emerging Markets Power Buffer ETF - October  |    |    |    |    |  
 EPHE  |  iShares MSCI Philippines ETF  |    |    |    |    |  
 EPOL  |  iShares MSCI Poland ETF  |    |    |    |    |  
 EPRE  |  First Trust TCW ESG Premier Equity ETF  |    |    |    |    |  
@@ -2355,7 +2236,6 @@ FINZ  |  ProShares UltraPro Short Financial Select Sector  |    |    |    |    |
 FITE  |  SPDR S&P Kensho Future Security ETF  |    |    |    |    |  
 FIVG  |  Defiance 5G Next Gen Connectivity ETF  |    |    |    |    |  
 FLAU  |  Franklin FTSE Australia ETF  |    |    |    |    |  
-FLAX  |  Franklin FTSE Asia ex Japan ETF  |    |    |    |    |  
 FLBR  |  Franklin FTSE Brazil ETF  |    |    |    |    |  
 FLCA  |  Franklin FTSE Canada ETF  |    |    |    |    |  
 FLCO  |  Franklin Investment Grade Corporate ETF  |    |    |    |    |  
@@ -2369,8 +2249,6 @@ FLHK  |  Franklin FTSE Hong Kong ETF  |    |    |    |    |
 FLIN  |  Franklin FTSE India ETF  |    |    |    |    |  
 FLIO  |  Franklin Liberty International Opportunities ETF  |    |    |    |    |  
 FLIY  |  Franklin FTSE Italy ETF  |    |    |    |    |  
-FLJH  |  Franklin FTSE Japan Hedged ETF  |    |    |    |    |  
-FLJP  |  Franklin FTSE Japan ETF  |    |    |    |    |  
 FLKR  |  Franklin FTSE South Korea ETF  |    |    |    |    |  
 FLLA  |  Franklin FTSE Latin America ETF  |    |    |    |    |  
 FLMX  |  Franklin FTSE Mexico ETF  |    |    |    |    |  
@@ -2461,7 +2339,6 @@ GRWN  |  iPath® Pure Beta Softs ETN  |    |    |    |    |
 GSEU  |  Goldman Sachs ActiveBeta Europe Equity ETF  |    |    |    |    |  
 GSFP  |  Goldman Sachs Future Planet Equity ETF  |    |    |    |    |  
 GSIE  |  Goldman Sachs ActiveBeta International Equity ETF  |    |    |    |    |  
-GSJY  |  Goldman Sachs ActiveBeta Japan Equity ETF  |    |    |    |    |  
 GSLC  |  Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF  |    |    |    |    |  
 GSPY  |  Gotham Enhanced 500 ETF  |    |    |    |    |  
 GSSC  |  Goldman Sachs ActiveBeta U.S. Small Cap Equity ETF  |    |    |    |    |  
@@ -2496,7 +2373,6 @@ HEQT  |  Simplify Hedged Equity ETF  |    |    |    |    |
 HEVY  |  iPath® Pure Beta Industrial Metals ETN  |    |    |    |    |  
 HEWC  |  iShares Currency Hedged MSCI Canada ETF  |    |    |    |    |  
 HEWI  |  iShares Currency Hedged MSCI Italy ETF  |    |    |    |    |  
-HEWJ  |  iShares Currency Hedged MSCI Japan ETF  |    |    |    |    |  
 HEWL  |  iShares Currency Hedged MSCI Switzerland ETF  |    |    |    |    |  
 HEWP  |  iShares Currency Hedged MSCI Spain ETF  |    |    |    |    |  
 HEWU  |  iShares Currency Hedged MSCI United Kingdom ETF  |    |    |    |    |  
@@ -2506,7 +2382,6 @@ HEZU  |  iShares Currency Hedged MSCI Eurozone ETF  |    |    |    |    |
 HFND  |  Unlimited HFND Multi-Strategy Return Tracker ETF  |    |    |    |    |  
 HFXE  |  IQ 50 Percent Hedged FTSE Europe ETF  |    |    |    |    |  
 HFXI  |  IQ 50 Percent Hedged FTSE International ETF  |    |    |    |    |  
-HFXJ  |  IQ 50 Percent Hedged FTSE Japan ETF  |    |    |    |    |  
 HGER  |  Harbor All-Weather Inflation Focus ETF  |    |    |    |    |  
 HIDV  |  AB Active ETFs, Inc. AB US High  |    |    |    |    |  
 HIGH  |  Simplify Enhanced Income ETF  |    |    |    |    |  
@@ -2526,7 +2401,6 @@ HTEC  |  Robo Global Healthcare Technology and Innovation ETF  |    |    |    | 
 HTUS  |  Hull Tactical US ETF  |    |    |    |    |  
 HUSE  |  Strategy Shares US Market Rotation Strategy ETF  |    |    |    |    |  
 HUSV  |  First Trust Horizon Managed Volatility Domestic ETF  |    |    |    |    |  
-IAPR  |  Innovator MSCI EAFE Power Buffer ETF - April  |    |    |    |    |  
 IAUM  |  iShares Gold Trust Micro  |    |    |    |    |  
 IBCD  |  iShares iBonds Mar 2020 Term Corporate ex-Financials ETF  |    |    |    |    |  
 IBCE  |  iShares iBonds Mar 2023 Term Corporate ex-Financials ETF  |    |    |    |    |  
@@ -2567,8 +2441,6 @@ IGTR  |  Innovator Gradient Tactical Rotation Strategy ETF  |    |    |    |    
 IHAK  |  iShares Cybersecurity and Tech ETF  |    |    |    |    |  
 IHYD  |  Invesco Corporate Income Defensive ETF  |    |    |    |    |  
 IIGD  |  Invesco Investment Grade Defensive ETF  |    |    |    |    |  
-IJAN  |  Innovator International Developed Power Buffer ETF - January  |    |    |    |    |  
-IJUL  |  Innovator MSCI EAFE Power Buffer ETF - July  |    |    |    |    |  
 ILCB  |  iShares Morningstar U.S. Equity ETF  |    |    |    |    |  
 ILDR  |  First Trust Innovation Leaders ETF  |    |    |    |    |  
 IMCB  |  iShares Morningstar Mid-Cap ETF  |    |    |    |    |  
@@ -2581,7 +2453,6 @@ INKM  |  SPDR SSgA Income Allocation ETF  |    |    |    |    |
 INNO  |  Harbor Disruptive Innovation ETF  |    |    |    |    |  
 INQQ  |  India Internet & Ecommerce ETF  |    |    |    |    |  
 INTF  |  iShares International Equity Factor ETF  |    |    |    |    |  
-IOCT  |  Innovator International Developed Power Buffer ETF- October  |    |    |    |    |  
 IPAC  |  iShares Core MSCI Pacific ETF  |    |    |    |    |  
 IPAY  |  ETFMG Prime Mobile Payments ETF  |    |    |    |    |  
 IPOS  |  Renaissance International IPO ETF  |    |    |    |    |  
@@ -2961,10 +2832,8 @@ SCHX  |  Schwab U.S. Large-Cap ETF  |    |    |    |    |
 SCHY  |  Schwab International Dividend Equity ETF  |    |    |    |    |  
 SCID  |  Global X Scientific Beta Europe ETF  |    |    |    |    |  
 SCIF  |  VanEck Vectors India Small-Cap Index ETF  |    |    |    |    |  
-SCIJ  |  Global X Scientific Beta Japan ETF  |    |    |    |    |  
 SCIN  |  Columbia India Small Cap ETF  |    |    |    |    |  
 SCIU  |  Global X Scientific Beta US ETF  |    |    |    |    |  
-SCIX  |  Global X Scientific Beta Asia ex-Japan ETF  |    |    |    |    |  
 SCOM  |  ProShares UltraPro Short Communication Services Select Sector  |    |    |    |    |  
 SDAG  |  IQ Short Duration Enhanced Core Bond U.S. ETF  |    |    |    |    |  
 SDCI  |  USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund  |    |    |    |    |  
@@ -3224,7 +3093,6 @@ ZDEU  |  SPDR Solactive Germany ETF  |    |    |    |    |
 ZGBR  |  SPDR Solactive United Kingdom ETF  |    |    |    |    |  
 ZHDG  |  ZEGA Buy and Hedge ETF  |    |    |    |    |  
 ZHOK  |  SPDR Solactive Hong Kong ETF  |    |    |    |    |  
-ZJPN  |  SPDR Solactive Japan ETF  |    |    |    |    |  
 ZMLP  |  Direxion Zacks MLP High Income Index Shares  |    |    |    |    |  
 ZSPY  |  ASYMmetric Smart Alpha S&P 500 ETF  |    |    |    |    |  
 ZTAX  |  X-Square Series Trust - X-Square Municipal Income Tax Free ETF  |    |    |    |    |  

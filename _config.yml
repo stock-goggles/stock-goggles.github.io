@@ -9,5 +9,11 @@ url: "https://stock-goggles.github.io"
 
 theme: minima
 
+include:
+  - _stocks
+
 plugins:
   - jemoji
+
+collections:
+  - stocks
